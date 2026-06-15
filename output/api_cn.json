@@ -1,0 +1,16 @@
+[
+  {
+    "channel": "NeiMonggolTV.cn",
+    "feed": "SD",
+    "title": "Nei Monggol TV",
+    "url": "https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8",
+    "quality": "960p",
+    "label": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null,
+    "delay": 267,
+    "speed_kbs": 27261,
+    "resolution": "1080p HD",
+    "status": "active"
+  }
+]
