@@ -1,0 +1,35 @@
+name: Global IPTV SpeedTest Engine
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # 每 12 小时全自动运行测速清洗大洗牌一次
+  workflow_dispatch:      # 支持你在 GitHub 网页后台手动点击按钮运行
+
+jobs:
+  build-and-clean:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 📥 检出当前仓库代码
+      uses: actions/checkout@v3
+
+    - name: 🐍 部署 Python 生产环境
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: 📦 安装高性能网络依赖
+      run: |
+        python -m pip install --upgrade pip
+        pip install aiohttp
+
+    - name: ⚡ 运行 Python 异步测速大坝
+      run: python main.py
+
+    - name: 🚀 将最新的纯净多国 JSON 矩阵推送到发布层
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add output/*.json
+        git commit -m "Update Global Pure Live Source Matrix [Automated]" || exit 0
+        git push
