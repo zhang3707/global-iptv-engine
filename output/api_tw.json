@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "channel": "TVBSAsia.tw",
+    "title": "TVBSAsia",
+    "url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 128,
+    "speed_kbs": 35650,
+    "resolution": "1080p",
+    "last_test": 1781540743.2618718
+  },
+  {
+    "channel": "SupremeMasterTV.tw",
+    "title": "SupremeMasterTV",
+    "url": "https://lbs-us1.suprememastertv.com/720p.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 528,
+    "speed_kbs": 9249,
+    "resolution": "1080p",
+    "last_test": 1781540742.056951
+  },
+  {
+    "channel": "CGNTVChinese.tw",
+    "title": "CGNTVChinese",
+    "url": "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 653,
+    "speed_kbs": 55149,
+    "resolution": "1080p",
+    "last_test": 1781540729.6022851
+  },
+  {
+    "channel": "DaliTV.tw",
+    "title": "DaliTV",
+    "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 663,
+    "speed_kbs": 117282,
+    "resolution": "1080p",
+    "last_test": 1781540730.6513052
+  },
+  {
+    "channel": "GoodTV.tw",
+    "title": "GoodTV",
+    "url": "https://live.streamingfast.net/osmflivech1.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 823,
+    "speed_kbs": 67704,
+    "resolution": "1080p",
+    "last_test": 1781540732.9046712
+  },
+  {
+    "channel": "Good2.tw",
+    "title": "Good2",
+    "url": "https://live.streamingfast.net/osmflivech2.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 836,
+    "speed_kbs": 54808,
+    "resolution": "1080p",
+    "last_test": 1781540732.8964715
+  },
+  {
+    "channel": "BeautifulLifeTV.tw",
+    "title": "BeautifulLifeTV",
+    "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 840,
+    "speed_kbs": 14131,
+    "resolution": "1080p",
+    "last_test": 1781540728.5043547
+  },
+  {
+    "channel": "WXTV.tw",
+    "title": "WXTV",
+    "url": "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 1198,
+    "speed_kbs": 13721,
+    "resolution": "1080p",
+    "last_test": 1781540745.8906896
+  }
+]

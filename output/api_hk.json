@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "channel": "NewsWorld.hk",
+    "title": "NewsWorld",
+    "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 254,
+    "speed_kbs": 26518,
+    "resolution": "1080p",
+    "last_test": 1781540738.3856623
+  },
+  {
+    "channel": "RTHKTV31.hk",
+    "title": "RTHKTV31",
+    "url": "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 304,
+    "speed_kbs": 52617,
+    "resolution": "1080p",
+    "last_test": 1781540740.8284144
+  },
+  {
+    "channel": "RTHKTV31.hk",
+    "title": "RTHKTV31",
+    "url": "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 307,
+    "speed_kbs": 85504,
+    "resolution": "1080p",
+    "last_test": 1781540740.828472
+  },
+  {
+    "channel": "PetClubTV.hk",
+    "title": "PetClubTV",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 664,
+    "speed_kbs": 340319,
+    "resolution": "1080p",
+    "last_test": 1781540740.0719547
+  },
+  {
+    "channel": "PetClubTV.hk",
+    "title": "PetClubTV",
+    "url": "https://petclub-samsungaus.amagi.tv/playlist.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 949,
+    "speed_kbs": 6889,
+    "resolution": "1080p",
+    "last_test": 1781540740.353767
+  }
+]
