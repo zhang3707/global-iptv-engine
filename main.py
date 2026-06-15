@@ -3,18 +3,17 @@ import aiohttp
 import time
 import json
 import os
-import csv
-import io
 
 # =========================================================================
-# ⚙️ 工业级配置面板：多级漏斗增量大坝（标准 CSV 解析版）
+# ⚙️ 工业级配置面板：官方真理节点·多级漏斗增量大坝
 # =========================================================================
 MAX_CONCURRENT_TASKS = 50     # 粗筛并发
 TIMEOUT_FAST = 2.0            # ⚡ 粗筛超时：2秒不回应直接判定为死链
 TIMEOUT_DEEP = 5.0            # ⏱️ 精测超时：5秒给跨境流握手
 RE_TEST_DAYS = 3              # 🔄 查重机制：3天内测过的活台直接沿用
 
-RAW_STREAMS_URL = "https://raw.githubusercontent.com/iptv-org/database/master/data/streams.csv"
+# 💥 修正：直接调取官方 Pages 的全量结构化流媒体大池子（100% 存在，绝不报 404）
+STREAMS_API_URL = "https://iptv-org.github.io/api/streams.json"
 DB_FILE = "database.json"     # 💾 本地状态数据库
 OUTPUT_DIR = "output"
 
@@ -113,25 +112,21 @@ async def main():
 
     all_raw = []
     async with aiohttp.ClientSession() as session:
-        print("📡 正在全量并网官方物理明文 CSV 数据库...")
+        print("📡 正在全量并网官方真理 JSON 数据库...")
         try:
-            async with session.get(RAW_STREAMS_URL, timeout=30) as resp:
+            async with session.get(STREAMS_API_URL, timeout=30) as resp:
                 if resp.status != 200:
                     print(f"❌ 抓取失败，状态码: {resp.status}")
                     return
                 
-                # 💥 工业级核心重构：将文本流喂给标准 csv 解析器，规避逗号错位地雷
-                csv_text = await resp.text()
-                f = io.StringIO(csv_text)
-                reader = csv.reader(f)
+                # 直接获取结构化好的纯净 JSON 数组
+                raw_json = await resp.json()
                 
-                # 跳过表头 (channel, url, user_agent, referrer, ...)
-                header = next(reader)
-                
-                for row in reader:
-                    if len(row) < 2: continue
-                    channel = row[0].strip()
-                    url = row[1].strip()
+                for item in raw_json:
+                    channel = item.get("channel", "").strip()
+                    url = item.get("url", "").strip()
+                    
+                    if not channel or not url: continue
                     
                     if "." in channel:
                         suffix = channel.split(".")[-1].upper()
@@ -140,8 +135,8 @@ async def main():
                                 "channel": channel,
                                 "title": channel.split(".")[0],
                                 "url": url,
-                                "user_agent": row[2].strip() if len(row) > 2 and row[2].strip() else "Mozilla/5.0",
-                                "referrer": row[3].strip() if len(row) > 3 and row[3].strip() else None
+                                "user_agent": item.get("user_agent", "Mozilla/5.0").strip(),
+                                "referrer": item.get("referrer")
                             })
         except Exception as e:
             print(f"❌ 运行期网络中断: {e}")
@@ -149,7 +144,7 @@ async def main():
 
     print(f"📊 数据库解析完毕！成功锁定全球核心候选流: {len(all_raw)} 条。开始第一级【漏斗粗筛】...")
     if not all_raw:
-        print("⚠️ 候选池为空，请检查上游数据源结构是否变动。")
+        print("⚠️ 候选池为空。")
         return
 
     # 2. 批量执行第一级粗筛
@@ -184,7 +179,7 @@ async def main():
             json.dump(streams, f, ensure_ascii=False, indent=2)
         print(f"💾 【{GLOBAL_COUNTRIES[country]}】 最终产出全活秒开台: {len(streams)} 个 -> {output_path}")
 
-    print(f"🎉 真正的全量全球化大坝清洗完毕！总耗时: {round(time.time() - start_all, 2)} 秒")
+    print(f"🎉 真正的全球版流媒体清洗大坝全面通车！总耗时: {round(time.time() - start_all, 2)} 秒")
 
 if __name__ == "__main__":
     asyncio.run(main())
