@@ -13,7 +13,7 @@ jobs:
     - name: 📥 检出当前仓库代码
       uses: actions/checkout@v3
       with:
-        fetch-depth: 1 # 👈 优化：只拉取最新一层，不要历史包袱，防仓库膨胀
+        fetch-depth: 1 # 👈 降维打击：只拉取最新 1 层，不加载任何历史包袱，彻底防止数据膨胀
 
     - name: 🐍 部署 Python 生产环境
       uses: actions/setup-python@v4
@@ -33,11 +33,11 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        # 💥 关键动作：把新生成的 output/*.json 和最新的缓存库 database.json 全部强制暂存
+        # 💥 关键动作：强制暂存新生成的 output/ 文件夹和最新的增量数据库 database.json
         git add database.json output/*.json || true
         
         # 提交。如果没有数据变动，直接安全退出
         git commit -m "Update Global Pure Live Source Matrix [Automated]" || exit 0
         
-        # 🔥 降维打击：放弃复杂的 rebase/merge，直接强行（-f）把虚拟机在内存里洗好的完美版本推向远程主分支！
+        # 🔥 终极通车：放弃容易卡死的 rebase/pull，直接强制 (-f) 把虚拟机内存里洗好的完美版本推向远程主分支！
         git push -f origin main
