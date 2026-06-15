@@ -1,0 +1,786 @@
+[
+  {
+    "title": "Equidia (1080p)",
+    "channel": "Equidia (1080p).fr",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8",
+    "delay": 10,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CNews (1080p) [Geo-blocked]",
+    "channel": "CNews (1080p) [Geo-blocked].fr",
+    "url": "https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8",
+    "delay": 12,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "T18 (1080p)",
+    "channel": "T18 (1080p).fr",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8",
+    "delay": 40,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Motorvision.tv (French)",
+    "channel": "Motorvision.tv (French).fr",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047",
+    "delay": 42,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "France 5 (1080p)",
+    "channel": "France 5 (1080p).fr",
+    "url": "http://69.64.57.208/france5/mono.m3u8",
+    "delay": 68,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Nickelodeon (1080p)",
+    "channel": "Nickelodeon (1080p).fr",
+    "url": "http://151.80.18.177:86/Nickelodeon_FR/index.m3u8",
+    "delay": 87,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "France 2 (1080p)",
+    "channel": "France 2 (1080p).fr",
+    "url": "http://69.64.57.208/france2/mono.m3u8",
+    "delay": 91,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Zylo Ciné Western (1080p)",
+    "channel": "Zylo Ciné Western (1080p).fr",
+    "url": "https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8",
+    "delay": 111,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Zylo Fréquence Novelas (1080p)",
+    "channel": "Zylo Fréquence Novelas (1080p).fr",
+    "url": "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8",
+    "delay": 140,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "20 Minutes TV (1080p)",
+    "channel": "20 Minutes TV (1080p).fr",
+    "url": "https://live-20minutestv.digiteka.com/1961167769/index.m3u8",
+    "delay": 151,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Euronews French (720p)",
+    "channel": "Euronews French (720p).fr",
+    "url": "https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8",
+    "delay": 168,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Disney Jr. (1080p)",
+    "channel": "Disney Jr. (1080p).fr",
+    "url": "http://151.80.18.177:86/Disney_Junior_HD/index.m3u8",
+    "delay": 180,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "FIFA+ French (720p)",
+    "channel": "FIFA+ French (720p).fr",
+    "url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
+    "delay": 180,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Nickelodeon Junior (1080p)",
+    "channel": "Nickelodeon Junior (1080p).fr",
+    "url": "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8",
+    "delay": 195,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Puissance TV",
+    "channel": "Puissance TV.fr",
+    "url": "https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8",
+    "delay": 210,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TRACE Brazuca (1080p)",
+    "channel": "TRACE Brazuca (1080p).fr",
+    "url": "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8",
+    "delay": 220,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "France 24 French (1080p)",
+    "channel": "France 24 French (1080p).fr",
+    "url": "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8",
+    "delay": 223,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "MyZen TV (1080p)",
+    "channel": "MyZen TV (1080p).fr",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8",
+    "delay": 224,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TV Monaco (1080p)",
+    "channel": "TV Monaco (1080p).fr",
+    "url": "https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8",
+    "delay": 238,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Zylo ScreamIN (1080p)",
+    "channel": "Zylo ScreamIN (1080p).fr",
+    "url": "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8",
+    "delay": 248,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Banijay Mr Bean Animé (1080p)",
+    "channel": "Banijay Mr Bean Animé (1080p).fr",
+    "url": "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8",
+    "delay": 258,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Qwest TV Jazz & Beyond (1080p)",
+    "channel": "Qwest TV Jazz & Beyond (1080p).fr",
+    "url": "https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8",
+    "delay": 282,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Zylo Emotion' L (1080p)",
+    "channel": "Zylo Emotion' L (1080p).fr",
+    "url": "https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8",
+    "delay": 288,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "FashionTV Secrets (1080p)",
+    "channel": "FashionTV Secrets (1080p).fr",
+    "url": "https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1",
+    "delay": 296,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Le Figaro IDF (1080p)",
+    "channel": "Le Figaro IDF (1080p).fr",
+    "url": "https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8",
+    "delay": 300,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Nature Time France (1080p)",
+    "channel": "Nature Time France (1080p).fr",
+    "url": "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8",
+    "delay": 301,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Sony One Hits Comedie (1080p)",
+    "channel": "Sony One Hits Comedie (1080p).fr",
+    "url": "https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8",
+    "delay": 306,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "KOZOOM TV (1080p)",
+    "channel": "KOZOOM TV (1080p).fr",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8?ads.vf=CAJPqH6STD0",
+    "delay": 313,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Sony One Favoris (1080p)",
+    "channel": "Sony One Favoris (1080p).fr",
+    "url": "https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8",
+    "delay": 313,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Sony One Series Thriller (1080p)",
+    "channel": "Sony One Series Thriller (1080p).fr",
+    "url": "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8",
+    "delay": 323,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Sony One Blacklist (1080p)",
+    "channel": "Sony One Blacklist (1080p).fr",
+    "url": "https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8",
+    "delay": 324,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Littoral FM (720p)",
+    "channel": "Littoral FM (720p).fr",
+    "url": "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8",
+    "delay": 332,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Zee One Français (720p)",
+    "channel": "Zee One Français (720p).fr",
+    "url": "https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8",
+    "delay": 344,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Trace Gospel (1080p)",
+    "channel": "Trace Gospel (1080p).fr",
+    "url": "https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8",
+    "delay": 346,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Alerte à Malibu",
+    "channel": "Alerte à Malibu.fr",
+    "url": "https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8",
+    "delay": 353,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Sony One Series Comedie (1080p)",
+    "channel": "Sony One Series Comedie (1080p).fr",
+    "url": "https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8",
+    "delay": 359,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "MDL (720p)",
+    "channel": "MDL (720p).fr",
+    "url": "http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8",
+    "delay": 360,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "zenith (1080p)",
+    "channel": "zenith (1080p).fr",
+    "url": "https://live.azenagroup.com/zenith/index.ll.m3u8",
+    "delay": 369,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Trace Latina (1080p)",
+    "channel": "Trace Latina (1080p).fr",
+    "url": "https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8",
+    "delay": 370,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TV5Monde Style (1080p) [Geo-blocked]",
+    "channel": "TV5Monde Style (1080p) [Geo-blocked].fr",
+    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8",
+    "delay": 370,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Trace Urban (Australia) (1080p)",
+    "channel": "Trace Urban (Australia) (1080p).fr",
+    "url": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
+    "delay": 374,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Zylo Ciné Nanar (1080p)",
+    "channel": "Zylo Ciné Nanar (1080p).fr",
+    "url": "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8",
+    "delay": 383,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Sony One Hits Action (1080p)",
+    "channel": "Sony One Hits Action (1080p).fr",
+    "url": "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8",
+    "delay": 416,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "ADN TV+ (720p)",
+    "channel": "ADN TV+ (720p).fr",
+    "url": "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8",
+    "delay": 420,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Gong (1080p)",
+    "channel": "Gong (1080p).fr",
+    "url": "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8",
+    "delay": 432,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "My Gospel TV",
+    "channel": "My Gospel TV.fr",
+    "url": "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8",
+    "delay": 441,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "HANDICAP TV France",
+    "channel": "HANDICAP TV France.fr",
+    "url": "https://srv.webtvmanager.fr:3697/stream/play.m3u8",
+    "delay": 494,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Clubbing TV France",
+    "channel": "Clubbing TV France.fr",
+    "url": "https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8",
+    "delay": 500,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Trace Sport Stars (Australia) (1080p)",
+    "channel": "Trace Sport Stars (Australia) (1080p).fr",
+    "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
+    "delay": 507,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "P2M TV (720p)",
+    "channel": "P2M TV (720p).fr",
+    "url": "https://vdo2.pro-fhi.net:3207/stream/play.m3u8",
+    "delay": 508,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Cannes Lérins TV (1080p)",
+    "channel": "Cannes Lérins TV (1080p).fr",
+    "url": "https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8",
+    "delay": 520,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "BFM2 (1080p)",
+    "channel": "BFM2 (1080p).fr",
+    "url": "https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8",
+    "delay": 527,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Caillou",
+    "channel": "Caillou.fr",
+    "url": "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8",
+    "delay": 527,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Trace Brasil (1080p)",
+    "channel": "Trace Brasil (1080p).fr",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8",
+    "delay": 535,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "RFM TV [Not 24/7]",
+    "channel": "RFM TV [Not 24/7].fr",
+    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8",
+    "delay": 557,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TV3V (720p)",
+    "channel": "TV3V (720p).fr",
+    "url": "https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8",
+    "delay": 559,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Vosges Télévision (576p) [Not 24/7]",
+    "channel": "Vosges Télévision (576p) [Not 24/7].fr",
+    "url": "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8",
+    "delay": 570,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Zylo Into Crime (1080p)",
+    "channel": "Zylo Into Crime (1080p).fr",
+    "url": "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8",
+    "delay": 577,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Novo Comedy (720p)",
+    "channel": "Novo Comedy (720p).fr",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/novo-comedy/video.m3u8?ads.vf=CMRSFvusYbe",
+    "delay": 584,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "ViàMatélé (1080p)",
+    "channel": "ViàMatélé (1080p).fr",
+    "url": "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8",
+    "delay": 611,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "TV7 Colmar (576p)",
+    "channel": "TV7 Colmar (576p).fr",
+    "url": "https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8",
+    "delay": 621,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Monte Carlo Digital Television (1080p)",
+    "channel": "Monte Carlo Digital Television (1080p).fr",
+    "url": "https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8",
+    "delay": 622,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "FashionTV Paris L'Original (1080p)",
+    "channel": "FashionTV Paris L'Original (1080p).fr",
+    "url": "https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8",
+    "delay": 685,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Wild Side TV",
+    "channel": "Wild Side TV.fr",
+    "url": "https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8",
+    "delay": 705,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "South Park",
+    "channel": "South Park.fr",
+    "url": "https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8",
+    "delay": 708,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Tortues Ninja TV (720p)",
+    "channel": "Tortues Ninja TV (720p).fr",
+    "url": "https://jmp2.uk/plu-62e9566e27ce19000732ec85.m3u8",
+    "delay": 714,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Alpe d’Huez TV (720p) [Not 24/7]",
+    "channel": "Alpe d’Huez TV (720p) [Not 24/7].fr",
+    "url": "https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8",
+    "delay": 715,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Walker Texas Ranger",
+    "channel": "Walker Texas Ranger.fr",
+    "url": "https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8",
+    "delay": 734,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Animaux",
+    "channel": "Pluto TV Animaux.fr",
+    "url": "https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8",
+    "delay": 736,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Detective Conan France (720p)",
+    "channel": "Detective Conan France (720p).fr",
+    "url": "https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8",
+    "delay": 739,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Dossiers FBI",
+    "channel": "Dossiers FBI.fr",
+    "url": "https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8",
+    "delay": 739,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Cuisine",
+    "channel": "Pluto TV Cuisine.fr",
+    "url": "https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8",
+    "delay": 739,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Polar",
+    "channel": "Pluto TV Polar.fr",
+    "url": "https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8",
+    "delay": 750,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Histoire (720p)",
+    "channel": "Pluto TV Histoire (720p).fr",
+    "url": "https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8",
+    "delay": 753,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "One Piece",
+    "channel": "One Piece.fr",
+    "url": "https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8",
+    "delay": 756,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Nickelodeon Teen (720p)",
+    "channel": "Nickelodeon Teen (720p).fr",
+    "url": "https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8",
+    "delay": 758,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Are You The One?",
+    "channel": "Are You The One?.fr",
+    "url": "https://jmp2.uk/plu-61c091c39863900007ac9e8f.m3u8",
+    "delay": 774,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Inazuma Eleven",
+    "channel": "Inazuma Eleven.fr",
+    "url": "https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8",
+    "delay": 778,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Investigation",
+    "channel": "Pluto TV Investigation.fr",
+    "url": "https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8",
+    "delay": 781,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Comédie",
+    "channel": "Pluto TV Comédie.fr",
+    "url": "https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8",
+    "delay": 782,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Les Années fac",
+    "channel": "Les Années fac.fr",
+    "url": "https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8",
+    "delay": 788,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Les filles d'à côté",
+    "channel": "Les filles d'à côté.fr",
+    "url": "https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8",
+    "delay": 790,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Louis La Brocante",
+    "channel": "Louis La Brocante.fr",
+    "url": "https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8",
+    "delay": 792,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Brionnais TV (720p)",
+    "channel": "Brionnais TV (720p).fr",
+    "url": "https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8",
+    "delay": 793,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "BET Classics",
+    "channel": "BET Classics.fr",
+    "url": "https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8",
+    "delay": 806,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Le miracle de l'amour",
+    "channel": "Le miracle de l'amour.fr",
+    "url": "https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8",
+    "delay": 816,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Les Nouveaux Detectives",
+    "channel": "Les Nouveaux Detectives.fr",
+    "url": "https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8",
+    "delay": 819,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Africa 24 English (1080p)",
+    "channel": "Africa 24 English (1080p).fr",
+    "url": "https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8",
+    "delay": 851,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Generations TV (576p)",
+    "channel": "Generations TV (576p).fr",
+    "url": "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8",
+    "delay": 854,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Hélène et les garçons",
+    "channel": "Hélène et les garçons.fr",
+    "url": "https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8",
+    "delay": 883,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Voyages & Saveurs (720p)",
+    "channel": "Voyages & Saveurs (720p).fr",
+    "url": "https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8",
+    "delay": 921,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Bob l'éponge (720p)",
+    "channel": "Bob l'éponge (720p).fr",
+    "url": "https://jmp2.uk/plu-66588931a3865300085ca800.m3u8",
+    "delay": 927,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "DBM TV (1080p)",
+    "channel": "DBM TV (1080p).fr",
+    "url": "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8",
+    "delay": 1327,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Y'a que la vérité qui compte",
+    "channel": "Y'a que la vérité qui compte.fr",
+    "url": "https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8",
+    "delay": 1336,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Africa 24 (1080p)",
+    "channel": "Africa 24 (1080p).fr",
+    "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8",
+    "delay": 1663,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Africa 24 Sport (1080p)",
+    "channel": "Africa 24 Sport (1080p).fr",
+    "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
+    "delay": 1701,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Canal 32 (1080p)",
+    "channel": "Canal 32 (1080p).fr",
+    "url": "https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8",
+    "delay": 1764,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Antenne Réunion (720p) [Not 24/7]",
+    "channel": "Antenne Réunion (720p) [Not 24/7].fr",
+    "url": "https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01",
+    "delay": 3355,
+    "resolution": "1080p HD",
+    "status": "active"
+  }
+]

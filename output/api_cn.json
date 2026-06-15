@@ -1,58 +1,442 @@
 [
   {
-    "title": "浙江民生",
-    "channel": "Sub.浙江民生.cn",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
-    "delay": 1397,
-    "resolution": "1080p HD"
+    "title": "CCTV-15 (1080p)",
+    "channel": "CCTV-15 (1080p).cn",
+    "url": "https://xykt-fix.github.io/play/a02e/index.m3u8",
+    "delay": 48,
+    "resolution": "720p",
+    "status": "active"
   },
   {
-    "title": "浙江经济",
-    "channel": "Sub.浙江经济.cn",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
-    "delay": 1400,
-    "resolution": "1080p HD"
+    "title": "CCTV-9 (576i)",
+    "channel": "CCTV-9 (576i).cn",
+    "url": "https://xykt-fix.github.io/Y77.m3u8",
+    "delay": 59,
+    "resolution": "720p",
+    "status": "active"
   },
   {
-    "title": "浙江教科",
-    "channel": "Sub.浙江教科.cn",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
-    "delay": 1404,
-    "resolution": "1080p HD"
+    "title": "CCTV-1 (1080p)",
+    "channel": "CCTV-1 (1080p).cn",
+    "url": "http://69.30.245.50/live/cctv1.m3u8",
+    "delay": 78,
+    "resolution": "720p",
+    "status": "active"
   },
   {
-    "title": "浙江新闻",
-    "channel": "Sub.浙江新闻.cn",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
-    "delay": 1406,
-    "resolution": "1080p HD"
+    "title": "CCTV-4K (1080p)",
+    "channel": "CCTV-4K (1080p).cn",
+    "url": "http://198.204.240.250:82/live/cctv4k.m3u8",
+    "delay": 78,
+    "resolution": "720p",
+    "status": "active"
   },
   {
-    "title": "浙江少儿",
-    "channel": "Sub.浙江少儿.cn",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
-    "delay": 1406,
-    "resolution": "1080p HD"
+    "title": "CCTV-6 (1080p)",
+    "channel": "CCTV-6 (1080p).cn",
+    "url": "http://69.30.245.50/live/cctv6.m3u8",
+    "delay": 80,
+    "resolution": "720p",
+    "status": "active"
   },
   {
-    "title": "之江纪录",
-    "channel": "Sub.之江纪录.cn",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8",
-    "delay": 1406,
-    "resolution": "1080p HD"
+    "title": "VOA美国之音 (1080p)",
+    "channel": "VOA美国之音 (1080p).cn",
+    "url": "https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8",
+    "delay": 133,
+    "resolution": "720p",
+    "status": "active"
   },
   {
-    "title": "浙江钱江",
-    "channel": "Sub.浙江钱江.cn",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
-    "delay": 1472,
-    "resolution": "1080p HD"
+    "title": "ABN China (720p)",
+    "channel": "ABN China (720p).cn",
+    "url": "https://mediaserver.abnvideos.com/streams/abnchina.m3u8",
+    "delay": 137,
+    "resolution": "720p",
+    "status": "active"
   },
   {
-    "title": "浙江国际",
-    "channel": "Sub.浙江国际.cn",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
-    "delay": 1473,
-    "resolution": "1080p HD"
+    "title": "CCTV-The First Theater (1080p)",
+    "channel": "CCTV-The First Theater (1080p).cn",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub",
+    "delay": 137,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-Storm Theater (1080p)",
+    "channel": "CCTV-Storm Theater (1080p).cn",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub",
+    "delay": 138,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-1 (720p)",
+    "channel": "CCTV-1 (720p).cn",
+    "url": "http://74.91.26.218:82/live/cctv1hd.m3u8",
+    "delay": 156,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-7 (720p)",
+    "channel": "CCTV-7 (720p).cn",
+    "url": "http://74.91.26.218:82/live/cctv7hd.m3u8",
+    "delay": 156,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-8 (720p)",
+    "channel": "CCTV-8 (720p).cn",
+    "url": "http://74.91.26.218:82/live/cctv8hd.m3u8",
+    "delay": 156,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-12 (720p)",
+    "channel": "CCTV-12 (720p).cn",
+    "url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
+    "delay": 156,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-Women's Fashion (1080p)",
+    "channel": "CCTV-Women's Fashion (1080p).cn",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub",
+    "delay": 157,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-3 (720p)",
+    "channel": "CCTV-3 (720p).cn",
+    "url": "http://74.91.26.218:82/live/cctv3hd.m3u8",
+    "delay": 158,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-10 (720p)",
+    "channel": "CCTV-10 (720p).cn",
+    "url": "http://74.91.26.218:82/live/cctv10hd.m3u8",
+    "delay": 158,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-11 (720p)",
+    "channel": "CCTV-11 (720p).cn",
+    "url": "http://74.91.26.218:82/live/cctv11hd.m3u8",
+    "delay": 159,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-2 (720p)",
+    "channel": "CCTV-2 (720p).cn",
+    "url": "http://74.91.26.218:82/live/cctv2hd.m3u8",
+    "delay": 160,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-8K (1080p)",
+    "channel": "CCTV-8K (1080p).cn",
+    "url": "http://192.151.150.154/live/cctv8k.m3u8",
+    "delay": 161,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-17 (1080p)",
+    "channel": "CCTV-17 (1080p).cn",
+    "url": "http://74.91.26.218:82/live/cctv17hd.m3u8",
+    "delay": 161,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-Storm Music (1080p)",
+    "channel": "CCTV-Storm Music (1080p).cn",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub",
+    "delay": 194,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-Billiards (1080p)",
+    "channel": "CCTV-Billiards (1080p).cn",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub",
+    "delay": 195,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-World Geography (1080p)",
+    "channel": "CCTV-World Geography (1080p).cn",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub",
+    "delay": 195,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-Golf & Tennis (1080p)",
+    "channel": "CCTV-Golf & Tennis (1080p).cn",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub",
+    "delay": 196,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-Health (1080p)",
+    "channel": "CCTV-Health (1080p).cn",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub",
+    "delay": 196,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-Nostalgia Theater (1080p)",
+    "channel": "CCTV-Nostalgia Theater (1080p).cn",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub",
+    "delay": 196,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-Weapon & Technology (1080p)",
+    "channel": "CCTV-Weapon & Technology (1080p).cn",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub",
+    "delay": 196,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-Culture of Quality (1080p)",
+    "channel": "CCTV-Culture of Quality (1080p).cn",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub",
+    "delay": 197,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-Storm Football (1080p)",
+    "channel": "CCTV-Storm Football (1080p).cn",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
+    "delay": 215,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "鹤壁新闻综合 (480p) [Not 24/7]",
+    "channel": "鹤壁新闻综合 (480p) [Not 24/7].cn",
+    "url": "http://pili-live-hls.hebitv.com/hebi/hebi.m3u8",
+    "delay": 330,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Xinjiang TV 3",
+    "channel": "Xinjiang TV 3.cn",
+    "url": "http://110.153.180.106:55555/out_2/index.m3u8",
+    "delay": 606,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Home Plus",
+    "channel": "Home Plus.cn",
+    "url": "https://homeplushls.wns.live/hls/stream.m3u8",
+    "delay": 635,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Xinjiang TV 2",
+    "channel": "Xinjiang TV 2.cn",
+    "url": "http://110.153.180.106:55555/out_3/index.m3u8",
+    "delay": 681,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-16 (1080p)",
+    "channel": "CCTV-16 (1080p).cn",
+    "url": "http://74.91.26.218:82/live/cctv16hd.m3u8",
+    "delay": 684,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "CCTV-14 (1080p)",
+    "channel": "CCTV-14 (1080p).cn",
+    "url": "http://74.91.26.218:82/live/cctv14hd.m3u8",
+    "delay": 688,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "TV BRICS Chinese (1080p)",
+    "channel": "TV BRICS Chinese (1080p).cn",
+    "url": "https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8",
+    "delay": 693,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Tonghua TV (1080p)",
+    "channel": "Tonghua TV (1080p).cn",
+    "url": "http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8",
+    "delay": 721,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Bread TV面包台 (720p)",
+    "channel": "Bread TV面包台 (720p).cn",
+    "url": "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8",
+    "delay": 877,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Siping TV",
+    "channel": "Siping TV.cn",
+    "url": "http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598",
+    "delay": 893,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CCTV+ 1 (600p) [Not 24/7]",
+    "channel": "CCTV+ 1 (600p) [Not 24/7].cn",
+    "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8",
+    "delay": 951,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CCTV+ 2 (600p) [Not 24/7]",
+    "channel": "CCTV+ 2 (600p) [Not 24/7].cn",
+    "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8",
+    "delay": 970,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Harbin Movie Channel",
+    "channel": "Harbin Movie Channel.cn",
+    "url": "https://stream.hrbtv.net/yspd/playlist.m3u8",
+    "delay": 1207,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Harbin Comprehensive News Channel",
+    "channel": "Harbin Comprehensive News Channel.cn",
+    "url": "https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594",
+    "delay": 1265,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Hebei TV (2160p)",
+    "channel": "Hebei TV (2160p).cn",
+    "url": "https://event.pull.hebtv.com/live/live101.m3u8",
+    "delay": 1274,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Ando TV (1080p)",
+    "channel": "Ando TV (1080p).cn",
+    "url": "http://play.kankanlive.com/live/1711956137852982.m3u8",
+    "delay": 1360,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Chifeng Comprehensive News Chanel",
+    "channel": "Chifeng Comprehensive News Chanel.cn",
+    "url": "http://play1-qk.nmtv.cn/live/1735546697341033.m3u8",
+    "delay": 1480,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Zhejiang TV International",
+    "channel": "Zhejiang TV International.cn",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8",
+    "delay": 1489,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "Anshun Comprehensive News Channel",
+    "channel": "Anshun Comprehensive News Channel.cn",
+    "url": "https://hplayer1.juyun.tv/camera/154379194.m3u8",
+    "delay": 1529,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Hunan TV (2160p)",
+    "channel": "Hunan TV (2160p).cn",
+    "url": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
+    "delay": 1570,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Nei Monggol TV (960p)",
+    "channel": "Nei Monggol TV (960p).cn",
+    "url": "https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8",
+    "delay": 1633,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Xinjiang TV 8",
+    "channel": "Xinjiang TV 8.cn",
+    "url": "http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1",
+    "delay": 1732,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Angel TV Chinese (720p)",
+    "channel": "Angel TV Chinese (720p).cn",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8",
+    "delay": 1792,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Xizang TV Tibetan (720p) [Not 24/7]",
+    "channel": "Xizang TV Tibetan (720p) [Not 24/7].cn",
+    "url": "http://php.jdshipin.com:8880/xztv.php?id=zy",
+    "delay": 1839,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "白城新闻综合 [Geo-blocked]",
+    "channel": "白城新闻综合 [Geo-blocked].cn",
+    "url": "https://stream2.jlntv.cn/baicheng1/sd/live.m3u8",
+    "delay": 2116,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Guangzhou TV",
+    "channel": "Guangzhou TV.cn",
+    "url": "https://tencentplaybusiness.gztv.com/live/zonghes.m3u8",
+    "delay": 2496,
+    "resolution": "720p",
+    "status": "active"
   }
 ]

@@ -1,0 +1,1722 @@
+[
+  {
+    "title": "DellaTV (720p)",
+    "channel": "DellaTV (720p).it",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8",
+    "delay": 22,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Horror",
+    "channel": "Pluto TV Horror.it",
+    "url": "https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8",
+    "delay": 44,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "The Pet Collective",
+    "channel": "The Pet Collective.it",
+    "url": "https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8",
+    "delay": 84,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Reteveneta (480p)",
+    "channel": "Reteveneta (480p).it",
+    "url": "https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8",
+    "delay": 86,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Visual Radio (576p) [Not 24/7]",
+    "channel": "Visual Radio (576p) [Not 24/7].it",
+    "url": "http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8",
+    "delay": 86,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TV Qui (Modena) (480p)",
+    "channel": "TV Qui (Modena) (480p).it",
+    "url": "https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8",
+    "delay": 87,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TV Yes Italia (720p)",
+    "channel": "TV Yes Italia (720p).it",
+    "url": "https://stream1.aswifi.it/radioyes/live/index.m3u8",
+    "delay": 87,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Kiss Kiss Napoli TV (720p)",
+    "channel": "Kiss Kiss Napoli TV (720p).it",
+    "url": "https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8",
+    "delay": 89,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Radio Iglesias Sardegna (576p) [Geo-blocked]",
+    "channel": "Radio Iglesias Sardegna (576p) [Geo-blocked].it",
+    "url": "https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8",
+    "delay": 89,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "RTTR Trento (720p)",
+    "channel": "RTTR Trento (720p).it",
+    "url": "https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8",
+    "delay": 89,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Giornale Radio TV (720p)",
+    "channel": "Giornale Radio TV (720p).it",
+    "url": "https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8",
+    "delay": 90,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Icaro TV (720p) [Not 24/7]",
+    "channel": "Icaro TV (720p) [Not 24/7].it",
+    "url": "https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8",
+    "delay": 90,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Tele Quattro (720p)",
+    "channel": "Tele Quattro (720p).it",
+    "url": "https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8",
+    "delay": 90,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Teletricolore (480p) [Not 24/7]",
+    "channel": "Teletricolore (480p) [Not 24/7].it",
+    "url": "https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8",
+    "delay": 90,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Italia 2 (480p) [Geo-blocked]",
+    "channel": "Italia 2 (480p) [Geo-blocked].it",
+    "url": "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8",
+    "delay": 91,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TeleMajg (480p)",
+    "channel": "TeleMajg (480p).it",
+    "url": "https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8",
+    "delay": 91,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Parole di Vita (1080p)",
+    "channel": "Parole di Vita (1080p).it",
+    "url": "https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8",
+    "delay": 92,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Promovideo TV (486p)",
+    "channel": "Promovideo TV (486p).it",
+    "url": "https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8",
+    "delay": 92,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rete Oro (720p) [Not 24/7]",
+    "channel": "Rete Oro (720p) [Not 24/7].it",
+    "url": "https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8",
+    "delay": 92,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Telegela 647",
+    "channel": "Telegela 647.it",
+    "url": "https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8",
+    "delay": 92,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Iunior TV (1080p)",
+    "channel": "Iunior TV (1080p).it",
+    "url": "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8",
+    "delay": 93,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Onda Novara TV (720p) [Not 24/7]",
+    "channel": "Onda Novara TV (720p) [Not 24/7].it",
+    "url": "https://585b674743bbb.streamlock.net/9006/9006/master.m3u8",
+    "delay": 93,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Prima TV Sicilia (720p)",
+    "channel": "Prima TV Sicilia (720p).it",
+    "url": "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8",
+    "delay": 93,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "SuperSix Lombardia (720p)",
+    "channel": "SuperSix Lombardia (720p).it",
+    "url": "https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8",
+    "delay": 93,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Taurianova TV (720p)",
+    "channel": "Taurianova TV (720p).it",
+    "url": "https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8",
+    "delay": 93,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Tele Liguria Sud (576p)",
+    "channel": "Tele Liguria Sud (576p).it",
+    "url": "https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8",
+    "delay": 93,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "GRP VERATV (576p)",
+    "channel": "GRP VERATV (576p).it",
+    "url": "https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8",
+    "delay": 94,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Medjugorje Italia TV (480p)",
+    "channel": "Medjugorje Italia TV (480p).it",
+    "url": "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8",
+    "delay": 94,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Paci Contemporary Channel (720p)",
+    "channel": "Paci Contemporary Channel (720p).it",
+    "url": "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8",
+    "delay": 94,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Telemantova (1080p)",
+    "channel": "Telemantova (1080p).it",
+    "url": "https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8",
+    "delay": 94,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TeleRama (576p)",
+    "channel": "TeleRama (576p).it",
+    "url": "https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8",
+    "delay": 94,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Juwelo Italia (480p)",
+    "channel": "Juwelo Italia (480p).it",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8",
+    "delay": 95,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Luna TV",
+    "channel": "Luna TV.it",
+    "url": "https://5f22d76e220e1.streamlock.net/lunatv/lunatv/playlist.m3u8",
+    "delay": 95,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "PrimaFree",
+    "channel": "PrimaFree.it",
+    "url": "https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8",
+    "delay": 95,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "PrimAntenna TV (720p)",
+    "channel": "PrimAntenna TV (720p).it",
+    "url": "https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8",
+    "delay": 95,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rete 8",
+    "channel": "Rete 8.it",
+    "url": "https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8",
+    "delay": 95,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "RTM TV (1080p)",
+    "channel": "RTM TV (1080p).it",
+    "url": "https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8",
+    "delay": 95,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "ST Europe Channel (720p)",
+    "channel": "ST Europe Channel (720p).it",
+    "url": "https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8",
+    "delay": 95,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Telenova (720p)",
+    "channel": "Telenova (720p).it",
+    "url": "https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8",
+    "delay": 95,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TLT Molise (1080p)",
+    "channel": "TLT Molise (1080p).it",
+    "url": "https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8",
+    "delay": 95,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Value 24 TV",
+    "channel": "Value 24 TV.it",
+    "url": "https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8",
+    "delay": 95,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TeleArena (480p)",
+    "channel": "TeleArena (480p).it",
+    "url": "https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8",
+    "delay": 97,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Radio Ibiza TV (720p) [Not 24/7]",
+    "channel": "Radio Ibiza TV (720p) [Not 24/7].it",
+    "url": "https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8",
+    "delay": 99,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Super! SpongeBob (720p)",
+    "channel": "Super! SpongeBob (720p).it",
+    "url": "https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8",
+    "delay": 100,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rai 1 (720p)",
+    "channel": "Rai 1 (720p).it",
+    "url": "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
+    "delay": 105,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Maria Vision (1080p)",
+    "channel": "Maria Vision (1080p).it",
+    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8",
+    "delay": 108,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Radio Taormina Sicilia (720p) [Not 24/7]",
+    "channel": "Radio Taormina Sicilia (720p) [Not 24/7].it",
+    "url": "https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8",
+    "delay": 113,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "T9 (288p)",
+    "channel": "T9 (288p).it",
+    "url": "https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8",
+    "delay": 114,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Odeon 24 (288p)",
+    "channel": "Odeon 24 (288p).it",
+    "url": "https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8",
+    "delay": 117,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Company TV (720p)",
+    "channel": "Company TV (720p).it",
+    "url": "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8",
+    "delay": 130,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Minformo TV (720p)",
+    "channel": "Minformo TV (720p).it",
+    "url": "https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8",
+    "delay": 138,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "tv9 Telemaremma (576p)",
+    "channel": "tv9 Telemaremma (576p).it",
+    "url": "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8",
+    "delay": 138,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CG Entertainment",
+    "channel": "CG Entertainment.it",
+    "url": "https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8",
+    "delay": 143,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Mr. Bean Anime Italy (1080p)",
+    "channel": "Mr. Bean Anime Italy (1080p).it",
+    "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8",
+    "delay": 151,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Film Commedia",
+    "channel": "Pluto TV Film Commedia.it",
+    "url": "https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8",
+    "delay": 151,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Cinema Italiano",
+    "channel": "Pluto TV Cinema Italiano.it",
+    "url": "https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8",
+    "delay": 168,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Esperia TV (480p)",
+    "channel": "Esperia TV (480p).it",
+    "url": "http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8",
+    "delay": 172,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Super TV (720p)",
+    "channel": "Super TV (720p).it",
+    "url": "http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8",
+    "delay": 172,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Tele Pavia (720p)",
+    "channel": "Tele Pavia (720p).it",
+    "url": "http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8",
+    "delay": 172,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Radio 51 TV (480p) [Geo-blocked]",
+    "channel": "Radio 51 TV (480p) [Geo-blocked].it",
+    "url": "http://178.32.140.155/canale51/canale51/playlist.m3u8",
+    "delay": 173,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "RDS Social TV (720p)",
+    "channel": "RDS Social TV (720p).it",
+    "url": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8",
+    "delay": 175,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Sophia TV Italy (720p)",
+    "channel": "Sophia TV Italy (720p).it",
+    "url": "https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8",
+    "delay": 176,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Telefoggia (480p) [Not 24/7]",
+    "channel": "Telefoggia (480p) [Not 24/7].it",
+    "url": "http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8",
+    "delay": 180,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Italia 2 TV (480p) [Geo-blocked]",
+    "channel": "Italia 2 TV (480p) [Geo-blocked].it",
+    "url": "http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8",
+    "delay": 182,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Radio Iglesias (576p) [Geo-blocked]",
+    "channel": "Radio Iglesias (576p) [Geo-blocked].it",
+    "url": "http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8",
+    "delay": 182,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TeleMistretta (1080p)",
+    "channel": "TeleMistretta (1080p).it",
+    "url": "https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8",
+    "delay": 183,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Nautical Channel (720p)",
+    "channel": "Nautical Channel (720p).it",
+    "url": "https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8",
+    "delay": 189,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Otto Channel (480p)",
+    "channel": "Otto Channel (480p).it",
+    "url": "https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8",
+    "delay": 193,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "RTL 102.5 Bro&Sis (1080p)",
+    "channel": "RTL 102.5 Bro&Sis (1080p).it",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8",
+    "delay": 194,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TVA (Vicenza) (720p)",
+    "channel": "TVA (Vicenza) (720p).it",
+    "url": "http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8",
+    "delay": 200,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Class CNBC (1080p) [Geo-blocked]",
+    "channel": "Class CNBC (1080p) [Geo-blocked].it",
+    "url": "https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8",
+    "delay": 201,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "WaterBear (1080p)",
+    "channel": "WaterBear (1080p).it",
+    "url": "https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8",
+    "delay": 209,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Tele Abruzzo (384p)",
+    "channel": "Tele Abruzzo (384p).it",
+    "url": "http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8",
+    "delay": 211,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Telemolise (1080p)",
+    "channel": "Telemolise (1080p).it",
+    "url": "http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8",
+    "delay": 231,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "QVC Italia (540p)",
+    "channel": "QVC Italia (540p).it",
+    "url": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8",
+    "delay": 241,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TV Prato (1080p)",
+    "channel": "TV Prato (1080p).it",
+    "url": "https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8",
+    "delay": 259,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rai YoYo (576p) [Geo-blocked]",
+    "channel": "Rai YoYo (576p) [Geo-blocked].it",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899",
+    "delay": 262,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Radio Number One (720p) [Not 24/7]",
+    "channel": "Radio Number One (720p) [Not 24/7].it",
+    "url": "https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8",
+    "delay": 265,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Kiss Kiss TV (1080p)",
+    "channel": "Kiss Kiss TV (1080p).it",
+    "url": "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8",
+    "delay": 267,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "San Marino RTV Sport (720p)",
+    "channel": "San Marino RTV Sport (720p).it",
+    "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8",
+    "delay": 297,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Il Banco dei Pugni",
+    "channel": "Il Banco dei Pugni.it",
+    "url": "https://jmp2.uk/plu-60e4507a06171800072339a3.m3u8",
+    "delay": 304,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "San Marino RTV (720p)",
+    "channel": "San Marino RTV (720p).it",
+    "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8",
+    "delay": 310,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "MadeinBO TV (1080p)",
+    "channel": "MadeinBO TV (1080p).it",
+    "url": "https://srvx1.selftv.video/dmchannel/live/playlist.m3u8",
+    "delay": 312,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rakuten TV Drama Movies Italy (1080p)",
+    "channel": "Rakuten TV Drama Movies Italy (1080p).it",
+    "url": "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8",
+    "delay": 313,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rai Storia (576p) [Geo-blocked]",
+    "channel": "Rai Storia (576p) [Geo-blocked].it",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990",
+    "delay": 314,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Radio Piter Pan TV (720p) [Not 24/7]",
+    "channel": "Radio Piter Pan TV (720p) [Not 24/7].it",
+    "url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8",
+    "delay": 316,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Horse TV (720p)",
+    "channel": "Horse TV (720p).it",
+    "url": "https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8",
+    "delay": 318,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rakuten TV Top Movies Italy (1080p)",
+    "channel": "Rakuten TV Top Movies Italy (1080p).it",
+    "url": "https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8",
+    "delay": 327,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Documentari",
+    "channel": "Pluto TV Documentari.it",
+    "url": "https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8",
+    "delay": 333,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Radio Birikina TV (720p) [Not 24/7]",
+    "channel": "Radio Birikina TV (720p) [Not 24/7].it",
+    "url": "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8",
+    "delay": 334,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rakuten TV Family Movies Italy (1080p)",
+    "channel": "Rakuten TV Family Movies Italy (1080p).it",
+    "url": "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8",
+    "delay": 334,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TV 2000 (720p)",
+    "channel": "TV 2000 (720p).it",
+    "url": "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8",
+    "delay": 344,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Elive TV Brescia (720p) [Not 24/7]",
+    "channel": "Elive TV Brescia (720p) [Not 24/7].it",
+    "url": "https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8",
+    "delay": 347,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "FIFA+ Italy (720p)",
+    "channel": "FIFA+ Italy (720p).it",
+    "url": "https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8",
+    "delay": 350,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Canale 8 (480p)",
+    "channel": "Canale 8 (480p).it",
+    "url": "http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8",
+    "delay": 358,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Deluxe 139 (480p)",
+    "channel": "Deluxe 139 (480p).it",
+    "url": "https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8",
+    "delay": 358,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rakuten TV Comedy Movies Italy (1080p)",
+    "channel": "Rakuten TV Comedy Movies Italy (1080p).it",
+    "url": "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8",
+    "delay": 358,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Radio Studio Delta TV (1080p) [Not 24/7]",
+    "channel": "Radio Studio Delta TV (1080p) [Not 24/7].it",
+    "url": "https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8",
+    "delay": 363,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Padre Pio TV (1080p)",
+    "channel": "Padre Pio TV (1080p).it",
+    "url": "https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8",
+    "delay": 364,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Telepace 1 (1080p)",
+    "channel": "Telepace 1 (1080p).it",
+    "url": "https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8",
+    "delay": 367,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rakuten TV Action Movies Italy (1080p)",
+    "channel": "Rakuten TV Action Movies Italy (1080p).it",
+    "url": "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8",
+    "delay": 371,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Alto Adige TV (720p)",
+    "channel": "Alto Adige TV (720p).it",
+    "url": "https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8",
+    "delay": 380,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Italian Fishing TV (1080p)",
+    "channel": "Italian Fishing TV (1080p).it",
+    "url": "https://fms.premio.link/fishingtv/playlist.m3u8",
+    "delay": 380,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "GO-TV Canale 163 (720p)",
+    "channel": "GO-TV Canale 163 (720p).it",
+    "url": "https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8",
+    "delay": 381,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rai Movie (576p) [Geo-blocked]",
+    "channel": "Rai Movie (576p) [Geo-blocked].it",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002",
+    "delay": 383,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rai Scuola (576p) [Geo-blocked]",
+    "channel": "Rai Scuola (576p) [Geo-blocked].it",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011",
+    "delay": 384,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TeleMia Extra (576p)",
+    "channel": "TeleMia Extra (576p).it",
+    "url": "https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8",
+    "delay": 389,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Canale 7 (480p)",
+    "channel": "Canale 7 (480p).it",
+    "url": "http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8",
+    "delay": 390,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "51 Radio TV (480p) [Geo-blocked]",
+    "channel": "51 Radio TV (480p) [Geo-blocked].it",
+    "url": "http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8",
+    "delay": 396,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "12 TV Parma (540p) [Not 24/7]",
+    "channel": "12 TV Parma (540p) [Not 24/7].it",
+    "url": "https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8",
+    "delay": 399,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Natura",
+    "channel": "Pluto TV Natura.it",
+    "url": "https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8",
+    "delay": 404,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CarinaTV",
+    "channel": "CarinaTV.it",
+    "url": "https://samson.streamerr.co:8081/carinatv/tracks-v1a1/playlist.m3u8",
+    "delay": 406,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rai Gulp (576p)",
+    "channel": "Rai Gulp (576p).it",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953",
+    "delay": 406,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TeleMia (576p)",
+    "channel": "TeleMia (576p).it",
+    "url": "https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8",
+    "delay": 407,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "Quarto Canale Flegreo (720p)",
+    "channel": "Quarto Canale Flegreo (720p).it",
+    "url": "https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8",
+    "delay": 412,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rai 5 (576p) [Geo-blocked]",
+    "channel": "Rai 5 (576p) [Geo-blocked].it",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276",
+    "delay": 414,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Telepace 4 (1080p)",
+    "channel": "Telepace 4 (1080p).it",
+    "url": "https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8",
+    "delay": 421,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "m2o TV (1080p)",
+    "channel": "m2o TV (1080p).it",
+    "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8",
+    "delay": 427,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "Radio Capital TiVu (720p)",
+    "channel": "Radio Capital TiVu (720p).it",
+    "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8",
+    "delay": 430,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Telepace 3 (1080p)",
+    "channel": "Telepace 3 (1080p).it",
+    "url": "https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8",
+    "delay": 436,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "UniNettuno University TV (720p)",
+    "channel": "UniNettuno University TV (720p).it",
+    "url": "https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8",
+    "delay": 439,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TV Campane 1 (720p)",
+    "channel": "TV Campane 1 (720p).it",
+    "url": "https://eu1.servers10.com:8081/8032/index.m3u8",
+    "delay": 440,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Senato TV (1080p)",
+    "channel": "Senato TV (1080p).it",
+    "url": "https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8",
+    "delay": 446,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rai Premium (576p) [Geo-blocked]",
+    "channel": "Rai Premium (576p) [Geo-blocked].it",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992",
+    "delay": 447,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Antenna 2 TV (720p)",
+    "channel": "Antenna 2 TV (720p).it",
+    "url": "https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8",
+    "delay": 449,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rai 4 (576p)",
+    "channel": "Rai 4 (576p).it",
+    "url": "https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966",
+    "delay": 449,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Telemontecarlo (720p)",
+    "channel": "Telemontecarlo (720p).it",
+    "url": "https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8",
+    "delay": 463,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Etna Espresso Channel (720p)",
+    "channel": "Etna Espresso Channel (720p).it",
+    "url": "https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8",
+    "delay": 464,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "DI.TV 80 (720p)",
+    "channel": "DI.TV 80 (720p).it",
+    "url": "https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8",
+    "delay": 465,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rai 2 (576p) [Geo-blocked]",
+    "channel": "Rai 2 (576p) [Geo-blocked].it",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718",
+    "delay": 466,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "ReggioTV (480p) [Not 24/7]",
+    "channel": "ReggioTV (480p) [Not 24/7].it",
+    "url": "https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8",
+    "delay": 480,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Tele One 16",
+    "channel": "Tele One 16.it",
+    "url": "https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8",
+    "delay": 494,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Euro TV (720p) [Not 24/7]",
+    "channel": "Euro TV (720p) [Not 24/7].it",
+    "url": "https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8",
+    "delay": 506,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Entella TV (720p) [Not 24/7]",
+    "channel": "Entella TV (720p) [Not 24/7].it",
+    "url": "https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8",
+    "delay": 511,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "SuperTennis (1080p)",
+    "channel": "SuperTennis (1080p).it",
+    "url": "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8",
+    "delay": 517,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Telepace Trento (540p)",
+    "channel": "Telepace Trento (540p).it",
+    "url": "https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8",
+    "delay": 534,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "ACI Sport TV (1080p)",
+    "channel": "ACI Sport TV (1080p).it",
+    "url": "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8",
+    "delay": 537,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Umbria TV (576p) [Not 24/7]",
+    "channel": "Umbria TV (576p) [Not 24/7].it",
+    "url": "https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8",
+    "delay": 537,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "RTL 102.5 Caliente (1080p)",
+    "channel": "RTL 102.5 Caliente (1080p).it",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8",
+    "delay": 547,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rete TV Italia (1080p)",
+    "channel": "Rete TV Italia (1080p).it",
+    "url": "https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8",
+    "delay": 550,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TeleSanDomenico (1080p)",
+    "channel": "TeleSanDomenico (1080p).it",
+    "url": "https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8",
+    "delay": 550,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Telechiara (720p)",
+    "channel": "Telechiara (720p).it",
+    "url": "http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8",
+    "delay": 552,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "RTP (404p)",
+    "channel": "RTP (404p).it",
+    "url": "https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8",
+    "delay": 565,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TR Sport (480p)",
+    "channel": "TR Sport (480p).it",
+    "url": "https://livetr.teleromagna.it/mia/live/playlist.m3u8",
+    "delay": 566,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Onda TV (568p)",
+    "channel": "Onda TV (568p).it",
+    "url": "https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8",
+    "delay": 577,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Storie Criminali",
+    "channel": "Storie Criminali.it",
+    "url": "https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8",
+    "delay": 578,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Radio Norba TV (1080p)",
+    "channel": "Radio Norba TV (1080p).it",
+    "url": "https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8",
+    "delay": 586,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Radio Zeta TV (1080p)",
+    "channel": "Radio Zeta TV (1080p).it",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8",
+    "delay": 588,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "70-80 TV (1080P)",
+    "channel": "70-80 TV (1080P).it",
+    "url": "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8",
+    "delay": 594,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Gold TV (576p)",
+    "channel": "Gold TV (576p).it",
+    "url": "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8",
+    "delay": 603,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Telecolor Lombardia (1080p) [Not 24/7]",
+    "channel": "Telecolor Lombardia (1080p) [Not 24/7].it",
+    "url": "https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8",
+    "delay": 604,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "7 YOU & ME (720p)",
+    "channel": "7 YOU & ME (720p).it",
+    "url": "https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8",
+    "delay": 605,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "7 RadioVisione (720p)",
+    "channel": "7 RadioVisione (720p).it",
+    "url": "https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8",
+    "delay": 606,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Aurora Arte (480p)",
+    "channel": "Aurora Arte (480p).it",
+    "url": "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8",
+    "delay": 608,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Canale 2 Altamura (576p) [Not 24/7]",
+    "channel": "Canale 2 Altamura (576p) [Not 24/7].it",
+    "url": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8",
+    "delay": 611,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "RTL 102.5 Traffic (1080p)",
+    "channel": "RTL 102.5 Traffic (1080p).it",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8",
+    "delay": 612,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Orler TV (420p) [Not 24/7]",
+    "channel": "Orler TV (420p) [Not 24/7].it",
+    "url": "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8",
+    "delay": 622,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Telepace 2 (1080p)",
+    "channel": "Telepace 2 (1080p).it",
+    "url": "https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8",
+    "delay": 629,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Primocanale (1080p) [Not 24/7]",
+    "channel": "Primocanale (1080p) [Not 24/7].it",
+    "url": "https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8",
+    "delay": 631,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Super!",
+    "channel": "Super!.it",
+    "url": "https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8",
+    "delay": 631,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "èTv Rete 7 (720p)",
+    "channel": "èTv Rete 7 (720p).it",
+    "url": "https://live.ipstream.it/etv/etv.stream/playlist.m3u8",
+    "delay": 633,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "RTL 102.5 TV (1080p)",
+    "channel": "RTL 102.5 TV (1080p).it",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8",
+    "delay": 635,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "111 TV (720p)",
+    "channel": "111 TV (720p).it",
+    "url": "https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8",
+    "delay": 647,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Casa Italia 53 (720p)",
+    "channel": "Casa Italia 53 (720p).it",
+    "url": "https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8",
+    "delay": 647,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Sportitalia (1080p)",
+    "channel": "Sportitalia (1080p).it",
+    "url": "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8",
+    "delay": 647,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "èTv Marche (720p)",
+    "channel": "èTv Marche (720p).it",
+    "url": "https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8",
+    "delay": 648,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "RTL 102.5 Disco (1080p)",
+    "channel": "RTL 102.5 Disco (1080p).it",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8",
+    "delay": 648,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Gold TV Sat (576p)",
+    "channel": "Gold TV Sat (576p).it",
+    "url": "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8",
+    "delay": 653,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Telefriuli (1080p)",
+    "channel": "Telefriuli (1080p).it",
+    "url": "https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8",
+    "delay": 667,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "La TR3 Marsala (720p)",
+    "channel": "La TR3 Marsala (720p).it",
+    "url": "https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8",
+    "delay": 671,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "FM ITALIA (1080p)",
+    "channel": "FM ITALIA (1080p).it",
+    "url": "https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8",
+    "delay": 673,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Peer TV South Tyrol (1280p)",
+    "channel": "Peer TV South Tyrol (1280p).it",
+    "url": "https://iptv.peer.biz/live/peertv-en.m3u8",
+    "delay": 674,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "RTL 102.5 Best (1080p)",
+    "channel": "RTL 102.5 Best (1080p).it",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8",
+    "delay": 674,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stereo 5 TV (720p)",
+    "channel": "Stereo 5 TV (720p).it",
+    "url": "https://stream1.aswifi.it/stereo5/live/index.m3u8",
+    "delay": 674,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Peer TV Alto Adige (1280p)",
+    "channel": "Peer TV Alto Adige (1280p).it",
+    "url": "https://iptv.peer.biz/live/peertv-it.m3u8",
+    "delay": 680,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Le sorelle McLeod",
+    "channel": "Le sorelle McLeod.it",
+    "url": "https://jmp2.uk/plu-60a2837f8154ab0007c4dcdf.m3u8",
+    "delay": 696,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "A2i TV (1080p)",
+    "channel": "A2i TV (1080p).it",
+    "url": "https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8",
+    "delay": 710,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Super! Pop",
+    "channel": "Super! Pop.it",
+    "url": "https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8",
+    "delay": 711,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "BeJoy.kids (1080p)",
+    "channel": "BeJoy.kids (1080p).it",
+    "url": "https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8",
+    "delay": 712,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CafeTV24 (720p)",
+    "channel": "CafeTV24 (720p).it",
+    "url": "https://srvx1.selftv.video/cafe/live/playlist.m3u8",
+    "delay": 715,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "16 Anni e Incinta",
+    "channel": "16 Anni e Incinta.it",
+    "url": "https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8",
+    "delay": 718,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Scherzi e risate",
+    "channel": "Pluto TV Scherzi e risate.it",
+    "url": "https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8",
+    "delay": 720,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Film",
+    "channel": "Pluto TV Film.it",
+    "url": "https://jmp2.uk/plu-61c09515fbb4b50007d221f5.m3u8",
+    "delay": 721,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Super! iCarly",
+    "channel": "Super! iCarly.it",
+    "url": "https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8",
+    "delay": 726,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Giovanni Paolo TV (1080p)",
+    "channel": "Giovanni Paolo TV (1080p).it",
+    "url": "https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8",
+    "delay": 733,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Film Thriller",
+    "channel": "Pluto TV Film Thriller.it",
+    "url": "https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8",
+    "delay": 740,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "RTV38 (576p)",
+    "channel": "RTV38 (576p).it",
+    "url": "https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8",
+    "delay": 742,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Radio Freccia TV (1080p)",
+    "channel": "Radio Freccia TV (1080p).it",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8",
+    "delay": 743,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Cucina",
+    "channel": "Pluto TV Cucina.it",
+    "url": "https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8",
+    "delay": 745,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TeleTusciaSabina 2000 (576p) [Not 24/7]",
+    "channel": "TeleTusciaSabina 2000 (576p) [Not 24/7].it",
+    "url": "http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8",
+    "delay": 749,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Andromeda Italy (720p)",
+    "channel": "Andromeda Italy (720p).it",
+    "url": "https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8",
+    "delay": 750,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Peer TV Südtirol (1080p)",
+    "channel": "Peer TV Südtirol (1080p).it",
+    "url": "https://iptv.peer.biz/live/peertv.m3u8",
+    "delay": 750,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Ex On The Beach",
+    "channel": "Ex On The Beach.it",
+    "url": "https://jmp2.uk/plu-61c0909b872c650008ed42e4.m3u8",
+    "delay": 763,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Calabria TV",
+    "channel": "Calabria TV.it",
+    "url": "https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8",
+    "delay": 766,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Teleromagna (480p)",
+    "channel": "Teleromagna (480p).it",
+    "url": "https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8",
+    "delay": 770,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Film Azione",
+    "channel": "Pluto TV Film Azione.it",
+    "url": "https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8",
+    "delay": 773,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Film Romantici",
+    "channel": "Pluto TV Film Romantici.it",
+    "url": "https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8",
+    "delay": 788,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Geordie Shore",
+    "channel": "Geordie Shore.it",
+    "url": "https://jmp2.uk/plu-6442512cee6a2f0008d3351f.m3u8",
+    "delay": 790,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Bom Channel (720p)",
+    "channel": "Bom Channel (720p).it",
+    "url": "https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8",
+    "delay": 798,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Gambero Rosso (720p)",
+    "channel": "Gambero Rosso (720p).it",
+    "url": "https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8",
+    "delay": 809,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Donna TV (480p)",
+    "channel": "Donna TV (480p).it",
+    "url": "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8",
+    "delay": 840,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "LaC News 24 (720p)",
+    "channel": "LaC News 24 (720p).it",
+    "url": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8",
+    "delay": 847,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "RTL 102.5 Napulè (1080p)",
+    "channel": "RTL 102.5 Napulè (1080p).it",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8",
+    "delay": 863,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "La C TV (720p)",
+    "channel": "La C TV (720p).it",
+    "url": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8",
+    "delay": 910,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Deejay TV (1080p)",
+    "channel": "Deejay TV (1080p).it",
+    "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8",
+    "delay": 948,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Le Cronache TV (720p)",
+    "channel": "Le Cronache TV (720p).it",
+    "url": "http://77.68.40.210:8888/hls/cronache.m3u8",
+    "delay": 985,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rete Biella TV (720p) [Not 24/7]",
+    "channel": "Rete Biella TV (720p) [Not 24/7].it",
+    "url": "https://sb.top-ix.org/retebiella/streaming/playlist.m3u8",
+    "delay": 994,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Cusano Italia TV (720p)",
+    "channel": "Cusano Italia TV (720p).it",
+    "url": "https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8",
+    "delay": 1034,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Canale 21 Extra (576p)",
+    "channel": "Canale 21 Extra (576p).it",
+    "url": "https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8",
+    "delay": 1074,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Azzurra TV (576p)",
+    "channel": "Azzurra TV (576p).it",
+    "url": "https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8",
+    "delay": 1172,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Camera dei Deputati (via RR) (240p)",
+    "channel": "Camera dei Deputati (via RR) (240p).it",
+    "url": "https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8",
+    "delay": 1187,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Bergamo TV (1080p)",
+    "channel": "Bergamo TV (1080p).it",
+    "url": "https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8",
+    "delay": 1228,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Anime",
+    "channel": "Pluto TV Anime.it",
+    "url": "https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8",
+    "delay": 1279,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Failarmy",
+    "channel": "Failarmy.it",
+    "url": "https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8",
+    "delay": 4514,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TV7 Benevento (288p) [Not 24/7]",
+    "channel": "TV7 Benevento (288p) [Not 24/7].it",
+    "url": "http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8",
+    "delay": 4531,
+    "resolution": "720p",
+    "status": "active"
+  }
+]

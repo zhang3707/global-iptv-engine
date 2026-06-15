@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "title": "Pet Club TV (1080p)",
+    "channel": "Pet Club TV (1080p).hk",
+    "url": "https://petclub-samsungaus.amagi.tv/playlist.m3u8",
+    "delay": 735,
+    "resolution": "720p",
+    "status": "active"
+  }
+]

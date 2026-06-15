@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "title": "TVBS Asia (1080p)",
+    "channel": "TVBS Asia (1080p).tw",
+    "url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
+    "delay": 119,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Supreme Master TV (720p)",
+    "channel": "Supreme Master TV (720p).tw",
+    "url": "https://lbs-us1.suprememastertv.com/720p.m3u8",
+    "delay": 441,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CGNTV Chinese (1080p)",
+    "channel": "CGNTV Chinese (1080p).tw",
+    "url": "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8",
+    "delay": 453,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "NTD TV Asia-Pacific",
+    "channel": "NTD TV Asia-Pacific.tw",
+    "url": "https://live.ntdtv.com/aplive200/playlist.m3u8",
+    "delay": 541,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Dali TV (大立電視台) (720p)",
+    "channel": "Dali TV (大立電視台) (720p).tw",
+    "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
+    "delay": 687,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "GOOD TV CH2 真理台 (720p)",
+    "channel": "GOOD TV CH2 真理台 (720p).tw",
+    "url": "https://live.streamingfast.net/osmflivech2.m3u8",
+    "delay": 899,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "GOOD TV CH1 綜合台 (720p) [Not 24/7]",
+    "channel": "GOOD TV CH1 綜合台 (720p) [Not 24/7].tw",
+    "url": "https://live.streamingfast.net/osmflivech1.m3u8",
+    "delay": 901,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Beautiful Life TV",
+    "channel": "Beautiful Life TV.tw",
+    "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8",
+    "delay": 943,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "唯心電視 (480p)",
+    "channel": "唯心電視 (480p).tw",
+    "url": "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8",
+    "delay": 1306,
+    "resolution": "720p",
+    "status": "active"
+  }
+]

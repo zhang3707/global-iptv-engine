@@ -1,0 +1,1554 @@
+[
+  {
+    "title": "Motorvision.tv (French)",
+    "channel": "Motorvision.tv (French).de",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047",
+    "delay": 24,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Super RTL HD (720p)",
+    "channel": "Super RTL HD (720p).de",
+    "url": "https://forsizero.github.io/iptv/m3u/superrtlhd.m3u",
+    "delay": 51,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Mystery",
+    "channel": "Pluto TV Mystery.de",
+    "url": "https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8",
+    "delay": 84,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "ZWEI2 Music (1080p)",
+    "channel": "ZWEI2 Music (1080p).de",
+    "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8",
+    "delay": 92,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Juwelo (720p)",
+    "channel": "Juwelo (720p).de",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8",
+    "delay": 93,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "ONE1 Music (1080p)",
+    "channel": "ONE1 Music (1080p).de",
+    "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8",
+    "delay": 93,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "teltOwkanal (1080p)",
+    "channel": "teltOwkanal (1080p).de",
+    "url": "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8",
+    "delay": 94,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "WELT (576p)",
+    "channel": "WELT (576p).de",
+    "url": "https://s6.hopslan.com/n24X/index.m3u8",
+    "delay": 98,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Grjngo Western Movies (720p)",
+    "channel": "Grjngo Western Movies (720p).de",
+    "url": "https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8",
+    "delay": 100,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "kabel eins",
+    "channel": "kabel eins.de",
+    "url": "https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8",
+    "delay": 102,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "KiKA HD",
+    "channel": "KiKA HD.de",
+    "url": "https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8",
+    "delay": 102,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "ProSieben (1080p)",
+    "channel": "ProSieben (1080p).de",
+    "url": "https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8",
+    "delay": 102,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "SAT.1 Gold (576p)",
+    "channel": "SAT.1 Gold (576p).de",
+    "url": "https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8",
+    "delay": 102,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "MTV Ridiculousness (720p)",
+    "channel": "MTV Ridiculousness (720p).de",
+    "url": "https://jmp2.uk/plu-68641eb4852dfe78698c3390.m3u8",
+    "delay": 108,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "hr-fernsehen HD",
+    "channel": "hr-fernsehen HD.de",
+    "url": "https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8",
+    "delay": 110,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "rbb Fernsehen",
+    "channel": "rbb Fernsehen.de",
+    "url": "https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8",
+    "delay": 111,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Ost West [Not 24/7]",
+    "channel": "Ost West [Not 24/7].de",
+    "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/14021/index.m3u8",
+    "delay": 124,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "RTL Crime HD (1080p)",
+    "channel": "RTL Crime HD (1080p).de",
+    "url": "http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8",
+    "delay": 124,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "RTL Passion (1080p)",
+    "channel": "RTL Passion (1080p).de",
+    "url": "http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/31369/index.m3u8",
+    "delay": 124,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "MTV [Not 24/7]",
+    "channel": "MTV [Not 24/7].de",
+    "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31344/index.m3u8",
+    "delay": 127,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Adventure Earth (1080p)",
+    "channel": "Adventure Earth (1080p).de",
+    "url": "https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8",
+    "delay": 130,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Zee One German (720p)",
+    "channel": "Zee One German (720p).de",
+    "url": "https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVPbmVfSExT/playlist.m3u8",
+    "delay": 144,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "XITE Hits Germany (1080p)",
+    "channel": "XITE Hits Germany (1080p).de",
+    "url": "https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8",
+    "delay": 148,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "FIFA+ German (720p)",
+    "channel": "FIFA+ German (720p).de",
+    "url": "https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8",
+    "delay": 149,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Sender Neu Jerusalem (576p)",
+    "channel": "Sender Neu Jerusalem (576p).de",
+    "url": "https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8",
+    "delay": 156,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Strongman Champions League (720p)",
+    "channel": "Strongman Champions League (720p).de",
+    "url": "https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8",
+    "delay": 157,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Sophia TV Español (720p)",
+    "channel": "Sophia TV Español (720p).de",
+    "url": "https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8",
+    "delay": 158,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Animals",
+    "channel": "Pluto TV Animals.de",
+    "url": "https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8",
+    "delay": 169,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Beverly Hills 90210",
+    "channel": "Beverly Hills 90210.de",
+    "url": "https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8",
+    "delay": 176,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "OK Merseburg-Querfurt (1080p) [Not 24/7]",
+    "channel": "OK Merseburg-Querfurt (1080p) [Not 24/7].de",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8",
+    "delay": 185,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "OK Salzwedel (1080p) [Not 24/7]",
+    "channel": "OK Salzwedel (1080p) [Not 24/7].de",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8",
+    "delay": 185,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "World of Freesports (1080p)",
+    "channel": "World of Freesports (1080p).de",
+    "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8",
+    "delay": 185,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "OK Dessau (1080p) [Not 24/7]",
+    "channel": "OK Dessau (1080p) [Not 24/7].de",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8",
+    "delay": 186,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "RBW (1080p)",
+    "channel": "RBW (1080p).de",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8",
+    "delay": 186,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "MDF.1 (1080p)",
+    "channel": "MDF.1 (1080p).de",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8",
+    "delay": 189,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "OK Magdeburg (1080p)",
+    "channel": "OK Magdeburg (1080p).de",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8",
+    "delay": 193,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "OK Stendal (1080p)",
+    "channel": "OK Stendal (1080p).de",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8",
+    "delay": 193,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "RAN1 (1080p)",
+    "channel": "RAN1 (1080p).de",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8",
+    "delay": 193,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "RFH (1080p)",
+    "channel": "RFH (1080p).de",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8",
+    "delay": 193,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "OK Wernigerode (1080p)",
+    "channel": "OK Wernigerode (1080p).de",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8",
+    "delay": 199,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "PUNKTum Fernsehen (1080p) [Not 24/7]",
+    "channel": "PUNKTum Fernsehen (1080p) [Not 24/7].de",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8",
+    "delay": 201,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Horse & Country TV (1080p)",
+    "channel": "Horse & Country TV (1080p).de",
+    "url": "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
+    "delay": 205,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "KulturMD (1080p)",
+    "channel": "KulturMD (1080p).de",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8",
+    "delay": 220,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "The Graham Norton Show (1080p)",
+    "channel": "The Graham Norton Show (1080p).de",
+    "url": "https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8",
+    "delay": 246,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Comedy Central [Not 24/7]",
+    "channel": "Comedy Central [Not 24/7].de",
+    "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31302/index.m3u8",
+    "delay": 269,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Terra Mater WILD (1080p)",
+    "channel": "Terra Mater WILD (1080p).de",
+    "url": "https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8",
+    "delay": 283,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "TV Ingolstadt (1080p)",
+    "channel": "TV Ingolstadt (1080p).de",
+    "url": "https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8",
+    "delay": 288,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV History",
+    "channel": "Pluto TV History.de",
+    "url": "https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8",
+    "delay": 290,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "FOLX Music (1080p)",
+    "channel": "FOLX Music (1080p).de",
+    "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8",
+    "delay": 297,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "One Adria (1080p)",
+    "channel": "One Adria (1080p).de",
+    "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8",
+    "delay": 299,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "MTV Pluto TV",
+    "channel": "MTV Pluto TV.de",
+    "url": "https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8",
+    "delay": 302,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CC Pluto TV",
+    "channel": "CC Pluto TV.de",
+    "url": "https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8",
+    "delay": 303,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Autentic History (1080p)",
+    "channel": "Autentic History (1080p).de",
+    "url": "https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8",
+    "delay": 307,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Autentic Travel (1080p)",
+    "channel": "Autentic Travel (1080p).de",
+    "url": "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8",
+    "delay": 310,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rakuten TV Top Movies Germany (1080p)",
+    "channel": "Rakuten TV Top Movies Germany (1080p).de",
+    "url": "https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8",
+    "delay": 311,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Sitcoms",
+    "channel": "Pluto TV Sitcoms.de",
+    "url": "https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8",
+    "delay": 312,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "sixx",
+    "channel": "sixx.de",
+    "url": "https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8",
+    "delay": 313,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "WDR Fernsehen Wuppertal (720p) [Geo-blocked]",
+    "channel": "WDR Fernsehen Wuppertal (720p) [Geo-blocked].de",
+    "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8",
+    "delay": 314,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rakuten TV Family Movies Germany (1080p)",
+    "channel": "Rakuten TV Family Movies Germany (1080p).de",
+    "url": "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8",
+    "delay": 326,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "SWR 3 Visual Radio (720p)",
+    "channel": "SWR 3 Visual Radio (720p).de",
+    "url": "https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8",
+    "delay": 326,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "QVC Style Germany (540p)",
+    "channel": "QVC Style Germany (540p).de",
+    "url": "https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8",
+    "delay": 333,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rakuten TV Comedy Movies Germany (1080p)",
+    "channel": "Rakuten TV Comedy Movies Germany (1080p).de",
+    "url": "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8",
+    "delay": 334,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "hr-fernsehen (1080p)",
+    "channel": "hr-fernsehen (1080p).de",
+    "url": "https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8",
+    "delay": 339,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "EWTN Germany (720p)",
+    "channel": "EWTN Germany (720p).de",
+    "url": "https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8",
+    "delay": 348,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "QVC Germany (720p)",
+    "channel": "QVC Germany (720p).de",
+    "url": "https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8",
+    "delay": 358,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "KiKA (1080p) [Not 24/7]",
+    "channel": "KiKA (1080p) [Not 24/7].de",
+    "url": "https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8",
+    "delay": 371,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Red Bull TV DE (1080p)",
+    "channel": "Red Bull TV DE (1080p).de",
+    "url": "https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8",
+    "delay": 374,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "Rakuten TV Action Movies Germany (1080p)",
+    "channel": "Rakuten TV Action Movies Germany (1080p).de",
+    "url": "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8",
+    "delay": 375,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "SR Fernsehen (720p)",
+    "channel": "SR Fernsehen (720p).de",
+    "url": "https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8",
+    "delay": 379,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rakuten TV Drama Movies Germany (1080p)",
+    "channel": "Rakuten TV Drama Movies Germany (1080p).de",
+    "url": "https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8",
+    "delay": 387,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "HSE24 Trend (576p)",
+    "channel": "HSE24 Trend (576p).de",
+    "url": "https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8",
+    "delay": 394,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Das Erste HD (1080p)",
+    "channel": "Das Erste HD (1080p).de",
+    "url": "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8",
+    "delay": 419,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "KaufBei TV (576p)",
+    "channel": "KaufBei TV (576p).de",
+    "url": "https://api.alpaca.t62a.com/hls/9103/index.m3u8",
+    "delay": 427,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "HSE24 Extra (1080p)",
+    "channel": "HSE24 Extra (1080p).de",
+    "url": "https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8",
+    "delay": 441,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Noa 4 Norderstedt (1080p)",
+    "channel": "Noa 4 Norderstedt (1080p).de",
+    "url": "https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8",
+    "delay": 442,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Deluxe Lounge (720p)",
+    "channel": "Deluxe Lounge (720p).de",
+    "url": "https://jmp2.uk/stvp-CHAJ0500413A",
+    "delay": 443,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "arte (1080p)",
+    "channel": "arte (1080p).de",
+    "url": "http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15171/index.m3u8",
+    "delay": 445,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Allgäu TV (1080p)",
+    "channel": "Allgäu TV (1080p).de",
+    "url": "https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8",
+    "delay": 454,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "Niederbayern TV Passau (1080p)",
+    "channel": "Niederbayern TV Passau (1080p).de",
+    "url": "https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8",
+    "delay": 458,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "Tagesschau 24 (720p)",
+    "channel": "Tagesschau 24 (720p).de",
+    "url": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8",
+    "delay": 459,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "WDR Fernsehen Münster (720p) [Geo-blocked]",
+    "channel": "WDR Fernsehen Münster (720p) [Geo-blocked].de",
+    "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8",
+    "delay": 463,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Niederbayern TV Landshut (1080p)",
+    "channel": "Niederbayern TV Landshut (1080p).de",
+    "url": "https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8",
+    "delay": 464,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "WDR Fernsehen Siegen (720p) [Geo-blocked]",
+    "channel": "WDR Fernsehen Siegen (720p) [Geo-blocked].de",
+    "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8",
+    "delay": 468,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Serie",
+    "channel": "Pluto TV Serie.de",
+    "url": "https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8",
+    "delay": 473,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "WDR Fernsehen Düsseldorf (720p) [Geo-blocked]",
+    "channel": "WDR Fernsehen Düsseldorf (720p) [Geo-blocked].de",
+    "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8",
+    "delay": 474,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "WDR Fernsehen Essen (720p) [Geo-blocked]",
+    "channel": "WDR Fernsehen Essen (720p) [Geo-blocked].de",
+    "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8",
+    "delay": 474,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "WDR Fernsehen Duisburg (720p) [Geo-blocked]",
+    "channel": "WDR Fernsehen Duisburg (720p) [Geo-blocked].de",
+    "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8",
+    "delay": 475,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Noa 4 Hamburg (1080p)",
+    "channel": "Noa 4 Hamburg (1080p).de",
+    "url": "https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8",
+    "delay": 479,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TV38 Südost-Niedersachen (1080p)",
+    "channel": "TV38 Südost-Niedersachen (1080p).de",
+    "url": "https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=",
+    "delay": 483,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "DASDING 90.8 (720p)",
+    "channel": "DASDING 90.8 (720p).de",
+    "url": "https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8",
+    "delay": 495,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Seenluft24 (1080p)",
+    "channel": "Seenluft24 (1080p).de",
+    "url": "https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=",
+    "delay": 503,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "OK Kiel (576p)",
+    "channel": "OK Kiel (576p).de",
+    "url": "https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8",
+    "delay": 506,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "WDR Fernsehen Dortmund (720p) [Geo-blocked]",
+    "channel": "WDR Fernsehen Dortmund (720p) [Geo-blocked].de",
+    "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8",
+    "delay": 525,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Niederbayern TV Deggendorf & Straubing (1080p)",
+    "channel": "Niederbayern TV Deggendorf & Straubing (1080p).de",
+    "url": "https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8",
+    "delay": 527,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "Deluxe Rap (1080p)",
+    "channel": "Deluxe Rap (1080p).de",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8",
+    "delay": 533,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "iSTUFF (720p) [Not 24/7]",
+    "channel": "iSTUFF (720p) [Not 24/7].de",
+    "url": "https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8",
+    "delay": 538,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Das Erste (720p)",
+    "channel": "Das Erste (720p).de",
+    "url": "https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8",
+    "delay": 544,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Deluxe Music (720p)",
+    "channel": "Deluxe Music (720p).de",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8",
+    "delay": 544,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Niederbayern TV (720p)",
+    "channel": "Niederbayern TV (720p).de",
+    "url": "https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8",
+    "delay": 544,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "arte HD",
+    "channel": "arte HD.de",
+    "url": "https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8",
+    "delay": 547,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "WDR Fernsehen Bonn (720p) [Geo-blocked]",
+    "channel": "WDR Fernsehen Bonn (720p) [Geo-blocked].de",
+    "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8",
+    "delay": 548,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "NRWision (1080p)",
+    "channel": "NRWision (1080p).de",
+    "url": "https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8",
+    "delay": 552,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "Radio Weser TV Bremen (576p)",
+    "channel": "Radio Weser TV Bremen (576p).de",
+    "url": "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8",
+    "delay": 556,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "DW Russian (1080p)",
+    "channel": "DW Russian (1080p).de",
+    "url": "https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8",
+    "delay": 562,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Augsburg TV (1080p)",
+    "channel": "Augsburg TV (1080p).de",
+    "url": "https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8",
+    "delay": 571,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "NDR Schleswig-Holstein (720p)",
+    "channel": "NDR Schleswig-Holstein (720p).de",
+    "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8",
+    "delay": 573,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "OK Flensburg (576p)",
+    "channel": "OK Flensburg (576p).de",
+    "url": "https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8",
+    "delay": 575,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "1-2-3 TV (270p)",
+    "channel": "1-2-3 TV (270p).de",
+    "url": "https://123tv-mx1.flex-cdn.net/index.m3u8",
+    "delay": 578,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Ost West 24 (1080p)",
+    "channel": "Ost West 24 (1080p).de",
+    "url": "https://iptv.prosto.tv/ch237/index.m3u8",
+    "delay": 588,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "NDR Niedersachsen (720p)",
+    "channel": "NDR Niedersachsen (720p).de",
+    "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8",
+    "delay": 592,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Sophia TV (720p)",
+    "channel": "Sophia TV (720p).de",
+    "url": "https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8",
+    "delay": 594,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "QVC 2 Germany (540p)",
+    "channel": "QVC 2 Germany (540p).de",
+    "url": "https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8",
+    "delay": 596,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Sophia TV Français (720p)",
+    "channel": "Sophia TV Français (720p).de",
+    "url": "https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8",
+    "delay": 600,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Filstalwelle (1080p)",
+    "channel": "Filstalwelle (1080p).de",
+    "url": "https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8",
+    "delay": 608,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Deluxe Dance (1080p)",
+    "channel": "Deluxe Dance (1080p).de",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8",
+    "delay": 609,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Volksmusik TV (1080p)",
+    "channel": "Volksmusik TV (1080p).de",
+    "url": "https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8",
+    "delay": 612,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "NDR Mecklenburg-Vorpommern (720p)",
+    "channel": "NDR Mecklenburg-Vorpommern (720p).de",
+    "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8",
+    "delay": 616,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Alex Berlin (1080p)",
+    "channel": "Alex Berlin (1080p).de",
+    "url": "https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8",
+    "delay": 621,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Welt der Wunder TV (576p)",
+    "channel": "Welt der Wunder TV (576p).de",
+    "url": "https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8",
+    "delay": 628,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "WDR Fernsehen Bielefeld (720p) [Geo-blocked]",
+    "channel": "WDR Fernsehen Bielefeld (720p) [Geo-blocked].de",
+    "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8",
+    "delay": 647,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Sonnenklar TV (1080p)",
+    "channel": "Sonnenklar TV (1080p).de",
+    "url": "http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8",
+    "delay": 654,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "WDR Fernsehen Aachen (720p) [Geo-blocked]",
+    "channel": "WDR Fernsehen Aachen (720p) [Geo-blocked].de",
+    "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8",
+    "delay": 654,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Baden TV (1080p) [Not 24/7]",
+    "channel": "Baden TV (1080p) [Not 24/7].de",
+    "url": "http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8",
+    "delay": 656,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Light Channel (576p) [Not 24/7]",
+    "channel": "Light Channel (576p) [Not 24/7].de",
+    "url": "http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8",
+    "delay": 656,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "EchtJetzt TV (720p)",
+    "channel": "EchtJetzt TV (720p).de",
+    "url": "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8",
+    "delay": 661,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Die Neue Zeit (576p)",
+    "channel": "Die Neue Zeit (576p).de",
+    "url": "https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8",
+    "delay": 667,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "WDR Fernsehen (720p)",
+    "channel": "WDR Fernsehen (720p).de",
+    "url": "https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8",
+    "delay": 672,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Studio 47 (576p)",
+    "channel": "Studio 47 (576p).de",
+    "url": "https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8",
+    "delay": 685,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "WDR 1 Live (720p)",
+    "channel": "WDR 1 Live (720p).de",
+    "url": "https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8",
+    "delay": 691,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "NDR Hamburg (720p)",
+    "channel": "NDR Hamburg (720p).de",
+    "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8",
+    "delay": 698,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Takeshi's Castle",
+    "channel": "Takeshi's Castle.de",
+    "url": "https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8",
+    "delay": 701,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "ems TV Lingen (720p)",
+    "channel": "ems TV Lingen (720p).de",
+    "url": "https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8",
+    "delay": 708,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "More Than Sports TV (1080p)",
+    "channel": "More Than Sports TV (1080p).de",
+    "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8",
+    "delay": 712,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "RiC (1080p)",
+    "channel": "RiC (1080p).de",
+    "url": "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
+    "delay": 715,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Comedy Central South Park",
+    "channel": "Comedy Central South Park.de",
+    "url": "https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8",
+    "delay": 723,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Chaos City",
+    "channel": "Chaos City.de",
+    "url": "https://jmp2.uk/plu-60afbad343e3840007164348.m3u8",
+    "delay": 726,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Horror",
+    "channel": "Pluto TV Horror.de",
+    "url": "https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8",
+    "delay": 731,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Inside",
+    "channel": "Pluto TV Inside.de",
+    "url": "https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8",
+    "delay": 738,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Food",
+    "channel": "Pluto TV Food.de",
+    "url": "https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8",
+    "delay": 740,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Kultfilme",
+    "channel": "Pluto TV Kultfilme.de",
+    "url": "https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8",
+    "delay": 740,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Totally Turtles (720p)",
+    "channel": "Totally Turtles (720p).de",
+    "url": "https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8",
+    "delay": 740,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Explore",
+    "channel": "Pluto TV Explore.de",
+    "url": "https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8",
+    "delay": 742,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Anime",
+    "channel": "Pluto TV Anime.de",
+    "url": "https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8",
+    "delay": 748,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "BBC Travel",
+    "channel": "BBC Travel.de",
+    "url": "https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8",
+    "delay": 749,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV True Crime",
+    "channel": "Pluto TV True Crime.de",
+    "url": "https://jmp2.uk/plu-615333098185f00008715a56.m3u8",
+    "delay": 750,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Nachrichten 360 (1080p) [Geo-blocked]",
+    "channel": "Nachrichten 360 (1080p) [Geo-blocked].de",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8",
+    "delay": 753,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "N24 Doku",
+    "channel": "N24 Doku.de",
+    "url": "https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8",
+    "delay": 754,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Cheers",
+    "channel": "Cheers.de",
+    "url": "https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8",
+    "delay": 758,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Movies",
+    "channel": "Pluto TV Movies.de",
+    "url": "https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8",
+    "delay": 758,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Nature",
+    "channel": "Pluto TV Nature.de",
+    "url": "https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8",
+    "delay": 758,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Leipzig Fernsehen (1080p)",
+    "channel": "Leipzig Fernsehen (1080p).de",
+    "url": "https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8",
+    "delay": 761,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Crime",
+    "channel": "Pluto TV Crime.de",
+    "url": "https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8",
+    "delay": 763,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TV Oberfranken (TVO) (1080p) [Not 24/7]",
+    "channel": "TV Oberfranken (TVO) (1080p) [Not 24/7].de",
+    "url": "https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8",
+    "delay": 763,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "SPIEGEL TV (720p)",
+    "channel": "SPIEGEL TV (720p).de",
+    "url": "https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8",
+    "delay": 764,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "BR Fernsehen Nord (720p)",
+    "channel": "BR Fernsehen Nord (720p).de",
+    "url": "https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8",
+    "delay": 768,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "MOVIEDOME (720p)",
+    "channel": "MOVIEDOME (720p).de",
+    "url": "https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8",
+    "delay": 768,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Regio TV Bodensee (1080p)",
+    "channel": "Regio TV Bodensee (1080p).de",
+    "url": "https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8",
+    "delay": 770,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "MTV Teen Mom (720p)",
+    "channel": "MTV Teen Mom (720p).de",
+    "url": "https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8",
+    "delay": 771,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Oberpfalz TV (1080p)",
+    "channel": "Oberpfalz TV (1080p).de",
+    "url": "https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8",
+    "delay": 775,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "World Poker Tour",
+    "channel": "World Poker Tour.de",
+    "url": "https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8",
+    "delay": 776,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "MTV Dating (720p)",
+    "channel": "MTV Dating (720p).de",
+    "url": "https://jmp2.uk/plu-5caf330ea5068259a32320fd.m3u8",
+    "delay": 784,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "ARD-alpha (720p)",
+    "channel": "ARD-alpha (720p).de",
+    "url": "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8",
+    "delay": 785,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "MTV The Shores",
+    "channel": "MTV The Shores.de",
+    "url": "https://jmp2.uk/plu-5caf32c2a5068259a32320fc.m3u8",
+    "delay": 797,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "DMF (1080p) [Not 24/7]",
+    "channel": "DMF (1080p) [Not 24/7].de",
+    "url": "https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8",
+    "delay": 799,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Erz-TV Stollberg (576p)",
+    "channel": "Erz-TV Stollberg (576p).de",
+    "url": "https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8",
+    "delay": 804,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Space",
+    "channel": "Pluto TV Space.de",
+    "url": "https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8",
+    "delay": 804,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Ice Pilots",
+    "channel": "Ice Pilots.de",
+    "url": "https://jmp2.uk/plu-5ce40f42ba7f7f5ea9518fe1.m3u8",
+    "delay": 818,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Parlamentsfernsehen 1 (1080p) [Not 24/7]",
+    "channel": "Parlamentsfernsehen 1 (1080p) [Not 24/7].de",
+    "url": "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8",
+    "delay": 819,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Franken Fernsehen (Nürnberg) (1080p) [Not 24/7]",
+    "channel": "Franken Fernsehen (Nürnberg) (1080p) [Not 24/7].de",
+    "url": "https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8",
+    "delay": 842,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Baden TV Süd (480p)",
+    "channel": "Baden TV Süd (480p).de",
+    "url": "https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8",
+    "delay": 845,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Saarland Fernsehen 1 (1080p)",
+    "channel": "Saarland Fernsehen 1 (1080p).de",
+    "url": "https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8",
+    "delay": 866,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "MTV Catfish TV Show (720p)",
+    "channel": "MTV Catfish TV Show (720p).de",
+    "url": "https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8",
+    "delay": 878,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Paranormal",
+    "channel": "Pluto TV Paranormal.de",
+    "url": "https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8",
+    "delay": 884,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Saarland Fernsehen 2 (720p) [Not 24/7]",
+    "channel": "Saarland Fernsehen 2 (720p) [Not 24/7].de",
+    "url": "https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8",
+    "delay": 896,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Dresden Fernsehen (1080p) [Not 24/7]",
+    "channel": "Dresden Fernsehen (1080p) [Not 24/7].de",
+    "url": "https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8",
+    "delay": 942,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TVA (1080p) [Not 24/7]",
+    "channel": "TVA (1080p) [Not 24/7].de",
+    "url": "https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8",
+    "delay": 965,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "München TV (1080p) [Not 24/7]",
+    "channel": "München TV (1080p) [Not 24/7].de",
+    "url": "https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8",
+    "delay": 983,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "iCarly",
+    "channel": "iCarly.de",
+    "url": "https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8",
+    "delay": 986,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Regio TV Stuttgart (1080p)",
+    "channel": "Regio TV Stuttgart (1080p).de",
+    "url": "https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8",
+    "delay": 991,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Handystar (404p) [Not 24/7]",
+    "channel": "Handystar (404p) [Not 24/7].de",
+    "url": "https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8",
+    "delay": 1004,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Sachsen Eins (1080p)",
+    "channel": "Sachsen Eins (1080p).de",
+    "url": "https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8",
+    "delay": 1026,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "L-TV (720p)",
+    "channel": "L-TV (720p).de",
+    "url": "https://live2.telvi.de/hls/l-tv_s1.m3u8",
+    "delay": 1066,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "MC TV (720p)",
+    "channel": "MC TV (720p).de",
+    "url": "https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live",
+    "delay": 1074,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Bibel TV Musik (720p)",
+    "channel": "Bibel TV Musik (720p).de",
+    "url": "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8",
+    "delay": 1087,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TV Mainfranken (1080p) [Not 24/7]",
+    "channel": "TV Mainfranken (1080p) [Not 24/7].de",
+    "url": "https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8",
+    "delay": 1154,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Bibel TV (720p)",
+    "channel": "Bibel TV (720p).de",
+    "url": "https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8",
+    "delay": 1155,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Naruto (720p)",
+    "channel": "Naruto (720p).de",
+    "url": "https://jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8",
+    "delay": 1192,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Bibel TV Impuls (720p)",
+    "channel": "Bibel TV Impuls (720p).de",
+    "url": "https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8",
+    "delay": 1308,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Dokusat (1080p)",
+    "channel": "Dokusat (1080p).de",
+    "url": "https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8",
+    "delay": 1308,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "HSE (1080p)",
+    "channel": "HSE (1080p).de",
+    "url": "https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8",
+    "delay": 1352,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "RT DE (1080p) [Not 24/7]",
+    "channel": "RT DE (1080p) [Not 24/7].de",
+    "url": "https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8",
+    "delay": 1382,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Chemnitz Fernsehen (1080p)",
+    "channel": "Chemnitz Fernsehen (1080p).de",
+    "url": "https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8",
+    "delay": 1406,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Rock Antenne [Not 24/7]",
+    "channel": "Rock Antenne [Not 24/7].de",
+    "url": "https://stream.rockantenne.de/rockantenne/stream/mp3",
+    "delay": 2488,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Lausitzwelle (1080p)",
+    "channel": "Lausitzwelle (1080p).de",
+    "url": "https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=",
+    "delay": 2981,
+    "resolution": "1080p HD",
+    "status": "active"
+  }
+]

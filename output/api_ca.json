@@ -1,0 +1,1042 @@
+[
+  {
+    "title": "Stingray Flashback 70s (1080p)",
+    "channel": "Stingray Flashback 70s (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8",
+    "delay": 7,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Sooriyan TV (1080p)",
+    "channel": "Sooriyan TV (1080p).ca",
+    "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8",
+    "delay": 20,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "NTV+",
+    "channel": "NTV+.ca",
+    "url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8",
+    "delay": 30,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Hit List (1080p)",
+    "channel": "Stingray Hit List (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8",
+    "delay": 31,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Greatest Hits (1080p)",
+    "channel": "Stingray Greatest Hits (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8",
+    "delay": 33,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Today's Latin Pop (1080p)",
+    "channel": "Stingray Today's Latin Pop (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8",
+    "delay": 33,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Karaoke (1080p)",
+    "channel": "Stingray Karaoke (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8",
+    "delay": 37,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Jukebox Oldies (1080p)",
+    "channel": "Stingray Jukebox Oldies (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8",
+    "delay": 39,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Probashi TV News (1080p)",
+    "channel": "Probashi TV News (1080p).ca",
+    "url": "http://158.69.24.53:8080/probashi_tv/index.m3u8",
+    "delay": 40,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Classica (1080p)",
+    "channel": "Stingray Classica (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8",
+    "delay": 40,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Smooth Jazz (1080p)",
+    "channel": "Stingray Smooth Jazz (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8",
+    "delay": 41,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Soul Storm (1080p)",
+    "channel": "Stingray Soul Storm (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8",
+    "delay": 41,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Classic Rock (1080p)",
+    "channel": "Stingray Classic Rock (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8",
+    "delay": 43,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "5AAB TV (720p) [Not 24/7]",
+    "channel": "5AAB TV (720p) [Not 24/7].ca",
+    "url": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8",
+    "delay": 44,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Sardari TV (1080p) [Not 24/7]",
+    "channel": "Sardari TV (1080p) [Not 24/7].ca",
+    "url": "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8",
+    "delay": 44,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Easy Listening (1080p)",
+    "channel": "Stingray Easy Listening (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8",
+    "delay": 44,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Urban Beat (1080p)",
+    "channel": "Stingray Urban Beat (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8",
+    "delay": 44,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TV5 Quebec Canada (1080p)",
+    "channel": "TV5 Quebec Canada (1080p).ca",
+    "url": "http://23.133.220.149/TV5/index.m3u8",
+    "delay": 44,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Euro Hits (1080p)",
+    "channel": "Stingray Euro Hits (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8",
+    "delay": 45,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Naturescape (1080p)",
+    "channel": "Stingray Naturescape (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8",
+    "delay": 45,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Pop Adult (1080p)",
+    "channel": "Stingray Pop Adult (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8",
+    "delay": 45,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Hot Country (1080p)",
+    "channel": "Stingray Hot Country (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
+    "delay": 47,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Nothin' But 90s (1080p)",
+    "channel": "Stingray Nothin' But 90s (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8",
+    "delay": 48,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Romance Latino (1080p)",
+    "channel": "Stingray Romance Latino (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8",
+    "delay": 48,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray The Spa (1080p)",
+    "channel": "Stingray The Spa (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8",
+    "delay": 49,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray DJAZZ (1080p)",
+    "channel": "Stingray DJAZZ (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8",
+    "delay": 51,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Remember the 80s (1080p)",
+    "channel": "Stingray Remember the 80s (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8",
+    "delay": 52,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Rock Alternative (1080p)",
+    "channel": "Stingray Rock Alternative (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8",
+    "delay": 54,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Kidoodle.TV (1080p)",
+    "channel": "Kidoodle.TV (1080p).ca",
+    "url": "https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8",
+    "delay": 58,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Sikh Spiritual Centre Rexdale (720p)",
+    "channel": "Sikh Spiritual Centre Rexdale (720p).ca",
+    "url": "https://cdn12.henico.net:8443/live/ssct/index.m3u8",
+    "delay": 65,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Autentic History (1080p)",
+    "channel": "Autentic History (1080p).ca",
+    "url": "https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8",
+    "delay": 68,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Today's KPOP (1080p)",
+    "channel": "Stingray Today's KPOP (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8",
+    "delay": 74,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "EWTN Canada (720p)",
+    "channel": "EWTN Canada (720p).ca",
+    "url": "https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8",
+    "delay": 76,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "GurSikh Sabha TV (720p) [Not 24/7]",
+    "channel": "GurSikh Sabha TV (720p) [Not 24/7].ca",
+    "url": "http://cdn12.henico.net:8080/live/gsctv/index.m3u8",
+    "delay": 83,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TamilVision-TV (1080p)",
+    "channel": "TamilVision-TV (1080p).ca",
+    "url": "https://live.cmr24.fm/TVI/HD/chunks.m3u8",
+    "delay": 86,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "Channel Y (720p) [Not 24/7]",
+    "channel": "Channel Y (720p) [Not 24/7].ca",
+    "url": "http://cdn19.live247stream.com/channely/tv/playlist.m3u8",
+    "delay": 89,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Ontario Parliamentary Network (720p)",
+    "channel": "Ontario Parliamentary Network (720p).ca",
+    "url": "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
+    "delay": 95,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Legislative Assembly TV Nunavut",
+    "channel": "Legislative Assembly TV Nunavut.ca",
+    "url": "http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8",
+    "delay": 96,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CityNews Toronto (720p)",
+    "channel": "CityNews Toronto (720p).ca",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8",
+    "delay": 98,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray CMusic (1080p)",
+    "channel": "Stingray CMusic (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8",
+    "delay": 100,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "XITE Siempre Latino (1080p)",
+    "channel": "XITE Siempre Latino (1080p).ca",
+    "url": "https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8",
+    "delay": 106,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Today's Shopping Choice (TSC) (720p)",
+    "channel": "Today's Shopping Choice (TSC) (720p).ca",
+    "url": "https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8",
+    "delay": 112,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Willow Sports (1080p)",
+    "channel": "Willow Sports (1080p).ca",
+    "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8",
+    "delay": 112,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "ICI RDI (720p)",
+    "channel": "ICI RDI (720p).ca",
+    "url": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8",
+    "delay": 113,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Total Crime (1080p)",
+    "channel": "Total Crime (1080p).ca",
+    "url": "https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8",
+    "delay": 118,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Newfoundland Television (480p)",
+    "channel": "Newfoundland Television (480p).ca",
+    "url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8",
+    "delay": 125,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Azstar TV HD (1080p)",
+    "channel": "Azstar TV HD (1080p).ca",
+    "url": "https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8",
+    "delay": 127,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Bob l'éponge (720p)",
+    "channel": "Bob l'éponge (720p).ca",
+    "url": "https://jmp2.uk/plu-66588931a3865300085ca800.m3u8",
+    "delay": 127,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "XITE Nuevo Latino (1080p)",
+    "channel": "XITE Nuevo Latino (1080p).ca",
+    "url": "https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8",
+    "delay": 127,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Toronto 360 TV (720p) [Not 24/7]",
+    "channel": "Toronto 360 TV (720p) [Not 24/7].ca",
+    "url": "http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8",
+    "delay": 128,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "Radio Tele Evangile Sans Limite",
+    "channel": "Radio Tele Evangile Sans Limite.ca",
+    "url": "https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8",
+    "delay": 130,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Dukh Nivaran (720p) [Not 24/7]",
+    "channel": "Dukh Nivaran (720p) [Not 24/7].ca",
+    "url": "http://cdn12.henico.net:8080/live/dncal/index.m3u8",
+    "delay": 131,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Nash Bridges Channel (1080p) [Geo-blocked]",
+    "channel": "Nash Bridges Channel (1080p) [Geo-blocked].ca",
+    "url": "https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8",
+    "delay": 134,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Watan-e-Maa TV (720p)",
+    "channel": "Watan-e-Maa TV (720p).ca",
+    "url": "https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8",
+    "delay": 138,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CityNews Calgary (720p)",
+    "channel": "CityNews Calgary (720p).ca",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8",
+    "delay": 140,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "GTN Canada (1080i) [Geo-blocked]",
+    "channel": "GTN Canada (1080i) [Geo-blocked].ca",
+    "url": "https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8",
+    "delay": 140,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Legislative Assembly of Ontario",
+    "channel": "Legislative Assembly of Ontario.ca",
+    "url": "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
+    "delay": 140,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "IIPC TV (720p)",
+    "channel": "IIPC TV (720p).ca",
+    "url": "https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8",
+    "delay": 144,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Amazing Discoveries TV (720p)",
+    "channel": "Amazing Discoveries TV (720p).ca",
+    "url": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8",
+    "delay": 150,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TAG TV (1080p) [Not 24/7]",
+    "channel": "TAG TV (1080p) [Not 24/7].ca",
+    "url": "http://cdn11.live247stream.com/tag/tv/playlist.m3u8",
+    "delay": 151,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "MHZ",
+    "channel": "MHZ.ca",
+    "url": "https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8",
+    "delay": 153,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Gaunda Punjab TV (720p)",
+    "channel": "Gaunda Punjab TV (720p).ca",
+    "url": "http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8",
+    "delay": 160,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CityNews Edmonton",
+    "channel": "CityNews Edmonton.ca",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8",
+    "delay": 161,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Eawaz TV (720p) [Not 24/7]",
+    "channel": "Eawaz TV (720p) [Not 24/7].ca",
+    "url": "https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8",
+    "delay": 163,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Mr. Bean Animated (1080p)",
+    "channel": "Mr. Bean Animated (1080p).ca",
+    "url": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
+    "delay": 164,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Canada One (720p) [Not 24/7]",
+    "channel": "Canada One (720p) [Not 24/7].ca",
+    "url": "http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8",
+    "delay": 168,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CBC News (1080p)",
+    "channel": "CBC News (1080p).ca",
+    "url": "https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8",
+    "delay": 168,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "FilmRise Anime (720p)",
+    "channel": "FilmRise Anime (720p).ca",
+    "url": "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8",
+    "delay": 168,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Cowboy Channel (1080p)",
+    "channel": "Cowboy Channel (1080p).ca",
+    "url": "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8",
+    "delay": 171,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "PBS Travel (1080p)",
+    "channel": "PBS Travel (1080p).ca",
+    "url": "https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8",
+    "delay": 172,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "3ABN Canada (720p)",
+    "channel": "3ABN Canada (720p).ca",
+    "url": "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8",
+    "delay": 177,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "The Conners (1080p) [Geo-blocked]",
+    "channel": "The Conners (1080p) [Geo-blocked].ca",
+    "url": "https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8",
+    "delay": 178,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CHCO-TV (720p) [Geo-blocked]",
+    "channel": "CHCO-TV (720p) [Geo-blocked].ca",
+    "url": "https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8",
+    "delay": 181,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Prime Asia TV (1080p)",
+    "channel": "Prime Asia TV (1080p).ca",
+    "url": "http://primeasia.selfip.net/Samsung/index.m3u8",
+    "delay": 187,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "EET TV (1080p) [Not 24/7]",
+    "channel": "EET TV (1080p) [Not 24/7].ca",
+    "url": "https://eu.streamjo.com/eetlive/eettv.m3u8",
+    "delay": 191,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "INWILD (1080p)",
+    "channel": "INWILD (1080p).ca",
+    "url": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8",
+    "delay": 194,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TSN The Ocho (1080p)",
+    "channel": "TSN The Ocho (1080p).ca",
+    "url": "https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8",
+    "delay": 195,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "C Malayalam TV (1080p)",
+    "channel": "C Malayalam TV (1080p).ca",
+    "url": "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8",
+    "delay": 198,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "ICI Montreal (720p)",
+    "channel": "ICI Montreal (720p).ca",
+    "url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8",
+    "delay": 198,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Autentic Travel (1080p)",
+    "channel": "Autentic Travel (1080p).ca",
+    "url": "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8",
+    "delay": 204,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "CityNews Vancouver (720p)",
+    "channel": "CityNews Vancouver (720p).ca",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8",
+    "delay": 205,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Knowledge Network (720p) [Geo-blocked]",
+    "channel": "Knowledge Network (720p) [Geo-blocked].ca",
+    "url": "https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8",
+    "delay": 205,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Quo Vadis TV (720p)",
+    "channel": "Quo Vadis TV (720p).ca",
+    "url": "https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8",
+    "delay": 205,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Hyder TV (720p)",
+    "channel": "Hyder TV (720p).ca",
+    "url": "https://cdn.live247stream.com/hyder/tv/playlist.m3u8",
+    "delay": 211,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pamir TV (1080p) [Not 24/7]",
+    "channel": "Pamir TV (1080p) [Not 24/7].ca",
+    "url": "http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8",
+    "delay": 214,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Qello Concerts by Stingray (1080p)",
+    "channel": "Qello Concerts by Stingray (1080p).ca",
+    "url": "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8",
+    "delay": 218,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Éxitos del Momento (1080p)",
+    "channel": "Stingray Éxitos del Momento (1080p).ca",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-xitos-del-momento/master.m3u8?ads.vf=--_m-LmFeCi",
+    "delay": 220,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Animation+ (1080p) [Geo-blocked]",
+    "channel": "Animation+ (1080p) [Geo-blocked].ca",
+    "url": "https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8",
+    "delay": 227,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "PBC Tapesh TV (720p)",
+    "channel": "PBC Tapesh TV (720p).ca",
+    "url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8",
+    "delay": 234,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Canal Savoir (360p)",
+    "channel": "Canal Savoir (360p).ca",
+    "url": "https://hls.savoir.media/live/stream.m3u8",
+    "delay": 236,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "XITE 90's Throwback (1080p)",
+    "channel": "XITE 90's Throwback (1080p).ca",
+    "url": "https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8",
+    "delay": 238,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "FEVA TV (1080p)",
+    "channel": "FEVA TV (1080p).ca",
+    "url": "https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=nn5CUAdOxVu",
+    "delay": 241,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Deshi TV (720p)",
+    "channel": "Deshi TV (720p).ca",
+    "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8",
+    "delay": 286,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "TVE Internacional America HD (1080p) [Geo-blocked]",
+    "channel": "TVE Internacional America HD (1080p) [Geo-blocked].ca",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8",
+    "delay": 287,
+    "resolution": "1080p HD",
+    "status": "active"
+  },
+  {
+    "title": "TVE Internacional America (576p) [Geo-blocked]",
+    "channel": "TVE Internacional America (576p) [Geo-blocked].ca",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8",
+    "delay": 289,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "icnet 1",
+    "channel": "icnet 1.ca",
+    "url": "https://icnet1hls.wns.live/hls/stream.m3u8",
+    "delay": 294,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Love Nature (1080p)",
+    "channel": "Love Nature (1080p).ca",
+    "url": "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
+    "delay": 297,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Montreal Greek TV (480p)",
+    "channel": "Montreal Greek TV (480p).ca",
+    "url": "http://live.greektv.ca/hls1/greektv.m3u8",
+    "delay": 298,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Outdoor Channel (1080p)",
+    "channel": "Outdoor Channel (1080p).ca",
+    "url": "https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8",
+    "delay": 302,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pardesi TV (720p)",
+    "channel": "Pardesi TV (720p).ca",
+    "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8",
+    "delay": 309,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "The Graham Norton Show (1080p)",
+    "channel": "The Graham Norton Show (1080p).ca",
+    "url": "https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8",
+    "delay": 315,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Erfan Halgheh TV (720p)",
+    "channel": "Erfan Halgheh TV (720p).ca",
+    "url": "https://hls.erfanhalgheh.live/hls/stream.m3u8",
+    "delay": 332,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Remember the 80s (1080p)",
+    "channel": "Stingray Remember the 80s (1080p).ca",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-remember-the-80s/master.m3u8?ads.vf=Fq0bVWh7hy0",
+    "delay": 332,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "PTC Punjabi Canada (1080p)",
+    "channel": "PTC Punjabi Canada (1080p).ca",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ptc-punjabi-canada/index.m3u8?ads.vf=78XheDwhNDq",
+    "delay": 333,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "NTD TV Canada West",
+    "channel": "NTD TV Canada West.ca",
+    "url": "https://live.ntdtv.com/cwlive220/playlist.m3u8",
+    "delay": 337,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Red Bull TV US (1080p)",
+    "channel": "Red Bull TV US (1080p).ca",
+    "url": "https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8",
+    "delay": 347,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Stingray Holidayscapes (1080p)",
+    "channel": "Stingray Holidayscapes (1080p).ca",
+    "url": "https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8",
+    "delay": 360,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "FIFA+ United States (720p)",
+    "channel": "FIFA+ United States (720p).ca",
+    "url": "https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "delay": 368,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Now TV 102.3FM Edmonton (CKNO-FM) (616p)",
+    "channel": "Now TV 102.3FM Edmonton (CKNO-FM) (616p).ca",
+    "url": "https://videostream.jpbgdigital.com/NOWTV.m3u8",
+    "delay": 382,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Hard Knocks (1080p)",
+    "channel": "Hard Knocks (1080p).ca",
+    "url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418",
+    "delay": 390,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Sohail TV (1080p)",
+    "channel": "Sohail TV (1080p).ca",
+    "url": "https://iptv.sohailtv.com/sohail/playlist/index.m3u8",
+    "delay": 394,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "RT France (1080p) [Geo-blocked]",
+    "channel": "RT France (1080p) [Geo-blocked].ca",
+    "url": "https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8",
+    "delay": 408,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Love Nature 4K (2160p) [Geo-blocked]",
+    "channel": "Love Nature 4K (2160p) [Geo-blocked].ca",
+    "url": "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8",
+    "delay": 493,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Game+ (720p)",
+    "channel": "Game+ (720p).ca",
+    "url": "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8",
+    "delay": 497,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "STAR International (720p)",
+    "channel": "STAR International (720p).ca",
+    "url": "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8",
+    "delay": 621,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "NTD TV Canada",
+    "channel": "NTD TV Canada.ca",
+    "url": "https://live.ntdtv.com/mllive860/playlist.m3u8",
+    "delay": 624,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "48 Hours",
+    "channel": "48 Hours.ca",
+    "url": "https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8",
+    "delay": 706,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "MovieSphere by Lionsgate",
+    "channel": "MovieSphere by Lionsgate.ca",
+    "url": "https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8",
+    "delay": 722,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Nashville",
+    "channel": "Nashville.ca",
+    "url": "https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8",
+    "delay": 723,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "SVBC 4 (1080p)",
+    "channel": "SVBC 4 (1080p).ca",
+    "url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
+    "delay": 726,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "SVBC 3 (720p)",
+    "channel": "SVBC 3 (720p).ca",
+    "url": "https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8",
+    "delay": 737,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Anime",
+    "channel": "Pluto TV Anime.ca",
+    "url": "https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8",
+    "delay": 743,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "One Piece",
+    "channel": "One Piece.ca",
+    "url": "https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8",
+    "delay": 771,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "ZenLIFE by Stingray",
+    "channel": "ZenLIFE by Stingray.ca",
+    "url": "https://jmp2.uk/plu-696998dfa2b623e8b20125a3.m3u8",
+    "delay": 777,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "Pluto TV Horror",
+    "channel": "Pluto TV Horror.ca",
+    "url": "https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8",
+    "delay": 793,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "HauntTV CA (720p)",
+    "channel": "HauntTV CA (720p).ca",
+    "url": "https://jmp2.uk/plu-63934c218ef524000757b122.m3u8",
+    "delay": 863,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "NickToons",
+    "channel": "NickToons.ca",
+    "url": "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8",
+    "delay": 952,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "SVBC Sri Venkateswara Bhakti Channel (1080p)",
+    "channel": "SVBC Sri Venkateswara Bhakti Channel (1080p).ca",
+    "url": "https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8",
+    "delay": 962,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "SVBC 2 (1080p)",
+    "channel": "SVBC 2 (1080p).ca",
+    "url": "https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8",
+    "delay": 1272,
+    "resolution": "720p",
+    "status": "active"
+  },
+  {
+    "title": "The Weather Network (720p)",
+    "channel": "The Weather Network (720p).ca",
+    "url": "https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8",
+    "delay": 2212,
+    "resolution": "720p",
+    "status": "active"
+  }
+]
