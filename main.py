@@ -3,85 +3,77 @@ import aiohttp
 import time
 import json
 import os
+import re
 
 # =========================================================================
-# ⚙️ 终极解耦配置：直接绕过 iptv-org 的 API 限制，去捞他们的物理源头
+# ⚙️ 独立自主开发：全球版 IPTV 多国并发清洗过滤器
 # =========================================================================
-TIMEOUT_LIMIT = 4.0           
-MAX_CONCURRENT_TASKS = 30     
-TARGET_COUNTRIES = ["CN", "HK", "TW", "US", "JP", "KR"]
+TIMEOUT_LIMIT = 5.0           # 💥 放宽到 5 秒，给全球跨境网络流留足握手时间
+MAX_CONCURRENT_TASKS = 30     # 限制并发，防止动作太粗暴被大厂防火墙拉黑
 
-# 💥 降维打击：直接调用 iptv-org 在 GitHub 仓库里的原始物理明文数据文件（100% 不会被限流截断！）
-RAW_STREAMS_URL = "https://raw.githubusercontent.com/iptv-org/database/master/data/streams.csv"
-
-# 🔌 同时聚合全网其他高质量明文订阅源（形成多物理源并网备灾）
-CUSTOM_SUBSCRIPTIONS = [
-    "https://raw.githubusercontent.com/Guovin/iptv-api/master/output/result.m3u",
-    "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
-]
+# 🌍 核心版图：你想要开通的全球版国家/地区矩阵（可以无限追加 ISO 国家代码）
+GLOBAL_COUNTRIES = {
+    "CN": "中国内地", "HK": "中国香港", "TW": "中国台湾", 
+    "US": "美国",     "GB": "英国",     "JP": "日本", 
+    "KR": "韩国",     "FR": "法国",     "DE": "德国", 
+    "IT": "意大利",   "ES": "西班牙",   "CA": "加拿大"
+}
 
 OUTPUT_DIR = "output"
 
 async def test_stream_details(session, semaphore, stream):
+    """
+    🎯 核心拨测：探测全球视频源的绝对存活状态与响应延迟
+    """
     url = stream.get("url")
-    ua = stream.get("user_agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64)")
+    ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     headers = {"User-Agent": ua}
-    
+
     async with semaphore:
         start_time = time.time()
         try:
-            async with session.head(url, headers=headers, timeout=TIMEOUT_LIMIT) as response:
-                if response.status in [200, 206, 302]:
-                    stream["delay"] = int((time.time() - start_time) * 1000)
+            # 采用柔性探测
+            async with session.get(url, headers=headers, timeout=TIMEOUT_LIMIT) as response:
+                if response.status in [200, 206]:
+                    delay_ms = int((time.time() - start_time) * 1000)
+                    stream["delay"] = delay_ms
                     stream["resolution"] = "1080p HD" if "hd" in url.lower() or "1080" in url else "720p"
+                    stream["status"] = "active"
                     return stream
         except Exception:
             pass
         return None
 
-async def parse_raw_csv_streams(session):
+async def fetch_and_parse_country_m3u(session, country_code):
     """
-    🎯 核心硬核魔改：直接解析 iptv-org 最底层的明文 CSV 数据库
-    这等于把数据全盘私有化下载到了你自己的虚拟机内存中，官方怎么限流都拿你没办法！
+    📡 分布式抓取：直接去 iptv-org 物理库捞取该国最纯正的本土 M3U 文件
+    100% 绕过全量大 JSON 的防刷截断限制！
     """
-    streams = []
-    print("📡 正在绕过官方API，直击物理源头拉取原始 CSV 数据库...")
-    try:
-        async with session.get(RAW_STREAMS_URL, timeout=15) as resp:
-            if resp.status == 200:
-                text = await resp.text()
-                lines = text.split("\n")
-                
-                # CSV 的头部行特征解析
-                # 格式通常是: channel,url,user_agent,referrer,banned,...
-                header = [h.strip() for h in lines[0].split(",")]
-                
-                for line in lines[1:]:
-                    if not line.strip(): continue
-                    # 粗暴切分字段（简单对齐标准）
-                    parts = line.split(",")
-                    if len(parts) >= 2:
-                        channel = parts[0].strip()
-                        url = parts[1].strip()
-                        
-                        # 判断是不是我们要测试的目标国家频道
-                        if any(f".{c.lower()}" in channel for c in TARGET_COUNTRIES):
-                            stream = {
-                                "channel": channel,
-                                "title": channel.split(".")[0], # 用频道名做临时标题
-                                "url": url,
-                                "user_agent": parts[2].strip() if len(parts) > 2 and parts[2].strip() else "Mozilla/5.0",
-                                "referrer": parts[3].strip() if len(parts) > 3 and parts[3].strip() else None
-                            }
-                            streams.append(stream)
-    except Exception as e:
-        print(f"❌ 抓取物理源头失败: {e}")
-    return streams
-
-async def parse_m3u_subscription(session, url):
+    url = f"https://iptv-org.github.io/api/streams/{country_code.lower()}.json"
+    # 备用航道：如果 streams 细分接口不存在，则去捞国家的原生 m3u 文本
+    m3u_fallback_url = f"https://iptv-org.github.io/iptv/countries/{country_code.lower()}.m3u"
+    
     streams = []
     try:
+        # 优先尝试拉取结构化的细分 JSON
         async with session.get(url, timeout=10) as resp:
+            if resp.status == 200:
+                raw_data = await resp.json()
+                for item in raw_data:
+                    streams.append({
+                        "channel": item.get("channel"),
+                        "title": item.get("channel", "Unknown").split(".")[0],
+                        "url": item.get("url"),
+                        "user_agent": item.get("user_agent", "Mozilla/5.0"),
+                        "referrer": item.get("referrer")
+                    })
+                return streams
+    except Exception:
+        pass
+
+    # 💥 备用航道启动：暴力解析原生 M3U 文本
+    try:
+        async with session.get(m3u_fallback_url, timeout=10) as resp:
             if resp.status == 200:
                 text = await resp.text()
                 lines = text.split("\n")
@@ -90,9 +82,7 @@ async def parse_m3u_subscription(session, url):
                     line = line.strip()
                     if line.startswith("#EXTINF:"):
                         title = line.split(",")[-1].strip()
-                        country = "CN"
-                        if "hbo" in title.lower() or "bbc" in title.lower(): country = "US"
-                        current_info = {"title": title, "channel": f"Sub.{title}.{country.lower()}"}
+                        current_info = {"title": title, "channel": f"{title}.{country_code.lower()}"}
                     elif line.startswith("http") and current_info:
                         current_info["url"] = line
                         streams.append(current_info)
@@ -103,51 +93,40 @@ async def parse_m3u_subscription(session, url):
 
 async def main():
     start_all = time.time()
-    if not os.path.exists(OUTPUT_DIR): os.makedirs(OUTPUT_DIR)
+    if not os.path.exists(OUTPUT_DIR): 
+        os.makedirs(OUTPUT_DIR)
 
-    all_raw_streams = []
+    semaphore = asyncio.Semaphore(MAX_CONCURRENT_TASKS)
     
     async with aiohttp.ClientSession() as session:
-        # 🚀 第一通路：从官方底裤仓库捞取全量明文数据
-        raw_csv_data = await parse_raw_csv_streams(session)
-        all_raw_streams.extend(raw_csv_data)
-
-        # 🚀 第二通路：强力并网全网高含金量 M3U 订阅
-        for sub_url in CUSTOM_SUBSCRIPTIONS:
-            sub_streams = await parse_m3u_subscription(session, sub_url)
-            all_raw_streams.extend(sub_streams)
-
-    print(f"📊 独立大池子并网成功！累计锁定目标候选流: {len(all_raw_streams)} 条")
-
-    # 分拣桶
-    country_buckets = {country: [] for country in TARGET_COUNTRIES}
-    for stream in all_raw_streams:
-        channel_id = stream.get("channel", "")
-        if channel_id and "." in channel_id:
-            suffix = channel_id.split(".")[-1].upper()
-            if suffix in country_buckets:
-                country_buckets[suffix].append(stream)
-
-    # 柔性测速
-    semaphore = asyncio.Semaphore(MAX_CONCURRENT_TASKS)
-    async with aiohttp.ClientSession() as session:
-        for country, streams in country_buckets.items():
-            if not streams: continue
+        # 🌍 遍历全球版图，一个国家一个国家地进行深度洗牌
+        for code, name in GLOBAL_COUNTRIES.items():
+            print(f"📡 [全球版网关] 正在跨国抓取 【{name} ({code})】 的原始频道池...")
+            
+            raw_streams = await fetch_and_parse_country_m3u(session, code)
+            if not raw_streams:
+                print(f"⚠️ 未能在全球库中捞到 【{name}】 的数据，跳过。")
+                continue
                 
-            print(f"⚡ 开始对 [{country}] 的 {len(streams)} 个流发起全自主网络测速...")
-            tasks = [test_stream_details(session, semaphore, s) for s in streams]
+            print(f"⚡ 抓取成功！获取到候选种子 {len(raw_streams)} 个，正在发起全并发存活拨测...")
+            
+            tasks = [test_stream_details(session, semaphore, s) for s in raw_streams]
             results = await asyncio.gather(*tasks)
             
+            # 物理剔除死链
             valid_streams = [r for r in results if r is not None]
+            
+            # 排序：快台、延迟低的优质流排在最前面
             valid_streams.sort(key=lambda x: x["delay"])
             
-            # 落地写入你自己的仓库
-            output_path = os.path.join(OUTPUT_DIR, f"api_{country.lower()}.json")
+            # 落地为每个国家独立的纯净 API 文件
+            output_path = os.path.join(OUTPUT_DIR, f"api_{code.lower()}.json")
             with open(output_path, "w", encoding="utf-8") as f:
                 json.dump(valid_streams, f, ensure_ascii=False, indent=2)
-            print(f"💾 [{country}] 测速收工！真正全活可用台: {len(valid_streams)} 个 -> 已同步至仓库")
+                
+            print(f"💾 【{name} ({code})】 洗牌完成！全活秒开台: {len(valid_streams)} 个 -> 已存入仓库\n")
 
-    print(f"🎉 史诗级完全自主清洗圆满结束！累计耗时: {round(time.time() - start_all, 2)} 秒")
+    print(f"🎉 真正的全球版流媒体清洗大坝全面落子！总耗时: {round(time.time() - start_all, 2)} 秒")
 
 if __name__ == "__main__":
     asyncio.run(main())
