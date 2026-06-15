@@ -1,16 +1,58 @@
 [
   {
-    "channel": "NeiMonggolTV.cn",
-    "feed": "SD",
-    "title": "Nei Monggol TV",
-    "url": "https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8",
-    "quality": "960p",
-    "label": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-    "referrer": null,
-    "delay": 267,
-    "speed_kbs": 27261,
-    "resolution": "1080p HD",
-    "status": "active"
+    "title": "浙江民生",
+    "channel": "Sub.浙江民生.cn",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
+    "delay": 1397,
+    "resolution": "1080p HD"
+  },
+  {
+    "title": "浙江经济",
+    "channel": "Sub.浙江经济.cn",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
+    "delay": 1400,
+    "resolution": "1080p HD"
+  },
+  {
+    "title": "浙江教科",
+    "channel": "Sub.浙江教科.cn",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
+    "delay": 1404,
+    "resolution": "1080p HD"
+  },
+  {
+    "title": "浙江新闻",
+    "channel": "Sub.浙江新闻.cn",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
+    "delay": 1406,
+    "resolution": "1080p HD"
+  },
+  {
+    "title": "浙江少儿",
+    "channel": "Sub.浙江少儿.cn",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
+    "delay": 1406,
+    "resolution": "1080p HD"
+  },
+  {
+    "title": "之江纪录",
+    "channel": "Sub.之江纪录.cn",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8",
+    "delay": 1406,
+    "resolution": "1080p HD"
+  },
+  {
+    "title": "浙江钱江",
+    "channel": "Sub.浙江钱江.cn",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
+    "delay": 1472,
+    "resolution": "1080p HD"
+  },
+  {
+    "title": "浙江国际",
+    "channel": "Sub.浙江国际.cn",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
+    "delay": 1473,
+    "resolution": "1080p HD"
   }
 ]
