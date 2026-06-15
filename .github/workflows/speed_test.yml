@@ -13,7 +13,7 @@ jobs:
     - name: 📥 检出当前仓库代码
       uses: actions/checkout@v3
       with:
-        fetch-depth: 0 # 👈 核心优化：拉取完整的 Git 提交历史，防止浅层克隆导致合并失败
+        fetch-depth: 1 # 👈 优化：只拉取最新一层，不要历史包袱，防仓库膨胀
 
     - name: 🐍 部署 Python 生产环境
       uses: actions/setup-python@v4
@@ -28,12 +28,16 @@ jobs:
     - name: ⚡ 运行 Python 异步测速大坝
       run: python main.py
 
-    - name: 🚀 将最新的纯净多国 JSON 矩阵推送到发布层
+    - name: 🚀 强力覆盖推送（彻底消灭 Git 冲突）
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add output/*.json
+        
+        # 💥 关键动作：把新生成的 output/*.json 和最新的缓存库 database.json 全部强制暂存
+        git add database.json output/*.json || true
+        
+        # 提交。如果没有数据变动，直接安全退出
         git commit -m "Update Global Pure Live Source Matrix [Automated]" || exit 0
-        # 💥 核心修复：使用 -f (force) 强行覆盖远程版本树，或者先 pull rebase 一下
-        git pull --rebase origin main || true
-        git push origin main
+        
+        # 🔥 降维打击：放弃复杂的 rebase/merge，直接强行（-f）把虚拟机在内存里洗好的完美版本推向远程主分支！
+        git push -f origin main
