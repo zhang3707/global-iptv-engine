@@ -5,14 +5,13 @@ import json
 import os
 
 # =========================================================================
-# ⚙️ 工业级配置面板：官方真理节点·多级漏斗增量大坝
+# ⚙️ 工业级配置面板：官方真理节点·多级漏斗增量大坝（脏数据高容错版）
 # =========================================================================
 MAX_CONCURRENT_TASKS = 50     # 粗筛并发
 TIMEOUT_FAST = 2.0            # ⚡ 粗筛超时：2秒不回应直接判定为死链
 TIMEOUT_DEEP = 5.0            # ⏱️ 精测超时：5秒给跨境流握手
 RE_TEST_DAYS = 3              # 🔄 查重机制：3天内测过的活台直接沿用
 
-# 💥 修正：直接调取官方 Pages 的全量结构化流媒体大池子（100% 存在，绝不报 404）
 STREAMS_API_URL = "https://iptv-org.github.io/api/streams.json"
 DB_FILE = "database.json"     # 💾 本地状态数据库
 OUTPUT_DIR = "output"
@@ -119,27 +118,33 @@ async def main():
                     print(f"❌ 抓取失败，状态码: {resp.status}")
                     return
                 
-                # 直接获取结构化好的纯净 JSON 数组
                 raw_json = await resp.json()
                 
                 for item in raw_json:
-                    channel = item.get("channel", "").strip()
-                    url = item.get("url", "").strip()
+                    # 💥 容错性重构：使用 str() 强制将潜在的 None 安全转化为字符串，并用 get() 设定空安全兜底
+                    channel_raw = item.get("channel")
+                    url_raw = item.get("url")
                     
-                    if not channel or not url: continue
+                    if not channel_raw or not url_raw: continue
+                    
+                    channel = str(channel_raw).strip()
+                    url = str(url_raw).strip()
                     
                     if "." in channel:
                         suffix = channel.split(".")[-1].upper()
                         if suffix in GLOBAL_COUNTRIES:
+                            ua_raw = item.get("user_agent")
+                            user_agent = str(ua_raw).strip() if ua_raw else "Mozilla/5.0"
+                            
                             all_raw.append({
                                 "channel": channel,
                                 "title": channel.split(".")[0],
                                 "url": url,
-                                "user_agent": item.get("user_agent", "Mozilla/5.0").strip(),
+                                "user_agent": user_agent,
                                 "referrer": item.get("referrer")
                             })
         except Exception as e:
-            print(f"❌ 运行期网络中断: {e}")
+            print(f"❌ 运行期出现异常: {e}")
             return
 
     print(f"📊 数据库解析完毕！成功锁定全球核心候选流: {len(all_raw)} 条。开始第一级【漏斗粗筛】...")
