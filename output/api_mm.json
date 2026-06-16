@@ -1,0 +1,46 @@
+[
+  {
+    "channel": "FortuneTV.mm",
+    "title": "FortuneTV",
+    "url": "http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 452,
+    "speed_kbs": 13899,
+    "resolution": "1080p",
+    "last_test": 1781578157.8490732
+  },
+  {
+    "channel": "DVBTV.mm",
+    "title": "DVBTV",
+    "url": "https://live-stream.dvb.no/hls/stream_src/index.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 584,
+    "speed_kbs": 13014,
+    "resolution": "1080p",
+    "last_test": 1781578157.4406543
+  },
+  {
+    "channel": "MaharTV.mm",
+    "title": "MaharTV",
+    "url": "https://tv.mahar.live/mahar/website.stream/playlist.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 867,
+    "speed_kbs": 9816,
+    "resolution": "1080p",
+    "last_test": 1781578159.7999237
+  },
+  {
+    "channel": "MRTVFarmer.mm",
+    "title": "MRTVFarmer",
+    "url": "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 1139,
+    "speed_kbs": 26187,
+    "resolution": "1080p",
+    "last_test": 1781578160.5114057
+  }
+]

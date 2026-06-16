@@ -1,0 +1,145 @@
+[
+  {
+    "channel": "AnimaxAsia.sg",
+    "title": "AnimaxAsia",
+    "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 160,
+    "speed_kbs": 26162,
+    "resolution": "1080p",
+    "last_test": 1781578153.8313227
+  },
+  {
+    "channel": "CNAOriginals.sg",
+    "title": "CNAOriginals",
+    "url": "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 162,
+    "speed_kbs": 70465,
+    "resolution": "1080p",
+    "last_test": 1781578155.5409691
+  },
+  {
+    "channel": "KCM.sg",
+    "title": "KCM",
+    "url": "https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 163,
+    "speed_kbs": 30102,
+    "resolution": "1080p",
+    "last_test": 1781578158.7780771
+  },
+  {
+    "channel": "ZooMoo.sg",
+    "title": "ZooMoo",
+    "url": "https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 172,
+    "speed_kbs": 38942,
+    "resolution": "1080p",
+    "last_test": 1781578165.9182916
+  },
+  {
+    "channel": "CNAOriginals.sg",
+    "title": "CNAOriginals",
+    "url": "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 183,
+    "speed_kbs": 101400,
+    "resolution": "1080p",
+    "last_test": 1781578155.5414062
+  },
+  {
+    "channel": "ZooMoo.sg",
+    "title": "ZooMoo",
+    "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 230,
+    "speed_kbs": 59801,
+    "resolution": "1080p",
+    "last_test": 1781578165.9457886
+  },
+  {
+    "channel": "ZooMoo.sg",
+    "title": "ZooMoo",
+    "url": "https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null,
+    "delay": 235,
+    "speed_kbs": 36329,
+    "resolution": "1080p",
+    "last_test": 1781578165.9519825
+  },
+  {
+    "channel": "AniplusAsia.sg",
+    "title": "AniplusAsia",
+    "url": "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 263,
+    "speed_kbs": 3658,
+    "resolution": "1080p",
+    "last_test": 1781578153.951732
+  },
+  {
+    "channel": "ZooMoo.sg",
+    "title": "ZooMoo",
+    "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 273,
+    "speed_kbs": 214000,
+    "resolution": "1080p",
+    "last_test": 1781578165.9914496
+  },
+  {
+    "channel": "CNA.sg",
+    "title": "CNA",
+    "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 293,
+    "speed_kbs": 44306,
+    "resolution": "1080p",
+    "last_test": 1781578155.6429925
+  },
+  {
+    "channel": "ZooMoo.sg",
+    "title": "ZooMoo",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 689,
+    "speed_kbs": 19065,
+    "resolution": "1080p",
+    "last_test": 1781578166.425684
+  },
+  {
+    "channel": "meWATCHLIVE1.sg",
+    "title": "meWATCHLIVE1",
+    "url": "https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 769,
+    "speed_kbs": 25454,
+    "resolution": "1080p",
+    "last_test": 1781578160.006867
+  },
+  {
+    "channel": "CrimePlusInvestigationAsia.sg",
+    "title": "CrimePlusInvestigationAsia",
+    "url": "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 862,
+    "speed_kbs": 642,
+    "resolution": "720p",
+    "last_test": 1781578156.3823361
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "channel": "SusunTVInternational.my",
+    "title": "SusunTVInternational",
+    "url": "https://vodcdn.bamboo-cloud.com/livehls/6901607706304423c1685213/master.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": "https://susuntv.bamboo-cloud.com/",
+    "delay": 62,
+    "speed_kbs": 92690,
+    "resolution": "1080p",
+    "last_test": 1781578162.8850768
+  },
+  {
+    "channel": "8TV.my",
+    "title": "8TV",
+    "url": "http://cdn6.163189.xyz/163189/8tv",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 106,
+    "speed_kbs": 17667,
+    "resolution": "1080p",
+    "last_test": 1781578152.8981724
+  },
+  {
+    "channel": "TV3.my",
+    "title": "TV3",
+    "url": "https://m3u.chanox97.workers.dev/tv3.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 365,
+    "speed_kbs": 26270,
+    "resolution": "1080p",
+    "last_test": 1781578163.8218243
+  },
+  {
+    "channel": "MaahTV.my",
+    "title": "MaahTV",
+    "url": "https://hls.maahtv.live/hls/stream.m3u8",
+    "user_agent": "Mozilla/5.0",
+    "referrer": null,
+    "delay": 427,
+    "speed_kbs": 48211,
+    "resolution": "1080p",
+    "last_test": 1781578159.3059287
+  }
+]
