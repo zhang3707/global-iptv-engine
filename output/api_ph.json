@@ -7,7 +7,7 @@
     "delay": 184,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "IBC13.ph",
@@ -17,7 +17,7 @@
     "delay": 184,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "LivingAsiaChannel.ph",
@@ -27,7 +27,7 @@
     "delay": 184,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "MindanowNetworkTV.ph",
@@ -37,7 +37,7 @@
     "delay": 184,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "PTV.ph",
@@ -47,7 +47,7 @@
     "delay": 184,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TeleRadyo.ph",
@@ -57,7 +57,7 @@
     "delay": 234,
     "speed_kbs": 612693,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "PremierSports2.ph",
@@ -67,7 +67,7 @@
     "delay": 261,
     "speed_kbs": 167134,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "PremierSports.ph",
@@ -77,7 +77,7 @@
     "delay": 262,
     "speed_kbs": 154173,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "BilyonaryoNewsChannel.ph",
@@ -87,7 +87,7 @@
     "delay": 295,
     "speed_kbs": 10275,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTN47.ph",
@@ -97,7 +97,7 @@
     "delay": 396,
     "speed_kbs": 34861,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "MindanowNetworkTV.ph",
@@ -107,7 +107,7 @@
     "delay": 408,
     "speed_kbs": 6798,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "AbanteTV.ph",
@@ -117,7 +117,7 @@
     "delay": 427,
     "speed_kbs": 73197,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "LivingAsiaChannel.ph",
@@ -127,7 +127,7 @@
     "delay": 469,
     "speed_kbs": 10381,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "HopeChannelPhilippines.ph",
@@ -137,7 +137,7 @@
     "delay": 812,
     "speed_kbs": 48306,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CLTV36.ph",
@@ -147,7 +147,7 @@
     "delay": 825,
     "speed_kbs": 14230,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "AbanteTV.ph",
@@ -157,6 +157,6 @@
     "delay": 1348,
     "speed_kbs": 10523,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   }
 ]

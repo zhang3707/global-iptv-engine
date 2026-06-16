@@ -7,7 +7,7 @@
     "delay": 2,
     "speed_kbs": 24600,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV15.cn",
@@ -17,7 +17,7 @@
     "delay": 4,
     "speed_kbs": 214613,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV9.cn",
@@ -27,7 +27,7 @@
     "delay": 17,
     "speed_kbs": 18962,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTNSpanish.cn",
@@ -37,7 +37,7 @@
     "delay": 75,
     "speed_kbs": 16312,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV8K.cn",
@@ -47,7 +47,7 @@
     "delay": 77,
     "speed_kbs": 18432,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV6.cn",
@@ -57,7 +57,7 @@
     "delay": 78,
     "speed_kbs": 21425,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV1.cn",
@@ -67,7 +67,7 @@
     "delay": 79,
     "speed_kbs": 22029,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV4K.cn",
@@ -77,7 +77,7 @@
     "delay": 81,
     "speed_kbs": 14848,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV6.cn",
@@ -87,7 +87,7 @@
     "delay": 83,
     "speed_kbs": 23210,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV1.cn",
@@ -97,7 +97,7 @@
     "delay": 90,
     "speed_kbs": 22472,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTNSpanish.cn",
@@ -107,7 +107,7 @@
     "delay": 102,
     "speed_kbs": 37125,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTN.cn",
@@ -117,7 +117,7 @@
     "delay": 109,
     "speed_kbs": 30684,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTNArabic.cn",
@@ -127,7 +127,7 @@
     "delay": 110,
     "speed_kbs": 31158,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV15.cn",
@@ -137,7 +137,7 @@
     "delay": 118,
     "speed_kbs": 25568,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV14.cn",
@@ -147,7 +147,7 @@
     "delay": 120,
     "speed_kbs": 17303,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV13.cn",
@@ -157,7 +157,7 @@
     "delay": 121,
     "speed_kbs": 23756,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV12.cn",
@@ -167,7 +167,7 @@
     "delay": 124,
     "speed_kbs": 24927,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV8.cn",
@@ -177,7 +177,7 @@
     "delay": 157,
     "speed_kbs": 15928,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV3.cn",
@@ -187,7 +187,7 @@
     "delay": 158,
     "speed_kbs": 15090,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV10.cn",
@@ -197,7 +197,7 @@
     "delay": 159,
     "speed_kbs": 21279,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV11.cn",
@@ -207,7 +207,7 @@
     "delay": 159,
     "speed_kbs": 27264,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTVWomensFashion.cn",
@@ -217,7 +217,7 @@
     "delay": 159,
     "speed_kbs": 23612,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV1.cn",
@@ -227,7 +227,7 @@
     "delay": 160,
     "speed_kbs": 18301,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV2.cn",
@@ -237,7 +237,7 @@
     "delay": 160,
     "speed_kbs": 20480,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV8K.cn",
@@ -247,7 +247,7 @@
     "delay": 161,
     "speed_kbs": 24224,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV7.cn",
@@ -257,7 +257,7 @@
     "delay": 164,
     "speed_kbs": 17554,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV4Asia.cn",
@@ -267,7 +267,7 @@
     "delay": 165,
     "speed_kbs": 20979,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTVTheFirstTheater.cn",
@@ -277,7 +277,7 @@
     "delay": 196,
     "speed_kbs": 22820,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTVWeaponTechnology.cn",
@@ -287,7 +287,7 @@
     "delay": 196,
     "speed_kbs": 25088,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTVGolfTennis.cn",
@@ -297,7 +297,7 @@
     "delay": 197,
     "speed_kbs": 17778,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTVStormFootball.cn",
@@ -307,7 +307,7 @@
     "delay": 197,
     "speed_kbs": 18711,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTVCultureofQuality.cn",
@@ -317,7 +317,7 @@
     "delay": 200,
     "speed_kbs": 14596,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTVNostalgiaTheater.cn",
@@ -327,7 +327,7 @@
     "delay": 200,
     "speed_kbs": 17452,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTVStormMusic.cn",
@@ -337,7 +337,7 @@
     "delay": 200,
     "speed_kbs": 17081,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTVBilliards.cn",
@@ -347,7 +347,7 @@
     "delay": 201,
     "speed_kbs": 17541,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTVHealth.cn",
@@ -357,7 +357,7 @@
     "delay": 202,
     "speed_kbs": 20164,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTVWorldGeography.cn",
@@ -367,7 +367,7 @@
     "delay": 202,
     "speed_kbs": 15339,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTVStormTheater.cn",
@@ -377,7 +377,7 @@
     "delay": 205,
     "speed_kbs": 22300,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTN.cn",
@@ -387,7 +387,7 @@
     "delay": 228,
     "speed_kbs": 14996,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTNDocumentary.cn",
@@ -397,7 +397,7 @@
     "delay": 228,
     "speed_kbs": 14758,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV13.cn",
@@ -407,7 +407,7 @@
     "delay": 249,
     "speed_kbs": 12561,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTNSpanish.cn",
@@ -417,7 +417,7 @@
     "delay": 249,
     "speed_kbs": 61725,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VoATVChina.cn",
@@ -427,7 +427,7 @@
     "delay": 271,
     "speed_kbs": 100538,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "ChinaTravel.cn",
@@ -437,7 +437,7 @@
     "delay": 273,
     "speed_kbs": 178144,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DiscoveringChina.cn",
@@ -447,7 +447,7 @@
     "delay": 279,
     "speed_kbs": 306876,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "NeiMonggolTV.cn",
@@ -457,7 +457,7 @@
     "delay": 281,
     "speed_kbs": 50393,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTNSpanish.cn",
@@ -467,7 +467,7 @@
     "delay": 293,
     "speed_kbs": 9,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV10.cn",
@@ -477,7 +477,7 @@
     "delay": 305,
     "speed_kbs": 41779,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTNGlobalBiz.cn",
@@ -487,7 +487,7 @@
     "delay": 311,
     "speed_kbs": 153954,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV4Europe.cn",
@@ -497,7 +497,7 @@
     "delay": 313,
     "speed_kbs": 24927,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTNDocumentary.cn",
@@ -507,7 +507,7 @@
     "delay": 314,
     "speed_kbs": 38866,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTNRussian.cn",
@@ -517,7 +517,7 @@
     "delay": 315,
     "speed_kbs": 14420,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTNFrench.cn",
@@ -527,7 +527,7 @@
     "delay": 318,
     "speed_kbs": 38775,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTN.cn",
@@ -537,7 +537,7 @@
     "delay": 324,
     "speed_kbs": 51400,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTNRussian.cn",
@@ -547,7 +547,7 @@
     "delay": 351,
     "speed_kbs": 616,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTNSpanish.cn",
@@ -557,7 +557,7 @@
     "delay": 359,
     "speed_kbs": 49607,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTNRussian.cn",
@@ -567,7 +567,7 @@
     "delay": 371,
     "speed_kbs": 45791,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV4America.cn",
@@ -577,7 +577,7 @@
     "delay": 376,
     "speed_kbs": 20212,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTNFrench.cn",
@@ -587,7 +587,7 @@
     "delay": 385,
     "speed_kbs": 47826,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTNDocumentary.cn",
@@ -597,7 +597,7 @@
     "delay": 396,
     "speed_kbs": 53498,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTNFrench.cn",
@@ -607,7 +607,7 @@
     "delay": 408,
     "speed_kbs": 57700,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTNDocumentary.cn",
@@ -617,7 +617,7 @@
     "delay": 409,
     "speed_kbs": 36590,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTNArabic.cn",
@@ -627,7 +627,7 @@
     "delay": 414,
     "speed_kbs": 2319,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTN.cn",
@@ -637,7 +637,7 @@
     "delay": 433,
     "speed_kbs": 31784,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTNFrench.cn",
@@ -647,7 +647,7 @@
     "delay": 583,
     "speed_kbs": 42715,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "XinjiangTV3.cn",
@@ -657,7 +657,7 @@
     "delay": 615,
     "speed_kbs": 38982,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTNDocumentary.cn",
@@ -667,7 +667,7 @@
     "delay": 620,
     "speed_kbs": 34936,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV17.cn",
@@ -677,7 +677,7 @@
     "delay": 627,
     "speed_kbs": 12818,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "XinjiangTV3.cn",
@@ -687,7 +687,7 @@
     "delay": 653,
     "speed_kbs": 6770,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTV16.cn",
@@ -697,7 +697,7 @@
     "delay": 680,
     "speed_kbs": 18216,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTNArabic.cn",
@@ -707,7 +707,7 @@
     "delay": 729,
     "speed_kbs": 34695,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTVPlus2.cn",
@@ -717,7 +717,7 @@
     "delay": 774,
     "speed_kbs": 1432,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "SipingTV.cn",
@@ -727,7 +727,7 @@
     "delay": 797,
     "speed_kbs": 46103,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "BeijingSatelliteTV.cn",
@@ -737,7 +737,7 @@
     "delay": 805,
     "speed_kbs": 11083,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CCTVPlus1.cn",
@@ -747,7 +747,7 @@
     "delay": 827,
     "speed_kbs": 32325,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "BreadTV.cn",
@@ -757,7 +757,7 @@
     "delay": 866,
     "speed_kbs": 14885,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "ChifengComprehensiveNewsChanel.cn",
@@ -767,7 +767,7 @@
     "delay": 925,
     "speed_kbs": 34553,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TonghuaTV.cn",
@@ -777,7 +777,7 @@
     "delay": 982,
     "speed_kbs": 17066,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVBRICSChinese.cn",
@@ -787,7 +787,7 @@
     "delay": 1014,
     "speed_kbs": 23808,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGTN.cn",
@@ -797,7 +797,7 @@
     "delay": 1017,
     "speed_kbs": 43057,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TonghuaTV.cn",
@@ -807,7 +807,7 @@
     "delay": 1228,
     "speed_kbs": 1310,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "HebiNewsChannel.cn",
@@ -817,7 +817,7 @@
     "delay": 1304,
     "speed_kbs": 25101,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "XinjiangTV2.cn",
@@ -827,7 +827,7 @@
     "delay": 1515,
     "speed_kbs": 5720,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "ZhejiangInternationalChannel.cn",
@@ -837,7 +837,7 @@
     "delay": 1689,
     "speed_kbs": 19179,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "HarbinMovieChannel.cn",
@@ -847,7 +847,7 @@
     "delay": 1829,
     "speed_kbs": 3772,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "XinjiangTV8.cn",
@@ -857,7 +857,7 @@
     "delay": 1840,
     "speed_kbs": 28336,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "HunanTV.cn",
@@ -867,7 +867,7 @@
     "delay": 1906,
     "speed_kbs": 21026,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "XinjiangTV3.cn",
@@ -877,7 +877,7 @@
     "delay": 2848,
     "speed_kbs": 28336,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "XinjiangTV3.cn",
@@ -887,6 +887,6 @@
     "delay": 3042,
     "speed_kbs": 16384,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   }
 ]

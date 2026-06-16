@@ -7,7 +7,7 @@
     "delay": 70,
     "speed_kbs": 4,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "LanthungTV.th",
@@ -17,7 +17,7 @@
     "delay": 178,
     "speed_kbs": 11861,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "BoonniyomTV.th",
@@ -27,7 +27,7 @@
     "delay": 206,
     "speed_kbs": 16787,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "ZabbChannel.th",
@@ -37,7 +37,7 @@
     "delay": 214,
     "speed_kbs": 9916,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVMuslimThailand.th",
@@ -47,7 +47,7 @@
     "delay": 216,
     "speed_kbs": 8626,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "ThaiPBS.th",
@@ -57,7 +57,7 @@
     "delay": 320,
     "speed_kbs": 38982,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "SBTTV.th",
@@ -67,7 +67,7 @@
     "delay": 490,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "News1.th",
@@ -77,7 +77,7 @@
     "delay": 492,
     "speed_kbs": 1402,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "MCOTHD.th",
@@ -87,7 +87,7 @@
     "delay": 513,
     "speed_kbs": 22162,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "ETV.th",
@@ -97,7 +97,7 @@
     "delay": 515,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TopNews.th",
@@ -107,7 +107,7 @@
     "delay": 592,
     "speed_kbs": 34230,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DLTV15.th",
@@ -117,7 +117,7 @@
     "delay": 626,
     "speed_kbs": 3878,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DLTV14.th",
@@ -127,7 +127,7 @@
     "delay": 631,
     "speed_kbs": 49330,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DLTV12.th",
@@ -137,7 +137,7 @@
     "delay": 634,
     "speed_kbs": 2632,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DLTV13.th",
@@ -147,7 +147,7 @@
     "delay": 635,
     "speed_kbs": 67222,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "WhiteChannel.th",
@@ -157,7 +157,7 @@
     "delay": 639,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DLTV9.th",
@@ -167,7 +167,7 @@
     "delay": 657,
     "speed_kbs": 42814,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DLTV11.th",
@@ -177,7 +177,7 @@
     "delay": 658,
     "speed_kbs": 55345,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DLTV10.th",
@@ -187,7 +187,7 @@
     "delay": 663,
     "speed_kbs": 1177,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DLTV6.th",
@@ -197,7 +197,7 @@
     "delay": 667,
     "speed_kbs": 2930,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DLTV7.th",
@@ -207,7 +207,7 @@
     "delay": 669,
     "speed_kbs": 46309,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DLTV8.th",
@@ -217,7 +217,7 @@
     "delay": 669,
     "speed_kbs": 65301,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "BaanBaanTV73.th",
@@ -227,7 +227,7 @@
     "delay": 671,
     "speed_kbs": 8076,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DLTV4.th",
@@ -237,7 +237,7 @@
     "delay": 681,
     "speed_kbs": 22107,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DLTV5.th",
@@ -247,7 +247,7 @@
     "delay": 685,
     "speed_kbs": 56419,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DLTV3.th",
@@ -257,7 +257,7 @@
     "delay": 703,
     "speed_kbs": 49620,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DLTV2.th",
@@ -267,7 +267,7 @@
     "delay": 706,
     "speed_kbs": 34293,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DLTV1.th",
@@ -277,7 +277,7 @@
     "delay": 716,
     "speed_kbs": 36437,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "13SiamThai.th",
@@ -287,7 +287,7 @@
     "delay": 728,
     "speed_kbs": 26080,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "SBBTV.th",
@@ -297,7 +297,7 @@
     "delay": 854,
     "speed_kbs": 10742,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "Channel8.th",
@@ -307,7 +307,7 @@
     "delay": 859,
     "speed_kbs": 14433,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "Channel5.th",
@@ -317,7 +317,7 @@
     "delay": 873,
     "speed_kbs": 9489,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "PoliceTV.th",
@@ -327,7 +327,7 @@
     "delay": 898,
     "speed_kbs": 10543,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CoolChannel.th",
@@ -337,7 +337,7 @@
     "delay": 1076,
     "speed_kbs": 18123,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "RamaChannel.th",
@@ -347,7 +347,7 @@
     "delay": 1104,
     "speed_kbs": 6066,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "MONO29.th",
@@ -357,7 +357,7 @@
     "delay": 1141,
     "speed_kbs": 68643,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "ThaiParliamentTelevision.th",
@@ -367,7 +367,7 @@
     "delay": 1346,
     "speed_kbs": 76263,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "STOUChannel.th",
@@ -377,6 +377,6 @@
     "delay": 1625,
     "speed_kbs": 10948,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   }
 ]

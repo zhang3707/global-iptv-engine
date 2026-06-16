@@ -7,7 +7,7 @@
     "delay": 62,
     "speed_kbs": 92690,
     "resolution": "1080p",
-    "referrer": "https://susuntv.bamboo-cloud.com/"
+    "referrer": "aHR0cHM6Ly9zdXN1bnR2LmJhbWJvby1jbG91ZC5jb20v"
   },
   {
     "channel": "8TV.my",
@@ -17,7 +17,7 @@
     "delay": 106,
     "speed_kbs": 17667,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TV3.my",
@@ -27,7 +27,7 @@
     "delay": 365,
     "speed_kbs": 26270,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "MaahTV.my",
@@ -37,6 +37,6 @@
     "delay": 427,
     "speed_kbs": 48211,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   }
 ]

@@ -7,7 +7,7 @@
     "delay": 254,
     "speed_kbs": 26518,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "RTHKTV31.hk",
@@ -17,7 +17,7 @@
     "delay": 304,
     "speed_kbs": 52617,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "RTHKTV31.hk",
@@ -27,7 +27,7 @@
     "delay": 307,
     "speed_kbs": 85504,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "PetClubTV.hk",
@@ -37,7 +37,7 @@
     "delay": 664,
     "speed_kbs": 340319,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "PetClubTV.hk",
@@ -47,6 +47,6 @@
     "delay": 949,
     "speed_kbs": 6889,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   }
 ]

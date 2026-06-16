@@ -7,7 +7,7 @@
     "delay": 29,
     "speed_kbs": 36096,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "AshiilTV.id",
@@ -17,7 +17,7 @@
     "delay": 85,
     "speed_kbs": 24252,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "Ananda.id",
@@ -27,7 +27,7 @@
     "delay": 155,
     "speed_kbs": 62668,
     "resolution": "1080p",
-    "referrer": "https://anandatelkomvision.renderforestsites.com/"
+    "referrer": "aHR0cHM6Ly9hbmFuZGF0ZWxrb212aXNpb24ucmVuZGVyZm9yZXN0c2l0ZXMuY29tLw=="
   },
   {
     "channel": "Allegro.id",
@@ -37,7 +37,7 @@
     "delay": 165,
     "speed_kbs": 82944,
     "resolution": "1080p",
-    "referrer": "https://allegrotelkomvision.renderforestsites.com/"
+    "referrer": "aHR0cHM6Ly9hbGxlZ3JvdGVsa29tdmlzaW9uLnJlbmRlcmZvcmVzdHNpdGVzLmNvbS8="
   },
   {
     "channel": "IndonesianaTV.id",
@@ -47,7 +47,7 @@
     "delay": 193,
     "speed_kbs": 19960,
     "resolution": "1080p",
-    "referrer": "https://indonesiana.tv/"
+    "referrer": "aHR0cHM6Ly9pbmRvbmVzaWFuYS50di8="
   },
   {
     "channel": "TATV.id",
@@ -57,7 +57,7 @@
     "delay": 196,
     "speed_kbs": 14365,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DavikaTV.id",
@@ -67,7 +67,7 @@
     "delay": 197,
     "speed_kbs": 12379,
     "resolution": "1080p",
-    "referrer": "https://davikatv.co/livestreaming/"
+    "referrer": "aHR0cHM6Ly9kYXZpa2F0di5jby9saXZlc3RyZWFtaW5nLw=="
   },
   {
     "channel": "JawaPosTV.id",
@@ -77,7 +77,7 @@
     "delay": 197,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "JawaPosTV.id",
@@ -87,7 +87,7 @@
     "delay": 197,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "KilisuciTV.id",
@@ -97,7 +97,7 @@
     "delay": 197,
     "speed_kbs": 7014,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "PadangTV.id",
@@ -107,7 +107,7 @@
     "delay": 197,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TimorTV.id",
@@ -117,7 +117,7 @@
     "delay": 197,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "SMTV.id",
@@ -127,7 +127,7 @@
     "delay": 198,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "STV.id",
@@ -137,7 +137,7 @@
     "delay": 198,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "SultraTV.id",
@@ -147,7 +147,7 @@
     "delay": 198,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TV9Nusantara.id",
@@ -157,7 +157,7 @@
     "delay": 198,
     "speed_kbs": 10948,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVTabalong.id",
@@ -167,7 +167,7 @@
     "delay": 198,
     "speed_kbs": 10543,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "PONTV.id",
@@ -177,7 +177,7 @@
     "delay": 199,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "MQTV.id",
@@ -187,7 +187,7 @@
     "delay": 202,
     "speed_kbs": 10093,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV.id",
@@ -197,7 +197,7 @@
     "delay": 212,
     "speed_kbs": 22323,
     "resolution": "1080p",
-    "referrer": "https://youtv.live/"
+    "referrer": "aHR0cHM6Ly95b3V0di5saXZlLw=="
   },
   {
     "channel": "SurabayaTV.id",
@@ -207,7 +207,7 @@
     "delay": 214,
     "speed_kbs": 15744,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVMu.id",
@@ -217,7 +217,7 @@
     "delay": 214,
     "speed_kbs": 18055,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "KTV.id",
@@ -227,7 +227,7 @@
     "delay": 215,
     "speed_kbs": 29815,
     "resolution": "1080p",
-    "referrer": "https://youtv.live/"
+    "referrer": "aHR0cHM6Ly95b3V0di5saXZlLw=="
   },
   {
     "channel": "TVRI.id",
@@ -237,7 +237,7 @@
     "delay": 220,
     "speed_kbs": 95678,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "GarudaTV.id",
@@ -247,7 +247,7 @@
     "delay": 222,
     "speed_kbs": 18995,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRIWorld.id",
@@ -257,7 +257,7 @@
     "delay": 224,
     "speed_kbs": 86202,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -267,7 +267,7 @@
     "delay": 234,
     "speed_kbs": 68961,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "SPOTV2.id",
@@ -277,7 +277,7 @@
     "delay": 265,
     "speed_kbs": 213289,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "SPOTV.id",
@@ -287,7 +287,7 @@
     "delay": 292,
     "speed_kbs": 231223,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "AlBahjahTV.id",
@@ -297,7 +297,7 @@
     "delay": 388,
     "speed_kbs": 23,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "KawanuaTV.id",
@@ -307,7 +307,7 @@
     "delay": 392,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "NabawiTV.id",
@@ -317,7 +317,7 @@
     "delay": 392,
     "speed_kbs": 1,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "JawaPosTV.id",
@@ -327,7 +327,7 @@
     "delay": 393,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "JTV.id",
@@ -337,7 +337,7 @@
     "delay": 393,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "BatamTV.id",
@@ -347,7 +347,7 @@
     "delay": 394,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "JTV.id",
@@ -357,7 +357,7 @@
     "delay": 394,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRParlemen.id",
@@ -367,7 +367,7 @@
     "delay": 394,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "JawaPosTV.id",
@@ -377,7 +377,7 @@
     "delay": 395,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "JTV.id",
@@ -387,7 +387,7 @@
     "delay": 396,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "JawaPosTV.id",
@@ -397,7 +397,7 @@
     "delay": 397,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "JTV.id",
@@ -407,7 +407,7 @@
     "delay": 397,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "tvOne.id",
@@ -417,7 +417,7 @@
     "delay": 397,
     "speed_kbs": 3082,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "BalikpapanTV.id",
@@ -427,7 +427,7 @@
     "delay": 399,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "JekTV.id",
@@ -437,7 +437,7 @@
     "delay": 401,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": "http://jektv.co.id/livestreaming/"
+    "referrer": "aHR0cDovL2pla3R2LmNvLmlkL2xpdmVzdHJlYW1pbmcv"
   },
   {
     "channel": "JogjaIstimewaTV.id",
@@ -447,7 +447,7 @@
     "delay": 406,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -457,7 +457,7 @@
     "delay": 439,
     "speed_kbs": 66633,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -467,7 +467,7 @@
     "delay": 446,
     "speed_kbs": 70404,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -477,7 +477,7 @@
     "delay": 448,
     "speed_kbs": 45505,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -487,7 +487,7 @@
     "delay": 452,
     "speed_kbs": 97657,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -497,7 +497,7 @@
     "delay": 453,
     "speed_kbs": 92774,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -507,7 +507,7 @@
     "delay": 460,
     "speed_kbs": 79392,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -517,7 +517,7 @@
     "delay": 460,
     "speed_kbs": 76152,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -527,7 +527,7 @@
     "delay": 460,
     "speed_kbs": 79782,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -537,7 +537,7 @@
     "delay": 464,
     "speed_kbs": 56847,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "BandungTV.id",
@@ -547,7 +547,7 @@
     "delay": 466,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -557,7 +557,7 @@
     "delay": 468,
     "speed_kbs": 73968,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -567,7 +567,7 @@
     "delay": 477,
     "speed_kbs": 78956,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -577,7 +577,7 @@
     "delay": 484,
     "speed_kbs": 70018,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "MDTV.id",
@@ -587,7 +587,7 @@
     "delay": 499,
     "speed_kbs": 571,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -597,7 +597,7 @@
     "delay": 503,
     "speed_kbs": 77312,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -607,7 +607,7 @@
     "delay": 512,
     "speed_kbs": 72764,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "UChannel.id",
@@ -617,7 +617,7 @@
     "delay": 537,
     "speed_kbs": 6474,
     "resolution": "1080p",
-    "referrer": "https://www.u-channel.tv"
+    "referrer": "aHR0cHM6Ly93d3cudS1jaGFubmVsLnR2"
   },
   {
     "channel": "AlWafaTarim.id",
@@ -627,7 +627,7 @@
     "delay": 573,
     "speed_kbs": 35258,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "RadarTasikmalayaTV.id",
@@ -637,7 +637,7 @@
     "delay": 615,
     "speed_kbs": 15677,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "FicomChannel.id",
@@ -647,7 +647,7 @@
     "delay": 618,
     "speed_kbs": 15798,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "RodjaTV.id",
@@ -657,7 +657,7 @@
     "delay": 618,
     "speed_kbs": 35929,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "MaduTV.id",
@@ -667,7 +667,7 @@
     "delay": 619,
     "speed_kbs": 13989,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "StaraTV.id",
@@ -677,7 +677,7 @@
     "delay": 620,
     "speed_kbs": 40037,
     "resolution": "1080p",
-    "referrer": "https://bandung.staratv.id/"
+    "referrer": "aHR0cHM6Ly9iYW5kdW5nLnN0YXJhdHYuaWQv"
   },
   {
     "channel": "MusicInformationChannel.id",
@@ -687,7 +687,7 @@
     "delay": 628,
     "speed_kbs": 39321,
     "resolution": "1080p",
-    "referrer": "https://mic-indo.com/live"
+    "referrer": "aHR0cHM6Ly9taWMtaW5kby5jb20vbGl2ZQ=="
   },
   {
     "channel": "NusantaraTV.id",
@@ -697,7 +697,7 @@
     "delay": 638,
     "speed_kbs": 20206,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "EfarinaTV.id",
@@ -707,7 +707,7 @@
     "delay": 649,
     "speed_kbs": 78091,
     "resolution": "1080p",
-    "referrer": "https://live.efarinatv.net/"
+    "referrer": "aHR0cHM6Ly9saXZlLmVmYXJpbmF0di5uZXQv"
   },
   {
     "channel": "CNBCIndonesia.id",
@@ -717,7 +717,7 @@
     "delay": 652,
     "speed_kbs": 24736,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "SriwijayaTV.id",
@@ -727,7 +727,7 @@
     "delay": 654,
     "speed_kbs": 27786,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "RRINet.id",
@@ -737,7 +737,7 @@
     "delay": 662,
     "speed_kbs": 9182,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -747,7 +747,7 @@
     "delay": 667,
     "speed_kbs": 65464,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "SaktiTV.id",
@@ -757,7 +757,7 @@
     "delay": 668,
     "speed_kbs": 14666,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -767,7 +767,7 @@
     "delay": 668,
     "speed_kbs": 64335,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CarubanTV.id",
@@ -777,7 +777,7 @@
     "delay": 669,
     "speed_kbs": 43081,
     "resolution": "1080p",
-    "referrer": "https://stream.carubantv.id"
+    "referrer": "aHR0cHM6Ly9zdHJlYW0uY2FydWJhbnR2Lmlk"
   },
   {
     "channel": "SMTV.id",
@@ -787,7 +787,7 @@
     "delay": 669,
     "speed_kbs": 23247,
     "resolution": "1080p",
-    "referrer": "https://smtv.digital/"
+    "referrer": "aHR0cHM6Ly9zbXR2LmRpZ2l0YWwv"
   },
   {
     "channel": "TVRI.id",
@@ -797,7 +797,7 @@
     "delay": 669,
     "speed_kbs": 94102,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -807,7 +807,7 @@
     "delay": 669,
     "speed_kbs": 97253,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "BanjarTV.id",
@@ -817,7 +817,7 @@
     "delay": 673,
     "speed_kbs": 18944,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -827,7 +827,7 @@
     "delay": 673,
     "speed_kbs": 91750,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DutaTV.id",
@@ -837,7 +837,7 @@
     "delay": 674,
     "speed_kbs": 18557,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -847,7 +847,7 @@
     "delay": 675,
     "speed_kbs": 69334,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CNBCIndonesia.id",
@@ -857,7 +857,7 @@
     "delay": 677,
     "speed_kbs": 21026,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "RCTV.id",
@@ -867,7 +867,7 @@
     "delay": 681,
     "speed_kbs": 6411,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "SalamTV.id",
@@ -877,7 +877,7 @@
     "delay": 684,
     "speed_kbs": 23654,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "BNChannel.id",
@@ -887,7 +887,7 @@
     "delay": 686,
     "speed_kbs": 18057,
     "resolution": "1080p",
-    "referrer": "https://youtv.live/"
+    "referrer": "aHR0cHM6Ly95b3V0di5saXZlLw=="
   },
   {
     "channel": "TVRI.id",
@@ -897,7 +897,7 @@
     "delay": 689,
     "speed_kbs": 92262,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "MatrixTVYogyakarta.id",
@@ -907,7 +907,7 @@
     "delay": 694,
     "speed_kbs": 78758,
     "resolution": "1080p",
-    "referrer": "https://stream.matrixtv.id/"
+    "referrer": "aHR0cHM6Ly9zdHJlYW0ubWF0cml4dHYuaWQv"
   },
   {
     "channel": "SelaparangTV.id",
@@ -917,7 +917,7 @@
     "delay": 702,
     "speed_kbs": 19065,
     "resolution": "1080p",
-    "referrer": "https://selaparangtv.net"
+    "referrer": "aHR0cHM6Ly9zZWxhcGFyYW5ndHYubmV0"
   },
   {
     "channel": "TVRI.id",
@@ -927,7 +927,7 @@
     "delay": 712,
     "speed_kbs": 58399,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "SampitTV.id",
@@ -937,7 +937,7 @@
     "delay": 714,
     "speed_kbs": 17318,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -947,7 +947,7 @@
     "delay": 717,
     "speed_kbs": 93286,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "PKTV.id",
@@ -957,7 +957,7 @@
     "delay": 721,
     "speed_kbs": 42622,
     "resolution": "1080p",
-    "referrer": "https://pktvkaltim.com/acara/live-content/?noamp=mobile"
+    "referrer": "aHR0cHM6Ly9wa3R2a2FsdGltLmNvbS9hY2FyYS9saXZlLWNvbnRlbnQvP25vYW1wPW1vYmlsZQ=="
   },
   {
     "channel": "TVRI.id",
@@ -967,7 +967,7 @@
     "delay": 724,
     "speed_kbs": 68342,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -977,7 +977,7 @@
     "delay": 753,
     "speed_kbs": 74219,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "BTV.id",
@@ -987,7 +987,7 @@
     "delay": 792,
     "speed_kbs": 30336,
     "resolution": "1080p",
-    "referrer": "https://www.beritasatu.com/btv-live-streaming"
+    "referrer": "aHR0cHM6Ly93d3cuYmVyaXRhc2F0dS5jb20vYnR2LWxpdmUtc3RyZWFtaW5n"
   },
   {
     "channel": "DMITV.id",
@@ -997,7 +997,7 @@
     "delay": 798,
     "speed_kbs": 21981,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "Trans7.id",
@@ -1007,7 +1007,7 @@
     "delay": 800,
     "speed_kbs": 20347,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -1017,7 +1017,7 @@
     "delay": 803,
     "speed_kbs": 75316,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "StaraTV.id",
@@ -1027,7 +1027,7 @@
     "delay": 810,
     "speed_kbs": 74069,
     "resolution": "1080p",
-    "referrer": "https://jakarta.staratv.id/"
+    "referrer": "aHR0cHM6Ly9qYWthcnRhLnN0YXJhdHYuaWQv"
   },
   {
     "channel": "TransTV.id",
@@ -1037,7 +1037,7 @@
     "delay": 810,
     "speed_kbs": 16331,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "StaraTV.id",
@@ -1047,7 +1047,7 @@
     "delay": 815,
     "speed_kbs": 74069,
     "resolution": "1080p",
-    "referrer": "https://malang.staratv.id/"
+    "referrer": "aHR0cHM6Ly9tYWxhbmcuc3RhcmF0di5pZC8="
   },
   {
     "channel": "StaraTV.id",
@@ -1057,7 +1057,7 @@
     "delay": 817,
     "speed_kbs": 92586,
     "resolution": "1080p",
-    "referrer": "https://parahyangan.staratv.id/"
+    "referrer": "aHR0cHM6Ly9wYXJhaHlhbmdhbi5zdGFyYXR2LmlkLw=="
   },
   {
     "channel": "DAAITV.id",
@@ -1067,7 +1067,7 @@
     "delay": 822,
     "speed_kbs": 41359,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "AlImanTV.id",
@@ -1077,7 +1077,7 @@
     "delay": 827,
     "speed_kbs": 11130,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "LingkarTV.id",
@@ -1087,7 +1087,7 @@
     "delay": 829,
     "speed_kbs": 15808,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "StaraTV.id",
@@ -1097,7 +1097,7 @@
     "delay": 847,
     "speed_kbs": 82299,
     "resolution": "1080p",
-    "referrer": "https://stream.staratv.id/"
+    "referrer": "aHR0cHM6Ly9zdHJlYW0uc3RhcmF0di5pZC8="
   },
   {
     "channel": "DhammaTV.id",
@@ -1107,7 +1107,7 @@
     "delay": 862,
     "speed_kbs": 34772,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "UGTV.id",
@@ -1117,7 +1117,7 @@
     "delay": 872,
     "speed_kbs": 21969,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "SangajiTV.id",
@@ -1127,7 +1127,7 @@
     "delay": 875,
     "speed_kbs": 47810,
     "resolution": "1080p",
-    "referrer": "https://sangajitv.co.id/"
+    "referrer": "aHR0cHM6Ly9zYW5nYWppdHYuY28uaWQv"
   },
   {
     "channel": "BeritaSatu.id",
@@ -1137,7 +1137,7 @@
     "delay": 890,
     "speed_kbs": 29374,
     "resolution": "1080p",
-    "referrer": "https://www.beritasatu.com/beritasatu-live-streaming"
+    "referrer": "aHR0cHM6Ly93d3cuYmVyaXRhc2F0dS5jb20vYmVyaXRhc2F0dS1saXZlLXN0cmVhbWluZw=="
   },
   {
     "channel": "StaraTV.id",
@@ -1147,7 +1147,7 @@
     "delay": 935,
     "speed_kbs": 26583,
     "resolution": "1080p",
-    "referrer": "https://bojonegoro.staratv.id/"
+    "referrer": "aHR0cHM6Ly9ib2pvbmVnb3JvLnN0YXJhdHYuaWQv"
   },
   {
     "channel": "StaraTV.id",
@@ -1157,7 +1157,7 @@
     "delay": 956,
     "speed_kbs": 79360,
     "resolution": "1080p",
-    "referrer": "https://cianjur.staratv.id/"
+    "referrer": "aHR0cHM6Ly9jaWFuanVyLnN0YXJhdHYuaWQv"
   },
   {
     "channel": "BantenTV.id",
@@ -1167,7 +1167,7 @@
     "delay": 981,
     "speed_kbs": 9649,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "BungoTV.id",
@@ -1177,7 +1177,7 @@
     "delay": 983,
     "speed_kbs": 10315,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "ElshintaTV.id",
@@ -1187,7 +1187,7 @@
     "delay": 991,
     "speed_kbs": 16921,
     "resolution": "1080p",
-    "referrer": "https://www.dens.tv/"
+    "referrer": "aHR0cHM6Ly93d3cuZGVucy50di8="
   },
   {
     "channel": "SaliraTV.id",
@@ -1197,7 +1197,7 @@
     "delay": 1004,
     "speed_kbs": 66796,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "SaliraTV.id",
@@ -1207,7 +1207,7 @@
     "delay": 1006,
     "speed_kbs": 63537,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "AsthaTV.id",
@@ -1217,7 +1217,7 @@
     "delay": 1018,
     "speed_kbs": 19562,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "BMSTV.id",
@@ -1227,7 +1227,7 @@
     "delay": 1019,
     "speed_kbs": 9580,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "BRTV.id",
@@ -1237,7 +1237,7 @@
     "delay": 1020,
     "speed_kbs": 9352,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "AstroBlitarTV.id",
@@ -1247,7 +1247,7 @@
     "delay": 1046,
     "speed_kbs": 12470,
     "resolution": "1080p",
-    "referrer": "https://abtelevisi.com/"
+    "referrer": "aHR0cHM6Ly9hYnRlbGV2aXNpLmNvbS8="
   },
   {
     "channel": "IAmChannel.id",
@@ -1257,7 +1257,7 @@
     "delay": 1071,
     "speed_kbs": 12345,
     "resolution": "1080p",
-    "referrer": "https://iamchannel.org/"
+    "referrer": "aHR0cHM6Ly9pYW1jaGFubmVsLm9yZy8="
   },
   {
     "channel": "BiznetLifestyle.id",
@@ -1267,7 +1267,7 @@
     "delay": 1076,
     "speed_kbs": 1,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "BiznetKids.id",
@@ -1277,7 +1277,7 @@
     "delay": 1081,
     "speed_kbs": 1,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -1287,7 +1287,7 @@
     "delay": 1127,
     "speed_kbs": 71364,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "BiznetAdventure.id",
@@ -1297,7 +1297,7 @@
     "delay": 1132,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "MetroTV.id",
@@ -1307,7 +1307,7 @@
     "delay": 1238,
     "speed_kbs": 42666,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "JogjaTV.id",
@@ -1317,7 +1317,7 @@
     "delay": 1259,
     "speed_kbs": 49802,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "MadaniTV.id",
@@ -1327,7 +1327,7 @@
     "delay": 1267,
     "speed_kbs": 10891,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "MBGTV.id",
@@ -1337,7 +1337,7 @@
     "delay": 1428,
     "speed_kbs": 16332,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "MagnaChannel.id",
@@ -1347,7 +1347,7 @@
     "delay": 1552,
     "speed_kbs": 29364,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -1357,7 +1357,7 @@
     "delay": 1557,
     "speed_kbs": 65823,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DhohoTV.id",
@@ -1367,7 +1367,7 @@
     "delay": 1611,
     "speed_kbs": 13571,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TVRI.id",
@@ -1377,6 +1377,6 @@
     "delay": 2062,
     "speed_kbs": 75038,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   }
 ]

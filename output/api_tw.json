@@ -7,7 +7,7 @@
     "delay": 128,
     "speed_kbs": 35650,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "SupremeMasterTV.tw",
@@ -17,7 +17,7 @@
     "delay": 528,
     "speed_kbs": 9249,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CGNTVChinese.tw",
@@ -27,7 +27,7 @@
     "delay": 653,
     "speed_kbs": 55149,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DaliTV.tw",
@@ -37,7 +37,7 @@
     "delay": 663,
     "speed_kbs": 117282,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "GoodTV.tw",
@@ -47,7 +47,7 @@
     "delay": 823,
     "speed_kbs": 67704,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "Good2.tw",
@@ -57,7 +57,7 @@
     "delay": 836,
     "speed_kbs": 54808,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "BeautifulLifeTV.tw",
@@ -67,7 +67,7 @@
     "delay": 840,
     "speed_kbs": 14131,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "WXTV.tw",
@@ -77,6 +77,6 @@
     "delay": 1198,
     "speed_kbs": 13721,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   }
 ]

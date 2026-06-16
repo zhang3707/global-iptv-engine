@@ -7,7 +7,7 @@
     "delay": 452,
     "speed_kbs": 13899,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DVBTV.mm",
@@ -17,7 +17,7 @@
     "delay": 584,
     "speed_kbs": 13014,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "MaharTV.mm",
@@ -27,7 +27,7 @@
     "delay": 867,
     "speed_kbs": 9816,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "MRTVFarmer.mm",
@@ -37,6 +37,6 @@
     "delay": 1139,
     "speed_kbs": 26187,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   }
 ]

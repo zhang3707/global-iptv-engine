@@ -7,7 +7,7 @@
     "delay": 160,
     "speed_kbs": 26162,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CNAOriginals.sg",
@@ -17,7 +17,7 @@
     "delay": 162,
     "speed_kbs": 70465,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "KCM.sg",
@@ -27,7 +27,7 @@
     "delay": 163,
     "speed_kbs": 30102,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "ZooMoo.sg",
@@ -37,7 +37,7 @@
     "delay": 172,
     "speed_kbs": 38942,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CNAOriginals.sg",
@@ -47,7 +47,7 @@
     "delay": 183,
     "speed_kbs": 101400,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "ZooMoo.sg",
@@ -57,7 +57,7 @@
     "delay": 230,
     "speed_kbs": 59801,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "ZooMoo.sg",
@@ -67,7 +67,7 @@
     "delay": 235,
     "speed_kbs": 36329,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "AniplusAsia.sg",
@@ -77,7 +77,7 @@
     "delay": 263,
     "speed_kbs": 3658,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "ZooMoo.sg",
@@ -87,7 +87,7 @@
     "delay": 273,
     "speed_kbs": 214000,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CNA.sg",
@@ -97,7 +97,7 @@
     "delay": 293,
     "speed_kbs": 44306,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "ZooMoo.sg",
@@ -107,7 +107,7 @@
     "delay": 689,
     "speed_kbs": 19065,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "meWATCHLIVE1.sg",
@@ -117,7 +117,7 @@
     "delay": 769,
     "speed_kbs": 25454,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CrimePlusInvestigationAsia.sg",
@@ -127,6 +127,6 @@
     "delay": 862,
     "speed_kbs": 642,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   }
 ]

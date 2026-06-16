@@ -7,7 +7,7 @@
     "delay": 91,
     "speed_kbs": 12902,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TeaTV.vn",
@@ -17,7 +17,7 @@
     "delay": 97,
     "speed_kbs": 10119,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "LaoSVTV.vn",
@@ -27,7 +27,7 @@
     "delay": 211,
     "speed_kbs": 8393,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VietnamToday.vn",
@@ -37,7 +37,7 @@
     "delay": 237,
     "speed_kbs": 113088,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "ThuaThienHueTV.vn",
@@ -47,7 +47,7 @@
     "delay": 270,
     "speed_kbs": 14394,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "NgheAnTV.vn",
@@ -57,7 +57,7 @@
     "delay": 275,
     "speed_kbs": 14336,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV1.vn",
@@ -67,7 +67,7 @@
     "delay": 305,
     "speed_kbs": 35519,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "QuangNgaiTV.vn",
@@ -77,7 +77,7 @@
     "delay": 314,
     "speed_kbs": 15496,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DaNangTV1.vn",
@@ -87,7 +87,7 @@
     "delay": 369,
     "speed_kbs": 13694,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DaNangTV2.vn",
@@ -97,7 +97,7 @@
     "delay": 405,
     "speed_kbs": 14173,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DongNaiTV1.vn",
@@ -107,7 +107,7 @@
     "delay": 423,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DongNaiTV2.vn",
@@ -117,7 +117,7 @@
     "delay": 423,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "LamDongTV.vn",
@@ -127,7 +127,7 @@
     "delay": 425,
     "speed_kbs": 0,
     "resolution": "720p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DakLakTV.vn",
@@ -137,7 +137,7 @@
     "delay": 444,
     "speed_kbs": 14950,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "LaoCaiTV.vn",
@@ -147,7 +147,7 @@
     "delay": 668,
     "speed_kbs": 54613,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV5.vn",
@@ -157,7 +157,7 @@
     "delay": 683,
     "speed_kbs": 83789,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV7.vn",
@@ -167,7 +167,7 @@
     "delay": 691,
     "speed_kbs": 80298,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV3.vn",
@@ -177,7 +177,7 @@
     "delay": 692,
     "speed_kbs": 82005,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV1.vn",
@@ -187,7 +187,7 @@
     "delay": 695,
     "speed_kbs": 56681,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV4.vn",
@@ -197,7 +197,7 @@
     "delay": 698,
     "speed_kbs": 66454,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV6.vn",
@@ -207,7 +207,7 @@
     "delay": 698,
     "speed_kbs": 66716,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV10.vn",
@@ -217,7 +217,7 @@
     "delay": 700,
     "speed_kbs": 63521,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV7.vn",
@@ -227,7 +227,7 @@
     "delay": 705,
     "speed_kbs": 32585,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV2.vn",
@@ -237,7 +237,7 @@
     "delay": 709,
     "speed_kbs": 72723,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV2.vn",
@@ -247,7 +247,7 @@
     "delay": 711,
     "speed_kbs": 38383,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV10.vn",
@@ -257,7 +257,7 @@
     "delay": 712,
     "speed_kbs": 26185,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV9.vn",
@@ -267,7 +267,7 @@
     "delay": 718,
     "speed_kbs": 71376,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV8.vn",
@@ -277,7 +277,7 @@
     "delay": 732,
     "speed_kbs": 25725,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV4.vn",
@@ -287,7 +287,7 @@
     "delay": 823,
     "speed_kbs": 34489,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "HTVSports.vn",
@@ -297,7 +297,7 @@
     "delay": 947,
     "speed_kbs": 23275,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV7.vn",
@@ -307,7 +307,7 @@
     "delay": 1025,
     "speed_kbs": 30577,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV5TayNguyen.vn",
@@ -317,7 +317,7 @@
     "delay": 1092,
     "speed_kbs": 27334,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TienGiangTV.vn",
@@ -327,7 +327,7 @@
     "delay": 1120,
     "speed_kbs": 21548,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV1.vn",
@@ -337,7 +337,7 @@
     "delay": 1196,
     "speed_kbs": 19055,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV2.vn",
@@ -347,7 +347,7 @@
     "delay": 1247,
     "speed_kbs": 22285,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CaMauTV.vn",
@@ -357,7 +357,7 @@
     "delay": 1267,
     "speed_kbs": 42929,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "HaTinhTV.vn",
@@ -367,7 +367,7 @@
     "delay": 1305,
     "speed_kbs": 12474,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "CaoBangTV.vn",
@@ -377,7 +377,7 @@
     "delay": 1338,
     "speed_kbs": 20889,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "DienBienTV.vn",
@@ -387,7 +387,7 @@
     "delay": 1423,
     "speed_kbs": 58919,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV10.vn",
@@ -397,7 +397,7 @@
     "delay": 1426,
     "speed_kbs": 21206,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV8.vn",
@@ -407,7 +407,7 @@
     "delay": 1430,
     "speed_kbs": 28582,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "TayNinhTV.vn",
@@ -417,7 +417,7 @@
     "delay": 1454,
     "speed_kbs": 22378,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "QPVN.vn",
@@ -427,7 +427,7 @@
     "delay": 1488,
     "speed_kbs": 23869,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "AnGiangTV2.vn",
@@ -437,7 +437,7 @@
     "delay": 1492,
     "speed_kbs": 45292,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "AnGiangTV3.vn",
@@ -447,7 +447,7 @@
     "delay": 1494,
     "speed_kbs": 38912,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV5.vn",
@@ -457,7 +457,7 @@
     "delay": 1544,
     "speed_kbs": 22669,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV4.vn",
@@ -467,7 +467,7 @@
     "delay": 1556,
     "speed_kbs": 22285,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VTV5TayNamBo.vn",
@@ -477,7 +477,7 @@
     "delay": 1636,
     "speed_kbs": 23304,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "VietnamToday.vn",
@@ -487,7 +487,7 @@
     "delay": 1744,
     "speed_kbs": 34730,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "ThaiNguyenTV.vn",
@@ -497,7 +497,7 @@
     "delay": 1968,
     "speed_kbs": 14172,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   },
   {
     "channel": "AnGiangTV1.vn",
@@ -507,6 +507,6 @@
     "delay": 2841,
     "speed_kbs": 44975,
     "resolution": "1080p",
-    "referrer": null
+    "referrer": ""
   }
 ]
