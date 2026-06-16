@@ -2959,17 +2959,6 @@
     "last_test": 1781578156.444872
   },
   {
-    "channel": "SonySportsTen1.in",
-    "title": "SonySportsTen1",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+1+HD.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
-    "delay": 303,
-    "speed_kbs": 1179573,
-    "resolution": "1080p",
-    "last_test": 1781578162.3723621
-  },
-  {
     "channel": "DDPunjabi.in",
     "title": "DDPunjabi",
     "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8",
@@ -3498,17 +3487,6 @@
     "last_test": 1781578160.9721396
   },
   {
-    "channel": "SonySportsTen1.in",
-    "title": "SonySportsTen1",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+1.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
-    "delay": 413,
-    "speed_kbs": 926807,
-    "resolution": "1080p",
-    "last_test": 1781578162.519311
-  },
-  {
     "channel": "IndiaTV.in",
     "title": "IndiaTV",
     "url": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8",
@@ -3553,17 +3531,6 @@
     "last_test": 1781578153.2337465
   },
   {
-    "channel": "SonySportsTen2.in",
-    "title": "SonySportsTen2",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+2+HD.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
-    "delay": 462,
-    "speed_kbs": 954066,
-    "resolution": "1080p",
-    "last_test": 1781578162.57021
-  },
-  {
     "channel": "TollyTV.in",
     "title": "TollyTV",
     "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8",
@@ -3606,17 +3573,6 @@
     "speed_kbs": 19,
     "resolution": "720p",
     "last_test": 1781578165.876443
-  },
-  {
-    "channel": "SonySportsTen2.in",
-    "title": "SonySportsTen2",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+2.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
-    "delay": 481,
-    "speed_kbs": 1272089,
-    "resolution": "1080p",
-    "last_test": 1781578162.635939
   },
   {
     "channel": "ShemarooJosh.in",
@@ -3773,17 +3729,6 @@
     "last_test": 1781578165.7454844
   },
   {
-    "channel": "SonySportsTen3Hindi.in",
-    "title": "SonySportsTen3Hindi",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+3.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
-    "delay": 512,
-    "speed_kbs": 655318,
-    "resolution": "1080p",
-    "last_test": 1781578162.7226808
-  },
-  {
     "channel": "OdishaTV.in",
     "title": "OdishaTV",
     "url": "https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8",
@@ -3837,17 +3782,6 @@
     "speed_kbs": 44624,
     "resolution": "1080p",
     "last_test": 1781578153.3164294
-  },
-  {
-    "channel": "SonySportsTen3Hindi.in",
-    "title": "SonySportsTen3Hindi",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+3+HD.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
-    "delay": 520,
-    "speed_kbs": 1013696,
-    "resolution": "1080p",
-    "last_test": 1781578162.67671
   },
   {
     "channel": "ThalaaTV.in",
@@ -3991,17 +3925,6 @@
     "speed_kbs": 68,
     "resolution": "720p",
     "last_test": 1781578165.9263792
-  },
-  {
-    "channel": "SonySportsTen4.in",
-    "title": "SonySportsTen4",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+4+HD.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
-    "delay": 566,
-    "speed_kbs": 1178441,
-    "resolution": "1080p",
-    "last_test": 1781578162.8125112
   },
   {
     "channel": "SonyWah.in",
@@ -4156,17 +4079,6 @@
     "speed_kbs": 7961,
     "resolution": "1080p",
     "last_test": 1781578159.7917602
-  },
-  {
-    "channel": "SonySportsTen4.in",
-    "title": "SonySportsTen4",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+4.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
-    "delay": 590,
-    "speed_kbs": 1297530,
-    "resolution": "1080p",
-    "last_test": 1781578162.8210986
   },
   {
     "channel": "HighNews.in",
