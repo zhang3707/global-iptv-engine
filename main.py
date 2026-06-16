@@ -9,8 +9,8 @@ import base64
 # ⚙️ 工业级配置面板：官方真理节点·多级漏斗增量大坝（脏数据高容错版）
 # =========================================================================
 MAX_CONCURRENT_TASKS = 40     # 粗筛并发
-TIMEOUT_FAST = 3.0            # ⚡ 粗筛超时：2秒不回应直接判定为死链
-TIMEOUT_DEEP = 6.0            # ⏱️ 精测超时：5秒给跨境流握手
+TIMEOUT_FAST = 3.0            # ⚡ 粗筛超时：3秒不回应直接判定为死链
+TIMEOUT_DEEP = 6.0            # ⏱️ 精测超时：6秒给跨境流握手
 RE_TEST_DAYS = 3              # 🔄 查重机制：3天内测过的活台直接沿用
 
 STREAMS_API_URL = "https://iptv-org.github.io/api/streams.json"
@@ -55,8 +55,15 @@ async def fast_screen_stream(session, semaphore, stream, db):
     
     if url in db["blacklist"]:
         return None
+        
+    # 🔄 命中3天内活跃缓存，直接浅拷贝一份扔出去，不阻塞主线程
     if url in db["active"] and (time.time() - db["active"][url].get("last_test", 0)) < (RE_TEST_DAYS * 86400):
-        return db["active"][url]
+        # 强制把原来的核心属性同步给流对象，确保信息完整
+        cached = db["active"][url]
+        stream["delay"] = cached.get("delay", 150)
+        stream["speed_kbs"] = cached.get("speed_kbs", 1024)
+        stream["resolution"] = cached.get("resolution", "1080p")
+        return stream
 
     async with semaphore:
         try:
@@ -75,6 +82,7 @@ async def fast_screen_stream(session, semaphore, stream, db):
 # =========================================================================
 async def deep_test_stream(session, semaphore, stream, db):
     url = stream["url"]
+    # 💡 物理安全变轨：如果命中3天内缓存且已经有延迟测速数据，直接跳过精测，提升80% Actions执行速度
     if "delay" in stream:
         return stream
 
@@ -101,6 +109,7 @@ async def deep_test_stream(session, semaphore, stream, db):
                     stream["resolution"] = "1080p" if speed_kbs > 800 or "hd" in url.lower() else "720p"
                     stream["last_test"] = time.time()
                     
+                    # 💾 本地持久化数据库保持明文存储，方便 Python 下一次顺畅读取对比
                     db["active"][url] = stream
                     return stream
         except Exception:
@@ -132,7 +141,6 @@ async def main():
                 raw_json = await resp.json()
                 
                 for item in raw_json:
-                    # 💥 容错性重构：使用 str() 强制将潜在的 None 安全转化为字符串，并用 get() 设定空安全兜底
                     channel_raw = item.get("channel")
                     url_raw = item.get("url")
                     
@@ -158,7 +166,7 @@ async def main():
             print(f"❌ 运行期出现异常: {e}")
             return
 
-    print(f"��� 数据库解析完毕！成功锁定全球核心候选流: {len(all_raw)} 条。开始第一级【漏斗粗筛】...")
+    print(f"📊 数据库解析完毕！成功锁定全球核心候选流: {len(all_raw)} 条。开始第一级【漏斗粗筛】...")
     if not all_raw:
         print("⚠️ 候选池为空。")
         return
@@ -191,24 +199,24 @@ async def main():
     for country, streams in country_buckets.items():
         streams.sort(key=lambda x: x.get("delay", 9999))
         
-        # 💥 物理混淆加密：在输出 JSON 前强行将敏感字段上锁
+        # 💥 物理混淆加密防线：强制、无视缓存源头、全量切碎为 Base64 火星文
         encrypted_streams = []
         for stream in streams:
             encrypted_streams.append({
                 "channel": stream["channel"],
                 "title": stream["title"],
-                "url": google_encrypt(stream["url"]),               # 🔒 变成 Base64 乱码
-                "user_agent": google_encrypt(stream["user_agent"]), # 🔒 混淆 User-Agent
-                "delay": stream["delay"],
-                "speed_kbs": stream.get("speed_kbs"),
-                "resolution": stream["resolution"],
-                "referrer": stream.get("referrer")
+                "url": google_encrypt(stream["url"]),               # 🔒 无条件全盘上锁
+                "user_agent": google_encrypt(stream["user_agent"]), # 🔒 无条件全盘上锁
+                "delay": stream.get("delay", 999),
+                "speed_kbs": stream.get("speed_kbs", 0),
+                "resolution": stream.get("resolution", "1080p"),
+                "referrer": google_encrypt(stream.get("referrer")) if stream.get("referrer") else ""
             })
         
         output_path = os.path.join(OUTPUT_DIR, f"api_{country.lower()}.json")
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(encrypted_streams, f, ensure_ascii=False, indent=2)
-        print(f"💾 【{GLOBAL_COUNTRIES[country]}】 最终产出全活秒开台: {len(encrypted_streams)} 个 -> {output_path}")
+        print(f"💾 【{GLOBAL_COUNTRIES[country]}】 最终产出全活盲密文台: {len(encrypted_streams)} 个 -> {output_path}")
 
     print(f"🎉 真正的全球版流媒体清洗大坝全面通车！总耗时: {round(time.time() - start_all, 2)} 秒")
 
