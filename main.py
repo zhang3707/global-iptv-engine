@@ -3,6 +3,7 @@ import aiohttp
 import time
 import json
 import os
+import base64
 
 # =========================================================================
 # ⚙️ 工业级配置面板：官方真理节点·多级漏斗增量大坝（脏数据高容错版）
@@ -22,6 +23,16 @@ GLOBAL_COUNTRIES = {
     "SG": "新加坡",   "MY": "马来西亚", "TH": "泰国",     "VN": "越南",
     "ID": "印度尼西亚", "PH": "菲律宾",   "MM": "缅甸",     "IN": "印度"
 }
+
+# =========================================================================
+# 🔒 加密工具函数
+# =========================================================================
+def google_encrypt(text):
+    """🔒 云端防刷引擎：直接将敏感文本物理混淆为 Base64 乱码"""
+    if not text:
+        return ""
+    # 将原始 URL/UA 转化为密文字符串，打破同行直接肉眼抓包的幻想
+    return base64.b64encode(text.encode('utf-8')).decode('utf-8')
 
 def load_database():
     if os.path.exists(DB_FILE):
@@ -147,7 +158,7 @@ async def main():
             print(f"❌ 运行期出现异常: {e}")
             return
 
-    print(f"📊 数据库解析完毕！成功锁定全球核心候选流: {len(all_raw)} 条。开始第一级【漏斗粗筛】...")
+    print(f"��� 数据库解析完毕！成功锁定全球核心候选流: {len(all_raw)} 条。开始第一级【漏斗粗筛】...")
     if not all_raw:
         print("⚠️ 候选池为空。")
         return
@@ -179,10 +190,25 @@ async def main():
 
     for country, streams in country_buckets.items():
         streams.sort(key=lambda x: x.get("delay", 9999))
+        
+        # 💥 物理混淆加密：在输出 JSON 前强行将敏感字段上锁
+        encrypted_streams = []
+        for stream in streams:
+            encrypted_streams.append({
+                "channel": stream["channel"],
+                "title": stream["title"],
+                "url": google_encrypt(stream["url"]),               # 🔒 变成 Base64 乱码
+                "user_agent": google_encrypt(stream["user_agent"]), # 🔒 混淆 User-Agent
+                "delay": stream["delay"],
+                "speed_kbs": stream.get("speed_kbs"),
+                "resolution": stream["resolution"],
+                "referrer": stream.get("referrer")
+            })
+        
         output_path = os.path.join(OUTPUT_DIR, f"api_{country.lower()}.json")
         with open(output_path, "w", encoding="utf-8") as f:
-            json.dump(streams, f, ensure_ascii=False, indent=2)
-        print(f"💾 【{GLOBAL_COUNTRIES[country]}】 最终产出全活秒开台: {len(streams)} 个 -> {output_path}")
+            json.dump(encrypted_streams, f, ensure_ascii=False, indent=2)
+        print(f"💾 【{GLOBAL_COUNTRIES[country]}】 最终产出全活秒开台: {len(encrypted_streams)} 个 -> {output_path}")
 
     print(f"🎉 真正的全球版流媒体清洗大坝全面通车！总耗时: {round(time.time() - start_all, 2)} 秒")
 
