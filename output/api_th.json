@@ -2,419 +2,381 @@
   {
     "channel": "GoodIdeaTV.th",
     "title": "GoodIdeaTV",
-    "url": "http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovL3N0cmVhbTEuYWktbmV0Lm5ldDoxOTM1L2d0djEvX2RlZmluc3RfL3NtaWw6Z3R2LnNtaWwvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 70,
     "speed_kbs": 4,
     "resolution": "720p",
-    "last_test": 1781578157.5079734
+    "referrer": null
   },
   {
     "channel": "LanthungTV.th",
     "title": "LanthungTV",
-    "url": "https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLXVzMS50aGFpbW9tby5jb20vbGl2ZS1hcy9jaGxhbnR1bmctMi9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 178,
     "speed_kbs": 11861,
     "resolution": "1080p",
-    "last_test": 1781578158.9176533
+    "referrer": null
   },
   {
     "channel": "BoonniyomTV.th",
     "title": "BoonniyomTV",
-    "url": "https://live.x2.co.th/live/bntv.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLngyLmNvLnRoL2xpdmUvYm50di5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 206,
     "speed_kbs": 16787,
     "resolution": "1080p",
-    "last_test": 1781578155.226162
+    "referrer": null
   },
   {
     "channel": "ZabbChannel.th",
     "title": "ZabbChannel",
-    "url": "https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly92ZG8ucGxhdGhvbmcubmV0L2ZsYXNoNzA1Ny9mbGFzaDcwNTcvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 214,
     "speed_kbs": 9916,
     "resolution": "1080p",
-    "last_test": 1781578165.4652724
+    "referrer": null
   },
   {
     "channel": "TVMuslimThailand.th",
     "title": "TVMuslimThailand",
-    "url": "https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly92ZG8ucGxhdGhvbmcubmV0L3R2bXVzbGltL3R2bXVzbGltL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 216,
     "speed_kbs": 8626,
     "resolution": "1080p",
-    "last_test": 1781578163.8445437
+    "referrer": null
   },
   {
     "channel": "ThaiPBS.th",
     "title": "ThaiPBS",
-    "url": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly90aGFpcGJzLWxpdmUuY2RuLmJ5dGVhcmsuY29tL2xpdmUvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 320,
     "speed_kbs": 38982,
     "resolution": "1080p",
-    "last_test": 1781578163.450453
+    "referrer": null
   },
   {
     "channel": "SBTTV.th",
     "title": "SBTTV",
-    "url": "http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEyMi4xNTUuMTIuMTA3OjE5MzUvbGl2ZS9zYnRfdHZfYWFjXzMwMC9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 490,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578162.4858565
+    "referrer": null
   },
   {
     "channel": "News1.th",
     "title": "News1",
-    "url": "http://news1.live14.com/stream/news1.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovL25ld3MxLmxpdmUxNC5jb20vc3RyZWFtL25ld3MxLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 492,
     "speed_kbs": 1402,
     "resolution": "1080p",
-    "last_test": 1781578160.1601472
+    "referrer": null
   },
   {
     "channel": "MCOTHD.th",
     "title": "MCOTHD",
-    "url": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9tY290aGQtc3RyZWFtaW5nLWVkZ2UtY2RuLm1jb3QubmV0L3RlbmNlbnRtY290L3NtaWw6dGVuY2VudG1jb3Quc21pbC9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 513,
     "speed_kbs": 22162,
     "resolution": "1080p",
-    "last_test": 1781578159.6623595
+    "referrer": null
   },
   {
     "channel": "ETV.th",
     "title": "ETV",
-    "url": "http://150.95.66.20:1935/live/livestream/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzE1MC45NS42Ni4yMDoxOTM1L2xpdmUvbGl2ZXN0cmVhbS9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 515,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578157.7065632
+    "referrer": null
   },
   {
     "channel": "TopNews.th",
     "title": "TopNews",
-    "url": "https://live.topnews.co.th/hls/topnews_a_720.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLnRvcG5ld3MuY28udGgvaGxzL3RvcG5ld3NfYV83MjAubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 592,
     "speed_kbs": 34230,
     "resolution": "1080p",
-    "last_test": 1781578163.9169352
+    "referrer": null
   },
   {
     "channel": "DLTV15.th",
     "title": "DLTV15",
-    "url": "https://cdn-live.dltv.ac.th/dltv15.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxNS5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 626,
     "speed_kbs": 3878,
     "resolution": "1080p",
-    "last_test": 1781578157.4219935
+    "referrer": null
   },
   {
     "channel": "DLTV14.th",
     "title": "DLTV14",
-    "url": "https://cdn-live.dltv.ac.th/dltv14.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxNC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 631,
     "speed_kbs": 49330,
     "resolution": "1080p",
-    "last_test": 1781578157.4098945
+    "referrer": null
   },
   {
     "channel": "DLTV12.th",
     "title": "DLTV12",
-    "url": "https://cdn-live.dltv.ac.th/dltv12.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxMi5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 634,
     "speed_kbs": 2632,
     "resolution": "1080p",
-    "last_test": 1781578157.396718
+    "referrer": null
   },
   {
     "channel": "DLTV13.th",
     "title": "DLTV13",
-    "url": "https://cdn-live.dltv.ac.th/dltv13.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxMy5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 635,
     "speed_kbs": 67222,
     "resolution": "1080p",
-    "last_test": 1781578157.4130325
+    "referrer": null
   },
   {
     "channel": "WhiteChannel.th",
     "title": "WhiteChannel",
-    "url": "http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovL3N5bWMtY2RuLnZpb2xpbi5jby50aDoxOTM1L3RuZGVkZ2Uvd2hpdGVjaGFubmVsL2NodW5rbGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 639,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578165.7713547
+    "referrer": null
   },
   {
     "channel": "DLTV9.th",
     "title": "DLTV9",
-    "url": "https://cdn-live.dltv.ac.th/dltv09.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwOS5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 657,
     "speed_kbs": 42814,
     "resolution": "1080p",
-    "last_test": 1781578157.404688
+    "referrer": null
   },
   {
     "channel": "DLTV11.th",
     "title": "DLTV11",
-    "url": "https://cdn-live.dltv.ac.th/dltv11.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxMS5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 658,
     "speed_kbs": 55345,
     "resolution": "1080p",
-    "last_test": 1781578157.4113097
+    "referrer": null
   },
   {
     "channel": "DLTV10.th",
     "title": "DLTV10",
-    "url": "https://cdn-live.dltv.ac.th/dltv10.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxMC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 663,
     "speed_kbs": 1177,
     "resolution": "1080p",
-    "last_test": 1781578157.4117281
+    "referrer": null
   },
   {
     "channel": "DLTV6.th",
     "title": "DLTV6",
-    "url": "https://cdn-live.dltv.ac.th/dltv06.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwNi5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 667,
     "speed_kbs": 2930,
     "resolution": "1080p",
-    "last_test": 1781578157.3942356
+    "referrer": null
   },
   {
     "channel": "DLTV7.th",
     "title": "DLTV7",
-    "url": "https://cdn-live.dltv.ac.th/dltv07.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwNy5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 669,
     "speed_kbs": 46309,
     "resolution": "1080p",
-    "last_test": 1781578157.403843
+    "referrer": null
   },
   {
     "channel": "DLTV8.th",
     "title": "DLTV8",
-    "url": "https://cdn-live.dltv.ac.th/dltv08.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwOC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 669,
     "speed_kbs": 65301,
     "resolution": "1080p",
-    "last_test": 1781578157.403905
+    "referrer": null
   },
   {
     "channel": "BaanBaanTV73.th",
     "title": "BaanBaanTV73",
-    "url": "https://vdo.plathong.net/live8794/live8794/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly92ZG8ucGxhdGhvbmcubmV0L2xpdmU4Nzk0L2xpdmU4Nzk0L3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 671,
     "speed_kbs": 8076,
     "resolution": "1080p",
-    "last_test": 1781578154.9939907
+    "referrer": null
   },
   {
     "channel": "DLTV4.th",
     "title": "DLTV4",
-    "url": "https://cdn-live.dltv.ac.th/dltv04.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwNC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 681,
     "speed_kbs": 22107,
     "resolution": "1080p",
-    "last_test": 1781578157.3973427
+    "referrer": null
   },
   {
     "channel": "DLTV5.th",
     "title": "DLTV5",
-    "url": "https://cdn-live.dltv.ac.th/dltv05.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwNS5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 685,
     "speed_kbs": 56419,
     "resolution": "1080p",
-    "last_test": 1781578157.403954
+    "referrer": null
   },
   {
     "channel": "DLTV3.th",
     "title": "DLTV3",
-    "url": "https://cdn-live.dltv.ac.th/dltv03.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwMy5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 703,
     "speed_kbs": 49620,
     "resolution": "1080p",
-    "last_test": 1781578157.4117858
+    "referrer": null
   },
   {
     "channel": "DLTV2.th",
     "title": "DLTV2",
-    "url": "https://cdn-live.dltv.ac.th/dltv02.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwMi5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 706,
     "speed_kbs": 34293,
     "resolution": "1080p",
-    "last_test": 1781578157.412982
+    "referrer": null
   },
   {
     "channel": "DLTV1.th",
     "title": "DLTV1",
-    "url": "https://cdn-live.dltv.ac.th/dltv01.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwMS5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 716,
     "speed_kbs": 36437,
     "resolution": "1080p",
-    "last_test": 1781578157.4104078
+    "referrer": null
   },
   {
     "channel": "13SiamThai.th",
     "title": "13SiamThai",
-    "url": "https://live.x2.co.th/live/13livetv-th.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLngyLmNvLnRoL2xpdmUvMTNsaXZldHYtdGgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 728,
     "speed_kbs": 26080,
     "resolution": "1080p",
-    "last_test": 1781578153.5224679
+    "referrer": null
   },
   {
     "channel": "SBBTV.th",
     "title": "SBBTV",
-    "url": "https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4tdGgtdmlwMi5saXZlc3RyZWFtaW5nLmluLnRoL3dhdHNhbmdoYXRoYW4vd2F0c2FuZ2hhdGhhbi9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 854,
     "speed_kbs": 10742,
     "resolution": "1080p",
-    "last_test": 1781578162.592511
+    "referrer": null
   },
   {
     "channel": "Channel8.th",
     "title": "Channel8",
-    "url": "http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovL3VzYS5sb2dpbi5pbi50aDoxOTM1L2NoOC9jaDgvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 859,
     "speed_kbs": 14433,
     "resolution": "1080p",
-    "last_test": 1781578156.0033913
+    "referrer": null
   },
   {
     "channel": "Channel5.th",
     "title": "Channel5",
-    "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly82MzliYzU4NzdjNWZlLnN0cmVhbWxvY2submV0L3R2NWhkbGl2ZS90djVoZGxpdmUvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 873,
     "speed_kbs": 9489,
     "resolution": "1080p",
-    "last_test": 1781578156.0083842
+    "referrer": null
   },
   {
     "channel": "PoliceTV.th",
     "title": "PoliceTV",
-    "url": "https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4tdGgtdmlwLmxpdmVzdHJlYW1pbmcuaW4udGgvcG9saWNldHYvcG9saWNldHYvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 898,
     "speed_kbs": 10543,
     "resolution": "1080p",
-    "last_test": 1781578161.36915
+    "referrer": null
   },
   {
     "channel": "CoolChannel.th",
     "title": "CoolChannel",
-    "url": "https://live-iptv.cool-channel.com/cool/live-720P.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLWlwdHYuY29vbC1jaGFubmVsLmNvbS9jb29sL2xpdmUtNzIwUC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1076,
     "speed_kbs": 18123,
     "resolution": "1080p",
-    "last_test": 1781578156.5932057
+    "referrer": null
   },
   {
     "channel": "RamaChannel.th",
     "title": "RamaChannel",
-    "url": "https://ramach.ddns.net/live/ramalive/index.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9yYW1hY2guZGRucy5uZXQvbGl2ZS9yYW1hbGl2ZS9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1104,
     "speed_kbs": 6066,
     "resolution": "1080p",
-    "last_test": 1781578161.9829843
+    "referrer": null
   },
   {
     "channel": "MONO29.th",
     "title": "MONO29",
-    "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly91ZG4tc3RyZWFtZXIxLmNkbi4zYmJ0di5jb206ODQ0My8zYmIvbGl2ZS8yOS8yOS5tcGQ=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1141,
     "speed_kbs": 68643,
     "resolution": "1080p",
-    "last_test": 1781578160.4644723
+    "referrer": null
   },
   {
     "channel": "ThaiParliamentTelevision.th",
     "title": "ThaiParliamentTelevision",
-    "url": "https://tv-live.tpchannel.org/live/tv.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly90di1saXZlLnRwY2hhbm5lbC5vcmcvbGl2ZS90di5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1346,
     "speed_kbs": 76263,
     "resolution": "1080p",
-    "last_test": 1781578164.4698403
+    "referrer": null
   },
   {
     "channel": "STOUChannel.th",
     "title": "STOUChannel",
-    "url": "https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9zdHJlYW0xLnN0b3UuYWMudGgvbGl2ZS9zdG91XzcyMHAvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1625,
     "speed_kbs": 10948,
     "resolution": "1080p",
-    "last_test": 1781578164.2619922
+    "referrer": null
   }
 ]

@@ -2,56 +2,51 @@
   {
     "channel": "NewsWorld.hk",
     "title": "NewsWorld",
-    "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9hbWcwMTA3Ni1saWdodG5pbmctYW1nMDEwNzZjNS1yYWt1dGVuLXVzLTE3ODgucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAxMDc2LWxpZ2h0bmluZy1uZXdzd29ybGQtcmFrdXRlbnVzL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 254,
     "speed_kbs": 26518,
     "resolution": "1080p",
-    "last_test": 1781540738.3856623
+    "referrer": null
   },
   {
     "channel": "RTHKTV31.hk",
     "title": "RTHKTV31",
-    "url": "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9ydGhrbGl2ZTEtbGguYWthbWFpaGQubmV0L2kvcnRoazMxXzFAMTY3NDk1L21hc3Rlci5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 304,
     "speed_kbs": 52617,
     "resolution": "1080p",
-    "last_test": 1781540740.8284144
+    "referrer": null
   },
   {
     "channel": "RTHKTV31.hk",
     "title": "RTHKTV31",
-    "url": "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9ydGhrdHYzMS1saXZlLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjAzNjgxOC9SVEhLVFYzMS9tYXN0ZXIubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 307,
     "speed_kbs": 85504,
     "resolution": "1080p",
-    "last_test": 1781540740.828472
+    "referrer": null
   },
   {
     "channel": "PetClubTV.hk",
     "title": "PetClubTV",
-    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4tYXBzZTEtcHJvZC50c3YyLmFtYWdpLnR2L2xpbmVhci9hbWcwMTA3Ni1saWdodG5pbmdpbnRlcm4tcGV0Y2x1Yi1zYW1zdW5nbnovcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 664,
     "speed_kbs": 340319,
     "resolution": "1080p",
-    "last_test": 1781540740.0719547
+    "referrer": null
   },
   {
     "channel": "PetClubTV.hk",
     "title": "PetClubTV",
-    "url": "https://petclub-samsungaus.amagi.tv/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9wZXRjbHViLXNhbXN1bmdhdXMuYW1hZ2kudHYvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 949,
     "speed_kbs": 6889,
     "resolution": "1080p",
-    "last_test": 1781540740.353767
+    "referrer": null
   }
 ]

@@ -2,1519 +2,1381 @@
   {
     "channel": "SurauTV.id",
     "title": "SurauTV",
-    "url": "https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly93YWh5dTFwdHYucGFnZXMuZGV2L1N1cmF1VFYtSEQubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 29,
     "speed_kbs": 36096,
     "resolution": "1080p",
-    "last_test": 1781578162.8426468
+    "referrer": null
   },
   {
     "channel": "AshiilTV.id",
     "title": "AshiilTV",
-    "url": "https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly93YWh5dTFwdHYucGFnZXMuZGV2L0FzaGlpbFRWLUhELm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 85,
     "speed_kbs": 24252,
     "resolution": "1080p",
-    "last_test": 1781578154.0561166
+    "referrer": null
   },
   {
     "channel": "Ananda.id",
     "title": "Ananda",
-    "url": "https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://anandatelkomvision.renderforestsites.com/",
+    "url": "aHR0cHM6Ly92b2RjZG4uYmFtYm9vLWNsb3VkLmNvbS9saXZlaGxzLzY4ZWY4NjMyMDYzMDQ0NGIxZjc5Njg3NS9tYXN0ZXIubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 155,
     "speed_kbs": 62668,
     "resolution": "1080p",
-    "last_test": 1781578153.4728107
+    "referrer": "https://anandatelkomvision.renderforestsites.com/"
   },
   {
     "channel": "Allegro.id",
     "title": "Allegro",
-    "url": "https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://allegrotelkomvision.renderforestsites.com/",
+    "url": "aHR0cHM6Ly92b2RjZG4uYmFtYm9vLWNsb3VkLmNvbS9saXZlaGxzLzY4YzUyNWUxMDYzMDQ0NTM5YjA5YzI1My9tYXN0ZXIubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 165,
     "speed_kbs": 82944,
     "resolution": "1080p",
-    "last_test": 1781578153.480958
+    "referrer": "https://allegrotelkomvision.renderforestsites.com/"
   },
   {
     "channel": "IndonesianaTV.id",
     "title": "IndonesianaTV",
-    "url": "https://tvstreamcast.com/indonesiana.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://indonesiana.tv/",
+    "url": "aHR0cHM6Ly90dnN0cmVhbWNhc3QuY29tL2luZG9uZXNpYW5hLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 193,
     "speed_kbs": 19960,
     "resolution": "1080p",
-    "last_test": 1781578158.26338
+    "referrer": "https://indonesiana.tv/"
   },
   {
     "channel": "TATV.id",
     "title": "TATV",
-    "url": "https://v2.siar.us/tatv/live.sdp/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly92Mi5zaWFyLnVzL3RhdHYvbGl2ZS5zZHAvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 196,
     "speed_kbs": 14365,
     "resolution": "1080p",
-    "last_test": 1781578163.2240956
+    "referrer": null
   },
   {
     "channel": "DavikaTV.id",
     "title": "DavikaTV",
-    "url": "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://davikatv.co/livestreaming/",
+    "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L2RhdmlrYS9kYXZpa2EvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 197,
     "speed_kbs": 12379,
     "resolution": "1080p",
-    "last_test": 1781578156.0807984
+    "referrer": "https://davikatv.co/livestreaming/"
   },
   {
     "channel": "JawaPosTV.id",
     "title": "JawaPosTV",
-    "url": "http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvSkFXQVBPU1RWQkFMSS9fZGVmaW5zdF8vbXlTdHJlYW0vcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 197,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578158.6249697
+    "referrer": null
   },
   {
     "channel": "JawaPosTV.id",
     "title": "JawaPosTV",
-    "url": "http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvSkFXQVBPU1RWSktUL19kZWZpbnN0Xy9teVN0cmVhbS9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 197,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578158.6418843
+    "referrer": null
   },
   {
     "channel": "KilisuciTV.id",
     "title": "KilisuciTV",
-    "url": "https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L2tzdHYva3N0di9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 197,
     "speed_kbs": 7014,
     "resolution": "1080p",
-    "last_test": 1781578158.8336236
+    "referrer": null
   },
   {
     "channel": "PadangTV.id",
     "title": "PadangTV",
-    "url": "http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvUEFEQU5HVFYvX2RlZmluc3RfL215U3RyZWFtL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 197,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578160.8338196
+    "referrer": null
   },
   {
     "channel": "TimorTV.id",
     "title": "TimorTV",
-    "url": "http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvVElNT1JUVi9fZGVmaW5zdF8vbXlTdHJlYW0vcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 197,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578163.6274872
+    "referrer": null
   },
   {
     "channel": "SMTV.id",
     "title": "SMTV",
-    "url": "http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvU01UVi9fZGVmaW5zdF8vbXlTdHJlYW0vcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 198,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578162.4007962
+    "referrer": null
   },
   {
     "channel": "STV.id",
     "title": "STV",
-    "url": "http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvU0FNQVJJTkRBVFYvX2RlZmluc3RfL215U3RyZWFtL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 198,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578163.0459788
+    "referrer": null
   },
   {
     "channel": "SultraTV.id",
     "title": "SultraTV",
-    "url": "http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvU1VMVFJBVFYvX2RlZmluc3RfL215U3RyZWFtL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 198,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578163.1924982
+    "referrer": null
   },
   {
     "channel": "TV9Nusantara.id",
     "title": "TV9Nusantara",
-    "url": "https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L3R2OS90djkvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 198,
     "speed_kbs": 10948,
     "resolution": "1080p",
-    "last_test": 1781578163.7784667
+    "referrer": null
   },
   {
     "channel": "TVTabalong.id",
     "title": "TVTabalong",
-    "url": "https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L3R2dGFiYWxvbmcvdHZ0YWJhbG9uZy9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 198,
     "speed_kbs": 10543,
     "resolution": "1080p",
-    "last_test": 1781578164.5805554
+    "referrer": null
   },
   {
     "channel": "PONTV.id",
     "title": "PONTV",
-    "url": "http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvUE9OVFYvX2RlZmluc3RfL215U3RyZWFtL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 199,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578160.914386
+    "referrer": null
   },
   {
     "channel": "MQTV.id",
     "title": "MQTV",
-    "url": "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L21xdHYvbXF0di9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 202,
     "speed_kbs": 10093,
     "resolution": "1080p",
-    "last_test": 1781578159.5681849
+    "referrer": null
   },
   {
     "channel": "VTV.id",
     "title": "VTV",
-    "url": "https://flv.intechmedia.net/live/ch107.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://youtv.live/",
+    "url": "aHR0cHM6Ly9mbHYuaW50ZWNobWVkaWEubmV0L2xpdmUvY2gxMDcubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 212,
     "speed_kbs": 22323,
     "resolution": "1080p",
-    "last_test": 1781578165.0363855
+    "referrer": "https://youtv.live/"
   },
   {
     "channel": "SurabayaTV.id",
     "title": "SurabayaTV",
-    "url": "https://e.siar.us/live/surabayatv.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9lLnNpYXIudXMvbGl2ZS9zdXJhYmF5YXR2Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 214,
     "speed_kbs": 15744,
     "resolution": "1080p",
-    "last_test": 1781578163.0272493
+    "referrer": null
   },
   {
     "channel": "TVMu.id",
     "title": "TVMu",
-    "url": "https://e.siar.us/live/tvmu.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9lLnNpYXIudXMvbGl2ZS90dm11Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 214,
     "speed_kbs": 18055,
     "resolution": "1080p",
-    "last_test": 1781578163.823916
+    "referrer": null
   },
   {
     "channel": "KTV.id",
     "title": "KTV",
-    "url": "https://flv.intechmedia.net/live/ch118.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://youtv.live/",
+    "url": "aHR0cHM6Ly9mbHYuaW50ZWNobWVkaWEubmV0L2xpdmUvY2gxMTgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 215,
     "speed_kbs": 29815,
     "resolution": "1080p",
-    "last_test": 1781578158.92074
+    "referrer": "https://youtv.live/"
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9TdW1iYXIvaGxzL1N1bWJhci5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 220,
     "speed_kbs": 95678,
     "resolution": "1080p",
-    "last_test": 1781578164.4827783
+    "referrer": null
   },
   {
     "channel": "GarudaTV.id",
     "title": "GarudaTV",
-    "url": "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9oZ210di5jb206MTkzNjAvZ2FydWRhdHZsaXZlc3RyZWFtaW5nL2dhcnVkYXR2bGl2ZXN0cmVhbWluZy5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 222,
     "speed_kbs": 18995,
     "resolution": "1080p",
-    "last_test": 1781578157.6272187
+    "referrer": null
   },
   {
     "channel": "TVRIWorld.id",
     "title": "TVRIWorld",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9UVlJJV29ybGQvaGxzL1RWUklXb3JsZC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 224,
     "speed_kbs": 86202,
     "resolution": "1080p",
-    "last_test": 1781578164.5069578
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9KYWJhci9obHMvSmFiYXIubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 234,
     "speed_kbs": 68961,
     "resolution": "1080p",
-    "last_test": 1781578164.427438
+    "referrer": null
   },
   {
     "channel": "SPOTV2.id",
     "title": "SPOTV2",
-    "url": "http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119516.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovL3ByaW1lc3RyZWFtcy50djo4MjYvbGl2ZS9tb29raWUyMi80OWFWN25Cc0s0LzExOTUxNi5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 265,
     "speed_kbs": 213289,
     "resolution": "1080p",
-    "last_test": 1781578162.6151962
+    "referrer": null
   },
   {
     "channel": "SPOTV.id",
     "title": "SPOTV",
-    "url": "http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119515.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovL3ByaW1lc3RyZWFtcy50djo4MjYvbGl2ZS9tb29raWUyMi80OWFWN25Cc0s0LzExOTUxNS5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 292,
     "speed_kbs": 231223,
     "resolution": "1080p",
-    "last_test": 1781578162.664804
+    "referrer": null
   },
   {
     "channel": "AlBahjahTV.id",
     "title": "AlBahjahTV",
-    "url": "http://202.150.161.117:8000/play/AlBahjahTV",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzIwMi4xNTAuMTYxLjExNzo4MDAwL3BsYXkvQWxCYWhqYWhUVg==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 388,
     "speed_kbs": 23,
     "resolution": "720p",
-    "last_test": 1781578154.2170632
+    "referrer": null
   },
   {
     "channel": "KawanuaTV.id",
     "title": "KawanuaTV",
-    "url": "http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvS0FXQU5VQVRWL19kZWZpbnN0Xy9teVN0cmVhbS9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 392,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578159.1517358
+    "referrer": null
   },
   {
     "channel": "NabawiTV.id",
     "title": "NabawiTV",
-    "url": "http://202.150.161.117:8000/play/NabawiTV",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzIwMi4xNTAuMTYxLjExNzo4MDAwL3BsYXkvTmFiYXdpVFY=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 392,
     "speed_kbs": 1,
     "resolution": "720p",
-    "last_test": 1781578160.5455966
+    "referrer": null
   },
   {
     "channel": "JawaPosTV.id",
     "title": "JawaPosTV",
-    "url": "http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvSkFXQVBPU1RWU0VNQVJBTkcvX2RlZmluc3RfL215U3RyZWFtL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 393,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578158.8864574
+    "referrer": null
   },
   {
     "channel": "JTV.id",
     "title": "JTV",
-    "url": "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvSlRWS0VESVJJL19kZWZpbnN0Xy9teVN0cmVhbS9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 393,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578158.9686885
+    "referrer": null
   },
   {
     "channel": "BatamTV.id",
     "title": "BatamTV",
-    "url": "http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvQkFUQU1UVi9fZGVmaW5zdF8vbXlTdHJlYW0vcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 394,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578155.0197225
+    "referrer": null
   },
   {
     "channel": "JTV.id",
     "title": "JTV",
-    "url": "http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvSlRWTUFMQU5HL19kZWZpbnN0Xy9teVN0cmVhbS9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 394,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578158.9871793
+    "referrer": null
   },
   {
     "channel": "TVRParlemen.id",
     "title": "TVRParlemen",
-    "url": "http://103.18.181.69:1935/golive/livestream/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEwMy4xOC4xODEuNjk6MTkzNS9nb2xpdmUvbGl2ZXN0cmVhbS9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 394,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578164.9702237
+    "referrer": null
   },
   {
     "channel": "JawaPosTV.id",
     "title": "JawaPosTV",
-    "url": "http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvSkFXQVBPU1RWU0JZL19kZWZpbnN0Xy9teVN0cmVhbS9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 395,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578158.8855164
+    "referrer": null
   },
   {
     "channel": "JTV.id",
     "title": "JTV",
-    "url": "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvSlRWTUFESVVOL19kZWZpbnN0Xy9teVN0cmVhbS9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 396,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578158.9906101
+    "referrer": null
   },
   {
     "channel": "JawaPosTV.id",
     "title": "JawaPosTV",
-    "url": "http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvSkFXQVBPU1RWTUFESVVOL19kZWZpbnN0Xy9teVN0cmVhbS9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 397,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578158.8577778
+    "referrer": null
   },
   {
     "channel": "JTV.id",
     "title": "JTV",
-    "url": "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvSlRWU1VSQUJBWUEvX2RlZmluc3RfL215U3RyZWFtL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 397,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578158.99473
+    "referrer": null
   },
   {
     "channel": "tvOne.id",
     "title": "tvOne",
-    "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzIwMi44MC4yMjIuMjAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMTgvMTAyNC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 397,
     "speed_kbs": 3082,
     "resolution": "1080p",
-    "last_test": 1781578164.0393348
+    "referrer": null
   },
   {
     "channel": "BalikpapanTV.id",
     "title": "BalikpapanTV",
-    "url": "http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvQkFMSUtQQVBBTlRWL19kZWZpbnN0Xy9teVN0cmVhbS9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 399,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578154.9218724
+    "referrer": null
   },
   {
     "channel": "JekTV.id",
     "title": "JekTV",
-    "url": "http://27.124.81.245:1935/jektv/myStream/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "http://jektv.co.id/livestreaming/",
+    "url": "aHR0cDovLzI3LjEyNC44MS4yNDU6MTkzNS9qZWt0di9teVN0cmVhbS9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 401,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578158.9245286
+    "referrer": "http://jektv.co.id/livestreaming/"
   },
   {
     "channel": "JogjaIstimewaTV.id",
     "title": "JogjaIstimewaTV",
-    "url": "http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEwMy4yNTUuMTUuMjIyOjE5MzUvdHYvaml0dl83MjBwL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 406,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578158.9367507
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9TdW1zZWwvaGxzL1N1bXNlbC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 439,
     "speed_kbs": 66633,
     "resolution": "1080p",
-    "last_test": 1781578164.6202226
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9LYWxiYXIvaGxzL0thbGJhci5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 446,
     "speed_kbs": 70404,
     "resolution": "1080p",
-    "last_test": 1781578164.6791558
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9TdWxiYXIvaGxzL1N1bGJhci5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 448,
     "speed_kbs": 45505,
     "resolution": "1080p",
-    "last_test": 1781578164.710916
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9QYXB1YS9obHMvUGFwdWEubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 452,
     "speed_kbs": 97657,
     "resolution": "1080p",
-    "last_test": 1781578164.4833155
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9QYWJhci9obHMvUGFiYXIubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 453,
     "speed_kbs": 92774,
     "resolution": "1080p",
-    "last_test": 1781578164.7113292
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9LYWx0aW0vaGxzL0thbHRpbS5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 460,
     "speed_kbs": 79392,
     "resolution": "1080p",
-    "last_test": 1781578164.2624545
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9TdWx0cmEvaGxzL1N1bHRyYS5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 460,
     "speed_kbs": 76152,
     "resolution": "1080p",
-    "last_test": 1781578164.5390148
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9OVEIvaGxzL05UQi5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 460,
     "speed_kbs": 79782,
     "resolution": "1080p",
-    "last_test": 1781578164.7102923
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9MYW1wdW5nL2hscy9MYW1wdW5nLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 464,
     "speed_kbs": 56847,
     "resolution": "1080p",
-    "last_test": 1781578164.381375
+    "referrer": null
   },
   {
     "channel": "BandungTV.id",
     "title": "BandungTV",
-    "url": "http://202.150.153.254:65500/bandungtvWEBSITE.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzIwMi4xNTAuMTUzLjI1NDo2NTUwMC9iYW5kdW5ndHZXRUJTSVRFLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 466,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578155.0080802
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9CZW5na3VsdS9obHMvQmVuZ2t1bHUubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 468,
     "speed_kbs": 73968,
     "resolution": "1080p",
-    "last_test": 1781578164.1805363
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9KYW1iaS9obHMvSmFtYmkubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 477,
     "speed_kbs": 78956,
     "resolution": "1080p",
-    "last_test": 1781578164.3821313
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9CYWJlbC9obHMvQmFiZWwubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 484,
     "speed_kbs": 70018,
     "resolution": "1080p",
-    "last_test": 1781578164.1924157
+    "referrer": null
   },
   {
     "channel": "MDTV.id",
     "title": "MDTV",
-    "url": "http://103.148.44.38:8000/play/a05b/index.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEwMy4xNDguNDQuMzg6ODAwMC9wbGF5L2EwNWIvaW5kZXgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 499,
     "speed_kbs": 571,
     "resolution": "720p",
-    "last_test": 1781578159.6502242
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9KYXRpbS9obHMvSmF0aW0ubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 503,
     "speed_kbs": 77312,
     "resolution": "1080p",
-    "last_test": 1781578164.2821836
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9BbWJvbi9obHMvQW1ib24ubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 512,
     "speed_kbs": 72764,
     "resolution": "1080p",
-    "last_test": 1781578164.4481258
+    "referrer": null
   },
   {
     "channel": "UChannel.id",
     "title": "UChannel",
-    "url": "https://srs.u-channel.tv/live/uchannel-tv.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://www.u-channel.tv",
+    "url": "aHR0cHM6Ly9zcnMudS1jaGFubmVsLnR2L2xpdmUvdWNoYW5uZWwtdHYubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 537,
     "speed_kbs": 6474,
     "resolution": "1080p",
-    "last_test": 1781578164.9262059
+    "referrer": "https://www.u-channel.tv"
   },
   {
     "channel": "AlWafaTarim.id",
     "title": "AlWafaTarim",
-    "url": "https://ammedia.siar.us/ammedia/live/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9hbW1lZGlhLnNpYXIudXMvYW1tZWRpYS9saXZlL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 573,
     "speed_kbs": 35258,
     "resolution": "1080p",
-    "last_test": 1781578153.889025
+    "referrer": null
   },
   {
     "channel": "RadarTasikmalayaTV.id",
     "title": "RadarTasikmalayaTV",
-    "url": "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly92Mi5zaWFyLnVzL3JhZGFydGFzaWttYWxheWEvbGl2ZS9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 615,
     "speed_kbs": 15677,
     "resolution": "1080p",
-    "last_test": 1781578161.454286
+    "referrer": null
   },
   {
     "channel": "FicomChannel.id",
     "title": "FicomChannel",
-    "url": "https://v3.siar.us/ficomchannel/live/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly92My5zaWFyLnVzL2ZpY29tY2hhbm5lbC9saXZlL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 618,
     "speed_kbs": 15798,
     "resolution": "1080p",
-    "last_test": 1781578157.9816768
+    "referrer": null
   },
   {
     "channel": "RodjaTV.id",
     "title": "RodjaTV",
-    "url": "https://rodjatv.com/rodjatv/live.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9yb2RqYXR2LmNvbS9yb2RqYXR2L2xpdmUubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 618,
     "speed_kbs": 35929,
     "resolution": "1080p",
-    "last_test": 1781578161.6359744
+    "referrer": null
   },
   {
     "channel": "MaduTV.id",
     "title": "MaduTV",
-    "url": "https://re1.siar.us/madutv/hd720/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9yZTEuc2lhci51cy9tYWR1dHYvaGQ3MjAvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 619,
     "speed_kbs": 13989,
     "resolution": "1080p",
-    "last_test": 1781578159.5249882
+    "referrer": null
   },
   {
     "channel": "StaraTV.id",
     "title": "StaraTV",
-    "url": "https://bandung.staratv.id/hls/0/stream.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://bandung.staratv.id/",
+    "url": "aHR0cHM6Ly9iYW5kdW5nLnN0YXJhdHYuaWQvaGxzLzAvc3RyZWFtLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 620,
     "speed_kbs": 40037,
     "resolution": "1080p",
-    "last_test": 1781578162.9965353
+    "referrer": "https://bandung.staratv.id/"
   },
   {
     "channel": "MusicInformationChannel.id",
     "title": "MusicInformationChannel",
-    "url": "https://mic.siar.us/mic/live/mic.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://mic-indo.com/live",
+    "url": "aHR0cHM6Ly9taWMuc2lhci51cy9taWMvbGl2ZS9taWMubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 628,
     "speed_kbs": 39321,
     "resolution": "1080p",
-    "last_test": 1781578160.065227
+    "referrer": "https://mic-indo.com/live"
   },
   {
     "channel": "NusantaraTV.id",
     "title": "NusantaraTV",
-    "url": "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9udXNhbnRhcmF0di5zaWFyLnVzL251c2FudGFyYXR2L2xpdmUvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 638,
     "speed_kbs": 20206,
     "resolution": "1080p",
-    "last_test": 1781578160.9702506
+    "referrer": null
   },
   {
     "channel": "EfarinaTV.id",
     "title": "EfarinaTV",
-    "url": "https://live.efarinatv.com/hls/bgtaufikganteng.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://live.efarinatv.net/",
+    "url": "aHR0cHM6Ly9saXZlLmVmYXJpbmF0di5jb20vaGxzL2JndGF1ZmlrZ2FudGVuZy5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 649,
     "speed_kbs": 78091,
     "resolution": "1080p",
-    "last_test": 1781578157.528232
+    "referrer": "https://live.efarinatv.net/"
   },
   {
     "channel": "CNBCIndonesia.id",
     "title": "CNBCIndonesia",
-    "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLmNuYmNpbmRvbmVzaWEuY29tL2xpdmVjbmJjL3NtaWw6Y25iY3R2LnNtaWwvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 652,
     "speed_kbs": 24736,
     "resolution": "1080p",
-    "last_test": 1781578156.0759404
+    "referrer": null
   },
   {
     "channel": "SriwijayaTV.id",
     "title": "SriwijayaTV",
-    "url": "https://sriwijayatv.siar.us/live/sriwijayatv.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9zcml3aWpheWF0di5zaWFyLnVzL2xpdmUvc3Jpd2lqYXlhdHYubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 654,
     "speed_kbs": 27786,
     "resolution": "1080p",
-    "last_test": 1781578163.0277958
+    "referrer": null
   },
   {
     "channel": "RRINet.id",
     "title": "RRINet",
-    "url": "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9wcml2YXRlLXN0cmVhbWluZy5ycmkuZ28uaWQvbWVtZnMvNmY3N2M3YjUtZmViMi00OTM1LTlmODktZTdlOWZjYTBhNTRhX291dHB1dF8wLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 662,
     "speed_kbs": 9182,
     "resolution": "1080p",
-    "last_test": 1781578161.7567687
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9LYWxzZWwvaGxzL0thbHNlbC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 667,
     "speed_kbs": 65464,
     "resolution": "1080p",
-    "last_test": 1781578164.7472775
+    "referrer": null
   },
   {
     "channel": "SaktiTV.id",
     "title": "SaktiTV",
-    "url": "https://saktitv.siar.us/saktitv/live/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9zYWt0aXR2LnNpYXIudXMvc2FrdGl0di9saXZlL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 668,
     "speed_kbs": 14666,
     "resolution": "1080p",
-    "last_test": 1781578161.9450886
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9TdWxzZWwvaGxzL1N1bHNlbC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 668,
     "speed_kbs": 64335,
     "resolution": "1080p",
-    "last_test": 1781578164.8377538
+    "referrer": null
   },
   {
     "channel": "CarubanTV.id",
     "title": "CarubanTV",
-    "url": "https://stream.carubantv.id/hls/0/stream.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://stream.carubantv.id",
+    "url": "aHR0cHM6Ly9zdHJlYW0uY2FydWJhbnR2LmlkL2hscy8wL3N0cmVhbS5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 669,
     "speed_kbs": 43081,
     "resolution": "1080p",
-    "last_test": 1781578155.7914014
+    "referrer": "https://stream.carubantv.id"
   },
   {
     "channel": "SMTV.id",
     "title": "SMTV",
-    "url": "https://e.siar.us/live/smtv.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://smtv.digital/",
+    "url": "aHR0cHM6Ly9lLnNpYXIudXMvbGl2ZS9zbXR2Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 669,
     "speed_kbs": 23247,
     "resolution": "1080p",
-    "last_test": 1781578162.6774628
+    "referrer": "https://smtv.digital/"
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9OVFQvaGxzL05UVC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 669,
     "speed_kbs": 94102,
     "resolution": "1080p",
-    "last_test": 1781578164.4917886
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9Hb3JvbnRhbG8vaGxzL0dvcm9udGFsby5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 669,
     "speed_kbs": 97253,
     "resolution": "1080p",
-    "last_test": 1781578164.493483
+    "referrer": null
   },
   {
     "channel": "BanjarTV.id",
     "title": "BanjarTV",
-    "url": "https://banjartv.siar.us/banjartv/live/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9iYW5qYXJ0di5zaWFyLnVzL2JhbmphcnR2L2xpdmUvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 673,
     "speed_kbs": 18944,
     "resolution": "1080p",
-    "last_test": 1781578155.050785
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9ES0kvaGxzL0RLSS5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 673,
     "speed_kbs": 91750,
     "resolution": "1080p",
-    "last_test": 1781578164.5182164
+    "referrer": null
   },
   {
     "channel": "DutaTV.id",
     "title": "DutaTV",
-    "url": "https://dutatv.siar.us/dutatv/live/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9kdXRhdHYuc2lhci51cy9kdXRhdHYvbGl2ZS9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 674,
     "speed_kbs": 18557,
     "resolution": "1080p",
-    "last_test": 1781578157.5250216
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9Kb2dqYWthcnRhL2hscy9Kb2dqYWthcnRhLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 675,
     "speed_kbs": 69334,
     "resolution": "1080p",
-    "last_test": 1781578164.947544
+    "referrer": null
   },
   {
     "channel": "CNBCIndonesia.id",
     "title": "CNBCIndonesia",
-    "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLmNuYmNpbmRvbmVzaWEuY29tL2xpdmVjbmJjL3NtaWw6Y25iY3R2LnNtaWwvbWFzdGVyLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 677,
     "speed_kbs": 21026,
     "resolution": "1080p",
-    "last_test": 1781578156.089651
+    "referrer": null
   },
   {
     "channel": "RCTV.id",
     "title": "RCTV",
-    "url": "https://v10.siar.us/rctv/live/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly92MTAuc2lhci51cy9yY3R2L2xpdmUvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 681,
     "speed_kbs": 6411,
     "resolution": "1080p",
-    "last_test": 1781578161.5825992
+    "referrer": null
   },
   {
     "channel": "SalamTV.id",
     "title": "SalamTV",
-    "url": "https://salamtv.siar.us/live/salamtv.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9zYWxhbXR2LnNpYXIudXMvbGl2ZS9zYWxhbXR2Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 684,
     "speed_kbs": 23654,
     "resolution": "1080p",
-    "last_test": 1781578162.0052514
+    "referrer": null
   },
   {
     "channel": "BNChannel.id",
     "title": "BNChannel",
-    "url": "https://flv.intechmedia.net/live/ch112.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://youtv.live/",
+    "url": "aHR0cHM6Ly9mbHYuaW50ZWNobWVkaWEubmV0L2xpdmUvY2gxMTIubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 686,
     "speed_kbs": 18057,
     "resolution": "1080p",
-    "last_test": 1781578155.7054262
+    "referrer": "https://youtv.live/"
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9SaWF1L2hscy9SaWF1Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 689,
     "speed_kbs": 92262,
     "resolution": "1080p",
-    "last_test": 1781578164.7292347
+    "referrer": null
   },
   {
     "channel": "MatrixTVYogyakarta.id",
     "title": "MatrixTVYogyakarta",
-    "url": "https://stream.matrixtv.id/hls/0/stream.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://stream.matrixtv.id/",
+    "url": "aHR0cHM6Ly9zdHJlYW0ubWF0cml4dHYuaWQvaGxzLzAvc3RyZWFtLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 694,
     "speed_kbs": 78758,
     "resolution": "1080p",
-    "last_test": 1781578159.805291
+    "referrer": "https://stream.matrixtv.id/"
   },
   {
     "channel": "SelaparangTV.id",
     "title": "SelaparangTV",
-    "url": "https://selaparangtv.siar.us/live/selaparangtv.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://selaparangtv.net",
+    "url": "aHR0cHM6Ly9zZWxhcGFyYW5ndHYuc2lhci51cy9saXZlL3NlbGFwYXJhbmd0di5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 702,
     "speed_kbs": 19065,
     "resolution": "1080p",
-    "last_test": 1781578162.4587414
+    "referrer": "https://selaparangtv.net"
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9OYXNpb25hbC9obHMvTmFzaW9uYWwubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 712,
     "speed_kbs": 58399,
     "resolution": "1080p",
-    "last_test": 1781578164.5383794
+    "referrer": null
   },
   {
     "channel": "SampitTV.id",
     "title": "SampitTV",
-    "url": "https://sampit-tv.siar.us/live/sampit-tv.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9zYW1waXQtdHYuc2lhci51cy9saXZlL3NhbXBpdC10di5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 714,
     "speed_kbs": 17318,
     "resolution": "1080p",
-    "last_test": 1781578162.1542397
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9KYXRlbmcvaGxzL0phdGVuZy5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 717,
     "speed_kbs": 93286,
     "resolution": "1080p",
-    "last_test": 1781578164.4351683
+    "referrer": null
   },
   {
     "channel": "PKTV.id",
     "title": "PKTV",
-    "url": "https://streaming.id18.tunnel.my.id/hls/stream.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://pktvkaltim.com/acara/live-content/?noamp=mobile",
+    "url": "aHR0cHM6Ly9zdHJlYW1pbmcuaWQxOC50dW5uZWwubXkuaWQvaGxzL3N0cmVhbS5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 721,
     "speed_kbs": 42622,
     "resolution": "1080p",
-    "last_test": 1781578161.181479
+    "referrer": "https://pktvkaltim.com/acara/live-content/?noamp=mobile"
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9BY2VoL2hscy9BY2VoLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 724,
     "speed_kbs": 68342,
     "resolution": "1080p",
-    "last_test": 1781578164.3981688
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9TdW11dC9obHMvU3VtdXQubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 753,
     "speed_kbs": 74219,
     "resolution": "1080p",
-    "last_test": 1781578164.728083
+    "referrer": null
   },
   {
     "channel": "BTV.id",
     "title": "BTV",
-    "url": "https://xtdslboppkkv-pull.bpmedialive.com/live/btv/abr.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://www.beritasatu.com/btv-live-streaming",
+    "url": "aHR0cHM6Ly94dGRzbGJvcHBra3YtcHVsbC5icG1lZGlhbGl2ZS5jb20vbGl2ZS9idHYvYWJyLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 792,
     "speed_kbs": 30336,
     "resolution": "1080p",
-    "last_test": 1781578155.8681977
+    "referrer": "https://www.beritasatu.com/btv-live-streaming"
   },
   {
     "channel": "DMITV.id",
     "title": "DMITV",
-    "url": "https://tvstreamcast.com/tawaftv.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly90dnN0cmVhbWNhc3QuY29tL3Rhd2FmdHYubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 798,
     "speed_kbs": 21981,
     "resolution": "1080p",
-    "last_test": 1781578157.597183
+    "referrer": null
   },
   {
     "channel": "Trans7.id",
     "title": "Trans7",
-    "url": "https://video.detik.com/trans7/smil:trans7.smil/index.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly92aWRlby5kZXRpay5jb20vdHJhbnM3L3NtaWw6dHJhbnM3LnNtaWwvaW5kZXgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 800,
     "speed_kbs": 20347,
     "resolution": "1080p",
-    "last_test": 1781578164.168876
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9CYWxpL2hscy9CYWxpLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 803,
     "speed_kbs": 75316,
     "resolution": "1080p",
-    "last_test": 1781578164.511502
+    "referrer": null
   },
   {
     "channel": "StaraTV.id",
     "title": "StaraTV",
-    "url": "https://jakarta.staratv.id/hls/0/stream.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://jakarta.staratv.id/",
+    "url": "aHR0cHM6Ly9qYWthcnRhLnN0YXJhdHYuaWQvaGxzLzAvc3RyZWFtLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 810,
     "speed_kbs": 74069,
     "resolution": "1080p",
-    "last_test": 1781578163.2346554
+    "referrer": "https://jakarta.staratv.id/"
   },
   {
     "channel": "TransTV.id",
     "title": "TransTV",
-    "url": "https://video.detik.com/transtv/smil:transtv.smil/index.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly92aWRlby5kZXRpay5jb20vdHJhbnN0di9zbWlsOnRyYW5zdHYuc21pbC9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 810,
     "speed_kbs": 16331,
     "resolution": "1080p",
-    "last_test": 1781578164.232484
+    "referrer": null
   },
   {
     "channel": "StaraTV.id",
     "title": "StaraTV",
-    "url": "https://malang.staratv.id/hls/0/stream.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://malang.staratv.id/",
+    "url": "aHR0cHM6Ly9tYWxhbmcuc3RhcmF0di5pZC9obHMvMC9zdHJlYW0ubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 815,
     "speed_kbs": 74069,
     "resolution": "1080p",
-    "last_test": 1781578163.273976
+    "referrer": "https://malang.staratv.id/"
   },
   {
     "channel": "StaraTV.id",
     "title": "StaraTV",
-    "url": "https://parahyangan.staratv.id/hls/0/stream.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://parahyangan.staratv.id/",
+    "url": "aHR0cHM6Ly9wYXJhaHlhbmdhbi5zdGFyYXR2LmlkL2hscy8wL3N0cmVhbS5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 817,
     "speed_kbs": 92586,
     "resolution": "1080p",
-    "last_test": 1781578163.2801204
+    "referrer": "https://parahyangan.staratv.id/"
   },
   {
     "channel": "DAAITV.id",
     "title": "DAAITV",
-    "url": "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9wdWxsLmRhYWlwbHVzLmNvbS9saXZlLURBQUlQTFVTL2xpdmUtREFBSVBMVVNfSEQubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 822,
     "speed_kbs": 41359,
     "resolution": "1080p",
-    "last_test": 1781578156.527558
+    "referrer": null
   },
   {
     "channel": "AlImanTV.id",
     "title": "AlImanTV",
-    "url": "https://tv.aliman.id/aliman/live.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly90di5hbGltYW4uaWQvYWxpbWFuL2xpdmUubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 827,
     "speed_kbs": 11130,
     "resolution": "1080p",
-    "last_test": 1781578154.1176064
+    "referrer": null
   },
   {
     "channel": "LingkarTV.id",
     "title": "LingkarTV",
-    "url": "https://lingkartv.my.id/hls/lingkartv.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saW5na2FydHYubXkuaWQvaGxzL2xpbmdrYXJ0di5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 829,
     "speed_kbs": 15808,
     "resolution": "1080p",
-    "last_test": 1781578159.645004
+    "referrer": null
   },
   {
     "channel": "StaraTV.id",
     "title": "StaraTV",
-    "url": "https://stream.staratv.id/hls/0/stream.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://stream.staratv.id/",
+    "url": "aHR0cHM6Ly9zdHJlYW0uc3RhcmF0di5pZC9obHMvMC9zdHJlYW0ubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 847,
     "speed_kbs": 82299,
     "resolution": "1080p",
-    "last_test": 1781578163.3241663
+    "referrer": "https://stream.staratv.id/"
   },
   {
     "channel": "DhammaTV.id",
     "title": "DhammaTV",
-    "url": "https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9iLndlYmNhY2hlLm1heGluZG8ubmV0LmlkL2RoYW1tYS9kaGFtbWEubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 862,
     "speed_kbs": 34772,
     "resolution": "1080p",
-    "last_test": 1781578157.5101185
+    "referrer": null
   },
   {
     "channel": "UGTV.id",
     "title": "UGTV",
-    "url": "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4uZ3VuYWRhcm1hLmFjLmlkL3N0cmVhbXMvdWd0di9pbmdlc3R1Z3R2Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 872,
     "speed_kbs": 21969,
     "resolution": "1080p",
-    "last_test": 1781578165.2703483
+    "referrer": null
   },
   {
     "channel": "SangajiTV.id",
     "title": "SangajiTV",
-    "url": "https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://sangajitv.co.id/",
+    "url": "aHR0cHM6Ly9jZG4uYWR5YWRpZ2l0YWx0ZWtub2xvZ2kuY29tOjgwOTAvdm9kL3JlbGF5Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 875,
     "speed_kbs": 47810,
     "resolution": "1080p",
-    "last_test": 1781578162.3500023
+    "referrer": "https://sangajitv.co.id/"
   },
   {
     "channel": "BeritaSatu.id",
     "title": "BeritaSatu",
-    "url": "https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://www.beritasatu.com/beritasatu-live-streaming",
+    "url": "aHR0cHM6Ly94dGRzbGJvcHBra3YtcHVsbC5icG1lZGlhbGl2ZS5jb20vbGl2ZS9iZXJpdGFzYXR1L2Fici5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 890,
     "speed_kbs": 29374,
     "resolution": "1080p",
-    "last_test": 1781578155.3497078
+    "referrer": "https://www.beritasatu.com/beritasatu-live-streaming"
   },
   {
     "channel": "StaraTV.id",
     "title": "StaraTV",
-    "url": "https://bojonegoro.staratv.id/hls/stream.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://bojonegoro.staratv.id/",
+    "url": "aHR0cHM6Ly9ib2pvbmVnb3JvLnN0YXJhdHYuaWQvaGxzL3N0cmVhbS5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 935,
     "speed_kbs": 26583,
     "resolution": "1080p",
-    "last_test": 1781578163.3359292
+    "referrer": "https://bojonegoro.staratv.id/"
   },
   {
     "channel": "StaraTV.id",
     "title": "StaraTV",
-    "url": "https://cianjur.staratv.id/hls/0/stream.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://cianjur.staratv.id/",
+    "url": "aHR0cHM6Ly9jaWFuanVyLnN0YXJhdHYuaWQvaGxzLzAvc3RyZWFtLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 956,
     "speed_kbs": 79360,
     "resolution": "1080p",
-    "last_test": 1781578163.3575578
+    "referrer": "https://cianjur.staratv.id/"
   },
   {
     "channel": "BantenTV.id",
     "title": "BantenTV",
-    "url": "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L2JhbnRlbnR2L2JhbnRlbnR2L3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 981,
     "speed_kbs": 9649,
     "resolution": "1080p",
-    "last_test": 1781578155.3781238
+    "referrer": null
   },
   {
     "channel": "BungoTV.id",
     "title": "BungoTV",
-    "url": "https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L2J1bmdvdHYvYnVuZ290di9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 983,
     "speed_kbs": 10315,
     "resolution": "1080p",
-    "last_test": 1781578156.0697992
+    "referrer": null
   },
   {
     "channel": "ElshintaTV.id",
     "title": "ElshintaTV",
-    "url": "https://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8",
-    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
-    "referrer": "https://www.dens.tv/",
+    "url": "aHR0cHM6Ly9vcC1ncm91cDItc3dpZnRzZXJ2ZXNkLTEuZGVucy50di9zL3MxMi9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjAgV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0IEFwcGxlV2ViS2l0LzUzNy4zNiBLSFRNTCwgbGlrZSBHZWNrbyBDaHJvbWUvMTQ0LjAuMC4wIFNhZmFyaS81MzcuMzY=",
     "delay": 991,
     "speed_kbs": 16921,
     "resolution": "1080p",
-    "last_test": 1781578157.9113019
+    "referrer": "https://www.dens.tv/"
   },
   {
     "channel": "SaliraTV.id",
     "title": "SaliraTV",
-    "url": "https://live.salira.tv/p/3870/hybrid/play.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLnNhbGlyYS50di9wLzM4NzAvaHlicmlkL3BsYXkubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1004,
     "speed_kbs": 66796,
     "resolution": "1080p",
-    "last_test": 1781578162.3725085
+    "referrer": null
   },
   {
     "channel": "SaliraTV.id",
     "title": "SaliraTV",
-    "url": "https://live.salira.tv:3870/stream/play.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLnNhbGlyYS50djozODcwL3N0cmVhbS9wbGF5Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1006,
     "speed_kbs": 63537,
     "resolution": "1080p",
-    "last_test": 1781578162.3756845
+    "referrer": null
   },
   {
     "channel": "AsthaTV.id",
     "title": "AsthaTV",
-    "url": "https://hgmtv.com:19360/asthatv/asthatv.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9oZ210di5jb206MTkzNjAvYXN0aGF0di9hc3RoYXR2Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1018,
     "speed_kbs": 19562,
     "resolution": "1080p",
-    "last_test": 1781578155.0756721
+    "referrer": null
   },
   {
     "channel": "BMSTV.id",
     "title": "BMSTV",
-    "url": "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L2Jtc3R2L2Jtc3R2L3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1019,
     "speed_kbs": 9580,
     "resolution": "1080p",
-    "last_test": 1781578156.0323806
+    "referrer": null
   },
   {
     "channel": "BRTV.id",
     "title": "BRTV",
-    "url": "https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L2JydHYvYnJ0di9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1020,
     "speed_kbs": 9352,
     "resolution": "1080p",
-    "last_test": 1781578156.0613515
+    "referrer": null
   },
   {
     "channel": "AstroBlitarTV.id",
     "title": "AstroBlitarTV",
-    "url": "https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://abtelevisi.com/",
+    "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L2FidHYvYWJ0di9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1046,
     "speed_kbs": 12470,
     "resolution": "1080p",
-    "last_test": 1781578155.1233711
+    "referrer": "https://abtelevisi.com/"
   },
   {
     "channel": "IAmChannel.id",
     "title": "IAmChannel",
-    "url": "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://iamchannel.org/",
+    "url": "aHR0cHM6Ly82MTE0NmU3YWI3YTY2LnN0cmVhbWxvY2submV0OjgwODkvdGVzLzEvY2h1bmtsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1071,
     "speed_kbs": 12345,
     "resolution": "1080p",
-    "last_test": 1781578158.8860452
+    "referrer": "https://iamchannel.org/"
   },
   {
     "channel": "BiznetLifestyle.id",
     "title": "BiznetLifestyle",
-    "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovL2xpdmVzdHJlYW0uYml6bmV0dmlkZW8ubmV0L2Jpem5ldF9saWZlc3R5bGUvc21pbDpsaWZlc3R5bGUuc21pbC9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1076,
     "speed_kbs": 1,
     "resolution": "720p",
-    "last_test": 1781578156.2797344
+    "referrer": null
   },
   {
     "channel": "BiznetKids.id",
     "title": "BiznetKids",
-    "url": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovL2xpdmVzdHJlYW0uYml6bmV0dmlkZW8ubmV0L2Jpem5ldF9raWRzL3NtaWw6a2lkcy5zbWlsL2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1081,
     "speed_kbs": 1,
     "resolution": "720p",
-    "last_test": 1781578156.268679
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9TdWx1dC9obHMvU3VsdXQubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1127,
     "speed_kbs": 71364,
     "resolution": "1080p",
-    "last_test": 1781578165.0912297
+    "referrer": null
   },
   {
     "channel": "BiznetAdventure.id",
     "title": "BiznetAdventure",
-    "url": "http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovL2xpdmVzdHJlYW0uYml6bmV0dmlkZW8ubmV0L2Jpem5ldF9hZHZlbnR1cmUvc21pbDphZHZlbnR1cmUuc21pbC9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1132,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578156.2726738
+    "referrer": null
   },
   {
     "channel": "MetroTV.id",
     "title": "MetroTV",
-    "url": "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9lZGdlLm1lZGNvbS5pZC9saXZlLWVkZ2Uvc21pbDptZXRyby5zbWlsL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1238,
     "speed_kbs": 42666,
     "resolution": "1080p",
-    "last_test": 1781578160.459494
+    "referrer": null
   },
   {
     "channel": "JogjaTV.id",
     "title": "JogjaTV",
-    "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9zdHJlYW0uam9namF0di5jby5pZC9qdHZsaXZlL3N0cmVhbS9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1259,
     "speed_kbs": 49802,
     "resolution": "1080p",
-    "last_test": 1781578159.6044738
+    "referrer": null
   },
   {
     "channel": "MadaniTV.id",
     "title": "MadaniTV",
-    "url": "https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9zdHJlYW0uYXNpYW5hc3RyZWFtLmNvbS9tYWRhbmkvbWFkYW5pdHYuc21pbC9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1267,
     "speed_kbs": 10891,
     "resolution": "1080p",
-    "last_test": 1781578160.1527069
+    "referrer": null
   },
   {
     "channel": "MBGTV.id",
     "title": "MBGTV",
-    "url": "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9zdHJlYW0uY29udmVyZ2VuLmNvL21iZ19zdHJlYW0vc21pbDptYlN0cmVhbS5zbWlsL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1428,
     "speed_kbs": 16332,
     "resolution": "1080p",
-    "last_test": 1781578160.574487
+    "referrer": null
   },
   {
     "channel": "MagnaChannel.id",
     "title": "MagnaChannel",
-    "url": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9lZGdlLm1lZGNvbS5pZC9saXZlLWVkZ2Uvc21pbDptYWduYS5zbWlsL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1552,
     "speed_kbs": 29364,
     "resolution": "1080p",
-    "last_test": 1781578160.4586885
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9LYWx0ZW5nL2hscy9LYWx0ZW5nLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1557,
     "speed_kbs": 65823,
     "resolution": "1080p",
-    "last_test": 1781578165.30144
+    "referrer": null
   },
   {
     "channel": "DhohoTV.id",
     "title": "DhohoTV",
-    "url": "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9kaG9ob3R2LnNpYXIudXMvZGhvaG90di9saXZlL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1611,
     "speed_kbs": 13571,
     "resolution": "1080p",
-    "last_test": 1781578158.2945004
+    "referrer": null
   },
   {
     "channel": "TVRI.id",
     "title": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9TdWx0ZW5nL2hscy9TdWx0ZW5nLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 2062,
     "speed_kbs": 75038,
     "resolution": "1080p",
-    "last_test": 1781578165.8297
+    "referrer": null
   }
 ]

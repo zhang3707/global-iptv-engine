@@ -2,89 +2,81 @@
   {
     "channel": "TVBSAsia.tw",
     "title": "TVBSAsia",
-    "url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzM4LjY0LjcyLjE0OC9obHMvbW9kbi9saXN0LzQwMDUvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 128,
     "speed_kbs": 35650,
     "resolution": "1080p",
-    "last_test": 1781540743.2618718
+    "referrer": null
   },
   {
     "channel": "SupremeMasterTV.tw",
     "title": "SupremeMasterTV",
-    "url": "https://lbs-us1.suprememastertv.com/720p.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9sYnMtdXMxLnN1cHJlbWVtYXN0ZXJ0di5jb20vNzIwcC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 528,
     "speed_kbs": 9249,
     "resolution": "1080p",
-    "last_test": 1781540742.056951
+    "referrer": null
   },
   {
     "channel": "CGNTVChinese.tw",
     "title": "CGNTVChinese",
-    "url": "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9kM2UwNWNzc3M5YzI3Mi5jbG91ZGZyb250Lm5ldC9vdXQvdjEvZjBiZjcxYzU3NTgxNDcwZmI5Mzc5ZjYwM2U4ZjVkODMvQ0dOV2ViTGl2ZUNOLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 653,
     "speed_kbs": 55149,
     "resolution": "1080p",
-    "last_test": 1781540729.6022851
+    "referrer": null
   },
   {
     "channel": "DaliTV.tw",
     "title": "DaliTV",
-    "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovL3d3dy5kYWxpdHYuY29tLnR3OjQ1NjgvbGl2ZS9kYWxpL2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 663,
     "speed_kbs": 117282,
     "resolution": "1080p",
-    "last_test": 1781540730.6513052
+    "referrer": null
   },
   {
     "channel": "GoodTV.tw",
     "title": "GoodTV",
-    "url": "https://live.streamingfast.net/osmflivech1.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLnN0cmVhbWluZ2Zhc3QubmV0L29zbWZsaXZlY2gxLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 823,
     "speed_kbs": 67704,
     "resolution": "1080p",
-    "last_test": 1781540732.9046712
+    "referrer": null
   },
   {
     "channel": "Good2.tw",
     "title": "Good2",
-    "url": "https://live.streamingfast.net/osmflivech2.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLnN0cmVhbWluZ2Zhc3QubmV0L29zbWZsaXZlY2gyLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 836,
     "speed_kbs": 54808,
     "resolution": "1080p",
-    "last_test": 1781540732.8964715
+    "referrer": null
   },
   {
     "channel": "BeautifulLifeTV.tw",
     "title": "BeautifulLifeTV",
-    "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly81ZGRjZTMwZWI0YjU1LnN0cmVhbWxvY2submV0L2JsdHZoZC9ibHR2MS9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 840,
     "speed_kbs": 14131,
     "resolution": "1080p",
-    "last_test": 1781540728.5043547
+    "referrer": null
   },
   {
     "channel": "WXTV.tw",
     "title": "WXTV",
-    "url": "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9tb2JpbGUuY2NkbnRlY2guY29tL3RyYW5zY29kZXIvX2RlZmluc3RfL3ZvZDE2NF9MaXZlL2xpdmUvY2h1bmtsaXN0X3cxMTc3MDQ3NTMxLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1198,
     "speed_kbs": 13721,
     "resolution": "1080p",
-    "last_test": 1781540745.8906896
+    "referrer": null
   }
 ]

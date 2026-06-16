@@ -2,144 +2,131 @@
   {
     "channel": "AnimaxAsia.sg",
     "title": "AnimaxAsia",
-    "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9hbWcwMjE1OS1rY2dsb2JhbC1hbWcwMjE1OWMxLXNhbXN1bmctaW4tNTIxLnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC9hbWcwMjE1OS1rY2dsb2JhbC1hbmltYXgtc2Ftc3VuZ2luL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 160,
     "speed_kbs": 26162,
     "resolution": "1080p",
-    "last_test": 1781578153.8313227
+    "referrer": null
   },
   {
     "channel": "CNAOriginals.sg",
     "title": "CNAOriginals",
-    "url": "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9hbWcwMTA4Mi1jbmEtYW1nMDEwODJjMS12aWRhYS1nYi03NTgwLnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 162,
     "speed_kbs": 70465,
     "resolution": "1080p",
-    "last_test": 1781578155.5409691
+    "referrer": null
   },
   {
     "channel": "KCM.sg",
     "title": "KCM",
-    "url": "https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9hbWcwMjE1OS1hbWcwMjE1OWM3LXNhbXN1bmctaW4tNDAwMS5wbGF5b3V0cy5ub3cuYW1hZ2kudHYvcGxheWxpc3QvYW1nMDIxNTkta2NnbG9iYWwta2NtLXNhbXN1bmdpbi9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 163,
     "speed_kbs": 30102,
     "resolution": "1080p",
-    "last_test": 1781578158.7780771
+    "referrer": null
   },
   {
     "channel": "ZooMoo.sg",
     "title": "ZooMoo",
-    "url": "https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9kMWJwdWZ1dmZheWZnOC5jbG91ZGZyb250Lm5ldC9ab29Nb28ubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 172,
     "speed_kbs": 38942,
     "resolution": "1080p",
-    "last_test": 1781578165.9182916
+    "referrer": null
   },
   {
     "channel": "CNAOriginals.sg",
     "title": "CNAOriginals",
-    "url": "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9hbWcwMTA4Mi1jbmEtYW1nMDEwODJjMS1ybGF4eC11cy0xMTMwNC5wbGF5b3V0cy5ub3cuYW1hZ2kudHYvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 183,
     "speed_kbs": 101400,
     "resolution": "1080p",
-    "last_test": 1781578155.5414062
+    "referrer": null
   },
   {
     "channel": "ZooMoo.sg",
     "title": "ZooMoo",
-    "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly96b29tb28tc2Ftc3VuZ2F1LmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 230,
     "speed_kbs": 59801,
     "resolution": "1080p",
-    "last_test": 1781578165.9457886
+    "referrer": null
   },
   {
     "channel": "ZooMoo.sg",
     "title": "ZooMoo",
-    "url": "https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG40LnNreWdvLm1uL2xpdmUvZGlzazEvWm9vbW9vL0hMU3YzLUZUQS9ab29tb28ubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0NC4wLjAuMCBTYWZhcmkvNTM3LjM2",
     "delay": 235,
     "speed_kbs": 36329,
     "resolution": "1080p",
-    "last_test": 1781578165.9519825
+    "referrer": null
   },
   {
     "channel": "AniplusAsia.sg",
     "title": "AniplusAsia",
-    "url": "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9hbWcxODQ4MS1hbWcxODQ4MWMxLWFtZ3BsdDAzNTIucGxheW91dC5ub3czLmFtYWdpLnR2L3BsYXlsaXN0L2FtZzE4NDgxLWFtZzE4NDgxYzEtYW1ncGx0MDM1Mi9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 263,
     "speed_kbs": 3658,
     "resolution": "1080p",
-    "last_test": 1781578153.951732
+    "referrer": null
   },
   {
     "channel": "ZooMoo.sg",
     "title": "ZooMoo",
-    "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9hbWcwMTU1My1ibHVlYW50bWVkaWFhc2ktem9vbW9vbnotc2Ftc3VuZ256LXJkdWZuLmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAxNTUzLWJsdWVhbnRtZWRpYWFzaS16b29tb29uei1zYW1zdW5nbnovcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 273,
     "speed_kbs": 214000,
     "resolution": "1080p",
-    "last_test": 1781578165.9914496
+    "referrer": null
   },
   {
     "channel": "CNA.sg",
     "title": "CNA",
-    "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9kMmUxYXNuc2w3YnI3Yi5jbG91ZGZyb250Lm5ldC83NzgyZTIwNWU3MmY0M2FlYjRhNDhlYzk3ZjY2ZWJiZS9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 293,
     "speed_kbs": 44306,
     "resolution": "1080p",
-    "last_test": 1781578155.6429925
+    "referrer": null
   },
   {
     "channel": "ZooMoo.sg",
     "title": "ZooMoo",
-    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4tYXBzZTEtcHJvZC50c3YyLmFtYWdpLnR2L2xpbmVhci9hbWcwMTU1My1ibHVlYW50bWVkaWFhc2ktem9vbW9vbnotc2Ftc3VuZ256L3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 689,
     "speed_kbs": 19065,
     "resolution": "1080p",
-    "last_test": 1781578166.425684
+    "referrer": null
   },
   {
     "channel": "meWATCHLIVE1.sg",
     "title": "meWATCHLIVE1",
-    "url": "https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly90Z2xtcDA0LmFrYW1haXplZC5uZXQvb3V0L3YxLzg5OGIxY2JhYzdjNzQ3ZTNiMWYzZGViNDYwZTliNjdlL21hbmlmZXN0Lm1wZA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 769,
     "speed_kbs": 25454,
     "resolution": "1080p",
-    "last_test": 1781578160.006867
+    "referrer": null
   },
   {
     "channel": "CrimePlusInvestigationAsia.sg",
     "title": "CrimePlusInvestigationAsia",
-    "url": "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4wOWp0ZWRnZS5pbmRpaG9tZXR2LmNvbS9qb3NzLzEzMy9jcmltZWludmVzdGlnYXRpb24vaW5kZXgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 862,
     "speed_kbs": 642,
     "resolution": "720p",
-    "last_test": 1781578156.3823361
+    "referrer": null
   }
 ]

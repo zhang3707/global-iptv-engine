@@ -2,12 +2,11 @@
   {
     "channel": "LotusTV.mo",
     "title": "LotusTV",
-    "url": "https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG40LnNreWdvLm1uL2xpdmUvZGlzazEvTG90dXMvSExTdjMtRlRBL0xvdHVzLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0NC4wLjAuMCBTYWZhcmkvNTM3LjM2",
     "delay": 1491,
     "speed_kbs": 29988,
     "resolution": "1080p",
-    "last_test": 1781578160.3603168
+    "referrer": null
   }
 ]

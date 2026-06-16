@@ -2,45 +2,41 @@
   {
     "channel": "SusunTVInternational.my",
     "title": "SusunTVInternational",
-    "url": "https://vodcdn.bamboo-cloud.com/livehls/6901607706304423c1685213/master.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://susuntv.bamboo-cloud.com/",
+    "url": "aHR0cHM6Ly92b2RjZG4uYmFtYm9vLWNsb3VkLmNvbS9saXZlaGxzLzY5MDE2MDc3MDYzMDQ0MjNjMTY4NTIxMy9tYXN0ZXIubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 62,
     "speed_kbs": 92690,
     "resolution": "1080p",
-    "last_test": 1781578162.8850768
+    "referrer": "https://susuntv.bamboo-cloud.com/"
   },
   {
     "channel": "8TV.my",
     "title": "8TV",
-    "url": "http://cdn6.163189.xyz/163189/8tv",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovL2NkbjYuMTYzMTg5Lnh5ei8xNjMxODkvOHR2",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 106,
     "speed_kbs": 17667,
     "resolution": "1080p",
-    "last_test": 1781578152.8981724
+    "referrer": null
   },
   {
     "channel": "TV3.my",
     "title": "TV3",
-    "url": "https://m3u.chanox97.workers.dev/tv3.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9tM3UuY2hhbm94OTcud29ya2Vycy5kZXYvdHYzLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 365,
     "speed_kbs": 26270,
     "resolution": "1080p",
-    "last_test": 1781578163.8218243
+    "referrer": null
   },
   {
     "channel": "MaahTV.my",
     "title": "MaahTV",
-    "url": "https://hls.maahtv.live/hls/stream.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9obHMubWFhaHR2LmxpdmUvaGxzL3N0cmVhbS5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 427,
     "speed_kbs": 48211,
     "resolution": "1080p",
-    "last_test": 1781578159.3059287
+    "referrer": null
   }
 ]

@@ -2,562 +2,511 @@
   {
     "channel": "UniquelyThai.vn",
     "title": "UniquelyThai",
-    "url": "https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlZnRhLm1hbGltYXJjZG4uY29tL2Z0YWVkZ2UwMC91bmlxdWVseS5zZHAvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 91,
     "speed_kbs": 12902,
     "resolution": "1080p",
-    "last_test": 1781578164.5186622
+    "referrer": null
   },
   {
     "channel": "TeaTV.vn",
     "title": "TeaTV",
-    "url": "https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlZnRhLm1hbGltYXJjZG4uY29tL2Z0YWVkZ2UwMC90ZWF0di5zZHAvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 97,
     "speed_kbs": 10119,
     "resolution": "1080p",
-    "last_test": 1781578163.143453
+    "referrer": null
   },
   {
     "channel": "LaoSVTV.vn",
     "title": "LaoSVTV",
-    "url": "https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlZnRhLm1hbGltYXJjZG4uY29tL2Z0YWVkZ2UwMC9sYW9zdnR2LnN0cmVhbS9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 211,
     "speed_kbs": 8393,
     "resolution": "1080p",
-    "last_test": 1781578158.9900296
+    "referrer": null
   },
   {
     "channel": "VietnamToday.vn",
     "title": "VietnamToday",
-    "url": "https://amagi-live.ondemandkorea.com/amgplt0456.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9hbWFnaS1saXZlLm9uZGVtYW5ka29yZWEuY29tL2FtZ3BsdDA0NTYubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 237,
     "speed_kbs": 113088,
     "resolution": "1080p",
-    "last_test": 1781578164.721023
+    "referrer": null
   },
   {
     "channel": "ThuaThienHueTV.vn",
     "title": "ThuaThienHueTV",
-    "url": "https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLmZwdHBsYXk1My5uZXQvZXB6c2QxL2h1ZV9obHMuc21pbC9jaHVua2xpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 270,
     "speed_kbs": 14394,
     "resolution": "1080p",
-    "last_test": 1781578163.4215422
+    "referrer": null
   },
   {
     "channel": "NgheAnTV.vn",
     "title": "NgheAnTV",
-    "url": "https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLm1lZGlhdGVjaC52bi9saXZlLzI4NTk1OTFlZWYyZTkyMjQ5YjY4MmRiMDIxZjQyNDdjMzY0L2NodW5rbGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 275,
     "speed_kbs": 14336,
     "resolution": "1080p",
-    "last_test": 1781578160.5038316
+    "referrer": null
   },
   {
     "channel": "VTV1.vn",
     "title": "VTV1",
-    "url": "https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLmZwdHBsYXk1My5uZXQvZm54Y2gyL3Z0djFoZF9hYnIuc21pbC9jaHVua2xpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 305,
     "speed_kbs": 35519,
     "resolution": "1080p",
-    "last_test": 1781578164.8235307
+    "referrer": null
   },
   {
     "channel": "QuangNgaiTV.vn",
     "title": "QuangNgaiTV",
-    "url": "https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLm1lZGlhdGVjaC52bi9saXZlLzI4NWFhYTc5YjRiMjY1YTQ1N2Q4MWJiNzJiYzMyZTJjMTE0L2NodW5rbGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 314,
     "speed_kbs": 15496,
     "resolution": "1080p",
-    "last_test": 1781578161.1505556
+    "referrer": null
   },
   {
     "channel": "DaNangTV1.vn",
     "title": "DaNangTV1",
-    "url": "https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLm1lZGlhdGVjaC52bi9saXZlLzI4NWI1OWExMTFkNzY5NzQyMjVhOGUzMDA0YmZjMzFhNTA5L2NodW5rbGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 369,
     "speed_kbs": 13694,
     "resolution": "1080p",
-    "last_test": 1781578156.141381
+    "referrer": null
   },
   {
     "channel": "DaNangTV2.vn",
     "title": "DaNangTV2",
-    "url": "https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLm1lZGlhdGVjaC52bi9saXZlLzI4NTkxNDUyOTBkMGQ3OTQ3ZWY4OGI2MjQwMTIzYjYyNDc0L2NodW5rbGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 405,
     "speed_kbs": 14173,
     "resolution": "1080p",
-    "last_test": 1781578156.186825
+    "referrer": null
   },
   {
     "channel": "DongNaiTV1.vn",
     "title": "DongNaiTV1",
-    "url": "http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzExOC4xMDcuODUuNDoxOTM1L2xpdmUvc21pbDpETlRWMS5zbWlsL2NodW5rbGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 423,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578157.4384465
+    "referrer": null
   },
   {
     "channel": "DongNaiTV2.vn",
     "title": "DongNaiTV2",
-    "url": "http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzExOC4xMDcuODUuNDoxOTM1L2xpdmUvc21pbDpETlRWMi5zbWlsL2NodW5rbGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 423,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578157.4746287
+    "referrer": null
   },
   {
     "channel": "LamDongTV.vn",
     "title": "LamDongTV",
-    "url": "http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzExOC4xMDcuODUuNToxOTM1L2xpdmUvc21pbDpMVFYuc21pbC9jaHVua2xpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 425,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578159.365399
+    "referrer": null
   },
   {
     "channel": "DakLakTV.vn",
     "title": "DakLakTV",
-    "url": "https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4uZHJ0LnZuL2xpdmUvMjg1YTI3NzUwODYxYjk2NGMyN2FmMjIwOTE2NjJhNzRmMmYvY2h1bmtsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 444,
     "speed_kbs": 14950,
     "resolution": "1080p",
-    "last_test": 1781578156.2094862
+    "referrer": null
   },
   {
     "channel": "LaoCaiTV.vn",
     "title": "LaoCaiTV",
-    "url": "https://live.baolaocai.vn/channel2/stream.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLmJhb2xhb2NhaS52bi9jaGFubmVsMi9zdHJlYW0ubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 668,
     "speed_kbs": 54613,
     "resolution": "1080p",
-    "last_test": 1781578159.4364314
+    "referrer": null
   },
   {
     "channel": "VTV5.vn",
     "title": "VTV5",
-    "url": "https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLmZwdHBsYXk1My5uZXQvbGl2ZS9tZWRpYS92dHY1L2xpdmUyNDctaGxzLWF2Yy9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 683,
     "speed_kbs": 83789,
     "resolution": "1080p",
-    "last_test": 1781578165.371355
+    "referrer": null
   },
   {
     "channel": "VTV7.vn",
     "title": "VTV7",
-    "url": "https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLmZwdHBsYXk1My5uZXQvbGl2ZS9tZWRpYS92dHY3L2xpdmUyNDctaGxzLWF2Yy9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 691,
     "speed_kbs": 80298,
     "resolution": "1080p",
-    "last_test": 1781578165.4097517
+    "referrer": null
   },
   {
     "channel": "VTV3.vn",
     "title": "VTV3",
-    "url": "https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLmZwdHBsYXk1My5uZXQvbGl2ZS9tZWRpYS92dHYzL2xpdmUyNDctaGxzLWF2Yy9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 692,
     "speed_kbs": 82005,
     "resolution": "1080p",
-    "last_test": 1781578165.282675
+    "referrer": null
   },
   {
     "channel": "VTV1.vn",
     "title": "VTV1",
-    "url": "https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLmZwdHBsYXk1My5uZXQvbGl2ZS9tZWRpYS92dHYxL2xpdmUyNDctaGxzLWF2Yy9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 695,
     "speed_kbs": 56681,
     "resolution": "1080p",
-    "last_test": 1781578165.233556
+    "referrer": null
   },
   {
     "channel": "VTV4.vn",
     "title": "VTV4",
-    "url": "https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLmZwdHBsYXk1My5uZXQvbGl2ZS9tZWRpYS92dHY0L2xpdmUyNDctaGxzLWF2Yy9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 698,
     "speed_kbs": 66454,
     "resolution": "1080p",
-    "last_test": 1781578165.375019
+    "referrer": null
   },
   {
     "channel": "VTV6.vn",
     "title": "VTV6",
-    "url": "https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLmZwdHBsYXk1My5uZXQvbGl2ZS9tZWRpYS92dHY2L2xpdmUyNDctaGxzLWF2Yy9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 698,
     "speed_kbs": 66716,
     "resolution": "1080p",
-    "last_test": 1781578165.4092798
+    "referrer": null
   },
   {
     "channel": "VTV10.vn",
     "title": "VTV10",
-    "url": "https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLmZwdHBsYXk1My5uZXQvbGl2ZS9tZWRpYS92dHYxMC9saXZlMjQ3LWhscy1hdmMvaW5kZXgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 700,
     "speed_kbs": 63521,
     "resolution": "1080p",
-    "last_test": 1781578165.4900038
+    "referrer": null
   },
   {
     "channel": "VTV7.vn",
     "title": "VTV7",
-    "url": "https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLmZwdHBsYXk1My5uZXQvZm54aGQxL3Z0djdoZF92aGxzLnNtaWwvY2h1bmtsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 705,
     "speed_kbs": 32585,
     "resolution": "1080p",
-    "last_test": 1781578165.4161046
+    "referrer": null
   },
   {
     "channel": "VTV2.vn",
     "title": "VTV2",
-    "url": "https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLmZwdHBsYXk1My5uZXQvbGl2ZS9tZWRpYS92dHYyL2xpdmUyNDctaGxzLWF2Yy9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 709,
     "speed_kbs": 72723,
     "resolution": "1080p",
-    "last_test": 1781578165.2902431
+    "referrer": null
   },
   {
     "channel": "VTV2.vn",
     "title": "VTV2",
-    "url": "https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLmZwdHBsYXk1My5uZXQvZm54Y2gyL3Z0djJoZF9hYnIuc21pbC9jaHVua2xpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 711,
     "speed_kbs": 38383,
     "resolution": "1080p",
-    "last_test": 1781578165.2504017
+    "referrer": null
   },
   {
     "channel": "VTV10.vn",
     "title": "VTV10",
-    "url": "https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLmZwdHBsYXk1My5uZXQvZm54aGQxL3Z0dmNhbnRob192aGxzLnNtaWwvY2h1bmtsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 712,
     "speed_kbs": 26185,
     "resolution": "1080p",
-    "last_test": 1781578165.5178885
+    "referrer": null
   },
   {
     "channel": "VTV9.vn",
     "title": "VTV9",
-    "url": "https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLmZwdHBsYXk1My5uZXQvbGl2ZS9tZWRpYS92dHY5L2xpdmUyNDctaGxzLWF2Yy9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 718,
     "speed_kbs": 71376,
     "resolution": "1080p",
-    "last_test": 1781578165.447886
+    "referrer": null
   },
   {
     "channel": "VTV8.vn",
     "title": "VTV8",
-    "url": "https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLmZwdHBsYXk1My5uZXQvZXB6aGQxL3Z0djhoZF92aGxzLnNtaWwvY2h1bmtsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 732,
     "speed_kbs": 25725,
     "resolution": "1080p",
-    "last_test": 1781578165.4536295
+    "referrer": null
   },
   {
     "channel": "VTV4.vn",
     "title": "VTV4",
-    "url": "https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLmZwdHBsYXk1My5uZXQvZm54Y2gyL3Z0djRoZF9hYnIuc21pbC9jaHVua2xpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 823,
     "speed_kbs": 34489,
     "resolution": "1080p",
-    "last_test": 1781578165.4442596
+    "referrer": null
   },
   {
     "channel": "HTVSports.vn",
     "title": "HTVSports",
-    "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLmZwdHBsYXk1My5uZXQvZXB6aGQxL2h0dmN0aGV0aGFvX3ZobHMuc21pbC9jaHVua2xpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 947,
     "speed_kbs": 23275,
     "resolution": "1080p",
-    "last_test": 1781578158.7051456
+    "referrer": null
   },
   {
     "channel": "VTV7.vn",
     "title": "VTV7",
-    "url": "https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv7-manifest.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly92dHZnb2xpdmUtZmFpbG92ZXIudnR2ZGlnaXRhbC52bi92dHZnby92dHY3LW1hbmlmZXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1025,
     "speed_kbs": 30577,
     "resolution": "1080p",
-    "last_test": 1781578165.736417
+    "referrer": null
   },
   {
     "channel": "VTV5TayNguyen.vn",
     "title": "VTV5TayNguyen",
-    "url": "https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv5tn-manifest.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly92dHZnb2xpdmUtZmFpbG92ZXIudnR2ZGlnaXRhbC52bi92dHZnby92dHY1dG4tbWFuaWZlc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1092,
     "speed_kbs": 27334,
     "resolution": "1080p",
-    "last_test": 1781578165.8004189
+    "referrer": null
   },
   {
     "channel": "TienGiangTV.vn",
     "title": "TienGiangTV",
-    "url": "https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly82MThiODhmNjllNTNiLnN0cmVhbWxvY2submV0L1RIRFQyL3RoZHR0djIvY2h1bmtsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1120,
     "speed_kbs": 21548,
     "resolution": "1080p",
-    "last_test": 1781578164.2717268
+    "referrer": null
   },
   {
     "channel": "VTV1.vn",
     "title": "VTV1",
-    "url": "https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv1-manifest.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly92dHZnb2xpdmUtZmFpbG92ZXIudnR2ZGlnaXRhbC52bi92dHZnby92dHYxLW1hbmlmZXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1196,
     "speed_kbs": 19055,
     "resolution": "1080p",
-    "last_test": 1781578165.7148495
+    "referrer": null
   },
   {
     "channel": "VTV2.vn",
     "title": "VTV2",
-    "url": "https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv2-manifest.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly92dHZnb2xpdmUtZmFpbG92ZXIudnR2ZGlnaXRhbC52bi92dHZnby92dHYyLW1hbmlmZXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1247,
     "speed_kbs": 22285,
     "resolution": "1080p",
-    "last_test": 1781578165.7962685
+    "referrer": null
   },
   {
     "channel": "CaMauTV.vn",
     "title": "CaMauTV",
-    "url": "https://tv.ctvcamau.vn/live/tv/tv.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly90di5jdHZjYW1hdS52bi9saXZlL3R2L3R2Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1267,
     "speed_kbs": 42929,
     "resolution": "1080p",
-    "last_test": 1781578156.3663821
+    "referrer": null
   },
   {
     "channel": "HaTinhTV.vn",
     "title": "HaTinhTV",
-    "url": "https://wse.hatinhtv.net/live/httv1/chunklist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly93c2UuaGF0aW5odHYubmV0L2xpdmUvaHR0djEvY2h1bmtsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1305,
     "speed_kbs": 12474,
     "resolution": "1080p",
-    "last_test": 1781578158.815808
+    "referrer": null
   },
   {
     "channel": "CaoBangTV.vn",
     "title": "CaoBangTV",
-    "url": "https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9zdHJlYW0udGhpbmduZXQudm4vbGl2ZS9zbWlsOkNSVFYuc21pbC9jaHVua2xpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1338,
     "speed_kbs": 20889,
     "resolution": "1080p",
-    "last_test": 1781578156.4515166
+    "referrer": null
   },
   {
     "channel": "DienBienTV.vn",
     "title": "DienBienTV",
-    "url": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly90cnV5ZW5oaW5oLnZucHR2YXMudm4vbGl2ZS5tM3U4P2M9dnN0djM2MiZkZXZpY2VJZD0mZGV2aWNlVHlwZT0mZ2NJZD0xNTMyJmxvY2F0aW9uPU5BJnBrZz1wa2cxMS5obmkmcT1oaWdoJnJlcXVlc3RUaW1lPTE1ODYzMDk0MjA3ODEmdGltZT0xNTg2Mzk1ODIwJnRva2VuPUxYLWliSllSVXE5cGZsUnRZQXhmWVEmdHlwZT10diZ1c2VySWQ9",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1423,
     "speed_kbs": 58919,
     "resolution": "1080p",
-    "last_test": 1781578158.1067874
+    "referrer": null
   },
   {
     "channel": "VTV10.vn",
     "title": "VTV10",
-    "url": "https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv6-manifest.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly92dHZnb2xpdmUtZmFpbG92ZXIudnR2ZGlnaXRhbC52bi92dHZnby92dHY2LW1hbmlmZXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1426,
     "speed_kbs": 21206,
     "resolution": "1080p",
-    "last_test": 1781578166.1740274
+    "referrer": null
   },
   {
     "channel": "VTV8.vn",
     "title": "VTV8",
-    "url": "https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv8-manifest.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly92dHZnb2xpdmUtZmFpbG92ZXIudnR2ZGlnaXRhbC52bi92dHZnby92dHY4LW1hbmlmZXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1430,
     "speed_kbs": 28582,
     "resolution": "1080p",
-    "last_test": 1781578166.1589792
+    "referrer": null
   },
   {
     "channel": "TayNinhTV.vn",
     "title": "TayNinhTV",
-    "url": "https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLWhxLmV2Z2Nkbi5uZXQvbGl2ZS8yODUxZGMyYzlhZjY4ODM0ODE0YTg5ZTYxZGIwZmFlZTU2MS9jaHVua2xpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1454,
     "speed_kbs": 22378,
     "resolution": "1080p",
-    "last_test": 1781578164.482118
+    "referrer": null
   },
   {
     "channel": "QPVN.vn",
     "title": "QPVN",
-    "url": "https://qpvn.vn/live/qpvn/master.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9xcHZuLnZuL2xpdmUvcXB2bi9tYXN0ZXIubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1488,
     "speed_kbs": 23869,
     "resolution": "1080p",
-    "last_test": 1781578162.3221083
+    "referrer": null
   },
   {
     "channel": "AnGiangTV2.vn",
     "title": "AnGiangTV2",
-    "url": "https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly90di5hbmdpYW5ndHYudm4vbGl2ZS9rZ3R2Mi9rZ3R2Mi5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1492,
     "speed_kbs": 45292,
     "resolution": "1080p",
-    "last_test": 1781578155.1437678
+    "referrer": null
   },
   {
     "channel": "AnGiangTV3.vn",
     "title": "AnGiangTV3",
-    "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly90di5hbmdpYW5ndHYudm4vbGl2ZS9rZ3R2MS9rZ3R2MS5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1494,
     "speed_kbs": 38912,
     "resolution": "1080p",
-    "last_test": 1781578155.1565297
+    "referrer": null
   },
   {
     "channel": "VTV5.vn",
     "title": "VTV5",
-    "url": "https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv5-manifest.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly92dHZnb2xpdmUtZmFpbG92ZXIudnR2ZGlnaXRhbC52bi92dHZnby92dHY1LW1hbmlmZXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1544,
     "speed_kbs": 22669,
     "resolution": "1080p",
-    "last_test": 1781578166.224034
+    "referrer": null
   },
   {
     "channel": "VTV4.vn",
     "title": "VTV4",
-    "url": "https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv4-manifest.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly92dHZnb2xpdmUtZmFpbG92ZXIudnR2ZGlnaXRhbC52bi92dHZnby92dHY0LW1hbmlmZXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1556,
     "speed_kbs": 22285,
     "resolution": "1080p",
-    "last_test": 1781578166.2054238
+    "referrer": null
   },
   {
     "channel": "VTV5TayNamBo.vn",
     "title": "VTV5TayNamBo",
-    "url": "https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv5tnb-manifest.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly92dHZnb2xpdmUtZmFpbG92ZXIudnR2ZGlnaXRhbC52bi92dHZnby92dHY1dG5iLW1hbmlmZXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1636,
     "speed_kbs": 23304,
     "resolution": "1080p",
-    "last_test": 1781578166.3440874
+    "referrer": null
   },
   {
     "channel": "VietnamToday.vn",
     "title": "VietnamToday",
-    "url": "https://vtvgolive-failover.vtvdigital.vn/vtvgo/vietnamtoday-720p.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly92dHZnb2xpdmUtZmFpbG92ZXIudnR2ZGlnaXRhbC52bi92dHZnby92aWV0bmFtdG9kYXktNzIwcC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1744,
     "speed_kbs": 34730,
     "resolution": "1080p",
-    "last_test": 1781578166.2360916
+    "referrer": null
   },
   {
     "channel": "ThaiNguyenTV.vn",
     "title": "ThaiNguyenTV",
-    "url": "https://streaming.thainguyentv.vn/hls/livestream.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9zdHJlYW1pbmcudGhhaW5ndXllbnR2LnZuL2hscy9saXZlc3RyZWFtLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1968,
     "speed_kbs": 14172,
     "resolution": "1080p",
-    "last_test": 1781578165.0841062
+    "referrer": null
   },
   {
     "channel": "AnGiangTV1.vn",
     "title": "AnGiangTV1",
-    "url": "https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly90di5hbmdpYW5ndHYudm4vbGl2ZS9rZ3R2L2tndHYubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 2841,
     "speed_kbs": 44975,
     "resolution": "1080p",
-    "last_test": 1781578156.4592226
+    "referrer": null
   }
 ]

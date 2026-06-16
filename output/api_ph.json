@@ -2,177 +2,161 @@
   {
     "channel": "BilyonaryoNewsChannel.ph",
     "title": "BilyonaryoNewsChannel",
-    "url": "https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9zdHJlYW1zLmNvbWNsYXJrLmNvbS90cmFuc2NvZGUvYmlseW9uYXJ5by9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 184,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578155.2897174
+    "referrer": null
   },
   {
     "channel": "IBC13.ph",
     "title": "IBC13",
-    "url": "https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9zdHJlYW1zLmNvbWNsYXJrLmNvbS9wa25zZC9pYmNfMTMvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 184,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578158.1947393
+    "referrer": null
   },
   {
     "channel": "LivingAsiaChannel.ph",
     "title": "LivingAsiaChannel",
-    "url": "https://streams.comclark.com/pknsd/lac/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9zdHJlYW1zLmNvbWNsYXJrLmNvbS9wa25zZC9sYWMvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 184,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578159.2014337
+    "referrer": null
   },
   {
     "channel": "MindanowNetworkTV.ph",
     "title": "MindanowNetworkTV",
-    "url": "https://streams.comclark.com/overlay/mindanow/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9zdHJlYW1zLmNvbWNsYXJrLmNvbS9vdmVybGF5L21pbmRhbm93L3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 184,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578159.6583328
+    "referrer": null
   },
   {
     "channel": "PTV.ph",
     "title": "PTV",
-    "url": "https://streams.comclark.com/pknsd/ptv/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9zdHJlYW1zLmNvbWNsYXJrLmNvbS9wa25zZC9wdHYvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 184,
     "speed_kbs": 0,
     "resolution": "720p",
-    "last_test": 1781578161.161452
+    "referrer": null
   },
   {
     "channel": "TeleRadyo.ph",
     "title": "TeleRadyo",
-    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4tdWUxLXByb2QudHN2Mi5hbWFnaS50di9saW5lYXIvYW1nMDEwMDYtYWJzLWNibi10ZWxlcmFkeW8tZGFzaC1hYnNjYm5vbm8vaW5kZXgubXBk",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 234,
     "speed_kbs": 612693,
     "resolution": "1080p",
-    "last_test": 1781578163.3377006
+    "referrer": null
   },
   {
     "channel": "PremierSports2.ph",
     "title": "PremierSports2",
-    "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9hbWcxOTIyMy1hbWcxOTIyM2M0LWFtZ3BsdDAzNTEucGxheW91dC5ub3czLmFtYWdpLnR2L3BsYXlsaXN0L2FtZzE5MjIzLWFtZzE5MjIzYzQtYW1ncGx0MDM1MS9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 261,
     "speed_kbs": 167134,
     "resolution": "1080p",
-    "last_test": 1781578160.8362796
+    "referrer": null
   },
   {
     "channel": "PremierSports.ph",
     "title": "PremierSports",
-    "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9hbWcxOTIyMy1hbWcxOTIyM2MzLWFtZ3BsdDAzNTEucGxheW91dC5ub3czLmFtYWdpLnR2L3BsYXlsaXN0L2FtZzE5MjIzLWFtZzE5MjIzYzMtYW1ncGx0MDM1MS9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 262,
     "speed_kbs": 154173,
     "resolution": "1080p",
-    "last_test": 1781578160.839064
+    "referrer": null
   },
   {
     "channel": "BilyonaryoNewsChannel.ph",
     "title": "BilyonaryoNewsChannel",
-    "url": "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9hbWcxOTIyMy1hbWcxOTIyM2MxMS1hbWdwbHQwMzUyLnBsYXlvdXQubm93My5hbWFnaS50di9wbGF5bGlzdC9hbWcxOTIyMy1hbWcxOTIyM2MxMS1hbWdwbHQwMzUyL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 295,
     "speed_kbs": 10275,
     "resolution": "1080p",
-    "last_test": 1781578155.190132
+    "referrer": null
   },
   {
     "channel": "CCTN47.ph",
     "title": "CCTN47",
-    "url": "http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cDovLzEyMi41NS4yNTIuMTM0Ojg0NDMvbGl2ZS9iYmE1YjUzNmZhZWFjYjliNTZhMzIzOWYxZWU4ZTNiMy8xLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 396,
     "speed_kbs": 34861,
     "resolution": "1080p",
-    "last_test": 1781578155.52028
+    "referrer": null
   },
   {
     "channel": "MindanowNetworkTV.ph",
     "title": "MindanowNetworkTV",
-    "url": "https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4udmVnYXNwbHVzLnVzL3ZlZ2FzL21tbjAxL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 408,
     "speed_kbs": 6798,
     "resolution": "1080p",
-    "last_test": 1781578159.7146602
+    "referrer": null
   },
   {
     "channel": "AbanteTV.ph",
     "title": "AbanteTV",
-    "url": "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9hbWcxOTIyMy1hbWcxOTIyM2MxMi1hbWdwbHQwMzUyLnBsYXlvdXQubm93My5hbWFnaS50di9wbGF5bGlzdC9hbWcxOTIyMy1hbWcxOTIyM2MxMi1hbWdwbHQwMzUyL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 427,
     "speed_kbs": 73197,
     "resolution": "1080p",
-    "last_test": 1781578153.2232842
+    "referrer": null
   },
   {
     "channel": "LivingAsiaChannel.ph",
     "title": "LivingAsiaChannel",
-    "url": "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9jZG4udmVnYXNwbHVzLnVzL3ZlZ2FzL2xhYy9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 469,
     "speed_kbs": 10381,
     "resolution": "1080p",
-    "last_test": 1781578159.3193617
+    "referrer": null
   },
   {
     "channel": "HopeChannelPhilippines.ph",
     "title": "HopeChannelPhilippines",
-    "url": "https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9qc3RyZS5hbS9saXZlL2pzbDo3QTFzd0w3RmhsaC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 812,
     "speed_kbs": 48306,
     "resolution": "1080p",
-    "last_test": 1781578158.4911773
+    "referrer": null
   },
   {
     "channel": "CLTV36.ph",
     "title": "CLTV36",
-    "url": "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9saXZlLmNsdHYzNi50djo1NDQzL0xpdmVBcHAvc3RyZWFtcy9jbHR2bGl2ZS5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 825,
     "speed_kbs": 14230,
     "resolution": "1080p",
-    "last_test": 1781578156.1150682
+    "referrer": null
   },
   {
     "channel": "AbanteTV.ph",
     "title": "AbanteTV",
-    "url": "https://streams.comclark.com/transcodesd/abante/playlist.m3u8",
-    "user_agent": "Mozilla/5.0",
-    "referrer": null,
+    "url": "aHR0cHM6Ly9zdHJlYW1zLmNvbWNsYXJrLmNvbS90cmFuc2NvZGVzZC9hYmFudGUvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1348,
     "speed_kbs": 10523,
     "resolution": "1080p",
-    "last_test": 1781578154.144391
+    "referrer": null
   }
 ]
