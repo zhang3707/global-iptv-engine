@@ -280,12 +280,52 @@
     "referrer": ""
   },
   {
+    "channel": "VTV10.vn",
+    "title": "VTV10",
+    "url": "aHR0cHM6Ly9saXZlLWEuZnB0cGxheTUzLm5ldC9saXZlL21lZGlhL3Z0djEwL2xpdmUyNDctaGxzLWF2Yy9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 766,
+    "speed_kbs": 64580,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "VTV5.vn",
+    "title": "VTV5",
+    "url": "aHR0cHM6Ly9saXZlLWEuZnB0cGxheTUzLm5ldC9saXZlL21lZGlhL3Z0djUvbGl2ZTI0Ny1obHMtYXZjL2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 821,
+    "speed_kbs": 89635,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "VTV4.vn",
     "title": "VTV4",
     "url": "aHR0cHM6Ly9saXZlLmZwdHBsYXk1My5uZXQvZm54Y2gyL3Z0djRoZF9hYnIuc21pbC9jaHVua2xpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 823,
     "speed_kbs": 34489,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "VTV1.vn",
+    "title": "VTV1",
+    "url": "aHR0cHM6Ly9saXZlLWEuZnB0cGxheTUzLm5ldC9saXZlL21lZGlhL3Z0djEvbGl2ZTI0Ny1obHMtYXZjL2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 830,
+    "speed_kbs": 89635,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "VTV2.vn",
+    "title": "VTV2",
+    "url": "aHR0cHM6Ly9saXZlLWEuZnB0cGxheTUzLm5ldC9saXZlL21lZGlhL3Z0djIvbGl2ZTI0Ny1obHMtYXZjL2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 839,
+    "speed_kbs": 83789,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -300,12 +340,62 @@
     "referrer": ""
   },
   {
+    "channel": "VTV3.vn",
+    "title": "VTV3",
+    "url": "aHR0cHM6Ly9saXZlLWEuZnB0cGxheTUzLm5ldC9saXZlL21lZGlhL3Z0djMvbGl2ZTI0Ny1obHMtYXZjL2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 983,
+    "speed_kbs": 66716,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "VTV4.vn",
+    "title": "VTV4",
+    "url": "aHR0cHM6Ly9saXZlLWEuZnB0cGxheTUzLm5ldC9saXZlL21lZGlhL3Z0djQvbGl2ZTI0Ny1obHMtYXZjL2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1015,
+    "speed_kbs": 67619,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "VTV7.vn",
     "title": "VTV7",
     "url": "aHR0cHM6Ly92dHZnb2xpdmUtZmFpbG92ZXIudnR2ZGlnaXRhbC52bi92dHZnby92dHY3LW1hbmlmZXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1025,
     "speed_kbs": 30577,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "VTV9.vn",
+    "title": "VTV9",
+    "url": "aHR0cHM6Ly9saXZlLWEuZnB0cGxheTUzLm5ldC9saXZlL21lZGlhL3Z0djkvbGl2ZTI0Ny1obHMtYXZjL2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1057,
+    "speed_kbs": 70078,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "VTV7.vn",
+    "title": "VTV7",
+    "url": "aHR0cHM6Ly9saXZlLWEuZnB0cGxheTUzLm5ldC9saXZlL21lZGlhL3Z0djcvbGl2ZTI0Ny1obHMtYXZjL2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1062,
+    "speed_kbs": 74121,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "VTV6.vn",
+    "title": "VTV6",
+    "url": "aHR0cHM6Ly9saXZlLWEuZnB0cGxheTUzLm5ldC9saXZlL21lZGlhL3Z0djYvbGl2ZTI0Ny1obHMtYXZjL2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1073,
+    "speed_kbs": 71568,
     "resolution": "1080p",
     "referrer": ""
   },

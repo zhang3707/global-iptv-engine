@@ -3190,6 +3190,26 @@
     "referrer": ""
   },
   {
+    "channel": "StarPlus.in",
+    "title": "StarPlus",
+    "url": "aHR0cDovLzQxLjIwNS42NC42Ni9TVEFSLVBMVVMvaW5kZXgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 429,
+    "speed_kbs": 12023,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "ZeeTV.in",
+    "title": "ZeeTV",
+    "url": "aHR0cDovLzQxLjIwNS45My4xNTQvWkVFLVRWL2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 431,
+    "speed_kbs": 33463,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "SonyMarathi.in",
     "title": "SonyMarathi",
     "url": "aHR0cHM6Ly9zbC52b2RlcDM5MjQwMzI3LndvcmtlcnMuZGV2L2NoYW5uZWwvU09OWStNQVJBVEhJLm0zdTg=",
