@@ -41612,6 +41612,17 @@
       "speed_kbs": 71568,
       "resolution": "1080p",
       "last_test": 1781666754.544006
+    },
+    "https://tvsen4.aynaott.com/n64PH4YL/index.m3u8": {
+      "channel": "StarJalsha.in",
+      "title": "StarJalsha",
+      "url": "https://tvsen4.aynaott.com/n64PH4YL/index.m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referrer": null,
+      "delay": 333,
+      "speed_kbs": 11481,
+      "resolution": "1080p",
+      "last_test": 1781751318.397916
     }
   },
   "blacklist": {
