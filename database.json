@@ -3839,17 +3839,6 @@
       "resolution": "1080p",
       "last_test": 1781540728.4600868
     },
-    "http://go.bkpcp.top/mg/bjws": {
-      "channel": "BeijingSatelliteTV.cn",
-      "title": "BeijingSatelliteTV",
-      "url": "http://go.bkpcp.top/mg/bjws",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 805,
-      "speed_kbs": 11083,
-      "resolution": "1080p",
-      "last_test": 1781540728.4695308
-    },
     "https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8": {
       "channel": "BXInform.us",
       "title": "BXInform",
@@ -3933,10 +3922,10 @@
       "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 840,
-      "speed_kbs": 14131,
+      "delay": 577,
+      "speed_kbs": 9037,
       "resolution": "1080p",
-      "last_test": 1781540728.5043547
+      "last_test": 1781813723.0848527
     },
     "https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8": {
       "channel": "CBNNews.us",
@@ -4450,10 +4439,10 @@
       "url": "http://69.30.245.50/live/cctv1.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 90,
-      "speed_kbs": 22472,
+      "delay": 88,
+      "speed_kbs": 13448,
       "resolution": "1080p",
-      "last_test": 1781540728.7047002
+      "last_test": 1781813722.5961742
     },
     "http://198.204.240.250:82/live/cctv1.m3u8": {
       "channel": "CCTV1.cn",
@@ -4461,10 +4450,10 @@
       "url": "http://198.204.240.250:82/live/cctv1.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 79,
-      "speed_kbs": 22029,
+      "delay": 88,
+      "speed_kbs": 20900,
       "resolution": "1080p",
-      "last_test": 1781540728.7099319
+      "last_test": 1781813722.5964196
     },
     "https://xykt-fix.github.io/Y77.m3u8": {
       "channel": "CCTV9.cn",
@@ -4472,10 +4461,10 @@
       "url": "https://xykt-fix.github.io/Y77.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 17,
-      "speed_kbs": 18962,
+      "delay": 15,
+      "speed_kbs": 88409,
       "resolution": "1080p",
-      "last_test": 1781540728.7186418
+      "last_test": 1781813722.5259037
     },
     "https://xykt-fix.github.io/play/a02b/index.m3u8": {
       "channel": "CCTV11.cn",
@@ -4483,10 +4472,10 @@
       "url": "https://xykt-fix.github.io/play/a02b/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 2,
-      "speed_kbs": 24600,
+      "delay": 128,
+      "speed_kbs": 21032,
       "resolution": "1080p",
-      "last_test": 1781540728.7217467
+      "last_test": 1781813722.6388812
     },
     "http://198.204.240.250:82/live/cctv4k.m3u8": {
       "channel": "CCTV4K.cn",
@@ -4494,10 +4483,10 @@
       "url": "http://198.204.240.250:82/live/cctv4k.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 81,
-      "speed_kbs": 14848,
+      "delay": 92,
+      "speed_kbs": 19880,
       "resolution": "1080p",
-      "last_test": 1781540728.746819
+      "last_test": 1781813722.6019104
     },
     "https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8": {
       "channel": "CBSNewsDetroit.us",
@@ -4516,10 +4505,10 @@
       "url": "http://198.204.240.250:82/live/cctv6.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 78,
-      "speed_kbs": 21425,
+      "delay": 91,
+      "speed_kbs": 22583,
       "resolution": "1080p",
-      "last_test": 1781540728.7495406
+      "last_test": 1781813722.6006813
     },
     "http://69.30.245.50/live/cctv6.m3u8": {
       "channel": "CCTV6.cn",
@@ -4527,10 +4516,10 @@
       "url": "http://69.30.245.50/live/cctv6.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 83,
-      "speed_kbs": 23210,
+      "delay": 88,
+      "speed_kbs": 23873,
       "resolution": "1080p",
-      "last_test": 1781540728.7497756
+      "last_test": 1781813722.5980268
     },
     "https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8": {
       "channel": "CBSSportsHQ.us",
@@ -4549,10 +4538,10 @@
       "url": "https://xykt-fix.github.io/play/a02e/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 4,
-      "speed_kbs": 214613,
+      "delay": 124,
+      "speed_kbs": 133784,
       "resolution": "1080p",
-      "last_test": 1781540728.7543771
+      "last_test": 1781813722.6355464
     },
     "http://198.204.240.250:82/live/cctv8k.m3u8": {
       "channel": "CCTV8K.cn",
@@ -4560,10 +4549,10 @@
       "url": "http://198.204.240.250:82/live/cctv8k.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 77,
-      "speed_kbs": 18432,
+      "delay": 91,
+      "speed_kbs": 28262,
       "resolution": "1080p",
-      "last_test": 1781540728.769456
+      "last_test": 1781813722.6019585
     },
     "https://bloomberg.com/media-manifest/streams/politics.m3u8": {
       "channel": "BloombergTV.us",
@@ -4604,10 +4593,10 @@
       "url": "http://74.91.26.218:82/live/cctv1hd.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 160,
-      "speed_kbs": 18301,
+      "delay": 183,
+      "speed_kbs": 20089,
       "resolution": "1080p",
-      "last_test": 1781540728.7950873
+      "last_test": 1781813722.6921816
     },
     "http://74.91.26.218:82/live/cctv3hd.m3u8": {
       "channel": "CCTV3.cn",
@@ -4615,10 +4604,10 @@
       "url": "http://74.91.26.218:82/live/cctv3hd.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 158,
-      "speed_kbs": 15090,
+      "delay": 186,
+      "speed_kbs": 12593,
       "resolution": "1080p",
-      "last_test": 1781540728.8056118
+      "last_test": 1781813722.695503
     },
     "http://74.91.26.218:82/live/cctv2hd.m3u8": {
       "channel": "CCTV2.cn",
@@ -4626,10 +4615,10 @@
       "url": "http://74.91.26.218:82/live/cctv2hd.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 160,
-      "speed_kbs": 20480,
+      "delay": 180,
+      "speed_kbs": 21773,
       "resolution": "1080p",
-      "last_test": 1781540728.8061063
+      "last_test": 1781813722.6886098
     },
     "https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8": {
       "channel": "BrionnaisTV.fr",
@@ -4659,10 +4648,10 @@
       "url": "http://74.91.26.218:82/live/cctv4hd.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 165,
-      "speed_kbs": 20979,
+      "delay": 177,
+      "speed_kbs": 5376,
       "resolution": "1080p",
-      "last_test": 1781540728.824117
+      "last_test": 1781813722.6867704
     },
     "http://74.91.26.218:82/live/cctv8hd.m3u8": {
       "channel": "CCTV8.cn",
@@ -4670,10 +4659,10 @@
       "url": "http://74.91.26.218:82/live/cctv8hd.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 157,
-      "speed_kbs": 15928,
+      "delay": 184,
+      "speed_kbs": 20579,
       "resolution": "1080p",
-      "last_test": 1781540728.8399596
+      "last_test": 1781813722.693933
     },
     "http://74.91.26.218:82/live/cctv7hd.m3u8": {
       "channel": "CCTV7.cn",
@@ -4681,10 +4670,10 @@
       "url": "http://74.91.26.218:82/live/cctv7hd.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 164,
-      "speed_kbs": 17554,
+      "delay": 604,
+      "speed_kbs": 15360,
       "resolution": "1080p",
-      "last_test": 1781540728.8416626
+      "last_test": 1781813723.1140764
     },
     "http://192.151.150.154/live/cctv8k.m3u8": {
       "channel": "CCTV8K.cn",
@@ -4692,10 +4681,10 @@
       "url": "http://192.151.150.154/live/cctv8k.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 161,
-      "speed_kbs": 24224,
+      "delay": 262,
+      "speed_kbs": 21740,
       "resolution": "1080p",
-      "last_test": 1781540728.8452652
+      "last_test": 1781813722.7726305
     },
     "http://74.91.26.218:82/live/cctv12hd.m3u8": {
       "channel": "CCTV12.cn",
@@ -4703,10 +4692,10 @@
       "url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 124,
-      "speed_kbs": 24927,
+      "delay": 183,
+      "speed_kbs": 17448,
       "resolution": "1080p",
-      "last_test": 1781540728.845812
+      "last_test": 1781813722.6945746
     },
     "http://74.91.26.218:82/live/cctv10hd.m3u8": {
       "channel": "CCTV10.cn",
@@ -4714,10 +4703,10 @@
       "url": "http://74.91.26.218:82/live/cctv10hd.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 159,
-      "speed_kbs": 21279,
+      "delay": 178,
+      "speed_kbs": 22096,
       "resolution": "1080p",
-      "last_test": 1781540728.861416
+      "last_test": 1781813722.6890066
     },
     "https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg.m3u8": {
       "channel": "BloombergTV.us",
@@ -4736,10 +4725,10 @@
       "url": "http://74.91.26.218:82/live/cctv13hd.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 121,
-      "speed_kbs": 23756,
+      "delay": 181,
+      "speed_kbs": 23136,
       "resolution": "1080p",
-      "last_test": 1781540728.8691325
+      "last_test": 1781813722.6922908
     },
     "http://74.91.26.218:82/live/cctv11hd.m3u8": {
       "channel": "CCTV11.cn",
@@ -4747,10 +4736,10 @@
       "url": "http://74.91.26.218:82/live/cctv11hd.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 159,
-      "speed_kbs": 27264,
+      "delay": 185,
+      "speed_kbs": 20879,
       "resolution": "1080p",
-      "last_test": 1781540728.8695416
+      "last_test": 1781813722.695838
     },
     "http://74.91.26.218:82/live/cctv14hd.m3u8": {
       "channel": "CCTV14.cn",
@@ -4758,10 +4747,10 @@
       "url": "http://74.91.26.218:82/live/cctv14hd.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 120,
-      "speed_kbs": 17303,
+      "delay": 180,
+      "speed_kbs": 20480,
       "resolution": "1080p",
-      "last_test": 1781540728.870251
+      "last_test": 1781813722.6915946
     },
     "http://74.91.26.218:82/live/cctv15hd.m3u8": {
       "channel": "CCTV15.cn",
@@ -4769,10 +4758,10 @@
       "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 118,
-      "speed_kbs": 25568,
+      "delay": 178,
+      "speed_kbs": 23136,
       "resolution": "1080p",
-      "last_test": 1781540728.871876
+      "last_test": 1781813722.6897252
     },
     "https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8": {
       "channel": "CelebritySceneTV.us",
@@ -4824,10 +4813,10 @@
       "url": "http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 200,
-      "speed_kbs": 14596,
+      "delay": 107,
+      "speed_kbs": 20172,
       "resolution": "1080p",
-      "last_test": 1781540728.9727807
+      "last_test": 1781813722.6191084
     },
     "http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub": {
       "channel": "CCTVBilliards.cn",
@@ -4835,10 +4824,10 @@
       "url": "http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 201,
-      "speed_kbs": 17541,
+      "delay": 515,
+      "speed_kbs": 16783,
       "resolution": "1080p",
-      "last_test": 1781540728.9737837
+      "last_test": 1781813723.0273724
     },
     "https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8": {
       "channel": "CCTV4Europe.cn",
@@ -4846,10 +4835,10 @@
       "url": "https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 313,
-      "speed_kbs": 24927,
+      "delay": 497,
+      "speed_kbs": 37125,
       "resolution": "1080p",
-      "last_test": 1781540728.9772484
+      "last_test": 1781813723.0067017
     },
     "https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8": {
       "channel": "CelebrityNameGame.us",
@@ -4868,21 +4857,10 @@
       "url": "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 197,
-      "speed_kbs": 17778,
+      "delay": 510,
+      "speed_kbs": 15837,
       "resolution": "1080p",
-      "last_test": 1781540728.9926891
-    },
-    "http://go.bkpcp.top/mg/cctv13": {
-      "channel": "CCTV13.cn",
-      "title": "CCTV13",
-      "url": "http://go.bkpcp.top/mg/cctv13",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 249,
-      "speed_kbs": 12561,
-      "resolution": "1080p",
-      "last_test": 1781540728.9962258
+      "last_test": 1781813723.022325
     },
     "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8": {
       "channel": "BreadTV.cn",
@@ -4890,10 +4868,10 @@
       "url": "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 866,
-      "speed_kbs": 14885,
+      "delay": 642,
+      "speed_kbs": 13870,
       "resolution": "1080p",
-      "last_test": 1781540728.99961
+      "last_test": 1781813723.1499684
     },
     "http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub": {
       "channel": "CCTVNostalgiaTheater.cn",
@@ -4901,10 +4879,10 @@
       "url": "http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 200,
-      "speed_kbs": 17452,
+      "delay": 108,
+      "speed_kbs": 14409,
       "resolution": "1080p",
-      "last_test": 1781540729.0064871
+      "last_test": 1781813722.6206682
     },
     "http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub": {
       "channel": "CCTVHealth.cn",
@@ -4912,10 +4890,10 @@
       "url": "http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 202,
-      "speed_kbs": 20164,
+      "delay": 112,
+      "speed_kbs": 21126,
       "resolution": "1080p",
-      "last_test": 1781540729.0084858
+      "last_test": 1781813722.6245716
     },
     "https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8": {
       "channel": "CCTV10.cn",
@@ -4923,10 +4901,10 @@
       "url": "https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8",
       "user_agent": "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
       "referrer": null,
-      "delay": 305,
-      "speed_kbs": 41779,
+      "delay": 716,
+      "speed_kbs": 40760,
       "resolution": "1080p",
-      "last_test": 1781540729.0105436
+      "last_test": 1781813723.2265682
     },
     "https://jmp2.uk/plu-6109a9f5531b840007a4a187.m3u8": {
       "channel": "CazadordeHomicidas.us",
@@ -4956,10 +4934,10 @@
       "url": "http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 159,
-      "speed_kbs": 23612,
+      "delay": 499,
+      "speed_kbs": 14172,
       "resolution": "1080p",
-      "last_test": 1781540729.0209765
+      "last_test": 1781813723.097969
     },
     "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub": {
       "channel": "CCTVStormFootball.cn",
@@ -4967,10 +4945,10 @@
       "url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 197,
-      "speed_kbs": 18711,
+      "delay": 527,
+      "speed_kbs": 18108,
       "resolution": "1080p",
-      "last_test": 1781540729.02154
+      "last_test": 1781813723.0407
     },
     "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8": {
       "channel": "CCTV4America.cn",
@@ -4978,10 +4956,10 @@
       "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 376,
-      "speed_kbs": 20212,
+      "delay": 428,
+      "speed_kbs": 22137,
       "resolution": "1080p",
-      "last_test": 1781540729.0348735
+      "last_test": 1781813722.9373777
     },
     "http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub": {
       "channel": "CCTVStormMusic.cn",
@@ -4989,10 +4967,10 @@
       "url": "http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 200,
-      "speed_kbs": 17081,
+      "delay": 538,
+      "speed_kbs": 14959,
       "resolution": "1080p",
-      "last_test": 1781540729.0403533
+      "last_test": 1781813723.0519075
     },
     "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub": {
       "channel": "CCTVTheFirstTheater.cn",
@@ -5000,10 +4978,10 @@
       "url": "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 196,
-      "speed_kbs": 22820,
+      "delay": 502,
+      "speed_kbs": 18274,
       "resolution": "1080p",
-      "last_test": 1781540729.0420156
+      "last_test": 1781813723.099135
     },
     "http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub": {
       "channel": "CCTVWeaponTechnology.cn",
@@ -5011,10 +4989,10 @@
       "url": "http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 196,
-      "speed_kbs": 25088,
+      "delay": 513,
+      "speed_kbs": 19114,
       "resolution": "1080p",
-      "last_test": 1781540729.0423725
+      "last_test": 1781813723.1095738
     },
     "http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub": {
       "channel": "CCTVStormTheater.cn",
@@ -5022,10 +5000,10 @@
       "url": "http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 205,
-      "speed_kbs": 22300,
+      "delay": 523,
+      "speed_kbs": 19151,
       "resolution": "1080p",
-      "last_test": 1781540729.0472538
+      "last_test": 1781813723.0493062
     },
     "http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub": {
       "channel": "CCTVWorldGeography.cn",
@@ -5033,10 +5011,10 @@
       "url": "http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 202,
-      "speed_kbs": 15339,
+      "delay": 509,
+      "speed_kbs": 19797,
       "resolution": "1080p",
-      "last_test": 1781540729.0700612
+      "last_test": 1781813723.110398
     },
     "https://hls.savoir.media/live/stream.m3u8": {
       "channel": "CFTUDT.ca",
@@ -5055,10 +5033,10 @@
       "url": "https://dash4.antik.sk/live/test_cgtn/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 109,
-      "speed_kbs": 30684,
+      "delay": 481,
+      "speed_kbs": 41642,
       "resolution": "1080p",
-      "last_test": 1781540729.1023483
+      "last_test": 1781813723.1025155
     },
     "https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8": {
       "channel": "CGTNArabic.cn",
@@ -5066,10 +5044,10 @@
       "url": "https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 110,
-      "speed_kbs": 31158,
+      "delay": 495,
+      "speed_kbs": 40578,
       "resolution": "1080p",
-      "last_test": 1781540729.118701
+      "last_test": 1781813723.1610036
     },
     "https://jmp2.uk/plu-62cdc8fdb05d2b0007ef5035.m3u8": {
       "channel": "CBSNewsMiami.us",
@@ -5099,10 +5077,10 @@
       "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 228,
-      "speed_kbs": 14996,
+      "delay": 405,
+      "speed_kbs": 22137,
       "resolution": "1080p",
-      "last_test": 1781540729.2247047
+      "last_test": 1781813723.0300186
     },
     "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8": {
       "channel": "CGTNDocumentary.cn",
@@ -5110,10 +5088,10 @@
       "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 228,
-      "speed_kbs": 14758,
+      "delay": 412,
+      "speed_kbs": 23244,
       "resolution": "1080p",
-      "last_test": 1781540729.2507162
+      "last_test": 1781813723.1045861
     },
     "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8": {
       "channel": "CCTV.us",
@@ -5143,10 +5121,10 @@
       "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 324,
-      "speed_kbs": 51400,
+      "delay": 11,
+      "speed_kbs": 60963,
       "resolution": "1080p",
-      "last_test": 1781540729.298309
+      "last_test": 1781813722.6140187
     },
     "http://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8": {
       "channel": "CCX1.us",
@@ -5165,10 +5143,10 @@
       "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 75,
-      "speed_kbs": 16312,
+      "delay": 405,
+      "speed_kbs": 19370,
       "resolution": "1080p",
-      "last_test": 1781540729.3263843
+      "last_test": 1781813723.178035
     },
     "https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8": {
       "channel": "CGTNSpanish.cn",
@@ -5176,10 +5154,10 @@
       "url": "https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 102,
-      "speed_kbs": 37125,
+      "delay": 481,
+      "speed_kbs": 31158,
       "resolution": "1080p",
-      "last_test": 1781540729.3276708
+      "last_test": 1781813723.2489293
     },
     "https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8": {
       "channel": "CGNTVJapan.jp",
@@ -5198,10 +5176,10 @@
       "url": "https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 314,
-      "speed_kbs": 38866,
+      "delay": 510,
+      "speed_kbs": 39749,
       "resolution": "1080p",
-      "last_test": 1781540729.3357546
+      "last_test": 1781813723.199861
     },
     "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8": {
       "channel": "CGTNGlobalBiz.cn",
@@ -5209,10 +5187,10 @@
       "url": "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 311,
-      "speed_kbs": 153954,
+      "delay": 46,
+      "speed_kbs": 259917,
       "resolution": "1080p",
-      "last_test": 1781540729.3585362
+      "last_test": 1781813722.7417924
     },
     "https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8": {
       "channel": "CGTNFrench.cn",
@@ -5220,10 +5198,10 @@
       "url": "https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 318,
-      "speed_kbs": 38775,
+      "delay": 499,
+      "speed_kbs": 42558,
       "resolution": "1080p",
-      "last_test": 1781540729.3607123
+      "last_test": 1781813723.1943905
     },
     "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8": {
       "channel": "CerritosTV3.us",
@@ -5286,10 +5264,10 @@
       "url": "http://74.91.26.218:82/live/cctv17hd.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 627,
-      "speed_kbs": 12818,
+      "delay": 184,
+      "speed_kbs": 20787,
       "resolution": "1080p",
-      "last_test": 1781540729.3968747
+      "last_test": 1781813722.6961195
     },
     "https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8": {
       "channel": "CFMTVChannel98.us",
@@ -5319,10 +5297,10 @@
       "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 396,
-      "speed_kbs": 53498,
+      "delay": 13,
+      "speed_kbs": 60963,
       "resolution": "1080p",
-      "last_test": 1781540729.4072897
+      "last_test": 1781813722.6999128
     },
     "https://jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8": {
       "channel": "Cheers.us",
@@ -5352,10 +5330,10 @@
       "url": "https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 315,
-      "speed_kbs": 14420,
+      "delay": 495,
+      "speed_kbs": 43622,
       "resolution": "1080p",
-      "last_test": 1781540729.417741
+      "last_test": 1781813723.195454
     },
     "https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8": {
       "channel": "CGTNArabic.cn",
@@ -5363,10 +5341,10 @@
       "url": "https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 414,
-      "speed_kbs": 2319,
+      "delay": 213,
+      "speed_kbs": 1650,
       "resolution": "1080p",
-      "last_test": 1781540729.4209385
+      "last_test": 1781813722.852529
     },
     "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8": {
       "channel": "CGTN.cn",
@@ -5374,10 +5352,10 @@
       "url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 433,
-      "speed_kbs": 31784,
+      "delay": 219,
+      "speed_kbs": 1808,
       "resolution": "1080p",
-      "last_test": 1781540729.4259465
+      "last_test": 1781813722.8384435
     },
     "https://news.cgtn.com/resource/live/french/cgtn-f.m3u8": {
       "channel": "CGTNFrench.cn",
@@ -5385,10 +5363,10 @@
       "url": "https://news.cgtn.com/resource/live/french/cgtn-f.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 385,
-      "speed_kbs": 47826,
+      "delay": 214,
+      "speed_kbs": 1852,
       "resolution": "1080p",
-      "last_test": 1781540729.426011
+      "last_test": 1781813722.9084663
     },
     "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8": {
       "channel": "CGTNDocumentary.cn",
@@ -5396,10 +5374,10 @@
       "url": "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 409,
-      "speed_kbs": 36590,
+      "delay": 214,
+      "speed_kbs": 2309,
       "resolution": "1080p",
-      "last_test": 1781540729.4272633
+      "last_test": 1781813722.903477
     },
     "https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8": {
       "channel": "CGTNRussian.cn",
@@ -5407,10 +5385,10 @@
       "url": "https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 351,
-      "speed_kbs": 616,
-      "resolution": "720p",
-      "last_test": 1781540729.427647
+      "delay": 215,
+      "speed_kbs": 1544,
+      "resolution": "1080p",
+      "last_test": 1781813722.9117012
     },
     "https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8": {
       "channel": "Choppertown.us",
@@ -5429,10 +5407,10 @@
       "url": "http://74.91.26.218:82/live/cctv16hd.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 680,
-      "speed_kbs": 18216,
+      "delay": 587,
+      "speed_kbs": 12653,
       "resolution": "1080p",
-      "last_test": 1781540729.4349563
+      "last_test": 1781813723.0988078
     },
     "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8": {
       "channel": "CGTNSpanish.cn",
@@ -5440,10 +5418,10 @@
       "url": "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 249,
-      "speed_kbs": 61725,
+      "delay": 10,
+      "speed_kbs": 63195,
       "resolution": "1080p",
-      "last_test": 1781540729.4387872
+      "last_test": 1781813722.7676156
     },
     "https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8": {
       "channel": "CGTNRussian.cn",
@@ -5451,10 +5429,10 @@
       "url": "https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 371,
-      "speed_kbs": 45791,
+      "delay": 207,
+      "speed_kbs": 39685,
       "resolution": "1080p",
-      "last_test": 1781540729.441616
+      "last_test": 1781813722.9038324
     },
     "https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8": {
       "channel": "CGTNFrench.cn",
@@ -5462,10 +5440,10 @@
       "url": "https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 408,
-      "speed_kbs": 57700,
+      "delay": 11,
+      "speed_kbs": 4648,
       "resolution": "1080p",
-      "last_test": 1781540729.4501262
+      "last_test": 1781813722.7056713
     },
     "https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8": {
       "channel": "CHCOTV.ca",
@@ -5517,10 +5495,10 @@
       "url": "https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 293,
-      "speed_kbs": 9,
-      "resolution": "720p",
-      "last_test": 1781540729.4656627
+      "delay": 207,
+      "speed_kbs": 1331,
+      "resolution": "1080p",
+      "last_test": 1781813722.9500184
     },
     "https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8": {
       "channel": "CGTV.us",
@@ -5561,10 +5539,10 @@
       "url": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 359,
-      "speed_kbs": 49607,
+      "delay": 208,
+      "speed_kbs": 43557,
       "resolution": "1080p",
-      "last_test": 1781540729.4786022
+      "last_test": 1781813722.9139385
     },
     "https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8": {
       "channel": "CineTerror.us",
@@ -5671,10 +5649,10 @@
       "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 774,
-      "speed_kbs": 1432,
+      "delay": 370,
+      "speed_kbs": 27814,
       "resolution": "1080p",
-      "last_test": 1781540729.591881
+      "last_test": 1781813722.8834927
     },
     "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8": {
       "channel": "CGNTVChinese.tw",
@@ -5682,10 +5660,10 @@
       "url": "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 653,
-      "speed_kbs": 55149,
+      "delay": 155,
+      "speed_kbs": 73532,
       "resolution": "1080p",
-      "last_test": 1781540729.6022851
+      "last_test": 1781813722.7575412
     },
     "https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8": {
       "channel": "CineWestern.fr",
@@ -5715,10 +5693,10 @@
       "url": "https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 583,
-      "speed_kbs": 42715,
+      "delay": 219,
+      "speed_kbs": 41722,
       "resolution": "1080p",
-      "last_test": 1781540729.6188083
+      "last_test": 1781813722.9129064
     },
     "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8": {
       "channel": "CityNewsToronto.ca",
@@ -5737,10 +5715,10 @@
       "url": "https://english-livebkali.cgtn.com/live/doccgtn.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 620,
-      "speed_kbs": 34936,
+      "delay": 513,
+      "speed_kbs": 43457,
       "resolution": "1080p",
-      "last_test": 1781540729.6338484
+      "last_test": 1781813723.2019866
     },
     "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8": {
       "channel": "CityNewsCalgary.ca",
@@ -5803,10 +5781,10 @@
       "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 827,
-      "speed_kbs": 32325,
+      "delay": 152,
+      "speed_kbs": 27461,
       "resolution": "1080p",
-      "last_test": 1781540729.6410494
+      "last_test": 1781813722.6649826
     },
     "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8": {
       "channel": "CineSony.us",
@@ -5858,10 +5836,10 @@
       "url": "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 273,
-      "speed_kbs": 178144,
+      "delay": 33,
+      "speed_kbs": 210333,
       "resolution": "1080p",
-      "last_test": 1781540729.6549556
+      "last_test": 1781813722.8768954
     },
     "https://circle-samsung.amagi.tv/playlist.m3u8": {
       "channel": "Circle.us",
@@ -6001,10 +5979,10 @@
       "url": "https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 729,
-      "speed_kbs": 34695,
+      "delay": 207,
+      "speed_kbs": 22118,
       "resolution": "1080p",
-      "last_test": 1781540729.7292538
+      "last_test": 1781813722.8428788
     },
     "https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8": {
       "channel": "ComediaMadeinSpain.us",
@@ -6661,10 +6639,10 @@
       "url": "https://english-livebkali.cgtn.com/live/encgtn.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 1017,
-      "speed_kbs": 43057,
+      "delay": 740,
+      "speed_kbs": 32692,
       "resolution": "1080p",
-      "last_test": 1781540729.9948764
+      "last_test": 1781813723.3549323
     },
     "https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8": {
       "channel": "CVCGovernment.us",
@@ -7266,10 +7244,10 @@
       "url": "http://play1-qk.nmtv.cn/live/1735546697341033.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 925,
-      "speed_kbs": 34553,
+      "delay": 705,
+      "speed_kbs": 28672,
       "resolution": "1080p",
-      "last_test": 1781540730.300117
+      "last_test": 1781813723.5438535
     },
     "https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8": {
       "channel": "DiffrentStrokesArnold.us",
@@ -7783,10 +7761,10 @@
       "url": "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 279,
-      "speed_kbs": 306876,
+      "delay": 53,
+      "speed_kbs": 269334,
       "resolution": "1080p",
-      "last_test": 1781540730.5377543
+      "last_test": 1781813722.9300954
     },
     "https://jmp2.uk/plu-65788611a620e30008fe36ff.m3u8": {
       "channel": "DuckDynasty.us",
@@ -7937,10 +7915,10 @@
       "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 663,
-      "speed_kbs": 117282,
+      "delay": 416,
+      "speed_kbs": 65156,
       "resolution": "1080p",
-      "last_test": 1781540730.6513052
+      "last_test": 1781813723.2690675
     },
     "https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8": {
       "channel": "DogWhisperer.us",
@@ -11391,10 +11369,10 @@
       "url": "https://live.streamingfast.net/osmflivech2.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 836,
-      "speed_kbs": 54808,
+      "delay": 574,
+      "speed_kbs": 43433,
       "resolution": "1080p",
-      "last_test": 1781540732.8964715
+      "last_test": 1781813723.4582028
     },
     "https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8": {
       "channel": "GreensboroTV.us",
@@ -11446,10 +11424,10 @@
       "url": "https://live.streamingfast.net/osmflivech1.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 823,
-      "speed_kbs": 67704,
+      "delay": 551,
+      "speed_kbs": 43433,
       "resolution": "1080p",
-      "last_test": 1781540732.9046712
+      "last_test": 1781813723.4553027
     },
     "https://jmp2.uk/plu-61c1871dac860c0007684974.m3u8": {
       "channel": "HellsKitchen.us",
@@ -12249,10 +12227,10 @@
       "url": "http://pili-live-hls.hebitv.com/hebi/hebi.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 1304,
-      "speed_kbs": 25101,
+      "delay": 183,
+      "speed_kbs": 19194,
       "resolution": "1080p",
-      "last_test": 1781540734.024232
+      "last_test": 1781813723.091991
     },
     "https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8": {
       "channel": "iCarly.us",
@@ -12535,10 +12513,10 @@
       "url": "https://stream.hrbtv.net/yspd/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 1829,
-      "speed_kbs": 3772,
+      "delay": 878,
+      "speed_kbs": 3258,
       "resolution": "1080p",
-      "last_test": 1781540734.4444098
+      "last_test": 1781813723.7820404
     },
     "https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8": {
       "channel": "InstantSaga.us",
@@ -13822,10 +13800,10 @@
       "url": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 1906,
-      "speed_kbs": 21026,
+      "delay": 1727,
+      "speed_kbs": 16313,
       "resolution": "1080p",
-      "last_test": 1781540735.650647
+      "last_test": 1781813724.6392274
     },
     "https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8": {
       "channel": "KartoonChannel.us",
@@ -17793,10 +17771,10 @@
       "url": "https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
       "referrer": null,
-      "delay": 281,
-      "speed_kbs": 50393,
+      "delay": 664,
+      "speed_kbs": 31376,
       "resolution": "1080p",
-      "last_test": 1781540738.153689
+      "last_test": 1781813723.5773396
     },
     "https://dash3.antik.sk/live/test_newsmax_avc/playlist.m3u8": {
       "channel": "NewsmaxTV.us",
@@ -18288,10 +18266,10 @@
       "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 254,
-      "speed_kbs": 26518,
+      "delay": 64,
+      "speed_kbs": 314880,
       "resolution": "1080p",
-      "last_test": 1781540738.3856623
+      "last_test": 1781813722.9784577
     },
     "https://jmp2.uk/plu-5aec96ec5126c2157123c657.m3u8": {
       "channel": "Nosey.us",
@@ -22369,10 +22347,10 @@
       "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 664,
-      "speed_kbs": 340319,
+      "delay": 710,
+      "speed_kbs": 287672,
       "resolution": "1080p",
-      "last_test": 1781540740.0719547
+      "last_test": 1781813723.6479452
     },
     "https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8": {
       "channel": "PlutoTVScifiSeries.us",
@@ -23282,10 +23260,10 @@
       "url": "https://petclub-samsungaus.amagi.tv/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 949,
-      "speed_kbs": 6889,
+      "delay": 24,
+      "speed_kbs": 8214,
       "resolution": "1080p",
-      "last_test": 1781540740.353767
+      "last_test": 1781813722.9551897
     },
     "https://d85qrcmltdfp8.cloudfront.net/MAVTV_Select.m3u8": {
       "channel": "RacerSelect.us",
@@ -24067,28 +24045,6 @@
       "speed_kbs": 935643,
       "resolution": "1080p",
       "last_test": 1781540740.826939
-    },
-    "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8": {
-      "channel": "RTHKTV31.hk",
-      "title": "RTHKTV31",
-      "url": "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 304,
-      "speed_kbs": 52617,
-      "resolution": "1080p",
-      "last_test": 1781540740.8284144
-    },
-    "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8": {
-      "channel": "RTHKTV31.hk",
-      "title": "RTHKTV31",
-      "url": "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 307,
-      "speed_kbs": 85504,
-      "resolution": "1080p",
-      "last_test": 1781540740.828472
     },
     "https://rjtvhls.wns.live/hls/stream.m3u8": {
       "channel": "RJTV.us",
@@ -25977,10 +25933,10 @@
       "url": "http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 797,
-      "speed_kbs": 46103,
+      "delay": 487,
+      "speed_kbs": 30037,
       "resolution": "1080p",
-      "last_test": 1781540741.8547673
+      "last_test": 1781813723.4427898
     },
     "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8": {
       "channel": "teltOwkanal.de",
@@ -26252,10 +26208,10 @@
       "url": "https://lbs-us1.suprememastertv.com/720p.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 528,
-      "speed_kbs": 9249,
+      "delay": 20,
+      "speed_kbs": 11468,
       "resolution": "1080p",
-      "last_test": 1781540742.056951
+      "last_test": 1781813722.998601
     },
     "https://aegis-cloudfront-1.tubi.video/e17b8de5-e8b7-415a-8377-5707a2f9a727/playlist.m3u8": {
       "channel": "TheCarolBurnettShow.us",
@@ -27957,10 +27913,10 @@
       "url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 128,
-      "speed_kbs": 35650,
+      "delay": 21,
+      "speed_kbs": 23477,
       "resolution": "1080p",
-      "last_test": 1781540743.2618718
+      "last_test": 1781813723.0442824
     },
     "https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8": {
       "channel": "TVSBowlingNetwork.us",
@@ -28518,10 +28474,10 @@
       "url": "http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 982,
+      "delay": 564,
       "speed_kbs": 17066,
       "resolution": "1080p",
-      "last_test": 1781540743.5974545
+      "last_test": 1781813723.5631127
     },
     "https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8": {
       "channel": "VBSTV.us",
@@ -29068,10 +29024,10 @@
       "url": "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 1228,
-      "speed_kbs": 1310,
+      "delay": 743,
+      "speed_kbs": 10072,
       "resolution": "1080p",
-      "last_test": 1781540743.8587446
+      "last_test": 1781813723.7500951
     },
     "https://d341pfs1smb2ef.cloudfront.net/Vevo_70s.m3u8": {
       "channel": "Vevo70s.us",
@@ -29508,10 +29464,10 @@
       "url": "https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 271,
-      "speed_kbs": 100538,
+      "delay": 184,
+      "speed_kbs": 105325,
       "resolution": "1080p",
-      "last_test": 1781540744.1084309
+      "last_test": 1781813723.212112
     },
     "https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8": {
       "channel": "VevoRetroRock.us",
@@ -29585,10 +29541,10 @@
       "url": "https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 1014,
-      "speed_kbs": 23808,
+      "delay": 612,
+      "speed_kbs": 13851,
       "resolution": "1080p",
-      "last_test": 1781540744.1310067
+      "last_test": 1781813723.6269548
     },
     "https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8": {
       "channel": "TVOberfranken.de",
@@ -31862,10 +31818,10 @@
       "url": "http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 615,
-      "speed_kbs": 38982,
+      "delay": 492,
+      "speed_kbs": 28987,
       "resolution": "1080p",
-      "last_test": 1781540745.3206756
+      "last_test": 1781813723.544533
     },
     "https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8": {
       "channel": "YuGiOh.us",
@@ -31895,10 +31851,10 @@
       "url": "http://110.153.180.106:55555/out_2/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 653,
-      "speed_kbs": 6770,
+      "delay": 542,
+      "speed_kbs": 8294,
       "resolution": "1080p",
-      "last_test": 1781540745.358357
+      "last_test": 1781813723.5871842
     },
     "https://fl1002.bozztv.com/gf-zarintv/index.m3u8": {
       "channel": "ZarinTV.us",
@@ -31972,10 +31928,10 @@
       "url": "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 1198,
-      "speed_kbs": 13721,
+      "delay": 833,
+      "speed_kbs": 16810,
       "resolution": "1080p",
-      "last_test": 1781540745.8906896
+      "last_test": 1781813723.8634248
     },
     "http://110.153.180.106:55555/out_3/index.m3u8": {
       "channel": "XinjiangTV2.cn",
@@ -31983,10 +31939,10 @@
       "url": "http://110.153.180.106:55555/out_3/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 1515,
-      "speed_kbs": 5720,
+      "delay": 495,
+      "speed_kbs": 6770,
       "resolution": "1080p",
-      "last_test": 1781540746.2138197
+      "last_test": 1781813723.536278
     },
     "http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1": {
       "channel": "XinjiangTV8.cn",
@@ -31994,10 +31950,10 @@
       "url": "http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 1840,
-      "speed_kbs": 28336,
+      "delay": 560,
+      "speed_kbs": 35275,
       "resolution": "1080p",
-      "last_test": 1781540746.5590296
+      "last_test": 1781813723.6520994
     },
     "https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8": {
       "channel": "ZhejiangInternationalChannel.cn",
@@ -32005,10 +31961,10 @@
       "url": "https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 1689,
-      "speed_kbs": 19179,
+      "delay": 717,
+      "speed_kbs": 22376,
       "resolution": "1080p",
-      "last_test": 1781540746.6620796
+      "last_test": 1781813723.8159492
     },
     "http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?authid=0&key=txiptv&playlive=1": {
       "channel": "XinjiangTV3.cn",
@@ -32016,10 +31972,10 @@
       "url": "http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?authid=0&key=txiptv&playlive=1",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 2848,
-      "speed_kbs": 28336,
+      "delay": 540,
+      "speed_kbs": 34570,
       "resolution": "1080p",
-      "last_test": 1781540747.5531108
+      "last_test": 1781813723.5895498
     },
     "https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8": {
       "channel": "XinjiangTV3.cn",
@@ -32027,10 +31983,10 @@
       "url": "https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 3042,
-      "speed_kbs": 16384,
+      "delay": 828,
+      "speed_kbs": 20567,
       "resolution": "1080p",
-      "last_test": 1781540747.760157
+      "last_test": 1781813723.913128
     },
     "http://cdn6.163189.xyz/163189/8tv": {
       "channel": "8TV.my",
@@ -48445,6 +48401,22 @@
     "https://live-a.fptplay53.net/live/media/vtv8/live247-hls-avc/index.m3u8": {
       "fail_time": 1781666753.4624524,
       "reason": "Dead Link or Timeout"
+    },
+    "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8": {
+      "fail_time": 1781813720.4446964,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8": {
+      "fail_time": 1781813723.0143142,
+      "reason": "Deep Test Timeout"
+    },
+    "http://go.bkpcp.top/mg/cctv13": {
+      "fail_time": 1781813728.8740544,
+      "reason": "Deep Test Timeout"
+    },
+    "http://go.bkpcp.top/mg/bjws": {
+      "fail_time": 1781813728.8741565,
+      "reason": "Deep Test Timeout"
     }
   }
 }

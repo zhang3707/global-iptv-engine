@@ -1,31 +1,21 @@
 [
   {
+    "channel": "PetClubTV.hk",
+    "title": "PetClubTV",
+    "url": "aHR0cHM6Ly9wZXRjbHViLXNhbXN1bmdhdXMuYW1hZ2kudHYvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 24,
+    "speed_kbs": 8214,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "NewsWorld.hk",
     "title": "NewsWorld",
     "url": "aHR0cHM6Ly9hbWcwMTA3Ni1saWdodG5pbmctYW1nMDEwNzZjNS1yYWt1dGVuLXVzLTE3ODgucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAxMDc2LWxpZ2h0bmluZy1uZXdzd29ybGQtcmFrdXRlbnVzL3BsYXlsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 254,
-    "speed_kbs": 26518,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "RTHKTV31.hk",
-    "title": "RTHKTV31",
-    "url": "aHR0cHM6Ly9ydGhrbGl2ZTEtbGguYWthbWFpaGQubmV0L2kvcnRoazMxXzFAMTY3NDk1L21hc3Rlci5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 304,
-    "speed_kbs": 52617,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "RTHKTV31.hk",
-    "title": "RTHKTV31",
-    "url": "aHR0cHM6Ly9ydGhrdHYzMS1saXZlLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjAzNjgxOC9SVEhLVFYzMS9tYXN0ZXIubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 307,
-    "speed_kbs": 85504,
+    "delay": 64,
+    "speed_kbs": 314880,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -34,18 +24,8 @@
     "title": "PetClubTV",
     "url": "aHR0cHM6Ly9jZG4tYXBzZTEtcHJvZC50c3YyLmFtYWdpLnR2L2xpbmVhci9hbWcwMTA3Ni1saWdodG5pbmdpbnRlcm4tcGV0Y2x1Yi1zYW1zdW5nbnovcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 664,
-    "speed_kbs": 340319,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "PetClubTV.hk",
-    "title": "PetClubTV",
-    "url": "aHR0cHM6Ly9wZXRjbHViLXNhbXN1bmdhdXMuYW1hZ2kudHYvcGxheWxpc3QubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 949,
-    "speed_kbs": 6889,
+    "delay": 710,
+    "speed_kbs": 287672,
     "resolution": "1080p",
     "referrer": ""
   }
