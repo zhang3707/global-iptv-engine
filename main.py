@@ -48,7 +48,7 @@ def save_database(db):
         json.dump(db, f, ensure_ascii=False, indent=2)
 
 # =========================================================================
-# 🧼 第一级漏斗：轻量级极速粗筛（干掉死链、识别黑名单）
+# 🧼 第一级漏斗：轻量级极速粗筛（双枪御敌，彻底终结误杀）
 # =========================================================================
 async def fast_screen_stream(session, semaphore, stream, db):
     url = stream["url"]
@@ -66,13 +66,33 @@ async def fast_screen_stream(session, semaphore, stream, db):
         return stream
 
     async with semaphore:
+        # 🛡️ 动态伪装防护网：提取原生态的 UA 与 Referer
+        ua = stream.get("user_agent", "Mozilla/5.0")
+        headers = {"User-Agent": ua}
+        if stream.get("referrer"):
+            headers["Referer"] = stream["referrer"]
+
+        # 🔫 第一枪：极速 HEAD 刺探
+        head_passed = False
         try:
-            async with session.head(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=TIMEOUT_FAST) as resp:
+            async with session.head(url, headers=headers, timeout=TIMEOUT_FAST) as resp:
                 if resp.status in [200, 206, 301, 302]:
+                    head_passed = True
                     return stream 
         except Exception:
             pass
         
+        # 🔫 第二枪：防误杀降级补枪！如果 HEAD 失败，立刻无缝改用轻量级 GET 冲锋
+        if not head_passed:
+            try:
+                # 使用 stream=True 模式（在 aiohttp 中直接读取 response 对象而不加载全部 body），抓取响应头即跑
+                async with session.get(url, headers=headers, timeout=TIMEOUT_FAST) as resp:
+                    if resp.status in [200, 206, 301, 302]:
+                        return stream
+            except Exception:
+                pass
+        
+        # 双枪皆空，铁证如山，正式判定为死链送入黑名单
         db["blacklist"][url] = {"fail_time": time.time(), "reason": "Dead Link or Timeout"}
         if url in db["active"]: del db["active"][url]
         return None
@@ -88,8 +108,15 @@ async def deep_test_stream(session, semaphore, stream, db):
 
     async with semaphore:
         start_time = time.time()
+        
+        # 🛡️ 动态伪装防护网：对齐精测时的请求头
+        ua = stream.get("user_agent", "Mozilla/5.0")
+        headers = {"User-Agent": ua}
+        if stream.get("referrer"):
+            headers["Referer"] = stream["referrer"]
+
         try:
-            async with session.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=TIMEOUT_DEEP) as resp:
+            async with session.get(url, headers=headers, timeout=TIMEOUT_DEEP) as resp:
                 if resp.status in [200, 206]:
                     connect_time = time.time()
                     delay_ms = int((connect_time - start_time) * 1000)
