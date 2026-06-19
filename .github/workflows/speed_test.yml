@@ -29,6 +29,9 @@ jobs:
       run: python main.py
 
     - name: 🚀 强力覆盖推送（彻底消灭 Git 冲突）
+      env:
+        # 🔒 注入免死金牌：使用 GitHub 虚拟机的原生临时令牌，确保强推时天生具备高权限
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
@@ -40,4 +43,5 @@ jobs:
         git commit -m "Update Global Pure Live Source Matrix [Automated]" || exit 0
         
         # 🔥 终极通车：放弃容易卡死的 rebase/pull，直接强制 (-f) 把虚拟机内存里洗好的完美版本推向远程主分支！
-        git push -f origin main
+        # 优化点：使用标准远程认证格式，确保离岸虚拟机在狂暴强推时绝对不卡权限报错
+        git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
