@@ -1,21 +1,21 @@
 [
   {
-    "channel": "FortuneTV.mm",
-    "title": "FortuneTV",
-    "url": "aHR0cDovLzEwMy4yMTUuMTk0LjkzOjgyODIvaGxzL2ZvcnR1bmV0di92bWl4Lm0zdTg=",
+    "channel": "MRTV.mm",
+    "title": "MRTV",
+    "url": "aHR0cHM6Ly9tcnR2b3R0LmNvbS9jYWNoZS9NUlRWLUhEL21hc3Rlci5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 452,
-    "speed_kbs": 13899,
+    "delay": 506,
+    "speed_kbs": 35720,
     "resolution": "1080p",
     "referrer": ""
   },
   {
-    "channel": "DVBTV.mm",
-    "title": "DVBTV",
-    "url": "aHR0cHM6Ly9saXZlLXN0cmVhbS5kdmIubm8vaGxzL3N0cmVhbV9zcmMvaW5kZXgubTN1OA==",
+    "channel": "FortuneTV.mm",
+    "title": "FortuneTV",
+    "url": "aHR0cDovLzEwMy4yMTUuMTk0LjkzOjgyODIvaGxzL2ZvcnR1bmV0di92bWl4Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 584,
-    "speed_kbs": 13014,
+    "delay": 507,
+    "speed_kbs": 19717,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -24,8 +24,38 @@
     "title": "MaharTV",
     "url": "aHR0cHM6Ly90di5tYWhhci5saXZlL21haGFyL3dlYnNpdGUuc3RyZWFtL3BsYXlsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 867,
-    "speed_kbs": 9816,
+    "delay": 694,
+    "speed_kbs": 15815,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DVBTV.mm",
+    "title": "DVBTV",
+    "url": "aHR0cHM6Ly9saXZlLXN0cmVhbS5kdmIubm8vaGxzL3N0cmVhbV9zcmMvaW5kZXgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 795,
+    "speed_kbs": 24451,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "MRTVNews.mm",
+    "title": "MRTVNews",
+    "url": "aHR0cHM6Ly9tcnR2b3R0LmNvbS9jYWNoZS9NUlRWLU5FV1MtSEQvbWFzdGVyLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1237,
+    "speed_kbs": 38619,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "MRTVEntertainment.mm",
+    "title": "MRTVEntertainment",
+    "url": "aHR0cHM6Ly9tcnR2b3R0LmNvbS9jYWNoZS9NUlRWLUVudC1IRC9tYXN0ZXIubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1240,
+    "speed_kbs": 34726,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -34,8 +64,18 @@
     "title": "MRTVFarmer",
     "url": "aHR0cHM6Ly9tcnR2b3R0LmNvbS9jYWNoZS9NUlRWLUZBUk1FUi9tYXN0ZXIubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1139,
-    "speed_kbs": 26187,
+    "delay": 1258,
+    "speed_kbs": 36305,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "HluttawSD.mm",
+    "title": "HluttawSD",
+    "url": "aHR0cHM6Ly9tcnR2b3R0LmNvbS9jYWNoZS9NUlRWLUhMVVRUQVcvbWFzdGVyLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1286,
+    "speed_kbs": 50688,
     "resolution": "1080p",
     "referrer": ""
   }
