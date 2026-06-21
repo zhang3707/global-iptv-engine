@@ -3410,6 +3410,36 @@
     "referrer": ""
   },
   {
+    "channel": "NationalGeographicWild.in",
+    "title": "NationalGeographicWild",
+    "url": "aHR0cDovLzIxNy4yMC4xMTIuMTk5OjgwODAvbmF0Z2Vvd2lsZC9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 306,
+    "speed_kbs": 11832,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DishBuzz.in",
+    "title": "DishBuzz",
+    "url": "aHR0cDovLzIxNy4yMC4xMTIuMTk5OjgwODAvYW5pbWFscGxhbmV0L2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 307,
+    "speed_kbs": 16205,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "SonyMarathi.in",
+    "title": "SonyMarathi",
+    "url": "aHR0cDovLzIxNy4yMC4xMTIuMTk5OjgwODAvc29ueW1hcmF0aGkvaW5kZXgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 307,
+    "speed_kbs": 19617,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "NDTVProfit.in",
     "title": "NDTVProfit",
     "url": "aHR0cHM6Ly9uZHR2cHJvZml0LmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjEwNzQwNC9uZHR2cHJvZml0L2NodW5rbGlzdF81Lm0zdTg=",
@@ -3820,6 +3850,16 @@
     "referrer": ""
   },
   {
+    "channel": "D2hKids.in",
+    "title": "D2hKids",
+    "url": "aHR0cHM6Ly9saXZlLWV2ZzcudHYzNjAuYml0ZWwuY29tLnBlL2JpdGVsL3BlcXVlc3R2L3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 391,
+    "speed_kbs": 10742,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "AasthaPrime1.in",
     "title": "AasthaPrime1",
     "url": "aHR0cHM6Ly9hYXN0aGFvdHQuYWthbWFpemVkLm5ldC8xMTA5MjMvc21pbDphYXN0aGFwcmltZTEuc21pbC9tYXN0ZXIubTN1OA==",
@@ -4030,6 +4070,16 @@
     "referrer": ""
   },
   {
+    "channel": "DisneyStories.in",
+    "title": "DisneyStories",
+    "url": "aHR0cDovL2JhbnRlbC1jZG4xLmlwdHZwZXJ1LnR2OjE5MzUvYnRuc2NydG4vQ2hpa2l0b29uei9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0Ni4wLjAuMCBTYWZhcmkvNTM3LjM2",
+    "delay": 438,
+    "speed_kbs": 1,
+    "resolution": "720p",
+    "referrer": ""
+  },
+  {
     "channel": "StarJalsha.in",
     "title": "StarJalsha",
     "url": "aHR0cHM6Ly90dnNlbjQuYXluYW90dC5jb20vbjY0UEg0WUwvaW5kZXgubTN1OA==",
@@ -4180,12 +4230,32 @@
     "referrer": ""
   },
   {
+    "channel": "Dangal2.in",
+    "title": "Dangal2",
+    "url": "aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzE4LzE4XzAubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0Ny4wLjAuMCBTYWZhcmkvNTM3LjM2",
+    "delay": 459,
+    "speed_kbs": 18116,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "GTCPunjabi.in",
     "title": "GTCPunjabi",
     "url": "aHR0cHM6Ly9kMzVqNTA0ejB4MnZ1Mi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvMGJjOGU4Mzc2YmQ4NDE3YTFiNjc2MTEzOGFhNDFjMjZjNzMwOTMxMi9ndGMtcHVuamFiaS9pbmRleC5tM3U4P2Fkcy52Zj1sWjF3aEV0S1NLTw==",
     "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0NS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNDUuMC4wLjA=",
     "delay": 462,
     "speed_kbs": 92330,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DangalTV.in",
+    "title": "DangalTV",
+    "url": "aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzE3LzE3XzAubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0Ny4wLjAuMCBTYWZhcmkvNTM3LjM2",
+    "delay": 466,
+    "speed_kbs": 18116,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -6556,6 +6626,16 @@
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1090,
     "speed_kbs": 27761,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "GoldminesBollywood.in",
+    "title": "GoldminesBollywood",
+    "url": "aHR0cHM6Ly9tdW10MDMudGFuZ290di5pbi9Ec2x5NXozSEdPTERNSU5FU0JPTExZV09PRC9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1093,
+    "speed_kbs": 19278,
     "resolution": "1080p",
     "referrer": ""
   },

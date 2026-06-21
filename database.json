@@ -11945,6 +11945,94 @@
       "speed_kbs": 27805,
       "resolution": "1080p",
       "last_test": 1781923559.8606215
+    },
+    "http://217.20.112.199:8080/natgeowild/index.m3u8": {
+      "channel": "NationalGeographicWild.in",
+      "title": "NationalGeographicWild",
+      "url": "http://217.20.112.199:8080/natgeowild/index.m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referrer": null,
+      "delay": 306,
+      "speed_kbs": 11832,
+      "resolution": "1080p",
+      "last_test": 1782012511.741719
+    },
+    "http://217.20.112.199:8080/animalplanet/index.m3u8": {
+      "channel": "DishBuzz.in",
+      "title": "DishBuzz",
+      "url": "http://217.20.112.199:8080/animalplanet/index.m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referrer": null,
+      "delay": 307,
+      "speed_kbs": 16205,
+      "resolution": "1080p",
+      "last_test": 1782012511.741887
+    },
+    "http://217.20.112.199:8080/sonymarathi/index.m3u8": {
+      "channel": "SonyMarathi.in",
+      "title": "SonyMarathi",
+      "url": "http://217.20.112.199:8080/sonymarathi/index.m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referrer": null,
+      "delay": 307,
+      "speed_kbs": 19617,
+      "resolution": "1080p",
+      "last_test": 1782012511.7430472
+    },
+    "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8": {
+      "channel": "D2hKids.in",
+      "title": "D2hKids",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referrer": null,
+      "delay": 391,
+      "speed_kbs": 10742,
+      "resolution": "1080p",
+      "last_test": 1782012511.8249457
+    },
+    "http://103.175.73.12:8080/live/18/18_0.m3u8": {
+      "channel": "Dangal2.in",
+      "title": "Dangal2",
+      "url": "http://103.175.73.12:8080/live/18/18_0.m3u8",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "referrer": null,
+      "delay": 459,
+      "speed_kbs": 18116,
+      "resolution": "1080p",
+      "last_test": 1782012511.8932629
+    },
+    "http://103.175.73.12:8080/live/17/17_0.m3u8": {
+      "channel": "DangalTV.in",
+      "title": "DangalTV",
+      "url": "http://103.175.73.12:8080/live/17/17_0.m3u8",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "referrer": null,
+      "delay": 466,
+      "speed_kbs": 18116,
+      "resolution": "1080p",
+      "last_test": 1782012511.9002905
+    },
+    "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Chikitoonz/playlist.m3u8": {
+      "channel": "DisneyStories.in",
+      "title": "DisneyStories",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Chikitoonz/playlist.m3u8",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+      "referrer": null,
+      "delay": 438,
+      "speed_kbs": 1,
+      "resolution": "720p",
+      "last_test": 1782012512.0133593
+    },
+    "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8": {
+      "channel": "GoldminesBollywood.in",
+      "title": "GoldminesBollywood",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referrer": null,
+      "delay": 1093,
+      "speed_kbs": 19278,
+      "resolution": "1080p",
+      "last_test": 1782012512.5286088
     }
   },
   "blacklist": {
