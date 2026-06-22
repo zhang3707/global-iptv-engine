@@ -1,11 +1,21 @@
 [
   {
+    "channel": "MaharTV.mm",
+    "title": "MaharTV",
+    "url": "aHR0cHM6Ly90di5tYWhhci5saXZlL21haGFyL3dlYnNpdGUuc3RyZWFtL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 284,
+    "speed_kbs": 14233,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "MRTV.mm",
     "title": "MRTV",
     "url": "aHR0cHM6Ly9tcnR2b3R0LmNvbS9jYWNoZS9NUlRWLUhEL21hc3Rlci5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 506,
-    "speed_kbs": 35720,
+    "delay": 521,
+    "speed_kbs": 30117,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -14,18 +24,8 @@
     "title": "FortuneTV",
     "url": "aHR0cDovLzEwMy4yMTUuMTk0LjkzOjgyODIvaGxzL2ZvcnR1bmV0di92bWl4Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 507,
-    "speed_kbs": 19717,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "MaharTV.mm",
-    "title": "MaharTV",
-    "url": "aHR0cHM6Ly90di5tYWhhci5saXZlL21haGFyL3dlYnNpdGUuc3RyZWFtL3BsYXlsaXN0Lm0zdTg=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 694,
-    "speed_kbs": 15815,
+    "delay": 529,
+    "speed_kbs": 21740,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -34,28 +34,8 @@
     "title": "DVBTV",
     "url": "aHR0cHM6Ly9saXZlLXN0cmVhbS5kdmIubm8vaGxzL3N0cmVhbV9zcmMvaW5kZXgubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 795,
-    "speed_kbs": 24451,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "MRTVNews.mm",
-    "title": "MRTVNews",
-    "url": "aHR0cHM6Ly9tcnR2b3R0LmNvbS9jYWNoZS9NUlRWLU5FV1MtSEQvbWFzdGVyLm0zdTg=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1237,
-    "speed_kbs": 38619,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "MRTVEntertainment.mm",
-    "title": "MRTVEntertainment",
-    "url": "aHR0cHM6Ly9tcnR2b3R0LmNvbS9jYWNoZS9NUlRWLUVudC1IRC9tYXN0ZXIubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1240,
-    "speed_kbs": 34726,
+    "delay": 712,
+    "speed_kbs": 20787,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -64,8 +44,28 @@
     "title": "MRTVFarmer",
     "url": "aHR0cHM6Ly9tcnR2b3R0LmNvbS9jYWNoZS9NUlRWLUZBUk1FUi9tYXN0ZXIubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1258,
+    "delay": 1296,
     "speed_kbs": 36305,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "MRTVEntertainment.mm",
+    "title": "MRTVEntertainment",
+    "url": "aHR0cHM6Ly9tcnR2b3R0LmNvbS9jYWNoZS9NUlRWLUVudC1IRC9tYXN0ZXIubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1318,
+    "speed_kbs": 38961,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "MRTVNews.mm",
+    "title": "MRTVNews",
+    "url": "aHR0cHM6Ly9tcnR2b3R0LmNvbS9jYWNoZS9NUlRWLU5FV1MtSEQvbWFzdGVyLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1329,
+    "speed_kbs": 38619,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -74,8 +74,8 @@
     "title": "HluttawSD",
     "url": "aHR0cHM6Ly9tcnR2b3R0LmNvbS9jYWNoZS9NUlRWLUhMVVRUQVcvbWFzdGVyLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1286,
-    "speed_kbs": 50688,
+    "delay": 1380,
+    "speed_kbs": 39561,
     "resolution": "1080p",
     "referrer": ""
   }

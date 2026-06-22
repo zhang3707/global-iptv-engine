@@ -4,18 +4,8 @@
     "title": "LanthungTV",
     "url": "aHR0cHM6Ly9saXZlLXVzMS50aGFpbW9tby5jb20vbGl2ZS1hcy9jaGxhbnR1bmctMi9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 34,
-    "speed_kbs": 13145,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "BoonniyomTV.th",
-    "title": "BoonniyomTV",
-    "url": "aHR0cHM6Ly9saXZlLngyLmNvLnRoL2xpdmUvYm50di5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 244,
-    "speed_kbs": 31366,
+    "delay": 35,
+    "speed_kbs": 11861,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -24,9 +14,19 @@
     "title": "GoodIdeaTV",
     "url": "aHR0cDovL3N0cmVhbTEuYWktbmV0Lm5ldDoxOTM1L2d0djEvX2RlZmluc3RfL3NtaWw6Z3R2LnNtaWwvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 245,
+    "delay": 203,
     "speed_kbs": 1,
     "resolution": "720p",
+    "referrer": ""
+  },
+  {
+    "channel": "BoonniyomTV.th",
+    "title": "BoonniyomTV",
+    "url": "aHR0cHM6Ly9saXZlLngyLmNvLnRoL2xpdmUvYm50di5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 254,
+    "speed_kbs": 29798,
+    "resolution": "1080p",
     "referrer": ""
   },
   {
@@ -34,8 +34,8 @@
     "title": "TVMuslimThailand",
     "url": "aHR0cHM6Ly92ZG8ucGxhdGhvbmcubmV0L3R2bXVzbGltL3R2bXVzbGltL3BsYXlsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 246,
-    "speed_kbs": 15276,
+    "delay": 256,
+    "speed_kbs": 8251,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -44,7 +44,7 @@
     "title": "ZabbChannel",
     "url": "aHR0cHM6Ly92ZG8ucGxhdGhvbmcubmV0L2ZsYXNoNzA1Ny9mbGFzaDcwNTcvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 248,
+    "delay": 257,
     "speed_kbs": 14233,
     "resolution": "1080p",
     "referrer": ""
@@ -54,8 +54,8 @@
     "title": "ThaiPBS",
     "url": "aHR0cHM6Ly90aGFpcGJzLWxpdmUuY2RuLmJ5dGVhcmsuY29tL2xpdmUvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 390,
-    "speed_kbs": 55146,
+    "delay": 385,
+    "speed_kbs": 52581,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -64,8 +64,8 @@
     "title": "MCOTHD",
     "url": "aHR0cHM6Ly9tY290aGQtc3RyZWFtaW5nLWVkZ2UtY2RuLm1jb3QubmV0L3RlbmNlbnRtY290L3NtaWw6dGVuY2VudG1jb3Quc21pbC9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 489,
-    "speed_kbs": 27692,
+    "delay": 463,
+    "speed_kbs": 26538,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -74,27 +74,7 @@
     "title": "SBTTV",
     "url": "aHR0cDovLzEyMi4xNTUuMTIuMTA3OjE5MzUvbGl2ZS9zYnRfdHZfYWFjXzMwMC9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 506,
-    "speed_kbs": 0,
-    "resolution": "720p",
-    "referrer": ""
-  },
-  {
-    "channel": "TopNews.th",
-    "title": "TopNews",
-    "url": "aHR0cHM6Ly9saXZlLnRvcG5ld3MuY28udGgvaGxzL3RvcG5ld3NfYV83MjAubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 563,
-    "speed_kbs": 46754,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "ETV.th",
-    "title": "ETV",
-    "url": "aHR0cDovLzE1MC45NS42Ni4yMDoxOTM1L2xpdmUvbGl2ZXN0cmVhbS9wbGF5bGlzdC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 566,
+    "delay": 505,
     "speed_kbs": 0,
     "resolution": "720p",
     "referrer": ""
@@ -104,8 +84,8 @@
     "title": "Channel8",
     "url": "aHR0cDovL3VzYS5sb2dpbi5pbi50aDoxOTM1L2NoOC9jaDgvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 596,
-    "speed_kbs": 20844,
+    "delay": 598,
+    "speed_kbs": 21813,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -114,199 +94,9 @@
     "title": "News1",
     "url": "aHR0cDovL25ld3MxLmxpdmUxNC5jb20vc3RyZWFtL25ld3MxLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 607,
-    "speed_kbs": 17788,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "BaanBaanTV73.th",
-    "title": "BaanBaanTV73",
-    "url": "aHR0cHM6Ly92ZG8ucGxhdGhvbmcubmV0L2xpdmU4Nzk0L2xpdmU4Nzk0L3BsYXlsaXN0Lm0zdTg=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 779,
-    "speed_kbs": 12939,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "ThaiParliamentTelevision.th",
-    "title": "ThaiParliamentTelevision",
-    "url": "aHR0cHM6Ly90di1saXZlLnRwY2hhbm5lbC5vcmcvbGl2ZS90di5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 805,
-    "speed_kbs": 53384,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "DLTV15.th",
-    "title": "DLTV15",
-    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxNS5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 914,
-    "speed_kbs": 48280,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "DLTV13.th",
-    "title": "DLTV13",
-    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxMy5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 929,
-    "speed_kbs": 65301,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "DLTV14.th",
-    "title": "DLTV14",
-    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxNC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 931,
-    "speed_kbs": 67222,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "DLTV11.th",
-    "title": "DLTV11",
-    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxMS5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 945,
-    "speed_kbs": 4552,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "DLTV10.th",
-    "title": "DLTV10",
-    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxMC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 947,
-    "speed_kbs": 58604,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "DLTV12.th",
-    "title": "DLTV12",
-    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxMi5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 954,
-    "speed_kbs": 4312,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "DLTV9.th",
-    "title": "DLTV9",
-    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwOS5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 972,
-    "speed_kbs": 5615,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "DLTV8.th",
-    "title": "DLTV8",
-    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwOC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 975,
-    "speed_kbs": 64833,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "DLTV6.th",
-    "title": "DLTV6",
-    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwNi5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 985,
-    "speed_kbs": 15536,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "DLTV7.th",
-    "title": "DLTV7",
-    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwNy5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 996,
-    "speed_kbs": 3728,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "SBBTV.th",
-    "title": "SBBTV",
-    "url": "aHR0cHM6Ly9jZG4tdGgtdmlwMi5saXZlc3RyZWFtaW5nLmluLnRoL3dhdHNhbmdoYXRoYW4vd2F0c2FuZ2hhdGhhbi9wbGF5bGlzdC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 997,
-    "speed_kbs": 13240,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "DLTV5.th",
-    "title": "DLTV5",
-    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwNS5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 999,
-    "speed_kbs": 45702,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "DLTV4.th",
-    "title": "DLTV4",
-    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwNC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1002,
-    "speed_kbs": 40388,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "RamaChannel.th",
-    "title": "RamaChannel",
-    "url": "aHR0cHM6Ly9yYW1hY2guZGRucy5uZXQvbGl2ZS9yYW1hbGl2ZS9pbmRleC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1003,
-    "speed_kbs": 13123,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "DLTV1.th",
-    "title": "DLTV1",
-    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwMS5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1023,
-    "speed_kbs": 4430,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "DLTV3.th",
-    "title": "DLTV3",
-    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwMy5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1026,
-    "speed_kbs": 44845,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "13SiamThai.th",
-    "title": "13SiamThai",
-    "url": "aHR0cHM6Ly9saXZlLngyLmNvLnRoL2xpdmUvMTNsaXZldHYtdGgubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1029,
-    "speed_kbs": 26080,
-    "resolution": "1080p",
+    "delay": 613,
+    "speed_kbs": 692,
+    "resolution": "720p",
     "referrer": ""
   },
   {
@@ -314,68 +104,8 @@
     "title": "CoolChannel",
     "url": "aHR0cHM6Ly9saXZlLWlwdHYuY29vbC1jaGFubmVsLmNvbS9jb29sL2xpdmUtNzIwUC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1029,
-    "speed_kbs": 78664,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "DLTV2.th",
-    "title": "DLTV2",
-    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwMi5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1029,
-    "speed_kbs": 44845,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "SuwannabhumiChannel.th",
-    "title": "SuwannabhumiChannel",
-    "url": "aHR0cHM6Ly9saXZlLmJhbmdrb2tzdHJlYW0uY29tOjE5MzYwL3N1d2FubmFiaHVtaS9zdXdhbm5hYmh1bWkubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1038,
-    "speed_kbs": 34448,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "Channel5.th",
-    "title": "Channel5",
-    "url": "aHR0cHM6Ly82MzliYzU4NzdjNWZlLnN0cmVhbWxvY2submV0L3R2NWhkbGl2ZS90djVoZGxpdmUvcGxheWxpc3QubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1081,
-    "speed_kbs": 16384,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "PoliceTV.th",
-    "title": "PoliceTV",
-    "url": "aHR0cHM6Ly9jZG4tdGgtdmlwLmxpdmVzdHJlYW1pbmcuaW4udGgvcG9saWNldHYvcG9saWNldHYvcGxheWxpc3QubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1267,
-    "speed_kbs": 14598,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "STOUChannel.th",
-    "title": "STOUChannel",
-    "url": "aHR0cHM6Ly9zdHJlYW0xLnN0b3UuYWMudGgvbGl2ZS9zdG91XzcyMHAvcGxheWxpc3QubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1624,
-    "speed_kbs": 14598,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "MONO29.th",
-    "title": "MONO29",
-    "url": "aHR0cHM6Ly91ZG4tc3RyZWFtZXIxLmNkbi4zYmJ0di5jb206ODQ0My8zYmIvbGl2ZS8yOS8yOS5tcGQ=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1886,
-    "speed_kbs": 78064,
+    "delay": 766,
+    "speed_kbs": 34478,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -384,9 +114,279 @@
     "title": "WhiteChannel",
     "url": "aHR0cDovL3N5bWMtY2RuLnZpb2xpbi5jby50aDoxOTM1L3RuZGVkZ2Uvd2hpdGVjaGFubmVsL2NodW5rbGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 2060,
+    "delay": 772,
     "speed_kbs": 0,
     "resolution": "720p",
+    "referrer": ""
+  },
+  {
+    "channel": "BaanBaanTV73.th",
+    "title": "BaanBaanTV73",
+    "url": "aHR0cHM6Ly92ZG8ucGxhdGhvbmcubmV0L2xpdmU4Nzk0L2xpdmU4Nzk0L3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 782,
+    "speed_kbs": 11946,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "13SiamThai.th",
+    "title": "13SiamThai",
+    "url": "aHR0cHM6Ly9saXZlLngyLmNvLnRoL2xpdmUvMTNsaXZldHYtdGgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 800,
+    "speed_kbs": 27781,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DLTV15.th",
+    "title": "DLTV15",
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxNS5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 937,
+    "speed_kbs": 3826,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DLTV14.th",
+    "title": "DLTV14",
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxNC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 944,
+    "speed_kbs": 67222,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DLTV13.th",
+    "title": "DLTV13",
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxMy5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 948,
+    "speed_kbs": 4437,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DLTV11.th",
+    "title": "DLTV11",
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxMS5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 964,
+    "speed_kbs": 4201,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DLTV9.th",
+    "title": "DLTV9",
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwOS5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 969,
+    "speed_kbs": 2454,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DLTV12.th",
+    "title": "DLTV12",
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxMi5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 971,
+    "speed_kbs": 48629,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DLTV10.th",
+    "title": "DLTV10",
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxMC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 990,
+    "speed_kbs": 61772,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DLTV8.th",
+    "title": "DLTV8",
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwOC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 996,
+    "speed_kbs": 59715,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DLTV5.th",
+    "title": "DLTV5",
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwNS5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 998,
+    "speed_kbs": 2823,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DLTV7.th",
+    "title": "DLTV7",
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwNy5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1000,
+    "speed_kbs": 1859,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DLTV6.th",
+    "title": "DLTV6",
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwNi5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1005,
+    "speed_kbs": 47931,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DLTV4.th",
+    "title": "DLTV4",
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwNC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1016,
+    "speed_kbs": 3825,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "SBBTV.th",
+    "title": "SBBTV",
+    "url": "aHR0cHM6Ly9jZG4tdGgtdmlwMi5saXZlc3RyZWFtaW5nLmluLnRoL3dhdHNhbmdoYXRoYW4vd2F0c2FuZ2hhdGhhbi9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1021,
+    "speed_kbs": 14874,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DLTV3.th",
+    "title": "DLTV3",
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwMy5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1043,
+    "speed_kbs": 42658,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "RamaChannel.th",
+    "title": "RamaChannel",
+    "url": "aHR0cHM6Ly9yYW1hY2guZGRucy5uZXQvbGl2ZS9yYW1hbGl2ZS9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1043,
+    "speed_kbs": 16076,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DLTV1.th",
+    "title": "DLTV1",
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwMS5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1046,
+    "speed_kbs": 45702,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DLTV2.th",
+    "title": "DLTV2",
+    "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwMi5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1046,
+    "speed_kbs": 42658,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "MONO29.th",
+    "title": "MONO29",
+    "url": "aHR0cHM6Ly91ZG4tc3RyZWFtZXIxLmNkbi4zYmJ0di5jb206ODQ0My8zYmIvbGl2ZS8yOS8yOS5tcGQ=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1051,
+    "speed_kbs": 224541,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "Channel5.th",
+    "title": "Channel5",
+    "url": "aHR0cHM6Ly82MzliYzU4NzdjNWZlLnN0cmVhbWxvY2submV0L3R2NWhkbGl2ZS90djVoZGxpdmUvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1053,
+    "speed_kbs": 13555,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "SuwannabhumiChannel.th",
+    "title": "SuwannabhumiChannel",
+    "url": "aHR0cHM6Ly9saXZlLmJhbmdrb2tzdHJlYW0uY29tOjE5MzYwL3N1d2FubmFiaHVtaS9zdXdhbm5hYmh1bWkubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1126,
+    "speed_kbs": 32867,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "TopNews.th",
+    "title": "TopNews",
+    "url": "aHR0cHM6Ly9saXZlLnRvcG5ld3MuY28udGgvaGxzL3RvcG5ld3NfYV83MjAubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1188,
+    "speed_kbs": 40106,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "PoliceTV.th",
+    "title": "PoliceTV",
+    "url": "aHR0cHM6Ly9jZG4tdGgtdmlwLmxpdmVzdHJlYW1pbmcuaW4udGgvcG9saWNldHYvcG9saWNldHYvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1283,
+    "speed_kbs": 15498,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "ThaiParliamentTelevision.th",
+    "title": "ThaiParliamentTelevision",
+    "url": "aHR0cHM6Ly90di1saXZlLnRwY2hhbm5lbC5vcmcvbGl2ZS90di5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1424,
+    "speed_kbs": 82130,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "ETV.th",
+    "title": "ETV",
+    "url": "aHR0cDovLzE1MC45NS42Ni4yMDoxOTM1L2xpdmUvbGl2ZXN0cmVhbS9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1549,
+    "speed_kbs": 0,
+    "resolution": "720p",
+    "referrer": ""
+  },
+  {
+    "channel": "STOUChannel.th",
+    "title": "STOUChannel",
+    "url": "aHR0cHM6Ly9zdHJlYW0xLnN0b3UuYWMudGgvbGl2ZS9zdG91XzcyMHAvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1721,
+    "speed_kbs": 11386,
+    "resolution": "1080p",
     "referrer": ""
   }
 ]
