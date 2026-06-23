@@ -330,6 +330,26 @@
     "referrer": ""
   },
   {
+    "channel": "Zoom.in",
+    "title": "Zoom",
+    "url": "aHR0cHM6Ly9kMmVzZmsxcGI5Y2RvYi5jbG91ZGZyb250Lm5ldC9tYXN0ZXIubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 43,
+    "speed_kbs": 26916,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "E24.in",
+    "title": "E24",
+    "url": "aHR0cHM6Ly9saXZlLWNmLWUyNC5kYWlseWh1bnQuaW4vbWFzdGVyLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 56,
+    "speed_kbs": 5632,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "WION.in",
     "title": "WION",
     "url": "aHR0cHM6Ly93aW9uLWtsb3dkdHYuYW1hZ2kudHYvcGxheWxpc3QubTN1OA==",
@@ -366,26 +386,6 @@
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 65,
     "speed_kbs": 41267,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "E24.in",
-    "title": "E24",
-    "url": "aHR0cHM6Ly9saXZlLWNmLWUyNC5kYWlseWh1bnQuaW4vbWFzdGVyLm0zdTg=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 71,
-    "speed_kbs": 2417,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "MadhimugamTV.in",
-    "title": "MadhimugamTV",
-    "url": "aHR0cHM6Ly95dXBwcGFyb3JpZ2xpbi5ha2FtYWl6ZWQubmV0LzE4MTIyNC9zbWlsOm1hdGhpbXVnYW0uc21pbC9wbGF5bGlzdC5tM3U4P2hkbnRzPXN0PTE3MzU4OTg2ODl+ZXhwPTE4MzU4OTg2ODh+YWNsPSp+aG1hYz1mNWZlMjQ3MjRmZTA1NDgxZTM4NDFmOWViNWFiOGVmZGVlMGEzZGQ4MzY0NWFlOWRjZjQ1NzAzZjUyNWJhYjdi",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 73,
-    "speed_kbs": 31744,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -506,6 +506,16 @@
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 89,
     "speed_kbs": 216325,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "MadhimugamTV.in",
+    "title": "MadhimugamTV",
+    "url": "aHR0cHM6Ly95dXBwcGFyb3JpZ2xpbi5ha2FtYWl6ZWQubmV0LzE4MTIyNC9zbWlsOm1hdGhpbXVnYW0uc21pbC9wbGF5bGlzdC5tM3U4P2hkbnRzPXN0PTE3MzU4OTg2ODl+ZXhwPTE4MzU4OTg2ODh+YWNsPSp+aG1hYz1mNWZlMjQ3MjRmZTA1NDgxZTM4NDFmOWViNWFiOGVmZGVlMGEzZGQ4MzY0NWFlOWRjZjQ1NzAzZjUyNWJhYjdi",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 91,
+    "speed_kbs": 33013,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -1550,16 +1560,6 @@
     "referrer": ""
   },
   {
-    "channel": "Pitaara.in",
-    "title": "Pitaara",
-    "url": "aHR0cDovLzIxMi4xMDIuMzQuODo5MDgwL1BpdGFhcmEvaW5kZXgubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 203,
-    "speed_kbs": 12782,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
     "channel": "BharatSamachar.in",
     "title": "BharatSamachar",
     "url": "aHR0cHM6Ly9kMW1zZWpsb3cxdDNsNC5jbG91ZGZyb250Lm5ldC9mdGEvYmhhcmF0c2FtYWNoYXIvcGxheWxpc3QubTN1OA==",
@@ -2160,16 +2160,6 @@
     "referrer": ""
   },
   {
-    "channel": "StarMaa.in",
-    "title": "StarMaa",
-    "url": "aHR0cDovLzIxNy4yMC4xMTIuMTk5OjgwODAvbWFhdHYvaW5kZXgubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 217,
-    "speed_kbs": 16942,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
     "channel": "24News.in",
     "title": "24News",
     "url": "aHR0cHM6Ly9zZWdtZW50Lnl1cHBjZG4ubmV0LzExMDMyMi9jaGFubmVsMjQvcGxheWxpc3QubTN1OA==",
@@ -2370,16 +2360,6 @@
     "referrer": ""
   },
   {
-    "channel": "ZeeBangla.in",
-    "title": "ZeeBangla",
-    "url": "aHR0cDovLzIxNy4yMC4xMTIuMTk5OjgwODAvbWFhbW92aWVzL2luZGV4Lm0zdTg=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 224,
-    "speed_kbs": 19114,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
     "channel": "DDBharati.in",
     "title": "DDBharati",
     "url": "aHR0cHM6Ly9jZG4tMS5waXNob3cudHYvbGl2ZS8xMC9tYXN0ZXIubTN1OA==",
@@ -2470,6 +2450,16 @@
     "referrer": ""
   },
   {
+    "channel": "StarMaa.in",
+    "title": "StarMaa",
+    "url": "aHR0cDovLzIxNy4yMC4xMTIuMTk5OjgwODAvbWFhdHYvaW5kZXgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 225,
+    "speed_kbs": 4437,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "TarangTV.in",
     "title": "TarangTV",
     "url": "aHR0cHM6Ly9saXZldHYudGFyYW5ncGx1cy5pbi90YXJhbmd0di1vcmlnaW4vbGl2ZS9wbGF5bGlzdC5tM3U4",
@@ -2516,6 +2506,16 @@
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 226,
     "speed_kbs": 25686,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "Pitaara.in",
+    "title": "Pitaara",
+    "url": "aHR0cDovLzIxMi4xMDIuMzQuODo5MDgwL1BpdGFhcmEvaW5kZXgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 226,
+    "speed_kbs": 19009,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -2616,6 +2616,16 @@
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 229,
     "speed_kbs": 36963,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "ZeeBangla.in",
+    "title": "ZeeBangla",
+    "url": "aHR0cDovLzIxNy4yMC4xMTIuMTk5OjgwODAvbWFhbW92aWVzL2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 229,
+    "speed_kbs": 14065,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -4210,32 +4220,12 @@
     "referrer": "aHR0cDovL3d3dy5qaW90di5jb20="
   },
   {
-    "channel": "StarPlus.in",
-    "title": "StarPlus",
-    "url": "aHR0cDovLzQxLjIwNS45My4xNTQvU1RBUi1QTFVTL2luZGV4Lm0zdTg=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 430,
-    "speed_kbs": 8904,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
     "channel": "AnmolCinema.in",
     "title": "AnmolCinema",
     "url": "aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzI3MS8yNzFfMC5tM3U4",
     "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0Ny4wLjAuMCBTYWZhcmkvNTM3LjM2",
     "delay": 432,
     "speed_kbs": 4096,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "EpicBharat.in",
-    "title": "EpicBharat",
-    "url": "aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzQ3MS9tYXN0ZXIubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0Ny4wLjAuMCBTYWZhcmkvNTM3LjM2",
-    "delay": 434,
-    "speed_kbs": 12008,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -4267,16 +4257,6 @@
     "delay": 436,
     "speed_kbs": 8,
     "resolution": "720p",
-    "referrer": ""
-  },
-  {
-    "channel": "ColorsInfinity.in",
-    "title": "ColorsInfinity",
-    "url": "aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzI5LzI5XzAubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0Ny4wLjAuMCBTYWZhcmkvNTM3LjM2",
-    "delay": 437,
-    "speed_kbs": 24050,
-    "resolution": "1080p",
     "referrer": ""
   },
   {
@@ -4330,22 +4310,12 @@
     "referrer": ""
   },
   {
-    "channel": "ShemarooJosh.in",
-    "title": "ShemarooJosh",
-    "url": "aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzIxLzIxXzAubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0Ny4wLjAuMCBTYWZhcmkvNTM3LjM2",
-    "delay": 446,
-    "speed_kbs": 29312,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "GoldminesBollywood.in",
-    "title": "GoldminesBollywood",
-    "url": "aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzUyLzUyXzAubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0Ny4wLjAuMCBTYWZhcmkvNTM3LjM2",
-    "delay": 448,
-    "speed_kbs": 25350,
+    "channel": "StarPlus.in",
+    "title": "StarPlus",
+    "url": "aHR0cDovLzQxLjIwNS45My4xNTQvU1RBUi1QTFVTL2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 449,
+    "speed_kbs": 11592,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -4460,12 +4430,52 @@
     "referrer": "aHR0cHM6Ly93d3cuaW5kaWF0dnNwZWVkbmV3cy5jb20v"
   },
   {
+    "channel": "GoldminesBollywood.in",
+    "title": "GoldminesBollywood",
+    "url": "aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzUyLzUyXzAubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0Ny4wLjAuMCBTYWZhcmkvNTM3LjM2",
+    "delay": 501,
+    "speed_kbs": 10022,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "ColorsInfinity.in",
+    "title": "ColorsInfinity",
+    "url": "aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzI5LzI5XzAubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0Ny4wLjAuMCBTYWZhcmkvNTM3LjM2",
+    "delay": 502,
+    "speed_kbs": 18116,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "DheeranTV.in",
     "title": "DheeranTV",
     "url": "aHR0cHM6Ly9saXZlLndlMmxpdmUuaW4vZGhlZXJhbnR2L2RoZWVyYW50di9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 502,
     "speed_kbs": 18534,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "ShemarooJosh.in",
+    "title": "ShemarooJosh",
+    "url": "aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzIxLzIxXzAubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0Ny4wLjAuMCBTYWZhcmkvNTM3LjM2",
+    "delay": 502,
+    "speed_kbs": 3860,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "EpicBharat.in",
+    "title": "EpicBharat",
+    "url": "aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzQ3MS9tYXN0ZXIubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0Ny4wLjAuMCBTYWZhcmkvNTM3LjM2",
+    "delay": 505,
+    "speed_kbs": 14677,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -4580,16 +4590,6 @@
     "referrer": ""
   },
   {
-    "channel": "NickHDPlus.in",
-    "title": "NickHDPlus",
-    "url": "aHR0cDovLzExNi45MC4xMjAuMTU3OjgwMDAvcGxheS9hMGkzL2luZGV4Lm0zdTg=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 538,
-    "speed_kbs": 577,
-    "resolution": "720p",
-    "referrer": ""
-  },
-  {
     "channel": "CCV.in",
     "title": "CCV",
     "url": "aHR0cHM6Ly81YTExNzhiNDJjYzAzLnN0cmVhbWxvY2submV0LzgyMTIvODIxMi9wbGF5bGlzdC5tM3U4",
@@ -4617,6 +4617,16 @@
     "delay": 543,
     "speed_kbs": 24393,
     "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "NickHDPlus.in",
+    "title": "NickHDPlus",
+    "url": "aHR0cDovLzExNi45MC4xMjAuMTU3OjgwMDAvcGxheS9hMGkzL2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 546,
+    "speed_kbs": 686,
+    "resolution": "720p",
     "referrer": ""
   },
   {
@@ -5236,16 +5246,6 @@
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 645,
     "speed_kbs": 28362,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "Zoom.in",
-    "title": "Zoom",
-    "url": "aHR0cHM6Ly9kMmVzZmsxcGI5Y2RvYi5jbG91ZGZyb250Lm5ldC9tYXN0ZXIubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 646,
-    "speed_kbs": 39253,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -6120,42 +6120,12 @@
     "referrer": ""
   },
   {
-    "channel": "AsianetMiddleEast.in",
-    "title": "AsianetMiddleEast",
-    "url": "aHR0cHM6Ly9tdW10MDMudGFuZ290di5pbi9Ec2x5NXozSEFTSUFORVRNSURETEVFQVNUL2luZGV4Lm0zdTg=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 845,
-    "speed_kbs": 18406,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
     "channel": "CNBCTV18PrimeHD.in",
     "title": "CNBCTV18PrimeHD",
     "url": "aHR0cHM6Ly9uMThzeW5kaWNhdGlvbi5ha2FtYWl6ZWQubmV0L2Jway10di9DTkJDX1R2MThfUHJpbWVfSERfTlcxOF9NT0Ivb3V0cHV0MDEvaW5kZXgubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 845,
     "speed_kbs": 8094,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "FoodFood.in",
-    "title": "FoodFood",
-    "url": "aHR0cHM6Ly9tdW10MDMudGFuZ290di5pbi9Ec2x5NXozSEZPT0RGT09EL2luZGV4Lm0zdTg=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 846,
-    "speed_kbs": 32861,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "9XJalwa.in",
-    "title": "9XJalwa",
-    "url": "aHR0cHM6Ly9tdW10MDMudGFuZ290di5pbi9Ec2x5NXozSDlYSkFMV0EvaW5kZXgubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 848,
-    "speed_kbs": 33625,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -6180,16 +6150,6 @@
     "referrer": ""
   },
   {
-    "channel": "9XTashan.in",
-    "title": "9XTashan",
-    "url": "aHR0cHM6Ly9tdW10MDEudGFuZ290di5pbi9PNWF3OFpuMzlYVEFTSEFOL2luZGV4Lm0zdTg=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 850,
-    "speed_kbs": 47331,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
     "channel": "22ScopeNews.in",
     "title": "22ScopeNews",
     "url": "aHR0cHM6Ly90aGVsZWdpdHByby5pbi9IRGxpdmUvMjJzY29wZS9pbmRleC5mbXA0Lm0zdTg=",
@@ -6200,72 +6160,12 @@
     "referrer": ""
   },
   {
-    "channel": "DDNational.in",
-    "title": "DDNational",
-    "url": "aHR0cHM6Ly9tdW10MDEudGFuZ290di5pbi9PNWF3OFpuM0RETkFUSU9OQUxIRC9pbmRleC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 850,
-    "speed_kbs": 55206,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "9XM.in",
-    "title": "9XM",
-    "url": "aHR0cHM6Ly9tdW10MDEudGFuZ290di5pbi9PNWF3OFpuMzlYTS9pbmRleC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 852,
-    "speed_kbs": 69189,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
     "channel": "MazhavilManorama.in",
     "title": "MazhavilManorama",
     "url": "aHR0cHM6Ly9jZG4tNy5waXNob3cudHYvbGl2ZS8xMTI5L21hc3Rlci5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 852,
     "speed_kbs": 56785,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "PuthiyaThalaimurai.in",
-    "title": "PuthiyaThalaimurai",
-    "url": "aHR0cHM6Ly9tdW10MDcudGFuZ290di5pbi96SGpYOU9GbFBVVEhJWUFFWFBSRVNTL2luZGV4Lm0zdTg=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 852,
-    "speed_kbs": 24929,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "RupasiBangla.in",
-    "title": "RupasiBangla",
-    "url": "aHR0cHM6Ly9tdW10MDUudGFuZ290di5pbi84N05lQUx4MlJVUEFTSUJBTkdMQS9pbmRleC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 852,
-    "speed_kbs": 20593,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "IndiaAhead.in",
-    "title": "IndiaAhead",
-    "url": "aHR0cHM6Ly9tdW10MDUudGFuZ290di5pbi84N05lQUx4MklORElBQUhFQUQvaW5kZXgubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 853,
-    "speed_kbs": 15130,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "PublicMovies.in",
-    "title": "PublicMovies",
-    "url": "aHR0cHM6Ly9tdW10MDQudGFuZ290di5pbi9tMThhcWxLNFBVQkxJQ01PVklFUy9pbmRleC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 853,
-    "speed_kbs": 36147,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -6286,16 +6186,6 @@
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 857,
     "speed_kbs": 8352,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "9XJhakaas.in",
-    "title": "9XJhakaas",
-    "url": "aHR0cHM6Ly9tdW10MDMudGFuZ290di5pbi9Ec2x5NXozSDlYSkhBS0FBUy9pbmRleC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 862,
-    "speed_kbs": 27805,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -6420,12 +6310,32 @@
     "referrer": ""
   },
   {
+    "channel": "IndiaAhead.in",
+    "title": "IndiaAhead",
+    "url": "aHR0cHM6Ly9tdW10MDUudGFuZ290di5pbi84N05lQUx4MklORElBQUhFQUQvaW5kZXgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 954,
+    "speed_kbs": 11065,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "AllTimeMovies.in",
     "title": "AllTimeMovies",
     "url": "aHR0cHM6Ly9tdW10MDMudGFuZ290di5pbi9Ec2x5NXozSEFMTFRJTUVNT1ZJRVMvaW5kZXgubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 957,
     "speed_kbs": 14142,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DDNational.in",
+    "title": "DDNational",
+    "url": "aHR0cHM6Ly9tdW10MDEudGFuZ290di5pbi9PNWF3OFpuM0RETkFUSU9OQUxIRC9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 965,
+    "speed_kbs": 24655,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -6480,6 +6390,26 @@
     "referrer": ""
   },
   {
+    "channel": "9XM.in",
+    "title": "9XM",
+    "url": "aHR0cHM6Ly9tdW10MDEudGFuZ290di5pbi9PNWF3OFpuMzlYTS9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 977,
+    "speed_kbs": 46545,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "RupasiBangla.in",
+    "title": "RupasiBangla",
+    "url": "aHR0cHM6Ly9tdW10MDUudGFuZ290di5pbi84N05lQUx4MlJVUEFTSUJBTkdMQS9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 977,
+    "speed_kbs": 14257,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "AaseervathamTV.in",
     "title": "AaseervathamTV",
     "url": "aHR0cHM6Ly9tdW10MDQudGFuZ290di5pbi9tMThhcWxLNEFBU0VFUlZBVEhBTVRWL2luZGV4Lm0zdTg=",
@@ -6496,6 +6426,16 @@
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 984,
     "speed_kbs": 29507,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "PuthiyaThalaimurai.in",
+    "title": "PuthiyaThalaimurai",
+    "url": "aHR0cHM6Ly9tdW10MDcudGFuZ290di5pbi96SGpYOU9GbFBVVEhJWUFFWFBSRVNTL2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 989,
+    "speed_kbs": 30763,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -6520,6 +6460,16 @@
     "referrer": ""
   },
   {
+    "channel": "PublicMovies.in",
+    "title": "PublicMovies",
+    "url": "aHR0cHM6Ly9tdW10MDQudGFuZ290di5pbi9tMThhcWxLNFBVQkxJQ01PVklFUy9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1002,
+    "speed_kbs": 26288,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "10TV.in",
     "title": "10TV",
     "url": "aHR0cHM6Ly9jZG4tMS5waXNob3cudHYvbGl2ZS8zOTEvbWFzdGVyLm0zdTg=",
@@ -6536,6 +6486,16 @@
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1031,
     "speed_kbs": 34620,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "9XTashan.in",
+    "title": "9XTashan",
+    "url": "aHR0cHM6Ly9tdW10MDEudGFuZ290di5pbi9PNWF3OFpuMzlYVEFTSEFOL2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1033,
+    "speed_kbs": 46470,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -6720,12 +6680,52 @@
     "referrer": ""
   },
   {
+    "channel": "9XJhakaas.in",
+    "title": "9XJhakaas",
+    "url": "aHR0cHM6Ly9tdW10MDMudGFuZ290di5pbi9Ec2x5NXozSDlYSkhBS0FBUy9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1194,
+    "speed_kbs": 25366,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "9XJalwa.in",
+    "title": "9XJalwa",
+    "url": "aHR0cHM6Ly9tdW10MDMudGFuZ290di5pbi9Ec2x5NXozSDlYSkFMV0EvaW5kZXgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1201,
+    "speed_kbs": 32861,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "FoodFood.in",
+    "title": "FoodFood",
+    "url": "aHR0cHM6Ly9tdW10MDMudGFuZ290di5pbi9Ec2x5NXozSEZPT0RGT09EL2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1201,
+    "speed_kbs": 26775,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "MercyTV.in",
     "title": "MercyTV",
     "url": "aHR0cHM6Ly81ZGQzOTgxOTQwZmFhLnN0cmVhbWxvY2submV0L21lcmN5dHYvbWVyY3l0di9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1203,
     "speed_kbs": 11946,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "AsianetMiddleEast.in",
+    "title": "AsianetMiddleEast",
+    "url": "aHR0cHM6Ly9tdW10MDMudGFuZ290di5pbi9Ec2x5NXozSEFTSUFORVRNSURETEVFQVNUL2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1209,
+    "speed_kbs": 26363,
     "resolution": "1080p",
     "referrer": ""
   },
