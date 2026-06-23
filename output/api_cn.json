@@ -640,6 +640,16 @@
     "referrer": ""
   },
   {
+    "channel": "CGTNSpanish.cn",
+    "title": "CGTNSpanish",
+    "url": "aHR0cDovLzQ1LjE2NS44Mi4xOS90ZXN0L2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 328,
+    "speed_kbs": 23849,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "CGTNDocumentary.cn",
     "title": "CGTNDocumentary",
     "url": "aHR0cHM6Ly9lbmdsaXNoLWxpdmVia2FsaS5jZ3RuLmNvbS9saXZlL2RvY2NndG4ubTN1OA==",

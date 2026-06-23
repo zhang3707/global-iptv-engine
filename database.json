@@ -11450,6 +11450,28 @@
       "speed_kbs": 43953,
       "resolution": "1080p",
       "last_test": 1782099260.0565374
+    },
+    "http://45.165.82.19/test/index.m3u8": {
+      "channel": "CGTNSpanish.cn",
+      "title": "CGTNSpanish",
+      "url": "http://45.165.82.19/test/index.m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referrer": null,
+      "delay": 328,
+      "speed_kbs": 23849,
+      "resolution": "1080p",
+      "last_test": 1782182393.10121
+    },
+    "https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8": {
+      "channel": "AhsanTV.id",
+      "title": "AhsanTV",
+      "url": "https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referrer": null,
+      "delay": 1053,
+      "speed_kbs": 8375,
+      "resolution": "1080p",
+      "last_test": 1782182393.8256774
     }
   },
   "blacklist": {
@@ -15288,6 +15310,10 @@
     "https://live.rojatv.cloud/rojatv/rojatv/index.m3u8": {
       "fail_time": 1782099255.2775397,
       "reason": "Deep Test Timeout"
+    },
+    "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/kids-tv-hd.m3u8": {
+      "fail_time": 1782182392.6689105,
+      "reason": "Dead Link or Timeout"
     }
   }
 }

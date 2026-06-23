@@ -1110,6 +1110,16 @@
     "referrer": "aHR0cHM6Ly9wYXJhaHlhbmdhbi5zdGFyYXR2LmlkLw=="
   },
   {
+    "channel": "AhsanTV.id",
+    "title": "AhsanTV",
+    "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L2Foc2FudHYvYWhzYW50di9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1053,
+    "speed_kbs": 8375,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "StaraTV.id",
     "title": "StaraTV",
     "url": "aHR0cHM6Ly9qYWthcnRhLnN0YXJhdHYuaWQvaGxzLzAvc3RyZWFtLm0zdTg=",
