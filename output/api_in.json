@@ -3560,6 +3560,16 @@
     "referrer": ""
   },
   {
+    "channel": "SonyMarathi.in",
+    "title": "SonyMarathi",
+    "url": "aHR0cDovLzIxNy4yMC4xMTIuMTk5OjgwODAvc29ueW1hcmF0aGkvaW5kZXgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 299,
+    "speed_kbs": 10353,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "EETTV.in",
     "title": "EETTV",
     "url": "aHR0cHM6Ly9saXZlLnN0cmVhbWpvLmNvbS9lZXRsaXZlL2VldHR2Lm0zdTg=",
@@ -3640,32 +3650,12 @@
     "referrer": ""
   },
   {
-    "channel": "NationalGeographicWild.in",
-    "title": "NationalGeographicWild",
-    "url": "aHR0cDovLzIxNy4yMC4xMTIuMTk5OjgwODAvbmF0Z2Vvd2lsZC9pbmRleC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 306,
-    "speed_kbs": 11832,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
     "channel": "DishBuzz.in",
     "title": "DishBuzz",
     "url": "aHR0cDovLzIxNy4yMC4xMTIuMTk5OjgwODAvYW5pbWFscGxhbmV0L2luZGV4Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 307,
-    "speed_kbs": 16205,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "SonyMarathi.in",
-    "title": "SonyMarathi",
-    "url": "aHR0cDovLzIxNy4yMC4xMTIuMTk5OjgwODAvc29ueW1hcmF0aGkvaW5kZXgubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 307,
-    "speed_kbs": 19617,
+    "delay": 306,
+    "speed_kbs": 16942,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -3687,6 +3677,16 @@
     "delay": 307,
     "speed_kbs": 124,
     "resolution": "720p",
+    "referrer": ""
+  },
+  {
+    "channel": "NationalGeographicWild.in",
+    "title": "NationalGeographicWild",
+    "url": "aHR0cDovLzIxNy4yMC4xMTIuMTk5OjgwODAvbmF0Z2Vvd2lsZC9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 309,
+    "speed_kbs": 18636,
+    "resolution": "1080p",
     "referrer": ""
   },
   {
@@ -3966,16 +3966,6 @@
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 389,
     "speed_kbs": 45810,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "D2hKids.in",
-    "title": "D2hKids",
-    "url": "aHR0cHM6Ly9saXZlLWV2ZzcudHYzNjAuYml0ZWwuY29tLnBlL2JpdGVsL3BlcXVlc3R2L3BsYXlsaXN0Lm0zdTg=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 391,
-    "speed_kbs": 10742,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -4270,16 +4260,6 @@
     "referrer": ""
   },
   {
-    "channel": "DisneyStories.in",
-    "title": "DisneyStories",
-    "url": "aHR0cDovL2JhbnRlbC1jZG4xLmlwdHZwZXJ1LnR2OjE5MzUvYnRuc2NydG4vQ2hpa2l0b29uei9wbGF5bGlzdC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0Ni4wLjAuMCBTYWZhcmkvNTM3LjM2",
-    "delay": 438,
-    "speed_kbs": 1,
-    "resolution": "720p",
-    "referrer": ""
-  },
-  {
     "channel": "TimesNowNavbharat.in",
     "title": "TimesNowNavbharat",
     "url": "aHR0cHM6Ly9hbWcwMTQ0OC1zYW1zdW5naW4tdGlubmF2YmhhcmF0LXNhbXN1bmdpbi1hZC1tOC5hbWFnaS50di9wbGF5bGlzdC9hbWcwMTQ0OC1zYW1zdW5naW4tdGlubmF2YmhhcmF0LXNhbXN1bmdpbi9wbGF5bGlzdC5tM3U4",
@@ -4324,18 +4304,8 @@
     "title": "Dangal2",
     "url": "aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzE4LzE4XzAubTN1OA==",
     "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0Ny4wLjAuMCBTYWZhcmkvNTM3LjM2",
-    "delay": 459,
-    "speed_kbs": 18116,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "DangalTV.in",
-    "title": "DangalTV",
-    "url": "aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzE3LzE3XzAubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0Ny4wLjAuMCBTYWZhcmkvNTM3LjM2",
-    "delay": 466,
-    "speed_kbs": 18116,
+    "delay": 460,
+    "speed_kbs": 13793,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -4347,6 +4317,16 @@
     "delay": 469,
     "speed_kbs": 433,
     "resolution": "720p",
+    "referrer": ""
+  },
+  {
+    "channel": "DangalTV.in",
+    "title": "DangalTV",
+    "url": "aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzE3LzE3XzAubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0Ny4wLjAuMCBTYWZhcmkvNTM3LjM2",
+    "delay": 477,
+    "speed_kbs": 15633,
+    "resolution": "1080p",
     "referrer": ""
   },
   {
@@ -4696,6 +4676,16 @@
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 571,
     "speed_kbs": 61527,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "D2hKids.in",
+    "title": "D2hKids",
+    "url": "aHR0cHM6Ly9saXZlLWV2ZzcudHYzNjAuYml0ZWwuY29tLnBlL2JpdGVsL3BlcXVlc3R2L3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 572,
+    "speed_kbs": 6544,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -5197,6 +5187,16 @@
     "delay": 620,
     "speed_kbs": 7202,
     "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DisneyStories.in",
+    "title": "DisneyStories",
+    "url": "aHR0cDovL2JhbnRlbC1jZG4xLmlwdHZwZXJ1LnR2OjE5MzUvYnRuc2NydG4vQ2hpa2l0b29uei9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0Ni4wLjAuMCBTYWZhcmkvNTM3LjM2",
+    "delay": 622,
+    "speed_kbs": 1,
+    "resolution": "720p",
     "referrer": ""
   },
   {
@@ -6770,6 +6770,16 @@
     "referrer": ""
   },
   {
+    "channel": "GoldminesBollywood.in",
+    "title": "GoldminesBollywood",
+    "url": "aHR0cHM6Ly9tdW10MDMudGFuZ290di5pbi9Ec2x5NXozSEdPTERNSU5FU0JPTExZV09PRC9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 989,
+    "speed_kbs": 19024,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "PuthiyaThalaimurai.in",
     "title": "PuthiyaThalaimurai",
     "url": "aHR0cHM6Ly9tdW10MDcudGFuZ290di5pbi96SGpYOU9GbFBVVEhJWUFFWFBSRVNTL2luZGV4Lm0zdTg=",
@@ -6916,16 +6926,6 @@
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1091,
     "speed_kbs": 41159,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "GoldminesBollywood.in",
-    "title": "GoldminesBollywood",
-    "url": "aHR0cHM6Ly9tdW10MDMudGFuZ290di5pbi9Ec2x5NXozSEdPTERNSU5FU0JPTExZV09PRC9pbmRleC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1093,
-    "speed_kbs": 19278,
     "resolution": "1080p",
     "referrer": ""
   },
