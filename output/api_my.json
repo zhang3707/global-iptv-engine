@@ -4,8 +4,8 @@
     "title": "SusunTVInternational",
     "url": "aHR0cHM6Ly92b2RjZG4uYmFtYm9vLWNsb3VkLmNvbS9saXZlaGxzLzY5MDE2MDc3MDYzMDQ0MjNjMTY4NTIxMy9tYXN0ZXIubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 9,
-    "speed_kbs": 121381,
+    "delay": 8,
+    "speed_kbs": 135389,
     "resolution": "1080p",
     "referrer": "aHR0cHM6Ly9zdXN1bnR2LmJhbWJvby1jbG91ZC5jb20v"
   },
@@ -14,8 +14,8 @@
     "title": "8TV",
     "url": "aHR0cDovL2NkbjYuMTYzMTg5Lnh5ei8xNjMxODkvOHR2",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 51,
-    "speed_kbs": 17155,
+    "delay": 76,
+    "speed_kbs": 20409,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -24,8 +24,8 @@
     "title": "MaahTV",
     "url": "aHR0cHM6Ly9obHMubWFhaHR2LmxpdmUvaGxzL3N0cmVhbS5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 269,
-    "speed_kbs": 75408,
+    "delay": 267,
+    "speed_kbs": 57665,
     "resolution": "1080p",
     "referrer": ""
   }
