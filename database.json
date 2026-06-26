@@ -10841,10 +10841,10 @@
       "url": "https://live-cf-e24.dailyhunt.in/master.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 56,
-      "speed_kbs": 5632,
+      "delay": 19,
+      "speed_kbs": 51313,
       "resolution": "1080p",
-      "last_test": 1782206873.8090565
+      "last_test": 1782483047.3199565
     },
     "https://yuppparoriglin.akamaized.net/181224/smil:mathimugam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b": {
       "channel": "MadhimugamTV.in",
@@ -10852,10 +10852,10 @@
       "url": "https://yuppparoriglin.akamaized.net/181224/smil:mathimugam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 91,
-      "speed_kbs": 33013,
+      "delay": 35,
+      "speed_kbs": 26624,
       "resolution": "1080p",
-      "last_test": 1782206873.8456562
+      "last_test": 1782483047.3360722
     },
     "http://212.102.34.8:9080/Pitaara/index.m3u8": {
       "channel": "Pitaara.in",
@@ -10863,10 +10863,10 @@
       "url": "http://212.102.34.8:9080/Pitaara/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 226,
-      "speed_kbs": 19009,
+      "delay": 198,
+      "speed_kbs": 3265,
       "resolution": "1080p",
-      "last_test": 1782206873.9812505
+      "last_test": 1782483047.5000212
     },
     "http://217.20.112.199:8080/maatv/index.m3u8": {
       "channel": "StarMaa.in",
@@ -10874,21 +10874,10 @@
       "url": "http://217.20.112.199:8080/maatv/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 225,
-      "speed_kbs": 4437,
-      "resolution": "1080p",
-      "last_test": 1782206873.9807432
-    },
-    "http://217.20.112.199:8080/maamovies/index.m3u8": {
-      "channel": "ZeeBangla.in",
-      "title": "ZeeBangla",
-      "url": "http://217.20.112.199:8080/maamovies/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 229,
+      "delay": 236,
       "speed_kbs": 14065,
       "resolution": "1080p",
-      "last_test": 1782206873.9863415
+      "last_test": 1782483047.5392683
     },
     "http://41.205.93.154/STAR-PLUS/index.m3u8": {
       "channel": "StarPlus.in",
@@ -10896,10 +10885,10 @@
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 449,
-      "speed_kbs": 11592,
+      "delay": 440,
+      "speed_kbs": 8904,
       "resolution": "1080p",
-      "last_test": 1782206874.204886
+      "last_test": 1782483047.7430246
     },
     "http://103.175.73.12:8080/live/471/master.m3u8": {
       "channel": "EpicBharat.in",
@@ -10907,10 +10896,10 @@
       "url": "http://103.175.73.12:8080/live/471/master.m3u8",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
       "referrer": null,
-      "delay": 505,
-      "speed_kbs": 14677,
+      "delay": 517,
+      "speed_kbs": 846,
       "resolution": "1080p",
-      "last_test": 1782206874.258428
+      "last_test": 1782483047.8176854
     },
     "http://103.175.73.12:8080/live/29/29_0.m3u8": {
       "channel": "ColorsInfinity.in",
@@ -10918,10 +10907,10 @@
       "url": "http://103.175.73.12:8080/live/29/29_0.m3u8",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
       "referrer": null,
-      "delay": 502,
-      "speed_kbs": 18116,
+      "delay": 489,
+      "speed_kbs": 2326,
       "resolution": "1080p",
-      "last_test": 1782206874.2547183
+      "last_test": 1782483047.7893696
     },
     "http://103.175.73.12:8080/live/52/52_0.m3u8": {
       "channel": "GoldminesBollywood.in",
@@ -10929,10 +10918,10 @@
       "url": "http://103.175.73.12:8080/live/52/52_0.m3u8",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
       "referrer": null,
-      "delay": 501,
-      "speed_kbs": 10022,
+      "delay": 466,
+      "speed_kbs": 14273,
       "resolution": "1080p",
-      "last_test": 1782206874.2550354
+      "last_test": 1782483047.7670977
     },
     "http://103.175.73.12:8080/live/21/21_0.m3u8": {
       "channel": "ShemarooJosh.in",
@@ -10940,10 +10929,10 @@
       "url": "http://103.175.73.12:8080/live/21/21_0.m3u8",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
       "referrer": null,
-      "delay": 502,
-      "speed_kbs": 3860,
+      "delay": 472,
+      "speed_kbs": 18841,
       "resolution": "1080p",
-      "last_test": 1782206874.2577143
+      "last_test": 1782483047.7744033
     },
     "http://116.90.120.157:8000/play/a0i3/index.m3u8": {
       "channel": "NickHDPlus.in",
@@ -10951,10 +10940,10 @@
       "url": "http://116.90.120.157:8000/play/a0i3/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 546,
-      "speed_kbs": 686,
-      "resolution": "720p",
-      "last_test": 1782206874.3009734
+      "delay": 550,
+      "speed_kbs": 23145,
+      "resolution": "1080p",
+      "last_test": 1782483047.8515332
     },
     "https://d2esfk1pb9cdob.cloudfront.net/master.m3u8": {
       "channel": "Zoom.in",
@@ -10962,10 +10951,10 @@
       "url": "https://d2esfk1pb9cdob.cloudfront.net/master.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 43,
-      "speed_kbs": 26916,
+      "delay": 16,
+      "speed_kbs": 33645,
       "resolution": "1080p",
-      "last_test": 1782206873.8004344
+      "last_test": 1782483047.3198972
     },
     "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8": {
       "channel": "AsianetMiddleEast.in",
@@ -10973,10 +10962,10 @@
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 1209,
-      "speed_kbs": 26363,
+      "delay": 967,
+      "speed_kbs": 5886,
       "resolution": "1080p",
-      "last_test": 1782206874.9610617
+      "last_test": 1782483048.2666216
     },
     "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8": {
       "channel": "FoodFood.in",
@@ -10984,10 +10973,10 @@
       "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 1201,
-      "speed_kbs": 26775,
+      "delay": 1023,
+      "speed_kbs": 19539,
       "resolution": "1080p",
-      "last_test": 1782206874.9550529
+      "last_test": 1782483048.323995
     },
     "https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8": {
       "channel": "9XJalwa.in",
@@ -10995,10 +10984,10 @@
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 1201,
-      "speed_kbs": 32861,
+      "delay": 988,
+      "speed_kbs": 21907,
       "resolution": "1080p",
-      "last_test": 1782206874.9524777
+      "last_test": 1782483048.2871828
     },
     "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8": {
       "channel": "9XTashan.in",
@@ -11006,10 +10995,10 @@
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 1033,
-      "speed_kbs": 46470,
+      "delay": 941,
+      "speed_kbs": 39872,
       "resolution": "1080p",
-      "last_test": 1782206874.7842155
+      "last_test": 1782483048.2403758
     },
     "https://mumt01.tangotv.in/O5aw8Zn3DDNATIONALHD/index.m3u8": {
       "channel": "DDNational.in",
@@ -11017,10 +11006,10 @@
       "url": "https://mumt01.tangotv.in/O5aw8Zn3DDNATIONALHD/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 965,
-      "speed_kbs": 24655,
+      "delay": 955,
+      "speed_kbs": 35271,
       "resolution": "1080p",
-      "last_test": 1782206874.7184184
+      "last_test": 1782483048.255139
     },
     "https://mumt01.tangotv.in/O5aw8Zn39XM/index.m3u8": {
       "channel": "9XM.in",
@@ -11028,10 +11017,10 @@
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XM/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 977,
-      "speed_kbs": 46545,
+      "delay": 883,
+      "speed_kbs": 41967,
       "resolution": "1080p",
-      "last_test": 1782206874.7289739
+      "last_test": 1782483048.1822221
     },
     "https://mumt07.tangotv.in/zHjX9OFlPUTHIYAEXPRESS/index.m3u8": {
       "channel": "PuthiyaThalaimurai.in",
@@ -11039,10 +11028,10 @@
       "url": "https://mumt07.tangotv.in/zHjX9OFlPUTHIYAEXPRESS/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 989,
-      "speed_kbs": 30763,
+      "delay": 1281,
+      "speed_kbs": 19024,
       "resolution": "1080p",
-      "last_test": 1782206874.7450933
+      "last_test": 1782483048.5837214
     },
     "https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8": {
       "channel": "IndiaAhead.in",
@@ -11050,10 +11039,10 @@
       "url": "https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 954,
-      "speed_kbs": 11065,
+      "delay": 957,
+      "speed_kbs": 13479,
       "resolution": "1080p",
-      "last_test": 1782206874.707961
+      "last_test": 1782483048.2583148
     },
     "https://mumt05.tangotv.in/87NeALx2RUPASIBANGLA/index.m3u8": {
       "channel": "RupasiBangla.in",
@@ -11061,10 +11050,10 @@
       "url": "https://mumt05.tangotv.in/87NeALx2RUPASIBANGLA/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 977,
-      "speed_kbs": 14257,
+      "delay": 2012,
+      "speed_kbs": 10441,
       "resolution": "1080p",
-      "last_test": 1782206874.7326748
+      "last_test": 1782483049.3148358
     },
     "https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8": {
       "channel": "PublicMovies.in",
@@ -11072,10 +11061,10 @@
       "url": "https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 1002,
-      "speed_kbs": 26288,
+      "delay": 970,
+      "speed_kbs": 32130,
       "resolution": "1080p",
-      "last_test": 1782206874.757585
+      "last_test": 1782483048.2723954
     },
     "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8": {
       "channel": "9XJhakaas.in",
@@ -11083,10 +11072,10 @@
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 1194,
-      "speed_kbs": 25366,
+      "delay": 1031,
+      "speed_kbs": 26288,
       "resolution": "1080p",
-      "last_test": 1782206874.9458468
+      "last_test": 1782483048.3299618
     },
     "http://217.20.112.199:8080/natgeowild/index.m3u8": {
       "channel": "NationalGeographicWild.in",
@@ -15611,6 +15600,10 @@
     },
     "http://45.165.82.19/test/index.m3u8": {
       "fail_time": 1782441887.8714423,
+      "reason": "Dead Link or Timeout"
+    },
+    "http://217.20.112.199:8080/maamovies/index.m3u8": {
+      "fail_time": 1782483045.5088735,
       "reason": "Dead Link or Timeout"
     }
   }
