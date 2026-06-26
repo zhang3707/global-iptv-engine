@@ -1070,16 +1070,6 @@
     "referrer": "aHR0cHM6Ly9zYW5nYWppdHYuY28uaWQv"
   },
   {
-    "channel": "AhsanTV.id",
-    "title": "AhsanTV",
-    "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L2Foc2FudHYvYWhzYW50di9wbGF5bGlzdC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1053,
-    "speed_kbs": 8375,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
     "channel": "StaraTV.id",
     "title": "StaraTV",
     "url": "aHR0cHM6Ly9iYW5kdW5nLnN0YXJhdHYuaWQvaGxzLzAvc3RyZWFtLm0zdTg=",
@@ -1186,6 +1176,16 @@
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 1245,
     "speed_kbs": 23665,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "AhsanTV.id",
+    "title": "AhsanTV",
+    "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L2Foc2FudHYvYWhzYW50di9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1253,
+    "speed_kbs": 9352,
     "resolution": "1080p",
     "referrer": ""
   },

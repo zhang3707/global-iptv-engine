@@ -11231,27 +11231,16 @@
       "resolution": "1080p",
       "last_test": 1782377537.3212686
     },
-    "http://45.165.82.19/test/index.m3u8": {
-      "channel": "CGTNSpanish.cn",
-      "title": "CGTNSpanish",
-      "url": "http://45.165.82.19/test/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 328,
-      "speed_kbs": 23849,
-      "resolution": "1080p",
-      "last_test": 1782182393.10121
-    },
     "https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8": {
       "channel": "AhsanTV.id",
       "title": "AhsanTV",
       "url": "https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 1053,
-      "speed_kbs": 8375,
+      "delay": 1253,
+      "speed_kbs": 9352,
       "resolution": "1080p",
-      "last_test": 1782182393.8256774
+      "last_test": 1782441890.0165389
     },
     "http://217.20.112.199:8080/cgtn/index.m3u8": {
       "channel": "CGTN.cn",
@@ -15619,6 +15608,10 @@
     "http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8": {
       "fail_time": 1782377539.9014683,
       "reason": "Deep Test Timeout"
+    },
+    "http://45.165.82.19/test/index.m3u8": {
+      "fail_time": 1782441887.8714423,
+      "reason": "Dead Link or Timeout"
     }
   }
 }
