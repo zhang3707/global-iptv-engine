@@ -11237,21 +11237,10 @@
       "url": "http://217.20.112.199:8080/cgtn/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 221,
-      "speed_kbs": 13312,
+      "delay": 180,
+      "speed_kbs": 14336,
       "resolution": "1080p",
-      "last_test": 1782268831.9492464
-    },
-    "https://trs1.aynaott.com/Khushboo/index.m3u8": {
-      "channel": "KhushbooBangla.in",
-      "title": "KhushbooBangla",
-      "url": "https://trs1.aynaott.com/Khushboo/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 919,
-      "speed_kbs": 12994,
-      "resolution": "1080p",
-      "last_test": 1782268832.6487396
+      "last_test": 1782548974.2267957
     },
     "https://mumt04.tangotv.in/m18aqlK4MOVIEPLEX/index.m3u8": {
       "channel": "MoviePlex.in",
@@ -11259,362 +11248,10 @@
       "url": "https://mumt04.tangotv.in/m18aqlK4MOVIEPLEX/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 919,
-      "speed_kbs": 36249,
+      "delay": 948,
+      "speed_kbs": 24999,
       "resolution": "1080p",
-      "last_test": 1782268832.64894
-    },
-    "https://trs1.aynaott.com/GoldminesMovies/index.m3u8": {
-      "channel": "GoldminesMovies.in",
-      "title": "GoldminesMovies",
-      "url": "https://trs1.aynaott.com/GoldminesMovies/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 920,
-      "speed_kbs": 18841,
-      "resolution": "1080p",
-      "last_test": 1782268832.6494324
-    },
-    "https://trs1.aynaott.com/kolkatatv/index.m3u8": {
-      "channel": "KolkataTV.in",
-      "title": "KolkataTV",
-      "url": "https://trs1.aynaott.com/kolkatatv/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 920,
-      "speed_kbs": 19833,
-      "resolution": "1080p",
-      "last_test": 1782268832.6499763
-    },
-    "https://trs1.aynaott.com/News1India/index.m3u8": {
-      "channel": "News1India.in",
-      "title": "News1India",
-      "url": "https://trs1.aynaott.com/News1India/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 923,
-      "speed_kbs": 26916,
-      "resolution": "1080p",
-      "last_test": 1782268832.6535292
-    },
-    "https://trs1.aynaott.com/TV9Bangla/index.m3u8": {
-      "channel": "TV9Bangla.in",
-      "title": "TV9Bangla",
-      "url": "https://trs1.aynaott.com/TV9Bangla/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 923,
-      "speed_kbs": 22838,
-      "resolution": "1080p",
-      "last_test": 1782268832.65404
-    },
-    "https://trs1.aynaott.com/B4U_Kadak/index.m3u8": {
-      "channel": "B4UKadak.in",
-      "title": "B4UKadak",
-      "url": "https://trs1.aynaott.com/B4U_Kadak/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 926,
-      "speed_kbs": 22838,
-      "resolution": "1080p",
-      "last_test": 1782268832.6541731
-    },
-    "https://trs1.aynaott.com/Network10/index.m3u8": {
-      "channel": "Network10.in",
-      "title": "Network10",
-      "url": "https://trs1.aynaott.com/Network10/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 924,
-      "speed_kbs": 23552,
-      "resolution": "1080p",
-      "last_test": 1782268832.6543043
-    },
-    "https://trs1.aynaott.com/AssamTalks/index.m3u8": {
-      "channel": "AssamTalks.in",
-      "title": "AssamTalks",
-      "url": "https://trs1.aynaott.com/AssamTalks/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 931,
-      "speed_kbs": 21533,
-      "resolution": "1080p",
-      "last_test": 1782268832.6596365
-    },
-    "https://trs1.aynaott.com/Goldmines/index.m3u8": {
-      "channel": "Goldmines.in",
-      "title": "Goldmines",
-      "url": "https://trs1.aynaott.com/Goldmines/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 930,
-      "speed_kbs": 27913,
-      "resolution": "1080p",
-      "last_test": 1782268832.6597648
-    },
-    "https://trs1.aynaott.com/BharatSamachar/index.m3u8": {
-      "channel": "BharatSamachar.in",
-      "title": "BharatSamachar",
-      "url": "https://trs1.aynaott.com/BharatSamachar/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 931,
-      "speed_kbs": 30146,
-      "resolution": "1080p",
-      "last_test": 1782268832.6598747
-    },
-    "https://trs1.aynaott.com/GoldminesBollywood/index.m3u8": {
-      "channel": "GoldminesBollywood.in",
-      "title": "GoldminesBollywood",
-      "url": "https://trs1.aynaott.com/GoldminesBollywood/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 930,
-      "speed_kbs": 28987,
-      "resolution": "1080p",
-      "last_test": 1782268832.6599774
-    },
-    "https://trs1.aynaott.com/Dangal2/index.m3u8": {
-      "channel": "Dangal2.in",
-      "title": "Dangal2",
-      "url": "https://trs1.aynaott.com/Dangal2/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 932,
-      "speed_kbs": 24311,
-      "resolution": "1080p",
-      "last_test": 1782268832.660809
-    },
-    "https://trs1.aynaott.com/Dangal/index.m3u8": {
-      "channel": "DangalTV.in",
-      "title": "DangalTV",
-      "url": "https://trs1.aynaott.com/Dangal/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 932,
-      "speed_kbs": 27913,
-      "resolution": "1080p",
-      "last_test": 1782268832.6609318
-    },
-    "https://trs1.aynaott.com/ShemarooTV/index.m3u8": {
-      "channel": "ShemarooTV.in",
-      "title": "ShemarooTV",
-      "url": "https://trs1.aynaott.com/ShemarooTV/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 931,
-      "speed_kbs": 26916,
-      "resolution": "1080p",
-      "last_test": 1782268832.6623251
-    },
-    "https://trs1.aynaott.com/Dhinchaak/index.m3u8": {
-      "channel": "AllTimeMovies.in",
-      "title": "AllTimeMovies",
-      "url": "https://trs1.aynaott.com/Dhinchaak/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 941,
-      "speed_kbs": 19833,
-      "resolution": "1080p",
-      "last_test": 1782268832.6692486
-    },
-    "https://trs1.aynaott.com/News24/index.m3u8": {
-      "channel": "News24.in",
-      "title": "News24",
-      "url": "https://trs1.aynaott.com/News24/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 939,
-      "speed_kbs": 21533,
-      "resolution": "1080p",
-      "last_test": 1782268832.6694984
-    },
-    "https://trs1.aynaott.com/HindiKhabar/index.m3u8": {
-      "channel": "HindiKhabar.in",
-      "title": "HindiKhabar",
-      "url": "https://trs1.aynaott.com/HindiKhabar/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 940,
-      "speed_kbs": 22166,
-      "resolution": "1080p",
-      "last_test": 1782268832.670113
-    },
-    "https://trs1.aynaott.com/colorsbangla/index.m3u8": {
-      "channel": "ColorsBangla.in",
-      "title": "ColorsBangla",
-      "url": "https://trs1.aynaott.com/colorsbangla/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 942,
-      "speed_kbs": 22962,
-      "resolution": "1080p",
-      "last_test": 1782268832.6713157
-    },
-    "https://trs1.aynaott.com/R_Bangla/index.m3u8": {
-      "channel": "RepublicBangla.in",
-      "title": "RepublicBangla",
-      "url": "https://trs1.aynaott.com/R_Bangla/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 941,
-      "speed_kbs": 23086,
-      "resolution": "1080p",
-      "last_test": 1782268832.6716936
-    },
-    "https://trs1.aynaott.com/e24/index.m3u8": {
-      "channel": "E24.in",
-      "title": "E24",
-      "url": "https://trs1.aynaott.com/e24/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 942,
-      "speed_kbs": 20935,
-      "resolution": "1080p",
-      "last_test": 1782268832.6718838
-    },
-    "https://trs1.aynaott.com/starplushd/index.m3u8": {
-      "channel": "StarPlus.in",
-      "title": "StarPlus",
-      "url": "https://trs1.aynaott.com/starplushd/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 941,
-      "speed_kbs": 25258,
-      "resolution": "1080p",
-      "last_test": 1782268832.6719537
-    },
-    "https://trs1.aynaott.com/RongeenTV/index.m3u8": {
-      "channel": "RongeenTV.in",
-      "title": "RongeenTV",
-      "url": "https://trs1.aynaott.com/RongeenTV/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 942,
-      "speed_kbs": 28065,
-      "resolution": "1080p",
-      "last_test": 1782268832.6725292
-    },
-    "https://trs1.aynaott.com/NewsNation/index.m3u8": {
-      "channel": "NewsNation.in",
-      "title": "NewsNation",
-      "url": "https://trs1.aynaott.com/NewsNation/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 943,
-      "speed_kbs": 26916,
-      "resolution": "1080p",
-      "last_test": 1782268832.6736565
-    },
-    "https://trs1.aynaott.com/ANB_News/index.m3u8": {
-      "channel": "ANBNews.in",
-      "title": "ANBNews",
-      "url": "https://trs1.aynaott.com/ANB_News/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 946,
-      "speed_kbs": 31402,
-      "resolution": "1080p",
-      "last_test": 1782268832.6737692
-    },
-    "https://trs1.aynaott.com/zeebangla/index.m3u8": {
-      "channel": "ZeeBangla.in",
-      "title": "ZeeBangla",
-      "url": "https://trs1.aynaott.com/zeebangla/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 943,
-      "speed_kbs": 28065,
-      "resolution": "1080p",
-      "last_test": 1782268832.6743448
-    },
-    "https://trs1.aynaott.com/zeetvhd/index.m3u8": {
-      "channel": "ZeeTV.in",
-      "title": "ZeeTV",
-      "url": "https://trs1.aynaott.com/zeetvhd/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 947,
-      "speed_kbs": 15464,
-      "resolution": "1080p",
-      "last_test": 1782268832.6791708
-    },
-    "https://trs1.aynaott.com/ManoranjanTV/index.m3u8": {
-      "channel": "ManoranjanTV.in",
-      "title": "ManoranjanTV",
-      "url": "https://trs1.aynaott.com/ManoranjanTV/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 949,
-      "speed_kbs": 20369,
-      "resolution": "1080p",
-      "last_test": 1782268832.679345
-    },
-    "https://trs1.aynaott.com/aakaashBangla/index.m3u8": {
-      "channel": "AakaashAath.in",
-      "title": "AakaashAath",
-      "url": "https://trs1.aynaott.com/aakaashBangla/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 952,
-      "speed_kbs": 19941,
-      "resolution": "1080p",
-      "last_test": 1782268832.6800072
-    },
-    "https://trs1.aynaott.com/colorshd/index.m3u8": {
-      "channel": "Colors.in",
-      "title": "Colors",
-      "url": "https://trs1.aynaott.com/colorshd/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 955,
-      "speed_kbs": 22962,
-      "resolution": "1080p",
-      "last_test": 1782268832.6838293
-    },
-    "https://trs1.aynaott.com/SadhnaPrimeNews/index.m3u8": {
-      "channel": "SadhnaPlusNews.in",
-      "title": "SadhnaPlusNews",
-      "url": "https://trs1.aynaott.com/SadhnaPrimeNews/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 953,
-      "speed_kbs": 23552,
-      "resolution": "1080p",
-      "last_test": 1782268832.684043
-    },
-    "https://trs1.aynaott.com/RepublicTVBharat/index.m3u8": {
-      "channel": "RepublicBharat.in",
-      "title": "RepublicBharat",
-      "url": "https://trs1.aynaott.com/RepublicTVBharat/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 955,
-      "speed_kbs": 25988,
-      "resolution": "1080p",
-      "last_test": 1782268832.6860068
-    },
-    "https://trs1.aynaott.com/ddsports/index.m3u8": {
-      "channel": "DDSports.in",
-      "title": "DDSports",
-      "url": "https://trs1.aynaott.com/ddsports/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 960,
-      "speed_kbs": 18481,
-      "resolution": "1080p",
-      "last_test": 1782268832.689859
-    },
-    "https://trs1.aynaott.com/SangeetBangla/index.m3u8": {
-      "channel": "SangeetBangla.in",
-      "title": "SangeetBangla",
-      "url": "https://trs1.aynaott.com/SangeetBangla/index.m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referrer": null,
-      "delay": 959,
-      "speed_kbs": 26916,
-      "resolution": "1080p",
-      "last_test": 1782268832.6899111
+      "last_test": 1782548974.995901
     },
     "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8": {
       "channel": "ZeeCinema.in",
@@ -15648,6 +15285,138 @@
     },
     "http://217.20.112.199:8080/maamovies/index.m3u8": {
       "fail_time": 1782483045.5088735,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/Goldmines/index.m3u8": {
+      "fail_time": 1782548973.9875276,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/TV9Bangla/index.m3u8": {
+      "fail_time": 1782548973.988007,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/zeetvhd/index.m3u8": {
+      "fail_time": 1782548973.9889839,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/Khushboo/index.m3u8": {
+      "fail_time": 1782548973.9963255,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/starplushd/index.m3u8": {
+      "fail_time": 1782548973.9970512,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/AssamTalks/index.m3u8": {
+      "fail_time": 1782548973.9975462,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/ShemarooTV/index.m3u8": {
+      "fail_time": 1782548973.9980068,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/Network10/index.m3u8": {
+      "fail_time": 1782548973.9988837,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/SangeetBangla/index.m3u8": {
+      "fail_time": 1782548973.9994266,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/colorshd/index.m3u8": {
+      "fail_time": 1782548974.0048933,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/e24/index.m3u8": {
+      "fail_time": 1782548974.0066693,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/BharatSamachar/index.m3u8": {
+      "fail_time": 1782548974.007326,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/kolkatatv/index.m3u8": {
+      "fail_time": 1782548974.0077186,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/Dhinchaak/index.m3u8": {
+      "fail_time": 1782548974.0084174,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/ddsports/index.m3u8": {
+      "fail_time": 1782548974.0085552,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/zeebangla/index.m3u8": {
+      "fail_time": 1782548974.0085864,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/colorsbangla/index.m3u8": {
+      "fail_time": 1782548974.0088842,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/News1India/index.m3u8": {
+      "fail_time": 1782548974.0095134,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/GoldminesMovies/index.m3u8": {
+      "fail_time": 1782548974.0119998,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/aakaashBangla/index.m3u8": {
+      "fail_time": 1782548974.017446,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/B4U_Kadak/index.m3u8": {
+      "fail_time": 1782548974.0184457,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/RepublicTVBharat/index.m3u8": {
+      "fail_time": 1782548974.0188537,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/GoldminesBollywood/index.m3u8": {
+      "fail_time": 1782548974.019011,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/News24/index.m3u8": {
+      "fail_time": 1782548974.0191884,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/Dangal/index.m3u8": {
+      "fail_time": 1782548974.0200949,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/NewsNation/index.m3u8": {
+      "fail_time": 1782548974.0211053,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/ANB_News/index.m3u8": {
+      "fail_time": 1782548974.022069,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/Dangal2/index.m3u8": {
+      "fail_time": 1782548974.0221665,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/SadhnaPrimeNews/index.m3u8": {
+      "fail_time": 1782548974.0226662,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/R_Bangla/index.m3u8": {
+      "fail_time": 1782548974.0257177,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/HindiKhabar/index.m3u8": {
+      "fail_time": 1782548974.0309417,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/ManoranjanTV/index.m3u8": {
+      "fail_time": 1782548974.0351808,
+      "reason": "Dead Link or Timeout"
+    },
+    "https://trs1.aynaott.com/RongeenTV/index.m3u8": {
+      "fail_time": 1782548974.038045,
       "reason": "Dead Link or Timeout"
     }
   }

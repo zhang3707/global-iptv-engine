@@ -430,6 +430,16 @@
     "referrer": ""
   },
   {
+    "channel": "CGTN.cn",
+    "title": "CGTN",
+    "url": "aHR0cDovLzIxNy4yMC4xMTIuMTk5OjgwODAvY2d0bi9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 180,
+    "speed_kbs": 14336,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "CCTVStormTheater.cn",
     "title": "CCTVStormTheater",
     "url": "aHR0cDovLzM4Ljc1LjEzNi4xMzc6OTgvZ3NsYi9kc2RxcHViL2Z5amMubTN1OD9hdXRoPXRlc3RwdWI=",
@@ -546,16 +556,6 @@
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 197,
     "speed_kbs": 41722,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "CGTN.cn",
-    "title": "CGTN",
-    "url": "aHR0cDovLzIxNy4yMC4xMTIuMTk5OjgwODAvY2d0bi9pbmRleC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 221,
-    "speed_kbs": 13312,
     "resolution": "1080p",
     "referrer": ""
   },
