@@ -11615,6 +11615,50 @@
       "speed_kbs": 26916,
       "resolution": "1080p",
       "last_test": 1782268832.6899111
+    },
+    "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8": {
+      "channel": "ZeeCinema.in",
+      "title": "ZeeCinema",
+      "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referrer": null,
+      "delay": 12,
+      "speed_kbs": 97380,
+      "resolution": "1080p",
+      "last_test": 1782527783.520365
+    },
+    "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8": {
+      "channel": "ZeeBanglaSonar.in",
+      "title": "ZeeBanglaSonar",
+      "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referrer": null,
+      "delay": 16,
+      "speed_kbs": 17008,
+      "resolution": "1080p",
+      "last_test": 1782527783.5247753
+    },
+    "https://cdn-6.pishow.tv/live/10006/master.m3u8": {
+      "channel": "Jonack.in",
+      "title": "Jonack",
+      "url": "https://cdn-6.pishow.tv/live/10006/master.m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referrer": null,
+      "delay": 692,
+      "speed_kbs": 20928,
+      "resolution": "1080p",
+      "last_test": 1782527784.1988902
+    },
+    "https://live.thaichaiyo.tv/tcy/live-transmux.m3u8": {
+      "channel": "ThaiChaiyo.th",
+      "title": "ThaiChaiyo",
+      "url": "https://live.thaichaiyo.tv/tcy/live-transmux.m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referrer": null,
+      "delay": 821,
+      "speed_kbs": 43008,
+      "resolution": "1080p",
+      "last_test": 1782527784.3287172
     }
   },
   "blacklist": {

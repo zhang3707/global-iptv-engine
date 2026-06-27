@@ -270,6 +270,16 @@
     "referrer": ""
   },
   {
+    "channel": "ThaiChaiyo.th",
+    "title": "ThaiChaiyo",
+    "url": "aHR0cHM6Ly9saXZlLnRoYWljaGFpeW8udHYvdGN5L2xpdmUtdHJhbnNtdXgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 821,
+    "speed_kbs": 43008,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "RamaChannel.th",
     "title": "RamaChannel",
     "url": "aHR0cHM6Ly9yYW1hY2guZGRucy5uZXQvbGl2ZS9yYW1hbGl2ZS9pbmRleC5tM3U4",

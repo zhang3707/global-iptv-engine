@@ -200,6 +200,16 @@
     "referrer": ""
   },
   {
+    "channel": "ZeeCinema.in",
+    "title": "ZeeCinema",
+    "url": "aHR0cHM6Ly9kMWc4d2dqdXJ6OHZpYS5jbG91ZGZyb250Lm5ldC9icGstdHYvTkdDSEQvZGVmYXVsdC9OR0NIRC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 12,
+    "speed_kbs": 97380,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "PolimerNews.in",
     "title": "PolimerNews",
     "url": "aHR0cHM6Ly9saXZlLWNmLXBvbGltZXJuZXdzLmRhaWx5aHVudC5pbi9tYXN0ZXIubTN1OA==",
@@ -296,6 +306,16 @@
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 16,
     "speed_kbs": 52748,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "ZeeBanglaSonar.in",
+    "title": "ZeeBanglaSonar",
+    "url": "aHR0cHM6Ly9kMWc4d2dqdXJ6OHZpYS5jbG91ZGZyb250Lm5ldC9icGstdHYvQ29sb3JzSEQvZGVmYXVsdC9Db2xvcnNIRC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 16,
+    "speed_kbs": 17008,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -5286,6 +5306,16 @@
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 690,
     "speed_kbs": 12113,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "Jonack.in",
+    "title": "Jonack",
+    "url": "aHR0cHM6Ly9jZG4tNi5waXNob3cudHYvbGl2ZS8xMDAwNi9tYXN0ZXIubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 692,
+    "speed_kbs": 20928,
     "resolution": "1080p",
     "referrer": ""
   },
