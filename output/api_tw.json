@@ -1,21 +1,11 @@
 [
   {
-    "channel": "CGNTVChinese.tw",
-    "title": "CGNTVChinese",
-    "url": "aHR0cHM6Ly9kM2UwNWNzc3M5YzI3Mi5jbG91ZGZyb250Lm5ldC9vdXQvdjEvZjBiZjcxYzU3NTgxNDcwZmI5Mzc5ZjYwM2U4ZjVkODMvQ0dOV2ViTGl2ZUNOLm0zdTg=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 216,
-    "speed_kbs": 77209,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
     "channel": "TVBSAsia.tw",
     "title": "TVBSAsia",
     "url": "aHR0cDovLzM4LjY0LjcyLjE0OC9obHMvbW9kbi9saXN0LzQwMDUvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 283,
-    "speed_kbs": 23477,
+    "delay": 121,
+    "speed_kbs": 21390,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -24,8 +14,18 @@
     "title": "SupremeMasterTV",
     "url": "aHR0cHM6Ly9sYnMtdXMxLnN1cHJlbWVtYXN0ZXJ0di5jb20vNzIwcC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 313,
+    "delay": 303,
     "speed_kbs": 12834,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "CGNTVChinese.tw",
+    "title": "CGNTVChinese",
+    "url": "aHR0cHM6Ly9kM2UwNWNzc3M5YzI3Mi5jbG91ZGZyb250Lm5ldC9vdXQvdjEvZjBiZjcxYzU3NTgxNDcwZmI5Mzc5ZjYwM2U4ZjVkODMvQ0dOV2ViTGl2ZUNOLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 589,
+    "speed_kbs": 58271,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -34,8 +34,8 @@
     "title": "DaliTV",
     "url": "aHR0cDovL3d3dy5kYWxpdHYuY29tLnR3OjQ1NjgvbGl2ZS9kYWxpL2luZGV4Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 584,
-    "speed_kbs": 79965,
+    "delay": 598,
+    "speed_kbs": 27488,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -44,8 +44,8 @@
     "title": "GoodTV",
     "url": "aHR0cHM6Ly9saXZlLnN0cmVhbWluZ2Zhc3QubmV0L29zbWZsaXZlY2gxLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 785,
-    "speed_kbs": 50042,
+    "delay": 787,
+    "speed_kbs": 59024,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -54,18 +54,8 @@
     "title": "Good2",
     "url": "aHR0cHM6Ly9saXZlLnN0cmVhbWluZ2Zhc3QubmV0L29zbWZsaXZlY2gyLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 820,
-    "speed_kbs": 56145,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "BeautifulLifeTV.tw",
-    "title": "BeautifulLifeTV",
-    "url": "aHR0cHM6Ly81ZGRjZTMwZWI0YjU1LnN0cmVhbWxvY2submV0L2JsdHZoZC9ibHR2MS9wbGF5bGlzdC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 837,
-    "speed_kbs": 13786,
+    "delay": 851,
+    "speed_kbs": 43433,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -74,8 +64,18 @@
     "title": "WXTV",
     "url": "aHR0cHM6Ly9tb2JpbGUuY2NkbnRlY2guY29tL3RyYW5zY29kZXIvX2RlZmluc3RfL3ZvZDE2NF9MaXZlL2xpdmUvY2h1bmtsaXN0X3cxMTc3MDQ3NTMxLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1055,
-    "speed_kbs": 16147,
+    "delay": 1140,
+    "speed_kbs": 17136,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "BeautifulLifeTV.tw",
+    "title": "BeautifulLifeTV",
+    "url": "aHR0cHM6Ly81ZGRjZTMwZWI0YjU1LnN0cmVhbWxvY2submV0L2JsdHZoZC9ibHR2MS9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1556,
+    "speed_kbs": 11861,
     "resolution": "1080p",
     "referrer": ""
   }

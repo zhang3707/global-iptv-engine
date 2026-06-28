@@ -1,21 +1,21 @@
 [
   {
-    "channel": "TeaTV.vn",
-    "title": "TeaTV",
-    "url": "aHR0cHM6Ly9saXZlZnRhLm1hbGltYXJjZG4uY29tL2Z0YWVkZ2UwMC90ZWF0di5zZHAvcGxheWxpc3QubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 95,
-    "speed_kbs": 12902,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
     "channel": "UniquelyThai.vn",
     "title": "UniquelyThai",
     "url": "aHR0cHM6Ly9saXZlZnRhLm1hbGltYXJjZG4uY29tL2Z0YWVkZ2UwMC91bmlxdWVseS5zZHAvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 99,
-    "speed_kbs": 12587,
+    "delay": 98,
+    "speed_kbs": 11219,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "TeaTV.vn",
+    "title": "TeaTV",
+    "url": "aHR0cHM6Ly9saXZlZnRhLm1hbGltYXJjZG4uY29tL2Z0YWVkZ2UwMC90ZWF0di5zZHAvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 104,
+    "speed_kbs": 12288,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -24,28 +24,8 @@
     "title": "LaoSVTV",
     "url": "aHR0cHM6Ly9saXZlZnRhLm1hbGltYXJjZG4uY29tL2Z0YWVkZ2UwMC9sYW9zdnR2LnN0cmVhbS9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 156,
-    "speed_kbs": 14222,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "QuangNgaiTV.vn",
-    "title": "QuangNgaiTV",
-    "url": "aHR0cHM6Ly9saXZlLm1lZGlhdGVjaC52bi9saXZlLzI4NWFhYTc5YjRiMjY1YTQ1N2Q4MWJiNzJiYzMyZTJjMTE0L2NodW5rbGlzdC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 277,
-    "speed_kbs": 25129,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "VietnamToday.vn",
-    "title": "VietnamToday",
-    "url": "aHR0cHM6Ly9hbWFnaS1saXZlLm9uZGVtYW5ka29yZWEuY29tL2FtZ3BsdDA0NTYubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 308,
-    "speed_kbs": 56122,
+    "delay": 225,
+    "speed_kbs": 8982,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -54,8 +34,18 @@
     "title": "NgheAnTV",
     "url": "aHR0cHM6Ly9saXZlLm1lZGlhdGVjaC52bi9saXZlLzI4NTk1OTFlZWYyZTkyMjQ5YjY4MmRiMDIxZjQyNDdjMzY0L2NodW5rbGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 337,
-    "speed_kbs": 23347,
+    "delay": 270,
+    "speed_kbs": 24468,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "QuangNgaiTV.vn",
+    "title": "QuangNgaiTV",
+    "url": "aHR0cHM6Ly9saXZlLm1lZGlhdGVjaC52bi9saXZlLzI4NWFhYTc5YjRiMjY1YTQ1N2Q4MWJiNzJiYzMyZTJjMTE0L2NodW5rbGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 331,
+    "speed_kbs": 21623,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -64,7 +54,7 @@
     "title": "DongNaiTV2",
     "url": "aHR0cDovLzExOC4xMDcuODUuNDoxOTM1L2xpdmUvc21pbDpETlRWMi5zbWlsL2NodW5rbGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 504,
+    "delay": 487,
     "speed_kbs": 0,
     "resolution": "720p",
     "referrer": ""
@@ -74,7 +64,7 @@
     "title": "LamDongTV",
     "url": "aHR0cDovLzExOC4xMDcuODUuNToxOTM1L2xpdmUvc21pbDpMVFYuc21pbC9jaHVua2xpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 507,
+    "delay": 488,
     "speed_kbs": 0,
     "resolution": "720p",
     "referrer": ""
@@ -84,9 +74,19 @@
     "title": "DongNaiTV1",
     "url": "aHR0cDovLzExOC4xMDcuODUuNDoxOTM1L2xpdmUvc21pbDpETlRWMS5zbWlsL2NodW5rbGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 510,
+    "delay": 493,
     "speed_kbs": 0,
     "resolution": "720p",
+    "referrer": ""
+  },
+  {
+    "channel": "VietnamToday.vn",
+    "title": "VietnamToday",
+    "url": "aHR0cHM6Ly9hbWFnaS1saXZlLm9uZGVtYW5ka29yZWEuY29tL2FtZ3BsdDA0NTYubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 610,
+    "speed_kbs": 56050,
+    "resolution": "1080p",
     "referrer": ""
   },
   {
@@ -94,78 +94,8 @@
     "title": "LaoCaiTV",
     "url": "aHR0cHM6Ly9saXZlLmJhb2xhb2NhaS52bi9jaGFubmVsMi9zdHJlYW0ubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 832,
-    "speed_kbs": 86698,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "TienGiangTV.vn",
-    "title": "TienGiangTV",
-    "url": "aHR0cHM6Ly82MThiODhmNjllNTNiLnN0cmVhbWxvY2submV0L1RIRFQyL3RoZHR0djIvY2h1bmtsaXN0Lm0zdTg=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1372,
-    "speed_kbs": 27384,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "DaNangTV2.vn",
-    "title": "DaNangTV2",
-    "url": "aHR0cHM6Ly9saXZlLm1lZGlhdGVjaC52bi9saXZlLzI4NTkxNDUyOTBkMGQ3OTQ3ZWY4OGI2MjQwMTIzYjYyNDc0L2NodW5rbGlzdC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1404,
-    "speed_kbs": 22577,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "QPVN.vn",
-    "title": "QPVN",
-    "url": "aHR0cHM6Ly9xcHZuLnZuL2xpdmUvcXB2bi9tYXN0ZXIubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1416,
-    "speed_kbs": 32196,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "DaNangTV1.vn",
-    "title": "DaNangTV1",
-    "url": "aHR0cHM6Ly9saXZlLm1lZGlhdGVjaC52bi9saXZlLzI4NWI1OWExMTFkNzY5NzQyMjVhOGUzMDA0YmZjMzFhNTA5L2NodW5rbGlzdC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1480,
-    "speed_kbs": 17465,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "TayNinhTV.vn",
-    "title": "TayNinhTV",
-    "url": "aHR0cHM6Ly9saXZlLWhxLmV2Z2Nkbi5uZXQvbGl2ZS8yODUxZGMyYzlhZjY4ODM0ODE0YTg5ZTYxZGIwZmFlZTU2MS9jaHVua2xpc3QubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1656,
-    "speed_kbs": 26055,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "DienBienTV.vn",
-    "title": "DienBienTV",
-    "url": "aHR0cHM6Ly90cnV5ZW5oaW5oLnZucHR2YXMudm4vbGl2ZS5tM3U4P2M9dnN0djM2MiZkZXZpY2VJZD0mZGV2aWNlVHlwZT0mZ2NJZD0xNTMyJmxvY2F0aW9uPU5BJnBrZz1wa2cxMS5obmkmcT1oaWdoJnJlcXVlc3RUaW1lPTE1ODYzMDk0MjA3ODEmdGltZT0xNTg2Mzk1ODIwJnRva2VuPUxYLWliSllSVXE5cGZsUnRZQXhmWVEmdHlwZT10diZ1c2VySWQ9",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1682,
-    "speed_kbs": 71372,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "CanThoTV.vn",
-    "title": "CanThoTV",
-    "url": "aHR0cHM6Ly9saXZlLmNhbnRob3R2LnZuL2xpdmUvdHYvY2h1bmtsaXN0Lm0zdTg=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1691,
-    "speed_kbs": 15387,
+    "delay": 803,
+    "speed_kbs": 95824,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -174,18 +104,48 @@
     "title": "ThaiNguyenTV",
     "url": "aHR0cHM6Ly9zdHJlYW1pbmcudGhhaW5ndXllbnR2LnZuL2hscy9saXZlc3RyZWFtLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1700,
-    "speed_kbs": 5098,
+    "delay": 1092,
+    "speed_kbs": 19186,
     "resolution": "1080p",
     "referrer": ""
   },
   {
-    "channel": "HaTinhTV.vn",
-    "title": "HaTinhTV",
-    "url": "aHR0cHM6Ly93c2UuaGF0aW5odHYubmV0L2xpdmUvaHR0djEvY2h1bmtsaXN0Lm0zdTg=",
+    "channel": "TienGiangTV.vn",
+    "title": "TienGiangTV",
+    "url": "aHR0cHM6Ly82MThiODhmNjllNTNiLnN0cmVhbWxvY2submV0L1RIRFQyL3RoZHR0djIvY2h1bmtsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1725,
-    "speed_kbs": 21773,
+    "delay": 1272,
+    "speed_kbs": 25977,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DaNangTV2.vn",
+    "title": "DaNangTV2",
+    "url": "aHR0cHM6Ly9saXZlLm1lZGlhdGVjaC52bi9saXZlLzI4NTkxNDUyOTBkMGQ3OTQ3ZWY4OGI2MjQwMTIzYjYyNDc0L2NodW5rbGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1328,
+    "speed_kbs": 18677,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DaNangTV1.vn",
+    "title": "DaNangTV1",
+    "url": "aHR0cHM6Ly9saXZlLm1lZGlhdGVjaC52bi9saXZlLzI4NWI1OWExMTFkNzY5NzQyMjVhOGUzMDA0YmZjMzFhNTA5L2NodW5rbGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1334,
+    "speed_kbs": 20044,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "CanThoTV.vn",
+    "title": "CanThoTV",
+    "url": "aHR0cHM6Ly9saXZlLmNhbnRob3R2LnZuL2xpdmUvdHYvY2h1bmtsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1393,
+    "speed_kbs": 11619,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -194,8 +154,18 @@
     "title": "CanThoTV3",
     "url": "aHR0cHM6Ly9saXZlLmNhbnRob3R2LnZuL2NzMy90di9jaHVua2xpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1737,
-    "speed_kbs": 12652,
+    "delay": 1396,
+    "speed_kbs": 14336,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "QPVN.vn",
+    "title": "QPVN",
+    "url": "aHR0cHM6Ly9xcHZuLnZuL2xpdmUvcXB2bi9tYXN0ZXIubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1458,
+    "speed_kbs": 35498,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -204,8 +174,38 @@
     "title": "CaMauTV",
     "url": "aHR0cHM6Ly90di5jdHZjYW1hdS52bi9saXZlL3R2L3R2Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1753,
-    "speed_kbs": 50062,
+    "delay": 1495,
+    "speed_kbs": 53150,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DienBienTV.vn",
+    "title": "DienBienTV",
+    "url": "aHR0cHM6Ly90cnV5ZW5oaW5oLnZucHR2YXMudm4vbGl2ZS5tM3U4P2M9dnN0djM2MiZkZXZpY2VJZD0mZGV2aWNlVHlwZT0mZ2NJZD0xNTMyJmxvY2F0aW9uPU5BJnBrZz1wa2cxMS5obmkmcT1oaWdoJnJlcXVlc3RUaW1lPTE1ODYzMDk0MjA3ODEmdGltZT0xNTg2Mzk1ODIwJnRva2VuPUxYLWliSllSVXE5cGZsUnRZQXhmWVEmdHlwZT10diZ1c2VySWQ9",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1572,
+    "speed_kbs": 63442,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "TayNinhTV.vn",
+    "title": "TayNinhTV",
+    "url": "aHR0cHM6Ly9saXZlLWhxLmV2Z2Nkbi5uZXQvbGl2ZS8yODUxZGMyYzlhZjY4ODM0ODE0YTg5ZTYxZGIwZmFlZTU2MS9jaHVua2xpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1663,
+    "speed_kbs": 24468,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "HaTinhTV.vn",
+    "title": "HaTinhTV",
+    "url": "aHR0cHM6Ly93c2UuaGF0aW5odHYubmV0L2xpdmUvaHR0djEvY2h1bmtsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1815,
+    "speed_kbs": 20911,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -214,8 +214,8 @@
     "title": "CaoBangTV",
     "url": "aHR0cHM6Ly9zdHJlYW0udGhpbmduZXQudm4vbGl2ZS9zbWlsOkNSVFYuc21pbC9jaHVua2xpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 2282,
-    "speed_kbs": 18750,
+    "delay": 2270,
+    "speed_kbs": 20380,
     "resolution": "1080p",
     "referrer": ""
   }

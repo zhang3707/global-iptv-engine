@@ -2,50 +2,20 @@
   {
     "channel": "CNAOriginals.sg",
     "title": "CNAOriginals",
-    "url": "aHR0cHM6Ly9hbWcwMTA4Mi1jbmEtYW1nMDEwODJjMS1ybGF4eC11cy0xMTMwNC5wbGF5b3V0cy5ub3cuYW1hZ2kudHYvcGxheWxpc3QubTN1OA==",
+    "url": "aHR0cHM6Ly9hbWcwMTA4Mi1jbmEtYW1nMDEwODJjMS12aWRhYS1nYi03NTgwLnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 16,
-    "speed_kbs": 88456,
+    "delay": 17,
+    "speed_kbs": 98986,
     "resolution": "1080p",
     "referrer": ""
   },
   {
     "channel": "CNAOriginals.sg",
     "title": "CNAOriginals",
-    "url": "aHR0cHM6Ly9hbWcwMTA4Mi1jbmEtYW1nMDEwODJjMS12aWRhYS1nYi03NTgwLnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC5tM3U4",
+    "url": "aHR0cHM6Ly9hbWcwMTA4Mi1jbmEtYW1nMDEwODJjMS1ybGF4eC11cy0xMTMwNC5wbGF5b3V0cy5ub3cuYW1hZ2kudHYvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 18,
-    "speed_kbs": 106601,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "KCM.sg",
-    "title": "KCM",
-    "url": "aHR0cHM6Ly9hbWcwMjE1OS1hbWcwMjE1OWM3LXNhbXN1bmctaW4tNDAwMS5wbGF5b3V0cy5ub3cuYW1hZ2kudHYvcGxheWxpc3QvYW1nMDIxNTkta2NnbG9iYWwta2NtLXNhbXN1bmdpbi9wbGF5bGlzdC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 80,
-    "speed_kbs": 291574,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "AniplusAsia.sg",
-    "title": "AniplusAsia",
-    "url": "aHR0cHM6Ly9hbWcxODQ4MS1hbWcxODQ4MWMxLWFtZ3BsdDAzNTIucGxheW91dC5ub3czLmFtYWdpLnR2L3BsYXlsaXN0L2FtZzE4NDgxLWFtZzE4NDgxYzEtYW1ncGx0MDM1Mi9wbGF5bGlzdC5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 104,
-    "speed_kbs": 91986,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "ZooMoo.sg",
-    "title": "ZooMoo",
-    "url": "aHR0cHM6Ly96b29tb28tc2Ftc3VuZ2F1LmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTg=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 123,
-    "speed_kbs": 9285,
+    "speed_kbs": 5113,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -54,8 +24,38 @@
     "title": "ZooMoo",
     "url": "aHR0cHM6Ly9kMWJwdWZ1dmZheWZnOC5jbG91ZGZyb250Lm5ldC9ab29Nb28ubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 125,
-    "speed_kbs": 6639,
+    "delay": 56,
+    "speed_kbs": 50176,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "ZooMoo.sg",
+    "title": "ZooMoo",
+    "url": "aHR0cHM6Ly96b29tb28tc2Ftc3VuZ2F1LmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 61,
+    "speed_kbs": 1779,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "AniplusAsia.sg",
+    "title": "AniplusAsia",
+    "url": "aHR0cHM6Ly9hbWcxODQ4MS1hbWcxODQ4MWMxLWFtZ3BsdDAzNTIucGxheW91dC5ub3czLmFtYWdpLnR2L3BsYXlsaXN0L2FtZzE4NDgxLWFtZzE4NDgxYzEtYW1ncGx0MDM1Mi9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 85,
+    "speed_kbs": 9249,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "KCM.sg",
+    "title": "KCM",
+    "url": "aHR0cHM6Ly9hbWcwMjE1OS1hbWcwMjE1OWM3LXNhbXN1bmctaW4tNDAwMS5wbGF5b3V0cy5ub3cuYW1hZ2kudHYvcGxheWxpc3QvYW1nMDIxNTkta2NnbG9iYWwta2NtLXNhbXN1bmdpbi9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 86,
+    "speed_kbs": 276228,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -64,8 +64,8 @@
     "title": "AnimaxAsia",
     "url": "aHR0cHM6Ly9hbWcwMjE1OS1rY2dsb2JhbC1hbWcwMjE1OWMxLXNhbXN1bmctaW4tNTIxLnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC9hbWcwMjE1OS1rY2dsb2JhbC1hbmltYXgtc2Ftc3VuZ2luL3BsYXlsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 151,
-    "speed_kbs": 33340,
+    "delay": 99,
+    "speed_kbs": 25994,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -75,7 +75,7 @@
     "url": "aHR0cDovLzU0LjM3LjE5LjE1Ny9heG4vcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0OS4wLjAuMCBTYWZhcmkvNTM3LjM=",
     "delay": 152,
-    "speed_kbs": 18182,
+    "speed_kbs": 20147,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -84,8 +84,8 @@
     "title": "CNA",
     "url": "aHR0cHM6Ly9kMmUxYXNuc2w3YnI3Yi5jbG91ZGZyb250Lm5ldC83NzgyZTIwNWU3MmY0M2FlYjRhNDhlYzk3ZjY2ZWJiZS9pbmRleC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 230,
-    "speed_kbs": 65536,
+    "delay": 238,
+    "speed_kbs": 69905,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -94,18 +94,8 @@
     "title": "ZooMoo",
     "url": "aHR0cHM6Ly9jZG40LnNreWdvLm1uL2xpdmUvZGlzazEvWm9vbW9vL0hMU3YzLUZUQS9ab29tb28ubTN1OA==",
     "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0NC4wLjAuMCBTYWZhcmkvNTM3LjM2",
-    "delay": 276,
-    "speed_kbs": 33423,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "meWATCHLIVE1.sg",
-    "title": "meWATCHLIVE1",
-    "url": "aHR0cHM6Ly90Z2xtcDA0LmFrYW1haXplZC5uZXQvb3V0L3YxLzg5OGIxY2JhYzdjNzQ3ZTNiMWYzZGViNDYwZTliNjdlL21hbmlmZXN0Lm1wZA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 296,
-    "speed_kbs": 2550,
+    "delay": 275,
+    "speed_kbs": 26112,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -114,18 +104,8 @@
     "title": "ZooMoo",
     "url": "aHR0cHM6Ly9hbWcwMTU1My1ibHVlYW50bWVkaWFhc2ktem9vbW9vbnotc2Ftc3VuZ256LXJkdWZuLmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAxNTUzLWJsdWVhbnRtZWRpYWFzaS16b29tb29uei1zYW1zdW5nbnovcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 303,
-    "speed_kbs": 23877,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "CNAOriginals.sg",
-    "title": "CNAOriginals",
-    "url": "aHR0cHM6Ly9kMzVqNTA0ejB4MnZ1Mi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvMGJjOGU4Mzc2YmQ4NDE3YTFiNjc2MTEzOGFhNDFjMjZjNzMwOTMxMi9jbmEtb3JpZ2luYWxzL3BsYXlsaXN0Lm0zdTg/YWRzLnZmPVAzZVVZeVdCUjc0",
-    "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0NS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNDUuMC4wLjA=",
-    "delay": 325,
-    "speed_kbs": 156147,
+    "delay": 302,
+    "speed_kbs": 162115,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -134,8 +114,18 @@
     "title": "ZooMoo",
     "url": "aHR0cHM6Ly9jZG4tYXBzZTEtcHJvZC50c3YyLmFtYWdpLnR2L2xpbmVhci9hbWcwMTU1My1ibHVlYW50bWVkaWFhc2ktem9vbW9vbnotc2Ftc3VuZ256L3BsYXlsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 395,
-    "speed_kbs": 212427,
+    "delay": 303,
+    "speed_kbs": 22531,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "CNAOriginals.sg",
+    "title": "CNAOriginals",
+    "url": "aHR0cHM6Ly9kMzVqNTA0ejB4MnZ1Mi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvMGJjOGU4Mzc2YmQ4NDE3YTFiNjc2MTEzOGFhNDFjMjZjNzMwOTMxMi9jbmEtb3JpZ2luYWxzL3BsYXlsaXN0Lm0zdTg/YWRzLnZmPVAzZVVZeVdCUjc0",
+    "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0NS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNDUuMC4wLjA=",
+    "delay": 412,
+    "speed_kbs": 148884,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -150,12 +140,22 @@
     "referrer": ""
   },
   {
+    "channel": "meWATCHLIVE1.sg",
+    "title": "meWATCHLIVE1",
+    "url": "aHR0cHM6Ly90Z2xtcDA0LmFrYW1haXplZC5uZXQvb3V0L3YxLzg5OGIxY2JhYzdjNzQ3ZTNiMWYzZGViNDYwZTliNjdlL21hbmlmZXN0Lm1wZA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 716,
+    "speed_kbs": 32750,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "CrimePlusInvestigationAsia.sg",
     "title": "CrimePlusInvestigationAsia",
     "url": "aHR0cHM6Ly9jZG4wOWp0ZWRnZS5pbmRpaG9tZXR2LmNvbS9qb3NzLzEzMy9jcmltZWludmVzdGlnYXRpb24vaW5kZXgubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 1051,
-    "speed_kbs": 744,
+    "delay": 1005,
+    "speed_kbs": 642,
     "resolution": "720p",
     "referrer": ""
   },
