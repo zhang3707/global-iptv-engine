@@ -810,6 +810,16 @@
     "referrer": ""
   },
   {
+    "channel": "JambiTV.id",
+    "title": "JambiTV",
+    "url": "aHR0cHM6Ly9qYW1iaXR2Lmdsb2JhbGRpZ2l0YWxjb3JlLmNvbS9obHMvc2FoNXR1N0VpdmVlcG9oeWlleWllM09vdGVMMmFuZ2EubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 739,
+    "speed_kbs": 31250,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "TATV.id",
     "title": "TATV",
     "url": "aHR0cHM6Ly92Mi5zaWFyLnVzL3RhdHYvbGl2ZS5zZHAvcGxheWxpc3QubTN1OA==",

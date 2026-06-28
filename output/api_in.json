@@ -520,6 +520,16 @@
     "referrer": ""
   },
   {
+    "channel": "HareKrsnaTV.in",
+    "title": "HareKrsnaTV",
+    "url": "aHR0cHM6Ly9haXJ0ZWxhcHAuc2hlbWFyb28uY29tL2hhcmVrcnNuYXR2L3NtaWw6aGFyZWtyc25hdHZhZHAuc21pbC9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 81,
+    "speed_kbs": 8914,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "SirippoliTV.in",
     "title": "SirippoliTV",
     "url": "aHR0cDovL3B0dWYucmlkc3lzLmluL3JpcHR2L2xpdmUvS0FMQUlHTkFSX1NJUklQT0xJL2luZGV4Lm0zdTg=",
@@ -850,6 +860,16 @@
     "referrer": ""
   },
   {
+    "channel": "VTU.in",
+    "title": "VTU",
+    "url": "aHR0cHM6Ly9sYmdvLmJvenp0di5jb20vc3NoMTAxL3NzaDEwMS9hZmdoYW50aGVhdHJldHYvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 179,
+    "speed_kbs": 12288,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "24News.in",
     "title": "24News",
     "url": "aHR0cHM6Ly9zZWdtZW50Lnl1cHBjZG4ubmV0LzExMDMyMi9jaGFubmVsMjQvcGxheWxpc3QubTN1OA==",
@@ -896,6 +916,16 @@
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 191,
     "speed_kbs": 17004,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "Unite8Sports1.in",
+    "title": "Unite8Sports1",
+    "url": "aHR0cHM6Ly9sYmdvLmJvenp0di5jb20vc3NoMTAxL3NzaDEwMS9xYWxsYW1zb3J0YWRmL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 191,
+    "speed_kbs": 16705,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -4180,6 +4210,26 @@
     "referrer": ""
   },
   {
+    "channel": "ZeeCinema.in",
+    "title": "ZeeCinema",
+    "url": "aHR0cDovLzQxLjIwNS43Ny4xMDIvWkVFLUNJTkVNQS9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 426,
+    "speed_kbs": 13805,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "ZeeTV.in",
+    "title": "ZeeTV",
+    "url": "aHR0cDovLzQxLjIwNS43Ny4xMDIvWkVFLVRWL2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 427,
+    "speed_kbs": 39628,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "StarGoldSelect.in",
     "title": "StarGoldSelect",
     "url": "aHR0cDovLzEwMy4yNTMuMTguNTg6ODAwMC9wbGF5L2EwMnU=",
@@ -4187,6 +4237,16 @@
     "delay": 429,
     "speed_kbs": 10,
     "resolution": "720p",
+    "referrer": ""
+  },
+  {
+    "channel": "StarPlus.in",
+    "title": "StarPlus",
+    "url": "aHR0cDovLzQxLjIwNS43Ny4xMDIvU1RBUi1QTFVTL2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 429,
+    "speed_kbs": 19114,
+    "resolution": "1080p",
     "referrer": ""
   },
   {

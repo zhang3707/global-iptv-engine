@@ -140,6 +140,16 @@
     "referrer": ""
   },
   {
+    "channel": "ROCKAction.sg",
+    "title": "ROCKAction",
+    "url": "aHR0cDovL25tay5pb2Fway5jb206NTA1MC80Z3R2LWxpdmUxMzgvaW5kZXgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 441,
+    "speed_kbs": 130914,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "CrimePlusInvestigationAsia.sg",
     "title": "CrimePlusInvestigationAsia",
     "url": "aHR0cHM6Ly9jZG4wOWp0ZWRnZS5pbmRpaG9tZXR2LmNvbS9qb3NzLzEzMy9jcmltZWludmVzdGlnYXRpb24vaW5kZXgubTN1OA==",
@@ -147,6 +157,16 @@
     "delay": 1051,
     "speed_kbs": 744,
     "resolution": "720p",
+    "referrer": ""
+  },
+  {
+    "channel": "AXNAsia.sg",
+    "title": "AXNAsia",
+    "url": "aHR0cDovL3hwbGF0aW5tZWRpYS5jb206ODA4MC9ASktEcHJvcy8yakx3UzZndHhaMmEvMTM0MTI=",
+    "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNC4wLjAuMCBTYWZhcmkvNTM3LjM2",
+    "delay": 1178,
+    "speed_kbs": 742111,
+    "resolution": "1080p",
     "referrer": ""
   }
 ]

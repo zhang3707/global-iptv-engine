@@ -11296,6 +11296,105 @@
       "speed_kbs": 43008,
       "resolution": "1080p",
       "last_test": 1782527784.3287172
+    },
+    "https://airtelapp.shemaroo.com/harekrsnatv/smil:harekrsnatvadp.smil/playlist.m3u8": {
+      "channel": "HareKrsnaTV.in",
+      "title": "HareKrsnaTV",
+      "url": "https://airtelapp.shemaroo.com/harekrsnatv/smil:harekrsnatvadp.smil/playlist.m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referrer": null,
+      "delay": 81,
+      "speed_kbs": 8914,
+      "resolution": "1080p",
+      "last_test": 1782615031.4843576
+    },
+    "https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8": {
+      "channel": "VTU.in",
+      "title": "VTU",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referrer": null,
+      "delay": 179,
+      "speed_kbs": 12288,
+      "resolution": "1080p",
+      "last_test": 1782615031.58358
+    },
+    "https://lbgo.bozztv.com/ssh101/ssh101/qallamsortadf/playlist.m3u8": {
+      "channel": "Unite8Sports1.in",
+      "title": "Unite8Sports1",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/qallamsortadf/playlist.m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referrer": null,
+      "delay": 191,
+      "speed_kbs": 16705,
+      "resolution": "1080p",
+      "last_test": 1782615031.5953984
+    },
+    "http://41.205.77.102/ZEE-CINEMA/index.m3u8": {
+      "channel": "ZeeCinema.in",
+      "title": "ZeeCinema",
+      "url": "http://41.205.77.102/ZEE-CINEMA/index.m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referrer": null,
+      "delay": 426,
+      "speed_kbs": 13805,
+      "resolution": "1080p",
+      "last_test": 1782615031.8309216
+    },
+    "http://41.205.77.102/ZEE-TV/index.m3u8": {
+      "channel": "ZeeTV.in",
+      "title": "ZeeTV",
+      "url": "http://41.205.77.102/ZEE-TV/index.m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referrer": null,
+      "delay": 427,
+      "speed_kbs": 39628,
+      "resolution": "1080p",
+      "last_test": 1782615031.832088
+    },
+    "http://41.205.77.102/STAR-PLUS/index.m3u8": {
+      "channel": "StarPlus.in",
+      "title": "StarPlus",
+      "url": "http://41.205.77.102/STAR-PLUS/index.m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referrer": null,
+      "delay": 429,
+      "speed_kbs": 19114,
+      "resolution": "1080p",
+      "last_test": 1782615031.833307
+    },
+    "http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8": {
+      "channel": "ROCKAction.sg",
+      "title": "ROCKAction",
+      "url": "http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referrer": null,
+      "delay": 441,
+      "speed_kbs": 130914,
+      "resolution": "1080p",
+      "last_test": 1782615031.8450115
+    },
+    "https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8": {
+      "channel": "JambiTV.id",
+      "title": "JambiTV",
+      "url": "https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referrer": null,
+      "delay": 739,
+      "speed_kbs": 31250,
+      "resolution": "1080p",
+      "last_test": 1782615032.1426523
+    },
+    "http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/13412": {
+      "channel": "AXNAsia.sg",
+      "title": "AXNAsia",
+      "url": "http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/13412",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referrer": null,
+      "delay": 1178,
+      "speed_kbs": 742111,
+      "resolution": "1080p",
+      "last_test": 1782615032.5804012
     }
   },
   "blacklist": {
@@ -15417,6 +15516,10 @@
     },
     "https://trs1.aynaott.com/RongeenTV/index.m3u8": {
       "fail_time": 1782548974.038045,
+      "reason": "Dead Link or Timeout"
+    },
+    "http://212.102.34.8:9080/AndFlixHD/video.m3u8": {
+      "fail_time": 1782615031.3888552,
       "reason": "Dead Link or Timeout"
     }
   }
