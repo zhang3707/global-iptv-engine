@@ -158,15 +158,5 @@
     "speed_kbs": 642,
     "resolution": "720p",
     "referrer": ""
-  },
-  {
-    "channel": "AXNAsia.sg",
-    "title": "AXNAsia",
-    "url": "aHR0cDovL3hwbGF0aW5tZWRpYS5jb206ODA4MC9ASktEcHJvcy8yakx3UzZndHhaMmEvMTM0MTI=",
-    "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNC4wLjAuMCBTYWZhcmkvNTM3LjM2",
-    "delay": 1178,
-    "speed_kbs": 742111,
-    "resolution": "1080p",
-    "referrer": ""
   }
 ]
