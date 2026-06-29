@@ -160,46 +160,52 @@ async def main():
     async with aiohttp.ClientSession() as session:
         print("📡 正在全量并网官方真理 JSON 数据库...")
         try:
-            async with session.get(STREAMS_API_URL, timeout=30) as resp:
+            # 🚀 🟢 强制兼容你的 iptv-api 吐出来的 result.txt 格式
+            async with session.get("https://raw.githubusercontent.com/zhang3707/iptv-api/refs/heads/master/output/user_result.m3u", timeout=30) as resp:
                 if resp.status != 200:
                     print(f"❌ 抓取失败，状态码: {resp.status}")
                     return
                 
-                raw_json = await resp.json()
+                raw_text = await resp.text()
+                print("📡 成功对接上游真理水源，开始人肉解码...")
                 
-                for item in raw_json:
-                    channel_raw = item.get("channel")
-                    url_raw = item.get("url")
+                current_genre = "未分类"
+                for line in raw_text.split("\n"):
+                    line = line.strip()
+                    if not line: continue
                     
-                    if not channel_raw or not url_raw: continue
-                    
-                    channel = str(channel_raw).strip()
-                    url = str(url_raw).strip()
-                    
-                    # 🎯 🚀 【核心改动】：双轨制智能国家识别引擎！
-                    # 优先提取官方自带的 country 字段（通常是小写的 'hk', 'cn', 'ca'），如果不存在，再降维兼容后缀
-                    country_code = item.get("country", "").upper()
-                    
-                    if not country_code and "." in channel:
-                        country_code = channel.split(".")[-1].upper()
+                    # 判定分类标签（例如：中国香港,#genre#）
+                    if ",#genre#" in line:
+                        current_genre = line.split(",")[0].strip()
+                        continue
                         
-                    # 强制标准化对齐
-                    country_code = country_code.strip().upper()
-                    
-                    # 🟢 只要命中我们东南亚/南亚/港澳台战略版图，全量无条件开闸放行！
-                    if country_code in GLOBAL_COUNTRIES:
-                        ua_raw = item.get("user_agent")
-                        user_agent = str(ua_raw).strip() if ua_raw else "Mozilla/5.0"
+                    # 判定频道与链接（例如：TVB Jade, http://xxx）
+                    if "," in line and "http" in line:
+                        ch_name, ch_url = line.split(",", 1)
+                        ch_name = ch_name.strip()
+                        ch_url = ch_url.strip()
                         
-                        # 确保分类标记统一使用点号后缀，对齐你原项目的分类器
-                        normalized_channel = f"{channel}.{country_code}" if country_code not in channel else channel
+                        # 🛠️ 自动根据分类或名字，把国家后缀精准补全，物理对齐下游的 api_*.json
+                        suffix = "CN"
+                        if "香港" in current_genre or "HK" in ch_name: suffix = "HK"
+                        elif "台湾" in current_genre or "TW" in ch_name: suffix = "TW"
+                        elif "新加坡" in current_genre or "SG" in ch_name: suffix = "SG"
+                        elif "美国" in current_genre or "US" in ch_name: suffix = "US"
+                        elif "马来西亚" in current_genre or "MY" in ch_name: suffix = "MY"
+                        elif "泰国" in current_genre or "TH" in ch_name: suffix = "TH"
+                        elif "越南" in current_genre or "VN" in ch_name: suffix = "VN"
+                        elif "印度" in current_genre or "IN" in ch_name: suffix = "IN"
+                        elif "印度尼西亚" in current_genre or "ID" in ch_name: suffix = "ID"
+                        elif "菲律宾" in current_genre or "PH" in ch_name: suffix = "PH"
+                        elif "缅甸" in current_genre or "MM" in ch_name: suffix = "MM"
                         
+                        # 完美伪装并混入候选池！
                         all_raw.append({
-                            "channel": normalized_channel,
-                            "title": channel.split(".")[0],
-                            "url": url,
-                            "user_agent": user_agent,
-                            "referrer": item.get("referrer")
+                            "channel": f"{ch_name}.{suffix.lower()}.{suffix}",
+                            "title": ch_name,
+                            "url": ch_url,
+                            "user_agent": "Mozilla/5.0",
+                            "referrer": ""
                         })
         except Exception as e:
             print(f"❌ 运行期出现异常: {e}")
