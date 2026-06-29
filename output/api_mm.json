@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "channel": "MRTV.mm.MM",
+    "title": "MRTV",
+    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvbW0ubTN1",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 117,
+    "speed_kbs": 163840,
+    "resolution": "1080p",
+    "referrer": ""
+  }
+]
