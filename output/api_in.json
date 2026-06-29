@@ -1,1 +1,232 @@
-[]
+[
+  {
+    "channel": "CNN HEADLINES.in.IN",
+    "title": "CNN HEADLINES",
+    "url": "aHR0cHM6Ly9qbXAyLnVrL3BsdS01NDIxZjcxZGE2YWY0MjI4Mzk0MTljYjMubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 111,
+    "speed_kbs": 468345,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "Metro TV.in.IN",
+    "title": "Metro TV",
+    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvaWQubTN1",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 116,
+    "speed_kbs": 1254066,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "LINQ TV (480p).in.IN",
+    "title": "LINQ TV (480p)",
+    "url": "aHR0cHM6Ly9tczcubXgtY2QubmV0L2R0di0wOS8yNDYtMjA5MDAyMi9MaW5xX01lZGlhX1RWLnNtaWwvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 130,
+    "speed_kbs": 14456,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "beIN Sports XTRA en Espanol (1080p).in.IN",
+    "title": "beIN Sports XTRA en Espanol (1080p)",
+    "url": "aHR0cHM6Ly9kYzE2NDRhOWphemdqLmNsb3VkZnJvbnQubmV0L2JlSU5fU3BvcnRzX1h0cmFfRXNwYW5vbC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 133,
+    "speed_kbs": 76267,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "MINFAV TV.in.IN",
+    "title": "MINFAV TV",
+    "url": "aHR0cHM6Ly9tcC5wYW5lbGNocy5jb206MTkzNi84MDQ0LzgwNDQvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 133,
+    "speed_kbs": 13555,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "IRINN (576p).in.IN",
+    "title": "IRINN (576p)",
+    "url": "aHR0cDovLzE4NS45LjIuMTgvY2hpZF85MjYvaW5kZXgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 141,
+    "speed_kbs": 10803,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "CBS 22 South Bend IN (WSBT) (1080p).in.IN",
+    "title": "CBS 22 South Bend IN (WSBT) (1080p)",
+    "url": "aHR0cHM6Ly9saW5lYXItNjkzLmZyZXF1ZW5jeS5zdHJlYW0vZGlzdC9zdGlyci82OTMvaGxzL21hc3Rlci9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 148,
+    "speed_kbs": 141425,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "INA 70 (720p).in.IN",
+    "title": "INA 70 (720p)",
+    "url": "aHR0cHM6Ly9qbXAyLnVrL3BsdS02MzliNTQ0MDRjZmRmNzAwMDcyOWIzYzEubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 149,
+    "speed_kbs": 444928,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "Radio-Canada INFO (720p).in.IN",
+    "title": "Radio-Canada INFO (720p)",
+    "url": "aHR0cHM6Ly9qbXAyLnVrL3BsdS02MmNjMWUxZTBkMDYxMTAwMDgzN2RjMWQubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 166,
+    "speed_kbs": 444928,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "Channel WIN (720p).in.IN",
+    "title": "Channel WIN (720p)",
+    "url": "aHR0cHM6Ly9jZG4tNC5waXNob3cudHYvbGl2ZS8yMjkvbWFzdGVyLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 208,
+    "speed_kbs": 36664,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "beIN SPORTS XTRA (1080p).in.IN",
+    "title": "beIN SPORTS XTRA (1080p)",
+    "url": "aHR0cHM6Ly9iZWluLXh0cmEtYmVpbi5hbWFnaS50di9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 209,
+    "speed_kbs": 77295,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "INews (720p).in.IN",
+    "title": "INews (720p)",
+    "url": "aHR0cHM6Ly9jZG4tMS5waXNob3cudHYvbGl2ZS80MTEvbWFzdGVyLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 218,
+    "speed_kbs": 9055,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "CINDIE TV (1080p).in.IN",
+    "title": "CINDIE TV (1080p)",
+    "url": "aHR0cHM6Ly9jYy1ocXc4dTVyMW5zaGpjLmFrYW1haXplZC5uZXQvc2NoZWR1bGVyL3NjaGVkdWxlTWFzdGVyLzM1Mi5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 296,
+    "speed_kbs": 59346,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "Zylo ScreamIN (1080p).in.IN",
+    "title": "Zylo ScreamIN (1080p)",
+    "url": "aHR0cHM6Ly9yYWt1dGVuYWEtenlsby1zY3JlYW1pbi1yYWt1dGVuLXAxMWVqLmFtYWdpLnR2L3BsYXlsaXN0L3Jha3V0ZW5BQS16eWxvLXNjcmVhbWluLXJha3V0ZW4vcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 335,
+    "speed_kbs": 227217,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "INA 70s (1080p).in.IN",
+    "title": "INA 70s (1080p)",
+    "url": "aHR0cHM6Ly9mYXN0LXJha3V0ZW4ub2thc3QudHYvZmEyZThjNDM4NTcxMmY5YWYzZTcxOWVjOTA0YjM1NDMvY2hhbm5lbHMvMzRkODJmNzYtYjUxZi00YmY1LTliMzUtNzY5ZmI1OTA0ZTc5Lzk2Zjk2NDA1LTkwZTctNDg5YS1hMWU2LThlZGU1ZDJiNDkzMy9tZWRpYV8ubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 350,
+    "speed_kbs": 136496,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "INFAST (1080p).in.IN",
+    "title": "INFAST (1080p)",
+    "url": "aHR0cHM6Ly9hbWcwMDg2MS10ZXJuaW50ZXJuYXRpb24tbGlmZXN0eWxlLXNhbXN1bmdhdS1rZGx5eS5hbWFnaS50di9wbGF5bGlzdC9hbWcwMDg2MS10ZXJuaW50ZXJuYXRpb24tbGlmZXN0eWxlLXNhbXN1bmdhdS9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 368,
+    "speed_kbs": 315205,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "INTER 24/7 (1080p).in.IN",
+    "title": "INTER 24/7 (1080p)",
+    "url": "aHR0cHM6Ly9hbWcyNzYwNC1hbWcyNzYwNGMxLWFtZ3BsdDAwMDIucGxheW91dC5ub3czLmFtYWdpLnR2L3BsYXlsaXN0L2FtZzI3NjA0LWFtZzI3NjA0YzEtYW1ncGx0MDAwMi9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 377,
+    "speed_kbs": 9259,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "INA Ardivision (1080p).in.IN",
+    "title": "INA Ardivision (1080p)",
+    "url": "aHR0cHM6Ly9mYXN0LXJha3V0ZW4ub2thc3QudHYvZmEyZThjNDM4NTcxMmY5YTNiNTc5NzQ3ZTQ0ODY5OWMvY2hhbm5lbHMvMzRkODJmNzYtYjUxZi00YmY1LTliMzUtNzY5ZmI1OTA0ZTc5L2E0MjI2Njk5LWI2ODUtNGY1ZC05Y2I2LTJhNmNhYzE0YzM3Ny9tZWRpYV8ubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 488,
+    "speed_kbs": 140288,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "DASDING 90.8 (720p).in.IN",
+    "title": "DASDING 90.8 (720p)",
+    "url": "aHR0cHM6Ly9zd3JkYXNkaW5ndnItaGxzLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjAxODY4MS9kYXNkaW5ndnIvbWFzdGVyLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 604,
+    "speed_kbs": 261006,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "INWILD (1080p).in.IN",
+    "title": "INWILD (1080p)",
+    "url": "aHR0cHM6Ly9hbWcwMDg2MS10ZXJuaW50ZXJuYXRpb24taW53aWxkLXNhbXN1bmd1ay13NXdpYy5hbWFnaS50di9wbGF5bGlzdC9hbWcwMDg2MS10ZXJuaW50ZXJuYXRpb24taW53aWxkLXNhbXN1bmd1ay9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 629,
+    "speed_kbs": 37959,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "INTROUBLE (1080p).in.IN",
+    "title": "INTROUBLE (1080p)",
+    "url": "aHR0cHM6Ly9hbWcwMDg2MS1hbWcwMDg2MWM2LXN0aXJyLXVzLTgyMjkucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 698,
+    "speed_kbs": 2730,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "IRINN2 Live Farsi News.in.IN",
+    "title": "IRINN2 Live Farsi News",
+    "url": "aHR0cHM6Ly9uY2RuLnRlbGV3ZWJpb24uaXIvaXJpbm4yL2xpdmUvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 900,
+    "speed_kbs": 30612,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "Dunya News (INT Feed) (720p) [Not 24/7].in.IN",
+    "title": "Dunya News (INT Feed) (720p) [Not 24/7]",
+    "url": "aHR0cHM6Ly9pbW9iLmR1bnlhbmV3cy50di9saXZlaGQvbmdycDpkdW55YWxpdmVoZF8yX2FsbC9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 2149,
+    "speed_kbs": 41283,
+    "resolution": "1080p",
+    "referrer": ""
+  }
+]

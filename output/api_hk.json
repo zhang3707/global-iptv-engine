@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "channel": "TVB Jade.hk.HK",
+    "title": "TVB Jade",
+    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvaGsubTN1",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 120,
+    "speed_kbs": 247901,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "NHK World-Japan (1080p).hk.HK",
+    "title": "NHK World-Japan (1080p)",
+    "url": "aHR0cHM6Ly9tYXN0ZXJwbC5obHMubmhrd29ybGQuanAvaGxzL3cvbGl2ZS9zbWFydHR2Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 216,
+    "speed_kbs": 162511,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "NHK World-Japan HD (1080p) [Geo-blocked].hk.HK",
+    "title": "NHK World-Japan HD (1080p) [Geo-blocked]",
+    "url": "aHR0cHM6Ly9uaGsubGxzLnBicy5vcmcvaW5kZXgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 352,
+    "speed_kbs": 96028,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "Haddam Killingworth High School TV (HKTV) (1080p) [Geo-blocked].hk.HK",
+    "title": "Haddam Killingworth High School TV (HKTV) (1080p) [Geo-blocked]",
+    "url": "aHR0cHM6Ly9yZWZsZWN0LWhrdHYuY2FibGVjYXN0LnR2L2xpdmUtMy9saXZlL2xpdmUubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 581,
+    "speed_kbs": 26934,
+    "resolution": "1080p",
+    "referrer": ""
+  }
+]

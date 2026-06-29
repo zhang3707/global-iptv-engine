@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "channel": "MSG (720p).sg.SG",
+    "title": "MSG (720p)",
+    "url": "aHR0cDovLzIzLjIzNy4xMDQuMTA2OjgwODAvVVNBX01TRy9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 66,
+    "speed_kbs": 23424,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "Channel 8.sg.SG",
+    "title": "Channel 8",
+    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvc2cubTN1",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 102,
+    "speed_kbs": 292684,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "Channel U.sg.SG",
+    "title": "Channel U",
+    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvc2cubTN1",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 107,
+    "speed_kbs": 417075,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "Channel 5.sg.SG",
+    "title": "Channel 5",
+    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvc2cubTN1",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 124,
+    "speed_kbs": 406902,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "SGTV (Seminole County FL) (1080p).sg.SG",
+    "title": "SGTV (Seminole County FL) (1080p)",
+    "url": "aHR0cHM6Ly9saXZlLnNlbWlub2xlY291bnR5ZmwuZ292L2xpdmUtMi9saXZlL3N0cmVhbS0xL2xpdmUubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 397,
+    "speed_kbs": 54497,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "MSG SportsZone (720p).sg.SG",
+    "title": "MSG SportsZone (720p)",
+    "url": "aHR0cHM6Ly9kMmEzMWt6b3Q0Zjh0My5jbG91ZGZyb250Lm5ldC92MS9hbWNfbXNnc3BvcnRzem9uZV8xL3NhbXN1bmdoZWFkZW5kX3VzL2xhdGVzdC9tYWluL2hscy9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 398,
+    "speed_kbs": 64040,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "Sent TV Global Network Atlanta (SGTN-49) (720p).sg.SG",
+    "title": "Sent TV Global Network Atlanta (SGTN-49) (720p)",
+    "url": "aHR0cHM6Ly9ycG4uYm96enR2LmNvbS9ndXNhL2d1c2Etc3Rnbi9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 408,
+    "speed_kbs": 14759,
+    "resolution": "1080p",
+    "referrer": ""
+  }
+]

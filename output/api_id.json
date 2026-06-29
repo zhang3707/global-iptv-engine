@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "channel": "Le Figaro IDF (1080p).id.ID",
+    "title": "Le Figaro IDF (1080p)",
+    "url": "aHR0cHM6Ly9maWdhcm90di1saXZlLmZyZWVjYXN0ZXIuY29tL2xpdmUvZnJlZWNhc3Rlci9maWdhcm90di5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 191,
+    "speed_kbs": 90112,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "BRIDGE Hits (576p).id.ID",
+    "title": "BRIDGE Hits (576p)",
+    "url": "aHR0cDovLzMxLjE0OC40OC4xNS9CcmlkZ2VfVFZfRGFuY2UvaW5kZXgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 221,
+    "speed_kbs": 15928,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "BRIDGE Deluxe (1080p).id.ID",
+    "title": "BRIDGE Deluxe (1080p)",
+    "url": "aHR0cDovLzMxLjE0OC40OC4xNS9CcmlkZ2VfVFZfSEQvaW5kZXgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 227,
+    "speed_kbs": 16209,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "BRIDGE Classic (576p).id.ID",
+    "title": "BRIDGE Classic (576p)",
+    "url": "aHR0cDovLzMxLjE0OC40OC4xNS9CcmlkZ2VfVFZfQ2xhc3NpYy9pbmRleC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 232,
+    "speed_kbs": 13294,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "BRIDGE (576p).id.ID",
+    "title": "BRIDGE (576p)",
+    "url": "aHR0cDovLzMxLjE0OC40OC4xNS9CcmlkZ2VfVFYvaW5kZXgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 234,
+    "speed_kbs": 12422,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "ANIME x HIDIVE (720p) [Geo-blocked].id.ID",
+    "title": "ANIME x HIDIVE (720p) [Geo-blocked]",
+    "url": "aHR0cHM6Ly9kM2YwODhubnJydmt3Zi5jbG91ZGZyb250Lm5ldC92MS9hbWNfYW5pbWVfeF9oaWRpdmVfMS9zYW1zdW5naGVhZGVuZF91cy9sYXRlc3QvbWFpbi9obHMvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 258,
+    "speed_kbs": 88064,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "PRIDEtv LATAM (1080p).id.ID",
+    "title": "PRIDEtv LATAM (1080p)",
+    "url": "aHR0cHM6Ly9iYWNrZW5kLmVuZXJnZWVrLmNsL3dlYnR2L3ByaWRldHZ3ZWIvaW5kZXgubTN1OD90b2tlbj1aWkRlbW9JUFRWR0g=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 477,
+    "speed_kbs": 19083,
+    "resolution": "1080p",
+    "referrer": ""
+  }
+]

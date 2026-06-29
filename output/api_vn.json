@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "channel": "KUVN-DT1.vn.VN",
+    "title": "KUVN-DT1",
+    "url": "aHR0cHM6Ly9zdHJlYW1pbmctbGl2ZS1mY2RuLmFwaS5wcmQudW5pdmlzaW9ubm93LmNvbS9rdXZuL2t1dm4uaXNtbC9obHMva3V2bi5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 19,
+    "speed_kbs": 141474,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "VNP.vn.VN",
+    "title": "VNP",
+    "url": "aHR0cHM6Ly92aWRlb3NlcnZlci50bWNyZWF0aXZvcy5jb206MTkzNjAvdmlzaW9ubm90aWNpYXMvdmlzaW9ubm90aWNpYXMubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 57,
+    "speed_kbs": 31038,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "CTVN AKD Plus (1080p).vn.VN",
+    "title": "CTVN AKD Plus (1080p)",
+    "url": "aHR0cHM6Ly9saXZlLmxlZ2l0cHJvLmNvLmluL2N0dm5ha2RwbHVzL2luZGV4Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 196,
+    "speed_kbs": 65163,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "TVN3 (1080p) [Geo-blocked].vn.VN",
+    "title": "TVN3 (1080p) [Geo-blocked]",
+    "url": "aHR0cHM6Ly9tZHN0cm0uY29tL2xpdmUtc3RyZWFtLXBsYXlsaXN0LzU2NTM2NDE1NjFiNGViYTMwYTdlNDkyOS5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 278,
+    "speed_kbs": 108989,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "TVNBN (720p).vn.VN",
+    "title": "TVNBN (720p)",
+    "url": "aHR0cHM6Ly9jZG4uam12c3RyZWFtLmNvbS93L0xWVy04NDEwL0xWVzg0MTBfdWlaT1ZtNnZ6MS9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 331,
+    "speed_kbs": 9892,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "TVNET (1080p).vn.VN",
+    "title": "TVNET (1080p)",
+    "url": "aHR0cHM6Ly90dm5ldC1saXZlLmxnLm1uY2RuLmNvbS90dm5ldC90dm5ldC9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 424,
+    "speed_kbs": 9362,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "TVNET (360p).vn.VN",
+    "title": "TVNET (360p)",
+    "url": "aHR0cHM6Ly9wbGF5ZXIudHZuZXQubHYvc3RyZWFtL2FtbHN0OjYxNjU5L3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 792,
+    "speed_kbs": 12492,
+    "resolution": "1080p",
+    "referrer": ""
+  }
+]

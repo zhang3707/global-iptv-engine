@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "channel": "TVBS News.tw.TW",
+    "title": "TVBS News",
+    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvdHcubTN1",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 109,
+    "speed_kbs": 337835,
+    "resolution": "1080p",
+    "referrer": ""
+  }
+]

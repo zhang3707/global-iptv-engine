@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "channel": "RTH-TV1 (1080p).th.TH",
+    "title": "RTH-TV1 (1080p)",
+    "url": "aHR0cHM6Ly8yLWZzcy0yLnN0cmVhbWhvc3Rlci5jb20vcGxfMTIwL2FtbHN0OjIwNjcwOC00MjAzNDQwL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 72,
+    "speed_kbs": 7,
+    "resolution": "720p",
+    "referrer": ""
+  },
+  {
+    "channel": "RTH-TV2 Gospel (720p).th.TH",
+    "title": "RTH-TV2 Gospel (720p)",
+    "url": "aHR0cHM6Ly8yLWZzcy0yLnN0cmVhbWhvc3Rlci5jb20vcGxfMTIwL2FtbHN0OjIwNjcwOC00MjAyNTkyL3BsYXlsaXN0Lm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 95,
+    "speed_kbs": 7,
+    "resolution": "720p",
+    "referrer": ""
+  },
+  {
+    "channel": "Thairath TV.th.TH",
+    "title": "Thairath TV",
+    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvdGgubTN1",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 106,
+    "speed_kbs": 230987,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "Amarin TV.th.TH",
+    "title": "Amarin TV",
+    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvdGgubTN1",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 115,
+    "speed_kbs": 414418,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "BIG BROTHER CLASSIC.th.TH",
+    "title": "BIG BROTHER CLASSIC",
+    "url": "aHR0cHM6Ly9qbXAyLnVrL3BsdS02NjNlMDllNGIxOGQ3MDAwMDhlNDhkY2YubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 137,
+    "speed_kbs": 249774,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "MCOT HD.th.TH",
+    "title": "MCOT HD",
+    "url": "aHR0cHM6Ly9tY290aGQtc3RyZWFtaW5nLWVkZ2UtY2RuLm1jb3QubmV0L3RlbmNlbnRtY290L3NtaWw6dGVuY2VudG1jb3Quc21pbC9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 515,
+    "speed_kbs": 32662,
+    "resolution": "1080p",
+    "referrer": ""
+  }
+]

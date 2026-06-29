@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "channel": "Bellator MMA.mm.MM",
+    "title": "Bellator MMA",
+    "url": "aHR0cHM6Ly9qbXAyLnVrL3BsdS01ZWJjODY4OGYzNjk3ZDAwMDcyZjdjZjgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 94,
+    "speed_kbs": 243796,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "MRTV.mm.MM",
+    "title": "MRTV",
+    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvbW0ubTN1",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 117,
+    "speed_kbs": 163840,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "CMM TV HD (1080p).mm.MM",
+    "title": "CMM TV HD (1080p)",
+    "url": "aHR0cHM6Ly9jZG5hcGlzZWMua2FsdHVyYS5jb20vcC8yMjg4NjkxL3NwLzIyODg2OTEwMC9wbGF5TWFuaWZlc3QvZW50cnlJZC8xX2duejZpdHk5L3Byb3RvY29sL2h0dHBzL2Zvcm1hdC9hcHBsZWh0dHAvZmxhdm9ySWRzLzFfYTlneGd4enksMV92NzFyeWc0YiwxX3ZiZnZ0anc2LDFfb2JvMWJxc3gsMV8zc2hrM3M1ZC9hLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 127,
+    "speed_kbs": 421302,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "MMA-TV (576p).mm.MM",
+    "title": "MMA-TV (576p)",
+    "url": "aHR0cDovLzMxLjE0OC40OC4xNS9NMV9HbG9iYWwvaW5kZXgubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 221,
+    "speed_kbs": 12629,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "MMA TV.com (1080p).mm.MM",
+    "title": "MMA TV.com (1080p)",
+    "url": "aHR0cHM6Ly9zdHJlYW1zMi5zb2Zhc3QudHYvdmdsaXZlLXNrLTQ2MjkwNC9wbGF5bGlzdC5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 347,
+    "speed_kbs": 79041,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "MMTV (1080p).mm.MM",
+    "title": "MMTV (1080p)",
+    "url": "aHR0cHM6Ly9zZW5kbGl2ZS5vbmxpbmUvaGxzL21tdHYubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 572,
+    "speed_kbs": 75056,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "TBMM TV (720p).mm.MM",
+    "title": "TBMM TV (720p)",
+    "url": "aHR0cHM6Ly9tZWNsaXN0di1saXZlLmVyY2RuLm5ldC9tZWNsaXN0di9tZWNsaXN0di5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 714,
+    "speed_kbs": 10637,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "PFL MMA (720p).mm.MM",
+    "title": "PFL MMA (720p)",
+    "url": "aHR0cHM6Ly9qbXAyLnVrL3BsdS02NGY2MTgwMTMwYWIzMzAwMDgzZDg5NmIubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 1253,
+    "speed_kbs": 494705,
+    "resolution": "1080p",
+    "referrer": ""
+  }
+]
