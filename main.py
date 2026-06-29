@@ -147,7 +147,7 @@ async def deep_test_stream(session, semaphore, stream, db):
         return None
 
 # =========================================================================
-# 🚀 主控制中心
+# 🚀 降维解封版：主控制中心（彻底干掉 "." 后缀盲区， ALL IN 全球活水）
 # =========================================================================
 async def main():
     start_all = time.time()
@@ -176,24 +176,36 @@ async def main():
                     channel = str(channel_raw).strip()
                     url = str(url_raw).strip()
                     
-                    if "." in channel:
-                        suffix = channel.split(".")[-1].upper()
-                        if suffix in GLOBAL_COUNTRIES:
-                            ua_raw = item.get("user_agent")
-                            user_agent = str(ua_raw).strip() if ua_raw else "Mozilla/5.0"
-                            
-                            all_raw.append({
-                                "channel": channel,
-                                "title": channel.split(".")[0],
-                                "url": url,
-                                "user_agent": user_agent,
-                                "referrer": item.get("referrer")
-                            })
+                    # 🎯 🚀 【核心改动】：双轨制智能国家识别引擎！
+                    # 优先提取官方自带的 country 字段（通常是小写的 'hk', 'cn', 'ca'），如果不存在，再降维兼容后缀
+                    country_code = item.get("country", "").upper()
+                    
+                    if not country_code and "." in channel:
+                        country_code = channel.split(".")[-1].upper()
+                        
+                    # 强制标准化对齐
+                    country_code = country_code.strip().upper()
+                    
+                    # 🟢 只要命中我们东南亚/南亚/港澳台战略版图，全量无条件开闸放行！
+                    if country_code in GLOBAL_COUNTRIES:
+                        ua_raw = item.get("user_agent")
+                        user_agent = str(ua_raw).strip() if ua_raw else "Mozilla/5.0"
+                        
+                        # 确保分类标记统一使用点号后缀，对齐你原项目的分类器
+                        normalized_channel = f"{channel}.{country_code}" if country_code not in channel else channel
+                        
+                        all_raw.append({
+                            "channel": normalized_channel,
+                            "title": channel.split(".")[0],
+                            "url": url,
+                            "user_agent": user_agent,
+                            "referrer": item.get("referrer")
+                        })
         except Exception as e:
             print(f"❌ 运行期出现异常: {e}")
             return
 
-    print(f"📊 数据库解析完毕！成功锁定全球核心候选流: {len(all_raw)} 条。开始第一级【漏斗粗筛】...")
+    print(f"📊 数据库解析完毕！【封印彻底解除】成功锁定全球核心候选流: {len(all_raw)} 条。开始第一级【漏斗粗筛】...")
     if not all_raw:
         print("⚠️ 候选池为空。")
         return
