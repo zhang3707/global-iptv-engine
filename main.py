@@ -161,7 +161,7 @@ async def main():
         print("📡 正在全量并网官方真理 JSON 数据库...")
         try:
             # 🚀 🟢 强制兼容你的 iptv-api 吐出来的 result.txt 格式
-            async with session.get("https://raw.githubusercontent.com/zhang3707/iptv-api/refs/heads/master/output/user_result.m3u", timeout=30) as resp:
+            async with session.get("https://raw.githubusercontent.com/zhang3707/iptv-api/refs/heads/master/output/user_result.txt", timeout=30) as resp:
                 if resp.status != 200:
                     print(f"❌ 抓取失败，状态码: {resp.status}")
                     return
