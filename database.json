@@ -11028,10 +11028,10 @@
       "url": "https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": null,
-      "delay": 1253,
-      "speed_kbs": 9352,
+      "delay": 1185,
+      "speed_kbs": 7903,
       "resolution": "1080p",
-      "last_test": 1782441890.0165389
+      "last_test": 1782701449.0090427
     },
     "http://217.20.112.199:8080/cgtn/index.m3u8": {
       "channel": "CGTN.cn",
