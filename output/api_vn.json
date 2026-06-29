@@ -1,6 +1,6 @@
 [
   {
-    "channel": "UniquelyThai.vn",
+    "channel": "UniquelyThai.vn.VN",
     "title": "UniquelyThai",
     "url": "aHR0cHM6Ly9saXZlZnRhLm1hbGltYXJjZG4uY29tL2Z0YWVkZ2UwMC91bmlxdWVseS5zZHAvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -10,7 +10,7 @@
     "referrer": ""
   },
   {
-    "channel": "TeaTV.vn",
+    "channel": "TeaTV.vn.VN",
     "title": "TeaTV",
     "url": "aHR0cHM6Ly9saXZlZnRhLm1hbGltYXJjZG4uY29tL2Z0YWVkZ2UwMC90ZWF0di5zZHAvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -20,7 +20,7 @@
     "referrer": ""
   },
   {
-    "channel": "LaoSVTV.vn",
+    "channel": "LaoSVTV.vn.VN",
     "title": "LaoSVTV",
     "url": "aHR0cHM6Ly9saXZlZnRhLm1hbGltYXJjZG4uY29tL2Z0YWVkZ2UwMC9sYW9zdnR2LnN0cmVhbS9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -30,7 +30,7 @@
     "referrer": ""
   },
   {
-    "channel": "NgheAnTV.vn",
+    "channel": "NgheAnTV.vn.VN",
     "title": "NgheAnTV",
     "url": "aHR0cHM6Ly9saXZlLm1lZGlhdGVjaC52bi9saXZlLzI4NTk1OTFlZWYyZTkyMjQ5YjY4MmRiMDIxZjQyNDdjMzY0L2NodW5rbGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -40,7 +40,7 @@
     "referrer": ""
   },
   {
-    "channel": "QuangNgaiTV.vn",
+    "channel": "QuangNgaiTV.vn.VN",
     "title": "QuangNgaiTV",
     "url": "aHR0cHM6Ly9saXZlLm1lZGlhdGVjaC52bi9saXZlLzI4NWFhYTc5YjRiMjY1YTQ1N2Q4MWJiNzJiYzMyZTJjMTE0L2NodW5rbGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -50,7 +50,7 @@
     "referrer": ""
   },
   {
-    "channel": "DongNaiTV2.vn",
+    "channel": "DongNaiTV2.vn.VN",
     "title": "DongNaiTV2",
     "url": "aHR0cDovLzExOC4xMDcuODUuNDoxOTM1L2xpdmUvc21pbDpETlRWMi5zbWlsL2NodW5rbGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -60,7 +60,7 @@
     "referrer": ""
   },
   {
-    "channel": "LamDongTV.vn",
+    "channel": "LamDongTV.vn.VN",
     "title": "LamDongTV",
     "url": "aHR0cDovLzExOC4xMDcuODUuNToxOTM1L2xpdmUvc21pbDpMVFYuc21pbC9jaHVua2xpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -70,7 +70,7 @@
     "referrer": ""
   },
   {
-    "channel": "DongNaiTV1.vn",
+    "channel": "DongNaiTV1.vn.VN",
     "title": "DongNaiTV1",
     "url": "aHR0cDovLzExOC4xMDcuODUuNDoxOTM1L2xpdmUvc21pbDpETlRWMS5zbWlsL2NodW5rbGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -80,7 +80,7 @@
     "referrer": ""
   },
   {
-    "channel": "VietnamToday.vn",
+    "channel": "VietnamToday.vn.VN",
     "title": "VietnamToday",
     "url": "aHR0cHM6Ly9hbWFnaS1saXZlLm9uZGVtYW5ka29yZWEuY29tL2FtZ3BsdDA0NTYubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -90,7 +90,7 @@
     "referrer": ""
   },
   {
-    "channel": "LaoCaiTV.vn",
+    "channel": "LaoCaiTV.vn.VN",
     "title": "LaoCaiTV",
     "url": "aHR0cHM6Ly9saXZlLmJhb2xhb2NhaS52bi9jaGFubmVsMi9zdHJlYW0ubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -100,7 +100,7 @@
     "referrer": ""
   },
   {
-    "channel": "ThaiNguyenTV.vn",
+    "channel": "ThaiNguyenTV.vn.VN",
     "title": "ThaiNguyenTV",
     "url": "aHR0cHM6Ly9zdHJlYW1pbmcudGhhaW5ndXllbnR2LnZuL2hscy9saXZlc3RyZWFtLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -110,7 +110,7 @@
     "referrer": ""
   },
   {
-    "channel": "TienGiangTV.vn",
+    "channel": "TienGiangTV.vn.VN",
     "title": "TienGiangTV",
     "url": "aHR0cHM6Ly82MThiODhmNjllNTNiLnN0cmVhbWxvY2submV0L1RIRFQyL3RoZHR0djIvY2h1bmtsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -120,7 +120,7 @@
     "referrer": ""
   },
   {
-    "channel": "DaNangTV2.vn",
+    "channel": "DaNangTV2.vn.VN",
     "title": "DaNangTV2",
     "url": "aHR0cHM6Ly9saXZlLm1lZGlhdGVjaC52bi9saXZlLzI4NTkxNDUyOTBkMGQ3OTQ3ZWY4OGI2MjQwMTIzYjYyNDc0L2NodW5rbGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -130,7 +130,7 @@
     "referrer": ""
   },
   {
-    "channel": "DaNangTV1.vn",
+    "channel": "DaNangTV1.vn.VN",
     "title": "DaNangTV1",
     "url": "aHR0cHM6Ly9saXZlLm1lZGlhdGVjaC52bi9saXZlLzI4NWI1OWExMTFkNzY5NzQyMjVhOGUzMDA0YmZjMzFhNTA5L2NodW5rbGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -140,7 +140,7 @@
     "referrer": ""
   },
   {
-    "channel": "CanThoTV.vn",
+    "channel": "CanThoTV.vn.VN",
     "title": "CanThoTV",
     "url": "aHR0cHM6Ly9saXZlLmNhbnRob3R2LnZuL2xpdmUvdHYvY2h1bmtsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -150,7 +150,7 @@
     "referrer": ""
   },
   {
-    "channel": "CanThoTV3.vn",
+    "channel": "CanThoTV3.vn.VN",
     "title": "CanThoTV3",
     "url": "aHR0cHM6Ly9saXZlLmNhbnRob3R2LnZuL2NzMy90di9jaHVua2xpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -170,7 +170,7 @@
     "referrer": ""
   },
   {
-    "channel": "CaMauTV.vn",
+    "channel": "CaMauTV.vn.VN",
     "title": "CaMauTV",
     "url": "aHR0cHM6Ly90di5jdHZjYW1hdS52bi9saXZlL3R2L3R2Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -180,7 +180,7 @@
     "referrer": ""
   },
   {
-    "channel": "DienBienTV.vn",
+    "channel": "DienBienTV.vn.VN",
     "title": "DienBienTV",
     "url": "aHR0cHM6Ly90cnV5ZW5oaW5oLnZucHR2YXMudm4vbGl2ZS5tM3U4P2M9dnN0djM2MiZkZXZpY2VJZD0mZGV2aWNlVHlwZT0mZ2NJZD0xNTMyJmxvY2F0aW9uPU5BJnBrZz1wa2cxMS5obmkmcT1oaWdoJnJlcXVlc3RUaW1lPTE1ODYzMDk0MjA3ODEmdGltZT0xNTg2Mzk1ODIwJnRva2VuPUxYLWliSllSVXE5cGZsUnRZQXhmWVEmdHlwZT10diZ1c2VySWQ9",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -190,7 +190,7 @@
     "referrer": ""
   },
   {
-    "channel": "TayNinhTV.vn",
+    "channel": "TayNinhTV.vn.VN",
     "title": "TayNinhTV",
     "url": "aHR0cHM6Ly9saXZlLWhxLmV2Z2Nkbi5uZXQvbGl2ZS8yODUxZGMyYzlhZjY4ODM0ODE0YTg5ZTYxZGIwZmFlZTU2MS9jaHVua2xpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -200,7 +200,7 @@
     "referrer": ""
   },
   {
-    "channel": "HaTinhTV.vn",
+    "channel": "HaTinhTV.vn.VN",
     "title": "HaTinhTV",
     "url": "aHR0cHM6Ly93c2UuaGF0aW5odHYubmV0L2xpdmUvaHR0djEvY2h1bmtsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -210,7 +210,7 @@
     "referrer": ""
   },
   {
-    "channel": "CaoBangTV.vn",
+    "channel": "CaoBangTV.vn.VN",
     "title": "CaoBangTV",
     "url": "aHR0cHM6Ly9zdHJlYW0udGhpbmduZXQudm4vbGl2ZS9zbWlsOkNSVFYuc21pbC9jaHVua2xpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",

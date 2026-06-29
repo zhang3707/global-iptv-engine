@@ -1,6 +1,6 @@
 [
   {
-    "channel": "SusunTVInternational.my",
+    "channel": "SusunTVInternational.my.MY",
     "title": "SusunTVInternational",
     "url": "aHR0cHM6Ly92b2RjZG4uYmFtYm9vLWNsb3VkLmNvbS9saXZlaGxzLzY5MDE2MDc3MDYzMDQ0MjNjMTY4NTIxMy9tYXN0ZXIubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -10,7 +10,7 @@
     "referrer": "aHR0cHM6Ly9zdXN1bnR2LmJhbWJvby1jbG91ZC5jb20v"
   },
   {
-    "channel": "8TV.my",
+    "channel": "8TV.my.MY",
     "title": "8TV",
     "url": "aHR0cDovL2NkbjYuMTYzMTg5Lnh5ei8xNjMxODkvOHR2",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -20,7 +20,7 @@
     "referrer": ""
   },
   {
-    "channel": "MaahTV.my",
+    "channel": "MaahTV.my.MY",
     "title": "MaahTV",
     "url": "aHR0cHM6Ly9obHMubWFhaHR2LmxpdmUvaGxzL3N0cmVhbS5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",

@@ -1,6 +1,6 @@
 [
   {
-    "channel": "MRTV.mm",
+    "channel": "MRTV.mm.MM",
     "title": "MRTV",
     "url": "aHR0cHM6Ly9tcnR2b3R0LmNvbS9jYWNoZS9NUlRWLUhEL21hc3Rlci5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -10,7 +10,7 @@
     "referrer": ""
   },
   {
-    "channel": "FortuneTV.mm",
+    "channel": "FortuneTV.mm.MM",
     "title": "FortuneTV",
     "url": "aHR0cDovLzEwMy4yMTUuMTk0LjkzOjgyODIvaGxzL2ZvcnR1bmV0di92bWl4Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -20,7 +20,7 @@
     "referrer": ""
   },
   {
-    "channel": "DVBTV.mm",
+    "channel": "DVBTV.mm.MM",
     "title": "DVBTV",
     "url": "aHR0cHM6Ly9saXZlLXN0cmVhbS5kdmIubm8vaGxzL3N0cmVhbV9zcmMvaW5kZXgubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -30,7 +30,7 @@
     "referrer": ""
   },
   {
-    "channel": "MRTVEntertainment.mm",
+    "channel": "MRTVEntertainment.mm.MM",
     "title": "MRTVEntertainment",
     "url": "aHR0cHM6Ly9tcnR2b3R0LmNvbS9jYWNoZS9NUlRWLUVudC1IRC9tYXN0ZXIubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -40,7 +40,7 @@
     "referrer": ""
   },
   {
-    "channel": "HluttawSD.mm",
+    "channel": "HluttawSD.mm.MM",
     "title": "HluttawSD",
     "url": "aHR0cHM6Ly9tcnR2b3R0LmNvbS9jYWNoZS9NUlRWLUhMVVRUQVcvbWFzdGVyLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -50,7 +50,7 @@
     "referrer": ""
   },
   {
-    "channel": "MRTVNews.mm",
+    "channel": "MRTVNews.mm.MM",
     "title": "MRTVNews",
     "url": "aHR0cHM6Ly9tcnR2b3R0LmNvbS9jYWNoZS9NUlRWLU5FV1MtSEQvbWFzdGVyLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -60,7 +60,7 @@
     "referrer": ""
   },
   {
-    "channel": "MRTVFarmer.mm",
+    "channel": "MRTVFarmer.mm.MM",
     "title": "MRTVFarmer",
     "url": "aHR0cHM6Ly9tcnR2b3R0LmNvbS9jYWNoZS9NUlRWLUZBUk1FUi9tYXN0ZXIubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",

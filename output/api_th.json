@@ -1,6 +1,6 @@
 [
   {
-    "channel": "LanthungTV.th",
+    "channel": "LanthungTV.th.TH",
     "title": "LanthungTV",
     "url": "aHR0cHM6Ly9saXZlLXVzMS50aGFpbW9tby5jb20vbGl2ZS1hcy9jaGxhbnR1bmctMi9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -10,7 +10,7 @@
     "referrer": ""
   },
   {
-    "channel": "GoodIdeaTV.th",
+    "channel": "GoodIdeaTV.th.TH",
     "title": "GoodIdeaTV",
     "url": "aHR0cDovL3N0cmVhbTEuYWktbmV0Lm5ldDoxOTM1L2d0djEvX2RlZmluc3RfL3NtaWw6Z3R2LnNtaWwvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -20,7 +20,7 @@
     "referrer": ""
   },
   {
-    "channel": "BoonniyomTV.th",
+    "channel": "BoonniyomTV.th.TH",
     "title": "BoonniyomTV",
     "url": "aHR0cHM6Ly9saXZlLngyLmNvLnRoL2xpdmUvYm50di5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -30,7 +30,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVMuslimThailand.th",
+    "channel": "TVMuslimThailand.th.TH",
     "title": "TVMuslimThailand",
     "url": "aHR0cHM6Ly92ZG8ucGxhdGhvbmcubmV0L3R2bXVzbGltL3R2bXVzbGltL3BsYXlsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -40,7 +40,7 @@
     "referrer": ""
   },
   {
-    "channel": "ZabbChannel.th",
+    "channel": "ZabbChannel.th.TH",
     "title": "ZabbChannel",
     "url": "aHR0cHM6Ly92ZG8ucGxhdGhvbmcubmV0L2ZsYXNoNzA1Ny9mbGFzaDcwNTcvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -50,7 +50,7 @@
     "referrer": ""
   },
   {
-    "channel": "Channel8.th",
+    "channel": "Channel8.th.TH",
     "title": "Channel8",
     "url": "aHR0cDovL3VzYS5sb2dpbi5pbi50aDoxOTM1L2NoOC9jaDgvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -60,7 +60,7 @@
     "referrer": ""
   },
   {
-    "channel": "ThaiPBS.th",
+    "channel": "ThaiPBS.th.TH",
     "title": "ThaiPBS",
     "url": "aHR0cHM6Ly90aGFpcGJzLWxpdmUuY2RuLmJ5dGVhcmsuY29tL2xpdmUvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -70,7 +70,7 @@
     "referrer": ""
   },
   {
-    "channel": "ETV.th",
+    "channel": "ETV.th.TH",
     "title": "ETV",
     "url": "aHR0cDovLzE1MC45NS42Ni4yMDoxOTM1L2xpdmUvbGl2ZXN0cmVhbS9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -90,7 +90,7 @@
     "referrer": ""
   },
   {
-    "channel": "SBTTV.th",
+    "channel": "SBTTV.th.TH",
     "title": "SBTTV",
     "url": "aHR0cDovLzEyMi4xNTUuMTIuMTA3OjE5MzUvbGl2ZS9zYnRfdHZfYWFjXzMwMC9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -100,7 +100,7 @@
     "referrer": ""
   },
   {
-    "channel": "News1.th",
+    "channel": "News1.th.TH",
     "title": "News1",
     "url": "aHR0cDovL25ld3MxLmxpdmUxNC5jb20vc3RyZWFtL25ld3MxLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -110,7 +110,7 @@
     "referrer": ""
   },
   {
-    "channel": "BaanBaanTV73.th",
+    "channel": "BaanBaanTV73.th.TH",
     "title": "BaanBaanTV73",
     "url": "aHR0cHM6Ly92ZG8ucGxhdGhvbmcubmV0L2xpdmU4Nzk0L2xpdmU4Nzk0L3BsYXlsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -120,7 +120,7 @@
     "referrer": ""
   },
   {
-    "channel": "ThaiParliamentTelevision.th",
+    "channel": "ThaiParliamentTelevision.th.TH",
     "title": "ThaiParliamentTelevision",
     "url": "aHR0cHM6Ly90di1saXZlLnRwY2hhbm5lbC5vcmcvbGl2ZS90di5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -130,7 +130,7 @@
     "referrer": ""
   },
   {
-    "channel": "ThaiChaiyo.th",
+    "channel": "ThaiChaiyo.th.TH",
     "title": "ThaiChaiyo",
     "url": "aHR0cHM6Ly9saXZlLnRoYWljaGFpeW8udHYvdGN5L2xpdmUtdHJhbnNtdXgubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -140,7 +140,7 @@
     "referrer": ""
   },
   {
-    "channel": "DLTV15.th",
+    "channel": "DLTV15.th.TH",
     "title": "DLTV15",
     "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxNS5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -150,7 +150,7 @@
     "referrer": ""
   },
   {
-    "channel": "DLTV14.th",
+    "channel": "DLTV14.th.TH",
     "title": "DLTV14",
     "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxNC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -160,7 +160,7 @@
     "referrer": ""
   },
   {
-    "channel": "DLTV13.th",
+    "channel": "DLTV13.th.TH",
     "title": "DLTV13",
     "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxMy5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -170,7 +170,7 @@
     "referrer": ""
   },
   {
-    "channel": "DLTV12.th",
+    "channel": "DLTV12.th.TH",
     "title": "DLTV12",
     "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxMi5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -180,7 +180,7 @@
     "referrer": ""
   },
   {
-    "channel": "DLTV8.th",
+    "channel": "DLTV8.th.TH",
     "title": "DLTV8",
     "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwOC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -190,7 +190,7 @@
     "referrer": ""
   },
   {
-    "channel": "DLTV10.th",
+    "channel": "DLTV10.th.TH",
     "title": "DLTV10",
     "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxMC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -200,7 +200,7 @@
     "referrer": ""
   },
   {
-    "channel": "DLTV11.th",
+    "channel": "DLTV11.th.TH",
     "title": "DLTV11",
     "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYxMS5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -210,7 +210,7 @@
     "referrer": ""
   },
   {
-    "channel": "DLTV5.th",
+    "channel": "DLTV5.th.TH",
     "title": "DLTV5",
     "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwNS5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -220,7 +220,7 @@
     "referrer": ""
   },
   {
-    "channel": "DLTV9.th",
+    "channel": "DLTV9.th.TH",
     "title": "DLTV9",
     "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwOS5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -230,7 +230,7 @@
     "referrer": ""
   },
   {
-    "channel": "DLTV6.th",
+    "channel": "DLTV6.th.TH",
     "title": "DLTV6",
     "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwNi5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -240,7 +240,7 @@
     "referrer": ""
   },
   {
-    "channel": "DLTV7.th",
+    "channel": "DLTV7.th.TH",
     "title": "DLTV7",
     "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwNy5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -250,7 +250,7 @@
     "referrer": ""
   },
   {
-    "channel": "TopNews.th",
+    "channel": "TopNews.th.TH",
     "title": "TopNews",
     "url": "aHR0cHM6Ly9saXZlLnRvcG5ld3MuY28udGgvaGxzL3RvcG5ld3NfYV83MjAubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -260,7 +260,7 @@
     "referrer": ""
   },
   {
-    "channel": "PoliceTV.th",
+    "channel": "PoliceTV.th.TH",
     "title": "PoliceTV",
     "url": "aHR0cHM6Ly9jZG4tdGgtdmlwLmxpdmVzdHJlYW1pbmcuaW4udGgvcG9saWNldHYvcG9saWNldHYvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -270,7 +270,7 @@
     "referrer": ""
   },
   {
-    "channel": "RamaChannel.th",
+    "channel": "RamaChannel.th.TH",
     "title": "RamaChannel",
     "url": "aHR0cHM6Ly9yYW1hY2guZGRucy5uZXQvbGl2ZS9yYW1hbGl2ZS9pbmRleC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -280,7 +280,7 @@
     "referrer": ""
   },
   {
-    "channel": "Channel5.th",
+    "channel": "Channel5.th.TH",
     "title": "Channel5",
     "url": "aHR0cHM6Ly82MzliYzU4NzdjNWZlLnN0cmVhbWxvY2submV0L3R2NWhkbGl2ZS90djVoZGxpdmUvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -290,7 +290,7 @@
     "referrer": ""
   },
   {
-    "channel": "DLTV4.th",
+    "channel": "DLTV4.th.TH",
     "title": "DLTV4",
     "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwNC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -300,7 +300,7 @@
     "referrer": ""
   },
   {
-    "channel": "SuwannabhumiChannel.th",
+    "channel": "SuwannabhumiChannel.th.TH",
     "title": "SuwannabhumiChannel",
     "url": "aHR0cHM6Ly9saXZlLmJhbmdrb2tzdHJlYW0uY29tOjE5MzYwL3N1d2FubmFiaHVtaS9zdXdhbm5hYmh1bWkubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -310,7 +310,7 @@
     "referrer": ""
   },
   {
-    "channel": "WhiteChannel.th",
+    "channel": "WhiteChannel.th.TH",
     "title": "WhiteChannel",
     "url": "aHR0cDovL3N5bWMtY2RuLnZpb2xpbi5jby50aDoxOTM1L3RuZGVkZ2Uvd2hpdGVjaGFubmVsL2NodW5rbGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -320,7 +320,7 @@
     "referrer": ""
   },
   {
-    "channel": "DLTV2.th",
+    "channel": "DLTV2.th.TH",
     "title": "DLTV2",
     "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwMi5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -330,7 +330,7 @@
     "referrer": ""
   },
   {
-    "channel": "DLTV3.th",
+    "channel": "DLTV3.th.TH",
     "title": "DLTV3",
     "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwMy5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -340,7 +340,7 @@
     "referrer": ""
   },
   {
-    "channel": "DLTV1.th",
+    "channel": "DLTV1.th.TH",
     "title": "DLTV1",
     "url": "aHR0cHM6Ly9jZG4tbGl2ZS5kbHR2LmFjLnRoL2RsdHYwMS5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -350,7 +350,7 @@
     "referrer": ""
   },
   {
-    "channel": "13SiamThai.th",
+    "channel": "13SiamThai.th.TH",
     "title": "13SiamThai",
     "url": "aHR0cHM6Ly9saXZlLngyLmNvLnRoL2xpdmUvMTNsaXZldHYtdGgubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -360,7 +360,7 @@
     "referrer": ""
   },
   {
-    "channel": "CoolChannel.th",
+    "channel": "CoolChannel.th.TH",
     "title": "CoolChannel",
     "url": "aHR0cHM6Ly9saXZlLWlwdHYuY29vbC1jaGFubmVsLmNvbS9jb29sL2xpdmUtNzIwUC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -370,7 +370,7 @@
     "referrer": ""
   },
   {
-    "channel": "SBBTV.th",
+    "channel": "SBBTV.th.TH",
     "title": "SBBTV",
     "url": "aHR0cHM6Ly9jZG4tdGgtdmlwMi5saXZlc3RyZWFtaW5nLmluLnRoL3dhdHNhbmdoYXRoYW4vd2F0c2FuZ2hhdGhhbi9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -380,7 +380,7 @@
     "referrer": ""
   },
   {
-    "channel": "STOUChannel.th",
+    "channel": "STOUChannel.th.TH",
     "title": "STOUChannel",
     "url": "aHR0cHM6Ly9zdHJlYW0xLnN0b3UuYWMudGgvbGl2ZS9zdG91XzcyMHAvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -390,7 +390,7 @@
     "referrer": ""
   },
   {
-    "channel": "MONO29.th",
+    "channel": "MONO29.th.TH",
     "title": "MONO29",
     "url": "aHR0cHM6Ly91ZG4tc3RyZWFtZXIxLmNkbi4zYmJ0di5jb206ODQ0My8zYmIvbGl2ZS8yOS8yOS5tcGQ=",
     "user_agent": "TW96aWxsYS81LjA=",

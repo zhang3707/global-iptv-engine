@@ -1,6 +1,6 @@
 [
   {
-    "channel": "CNAOriginals.sg",
+    "channel": "CNAOriginals.sg.SG",
     "title": "CNAOriginals",
     "url": "aHR0cHM6Ly9hbWcwMTA4Mi1jbmEtYW1nMDEwODJjMS12aWRhYS1nYi03NTgwLnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -10,7 +10,7 @@
     "referrer": ""
   },
   {
-    "channel": "CNAOriginals.sg",
+    "channel": "CNAOriginals.sg.SG",
     "title": "CNAOriginals",
     "url": "aHR0cHM6Ly9hbWcwMTA4Mi1jbmEtYW1nMDEwODJjMS1ybGF4eC11cy0xMTMwNC5wbGF5b3V0cy5ub3cuYW1hZ2kudHYvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -20,7 +20,7 @@
     "referrer": ""
   },
   {
-    "channel": "ZooMoo.sg",
+    "channel": "ZooMoo.sg.SG",
     "title": "ZooMoo",
     "url": "aHR0cHM6Ly9kMWJwdWZ1dmZheWZnOC5jbG91ZGZyb250Lm5ldC9ab29Nb28ubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -30,7 +30,7 @@
     "referrer": ""
   },
   {
-    "channel": "ZooMoo.sg",
+    "channel": "ZooMoo.sg.SG",
     "title": "ZooMoo",
     "url": "aHR0cHM6Ly96b29tb28tc2Ftc3VuZ2F1LmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -40,7 +40,7 @@
     "referrer": ""
   },
   {
-    "channel": "AniplusAsia.sg",
+    "channel": "AniplusAsia.sg.SG",
     "title": "AniplusAsia",
     "url": "aHR0cHM6Ly9hbWcxODQ4MS1hbWcxODQ4MWMxLWFtZ3BsdDAzNTIucGxheW91dC5ub3czLmFtYWdpLnR2L3BsYXlsaXN0L2FtZzE4NDgxLWFtZzE4NDgxYzEtYW1ncGx0MDM1Mi9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -50,7 +50,7 @@
     "referrer": ""
   },
   {
-    "channel": "KCM.sg",
+    "channel": "KCM.sg.SG",
     "title": "KCM",
     "url": "aHR0cHM6Ly9hbWcwMjE1OS1hbWcwMjE1OWM3LXNhbXN1bmctaW4tNDAwMS5wbGF5b3V0cy5ub3cuYW1hZ2kudHYvcGxheWxpc3QvYW1nMDIxNTkta2NnbG9iYWwta2NtLXNhbXN1bmdpbi9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -60,7 +60,7 @@
     "referrer": ""
   },
   {
-    "channel": "AnimaxAsia.sg",
+    "channel": "AnimaxAsia.sg.SG",
     "title": "AnimaxAsia",
     "url": "aHR0cHM6Ly9hbWcwMjE1OS1rY2dsb2JhbC1hbWcwMjE1OWMxLXNhbXN1bmctaW4tNTIxLnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC9hbWcwMjE1OS1rY2dsb2JhbC1hbmltYXgtc2Ftc3VuZ2luL3BsYXlsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -70,7 +70,7 @@
     "referrer": ""
   },
   {
-    "channel": "AXNAsia.sg",
+    "channel": "AXNAsia.sg.SG",
     "title": "AXNAsia",
     "url": "aHR0cDovLzU0LjM3LjE5LjE1Ny9heG4vcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0OS4wLjAuMCBTYWZhcmkvNTM3LjM=",
@@ -80,7 +80,7 @@
     "referrer": ""
   },
   {
-    "channel": "CNA.sg",
+    "channel": "CNA.sg.SG",
     "title": "CNA",
     "url": "aHR0cHM6Ly9kMmUxYXNuc2w3YnI3Yi5jbG91ZGZyb250Lm5ldC83NzgyZTIwNWU3MmY0M2FlYjRhNDhlYzk3ZjY2ZWJiZS9pbmRleC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -90,7 +90,7 @@
     "referrer": ""
   },
   {
-    "channel": "ZooMoo.sg",
+    "channel": "ZooMoo.sg.SG",
     "title": "ZooMoo",
     "url": "aHR0cHM6Ly9jZG40LnNreWdvLm1uL2xpdmUvZGlzazEvWm9vbW9vL0hMU3YzLUZUQS9ab29tb28ubTN1OA==",
     "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0NC4wLjAuMCBTYWZhcmkvNTM3LjM2",
@@ -100,7 +100,7 @@
     "referrer": ""
   },
   {
-    "channel": "ZooMoo.sg",
+    "channel": "ZooMoo.sg.SG",
     "title": "ZooMoo",
     "url": "aHR0cHM6Ly9hbWcwMTU1My1ibHVlYW50bWVkaWFhc2ktem9vbW9vbnotc2Ftc3VuZ256LXJkdWZuLmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAxNTUzLWJsdWVhbnRtZWRpYWFzaS16b29tb29uei1zYW1zdW5nbnovcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -110,7 +110,7 @@
     "referrer": ""
   },
   {
-    "channel": "ZooMoo.sg",
+    "channel": "ZooMoo.sg.SG",
     "title": "ZooMoo",
     "url": "aHR0cHM6Ly9jZG4tYXBzZTEtcHJvZC50c3YyLmFtYWdpLnR2L2xpbmVhci9hbWcwMTU1My1ibHVlYW50bWVkaWFhc2ktem9vbW9vbnotc2Ftc3VuZ256L3BsYXlsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -120,7 +120,7 @@
     "referrer": ""
   },
   {
-    "channel": "CNAOriginals.sg",
+    "channel": "CNAOriginals.sg.SG",
     "title": "CNAOriginals",
     "url": "aHR0cHM6Ly9kMzVqNTA0ejB4MnZ1Mi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvMGJjOGU4Mzc2YmQ4NDE3YTFiNjc2MTEzOGFhNDFjMjZjNzMwOTMxMi9jbmEtb3JpZ2luYWxzL3BsYXlsaXN0Lm0zdTg/YWRzLnZmPVAzZVVZeVdCUjc0",
     "user_agent": "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0NS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNDUuMC4wLjA=",
@@ -130,7 +130,7 @@
     "referrer": ""
   },
   {
-    "channel": "ROCKAction.sg",
+    "channel": "ROCKAction.sg.SG",
     "title": "ROCKAction",
     "url": "aHR0cDovL25tay5pb2Fway5jb206NTA1MC80Z3R2LWxpdmUxMzgvaW5kZXgubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -140,7 +140,7 @@
     "referrer": ""
   },
   {
-    "channel": "meWATCHLIVE1.sg",
+    "channel": "meWATCHLIVE1.sg.SG",
     "title": "meWATCHLIVE1",
     "url": "aHR0cHM6Ly90Z2xtcDA0LmFrYW1haXplZC5uZXQvb3V0L3YxLzg5OGIxY2JhYzdjNzQ3ZTNiMWYzZGViNDYwZTliNjdlL21hbmlmZXN0Lm1wZA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -150,7 +150,7 @@
     "referrer": ""
   },
   {
-    "channel": "CrimePlusInvestigationAsia.sg",
+    "channel": "CrimePlusInvestigationAsia.sg.SG",
     "title": "CrimePlusInvestigationAsia",
     "url": "aHR0cHM6Ly9jZG4wOWp0ZWRnZS5pbmRpaG9tZXR2LmNvbS9qb3NzLzEzMy9jcmltZWludmVzdGlnYXRpb24vaW5kZXgubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",

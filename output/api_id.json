@@ -1,6 +1,6 @@
 [
   {
-    "channel": "Ananda.id",
+    "channel": "Ananda.id.ID",
     "title": "Ananda",
     "url": "aHR0cHM6Ly92b2RjZG4uYmFtYm9vLWNsb3VkLmNvbS9saXZlaGxzLzY4ZWY4NjMyMDYzMDQ0NGIxZjc5Njg3NS9tYXN0ZXIubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -10,7 +10,7 @@
     "referrer": "aHR0cHM6Ly9hbmFuZGF0ZWxrb212aXNpb24ucmVuZGVyZm9yZXN0c2l0ZXMuY29tLw=="
   },
   {
-    "channel": "SurauTV.id",
+    "channel": "SurauTV.id.ID",
     "title": "SurauTV",
     "url": "aHR0cHM6Ly93YWh5dTFwdHYucGFnZXMuZGV2L1N1cmF1VFYtSEQubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -20,7 +20,7 @@
     "referrer": ""
   },
   {
-    "channel": "Allegro.id",
+    "channel": "Allegro.id.ID",
     "title": "Allegro",
     "url": "aHR0cHM6Ly92b2RjZG4uYmFtYm9vLWNsb3VkLmNvbS9saXZlaGxzLzY4YzUyNWUxMDYzMDQ0NTM5YjA5YzI1My9tYXN0ZXIubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -30,7 +30,7 @@
     "referrer": "aHR0cHM6Ly9hbGxlZ3JvdGVsa29tdmlzaW9uLnJlbmRlcmZvcmVzdHNpdGVzLmNvbS8="
   },
   {
-    "channel": "AshiilTV.id",
+    "channel": "AshiilTV.id.ID",
     "title": "AshiilTV",
     "url": "aHR0cHM6Ly93YWh5dTFwdHYucGFnZXMuZGV2L0FzaGlpbFRWLUhELm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -40,7 +40,7 @@
     "referrer": ""
   },
   {
-    "channel": "SPOTV.id",
+    "channel": "SPOTV.id.ID",
     "title": "SPOTV",
     "url": "aHR0cDovL3ByaW1lc3RyZWFtcy50djo4MjYvbGl2ZS9tb29raWUyMi80OWFWN25Cc0s0LzExOTUxNS5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -50,7 +50,7 @@
     "referrer": ""
   },
   {
-    "channel": "DAAITV.id",
+    "channel": "DAAITV.id.ID",
     "title": "DAAITV",
     "url": "aHR0cHM6Ly9wdWxsLmRhYWlwbHVzLmNvbS9saXZlLURBQUlQTFVTL2xpdmUtREFBSVBMVVNfSEQubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -60,7 +60,7 @@
     "referrer": ""
   },
   {
-    "channel": "SPOTV2.id",
+    "channel": "SPOTV2.id.ID",
     "title": "SPOTV2",
     "url": "aHR0cDovL3ByaW1lc3RyZWFtcy50djo4MjYvbGl2ZS9tb29raWUyMi80OWFWN25Cc0s0LzExOTUxNi5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -70,7 +70,7 @@
     "referrer": ""
   },
   {
-    "channel": "DavikaTV.id",
+    "channel": "DavikaTV.id.ID",
     "title": "DavikaTV",
     "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L2RhdmlrYS9kYXZpa2EvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -80,7 +80,7 @@
     "referrer": "aHR0cHM6Ly9kYXZpa2F0di5jby9saXZlc3RyZWFtaW5nLw=="
   },
   {
-    "channel": "KilisuciTV.id",
+    "channel": "KilisuciTV.id.ID",
     "title": "KilisuciTV",
     "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L2tzdHYva3N0di9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -90,7 +90,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVTabalong.id",
+    "channel": "TVTabalong.id.ID",
     "title": "TVTabalong",
     "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L3R2dGFiYWxvbmcvdHZ0YWJhbG9uZy9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -100,7 +100,7 @@
     "referrer": ""
   },
   {
-    "channel": "JawaPosTV.id",
+    "channel": "JawaPosTV.id.ID",
     "title": "JawaPosTV",
     "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvSkFXQVBPU1RWQkFMSS9fZGVmaW5zdF8vbXlTdHJlYW0vcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -110,7 +110,7 @@
     "referrer": ""
   },
   {
-    "channel": "JawaPosTV.id",
+    "channel": "JawaPosTV.id.ID",
     "title": "JawaPosTV",
     "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvSkFXQVBPU1RWSktUL19kZWZpbnN0Xy9teVN0cmVhbS9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -120,7 +120,7 @@
     "referrer": ""
   },
   {
-    "channel": "MQTV.id",
+    "channel": "MQTV.id.ID",
     "title": "MQTV",
     "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L21xdHYvbXF0di9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -130,7 +130,7 @@
     "referrer": ""
   },
   {
-    "channel": "STV.id",
+    "channel": "STV.id.ID",
     "title": "STV",
     "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvU0FNQVJJTkRBVFYvX2RlZmluc3RfL215U3RyZWFtL3BsYXlsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -140,7 +140,7 @@
     "referrer": ""
   },
   {
-    "channel": "TV9Nusantara.id",
+    "channel": "TV9Nusantara.id.ID",
     "title": "TV9Nusantara",
     "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L3R2OS90djkvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -150,7 +150,7 @@
     "referrer": ""
   },
   {
-    "channel": "VTV.id",
+    "channel": "VTV.id.ID",
     "title": "VTV",
     "url": "aHR0cHM6Ly9mbHYuaW50ZWNobWVkaWEubmV0L2xpdmUvY2gxMDcubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -160,7 +160,7 @@
     "referrer": "aHR0cHM6Ly95b3V0di5saXZlLw=="
   },
   {
-    "channel": "KTV.id",
+    "channel": "KTV.id.ID",
     "title": "KTV",
     "url": "aHR0cHM6Ly9mbHYuaW50ZWNobWVkaWEubmV0L2xpdmUvY2gxMTgubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -170,7 +170,7 @@
     "referrer": "aHR0cHM6Ly95b3V0di5saXZlLw=="
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9TdW1iYXIvaGxzL1N1bWJhci5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -180,7 +180,7 @@
     "referrer": ""
   },
   {
-    "channel": "GarudaTV.id",
+    "channel": "GarudaTV.id.ID",
     "title": "GarudaTV",
     "url": "aHR0cHM6Ly9oZ210di5jb206MTkzNjAvZ2FydWRhdHZsaXZlc3RyZWFtaW5nL2dhcnVkYXR2bGl2ZXN0cmVhbWluZy5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -190,7 +190,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9KYXRpbS9obHMvSmF0aW0ubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -200,7 +200,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9TdWx0cmEvaGxzL1N1bHRyYS5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -210,7 +210,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9LYWx0ZW5nL2hscy9LYWx0ZW5nLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -220,7 +220,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9KYWJhci9obHMvSmFiYXIubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -230,7 +230,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRIWorld.id",
+    "channel": "TVRIWorld.id.ID",
     "title": "TVRIWorld",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9UVlJJV29ybGQvaGxzL1RWUklXb3JsZC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -240,7 +240,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9MYW1wdW5nL2hscy9MYW1wdW5nLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -250,7 +250,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVMu.id",
+    "channel": "TVMu.id.ID",
     "title": "TVMu",
     "url": "aHR0cHM6Ly9lLnNpYXIudXMvbGl2ZS90dm11Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -260,7 +260,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9LYWxzZWwvaGxzL0thbHNlbC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -270,7 +270,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9TdW11dC9obHMvU3VtdXQubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -280,7 +280,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9CYWxpL2hscy9CYWxpLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -290,7 +290,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9QYXB1YS9obHMvUGFwdWEubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -300,7 +300,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9TdW1zZWwvaGxzL1N1bXNlbC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -310,7 +310,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9BY2VoL2hscy9BY2VoLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -320,7 +320,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9CYWJlbC9obHMvQmFiZWwubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -330,7 +330,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9Kb2dqYWthcnRhL2hscy9Kb2dqYWthcnRhLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -340,7 +340,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9KYXRlbmcvaGxzL0phdGVuZy5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -350,7 +350,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9TdWx0ZW5nL2hscy9TdWx0ZW5nLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -360,7 +360,7 @@
     "referrer": ""
   },
   {
-    "channel": "RajawaliTV.id",
+    "channel": "RajawaliTV.id.ID",
     "title": "RajawaliTV",
     "url": "aHR0cHM6Ly9ydHZzdHJlYW0ucnR2LmNvLmlkOjQ1NTUvaGxzL3J0di5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -370,7 +370,7 @@
     "referrer": ""
   },
   {
-    "channel": "NabawiTV.id",
+    "channel": "NabawiTV.id.ID",
     "title": "NabawiTV",
     "url": "aHR0cDovLzIwMi4xNTAuMTYxLjExNzo4MDAwL3BsYXkvTmFiYXdpVFY=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -380,7 +380,7 @@
     "referrer": ""
   },
   {
-    "channel": "AlBahjahTV.id",
+    "channel": "AlBahjahTV.id.ID",
     "title": "AlBahjahTV",
     "url": "aHR0cDovLzIwMi4xNTAuMTYxLjExNzo4MDAwL3BsYXkvQWxCYWhqYWhUVg==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -390,7 +390,7 @@
     "referrer": ""
   },
   {
-    "channel": "JawaPosTV.id",
+    "channel": "JawaPosTV.id.ID",
     "title": "JawaPosTV",
     "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvSkFXQVBPU1RWTUFESVVOL19kZWZpbnN0Xy9teVN0cmVhbS9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -400,7 +400,7 @@
     "referrer": ""
   },
   {
-    "channel": "JawaPosTV.id",
+    "channel": "JawaPosTV.id.ID",
     "title": "JawaPosTV",
     "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvSkFXQVBPU1RWU0VNQVJBTkcvX2RlZmluc3RfL215U3RyZWFtL3BsYXlsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -410,7 +410,7 @@
     "referrer": ""
   },
   {
-    "channel": "JawaPosTV.id",
+    "channel": "JawaPosTV.id.ID",
     "title": "JawaPosTV",
     "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvSkFXQVBPU1RWU0JZL19kZWZpbnN0Xy9teVN0cmVhbS9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -420,7 +420,7 @@
     "referrer": ""
   },
   {
-    "channel": "BatamTV.id",
+    "channel": "BatamTV.id.ID",
     "title": "BatamTV",
     "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvQkFUQU1UVi9fZGVmaW5zdF8vbXlTdHJlYW0vcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -430,7 +430,7 @@
     "referrer": ""
   },
   {
-    "channel": "tvOne.id",
+    "channel": "tvOne.id.ID",
     "title": "tvOne",
     "url": "aHR0cDovLzIwMi44MC4yMjIuMjAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMTgvMTAyNC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -440,7 +440,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRParlemen.id",
+    "channel": "TVRParlemen.id.ID",
     "title": "TVRParlemen",
     "url": "aHR0cDovLzEwMy4xOC4xODEuNjk6MTkzNS9nb2xpdmUvbGl2ZXN0cmVhbS9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -450,7 +450,7 @@
     "referrer": ""
   },
   {
-    "channel": "BalikpapanTV.id",
+    "channel": "BalikpapanTV.id.ID",
     "title": "BalikpapanTV",
     "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvQkFMSUtQQVBBTlRWL19kZWZpbnN0Xy9teVN0cmVhbS9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -460,7 +460,7 @@
     "referrer": ""
   },
   {
-    "channel": "JTV.id",
+    "channel": "JTV.id.ID",
     "title": "JTV",
     "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvSlRWTUFESVVOL19kZWZpbnN0Xy9teVN0cmVhbS9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -470,7 +470,7 @@
     "referrer": ""
   },
   {
-    "channel": "KawanuaTV.id",
+    "channel": "KawanuaTV.id.ID",
     "title": "KawanuaTV",
     "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvS0FXQU5VQVRWL19kZWZpbnN0Xy9teVN0cmVhbS9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -480,7 +480,7 @@
     "referrer": ""
   },
   {
-    "channel": "JTV.id",
+    "channel": "JTV.id.ID",
     "title": "JTV",
     "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvSlRWTUFMQU5HL19kZWZpbnN0Xy9teVN0cmVhbS9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -490,7 +490,7 @@
     "referrer": ""
   },
   {
-    "channel": "JTV.id",
+    "channel": "JTV.id.ID",
     "title": "JTV",
     "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvSlRWU1VSQUJBWUEvX2RlZmluc3RfL215U3RyZWFtL3BsYXlsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -500,7 +500,7 @@
     "referrer": ""
   },
   {
-    "channel": "JTV.id",
+    "channel": "JTV.id.ID",
     "title": "JTV",
     "url": "aHR0cDovLzEyMi4yNDguNDMuMjQyOjE5MzUvSlRWS0VESVJJL19kZWZpbnN0Xy9teVN0cmVhbS9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -510,7 +510,7 @@
     "referrer": ""
   },
   {
-    "channel": "JogjaIstimewaTV.id",
+    "channel": "JogjaIstimewaTV.id.ID",
     "title": "JogjaIstimewaTV",
     "url": "aHR0cDovLzEwMy4yNTUuMTUuMjIyOjE5MzUvdHYvaml0dl83MjBwL3BsYXlsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -520,7 +520,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9TdWx1dC9obHMvU3VsdXQubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -530,7 +530,7 @@
     "referrer": ""
   },
   {
-    "channel": "MDTV.id",
+    "channel": "MDTV.id.ID",
     "title": "MDTV",
     "url": "aHR0cDovLzEwMy4xNDguNDQuMzg6ODAwMC9wbGF5L2EwNWIvaW5kZXgubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -540,7 +540,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9LYWxiYXIvaGxzL0thbGJhci5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -550,7 +550,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9OVEIvaGxzL05UQi5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -560,7 +560,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9QYWJhci9obHMvUGFiYXIubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -570,7 +570,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9BbWJvbi9obHMvQW1ib24ubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -580,7 +580,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9CZW5na3VsdS9obHMvQmVuZ2t1bHUubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -590,7 +590,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9OYXNpb25hbC9obHMvTmFzaW9uYWwubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -600,7 +600,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9KYW1iaS9obHMvSmFtYmkubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -610,7 +610,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9SaWF1L2hscy9SaWF1Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -620,7 +620,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9OVFQvaGxzL05UVC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -630,7 +630,7 @@
     "referrer": ""
   },
   {
-    "channel": "BandungTV.id",
+    "channel": "BandungTV.id.ID",
     "title": "BandungTV",
     "url": "aHR0cDovLzIwMi4xNTAuMTUzLjI1NDo2NTUwMC9iYW5kdW5ndHZXRUJTSVRFLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -640,7 +640,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9Hb3JvbnRhbG8vaGxzL0dvcm9udGFsby5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -650,7 +650,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9TdWxzZWwvaGxzL1N1bHNlbC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -660,7 +660,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9LYWx0aW0vaGxzL0thbHRpbS5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -670,7 +670,7 @@
     "referrer": ""
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9TdWxiYXIvaGxzL1N1bGJhci5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -680,7 +680,7 @@
     "referrer": ""
   },
   {
-    "channel": "AlWafaTarim.id",
+    "channel": "AlWafaTarim.id.ID",
     "title": "AlWafaTarim",
     "url": "aHR0cHM6Ly9hbW1lZGlhLnNpYXIudXMvYW1tZWRpYS9saXZlL3BsYXlsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -690,7 +690,7 @@
     "referrer": ""
   },
   {
-    "channel": "IndonesianaTV.id",
+    "channel": "IndonesianaTV.id.ID",
     "title": "IndonesianaTV",
     "url": "aHR0cHM6Ly90dnN0cmVhbWNhc3QuY29tL2luZG9uZXNpYW5hLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -700,7 +700,7 @@
     "referrer": "aHR0cHM6Ly9pbmRvbmVzaWFuYS50di8="
   },
   {
-    "channel": "TATV.id",
+    "channel": "TATV.id.ID",
     "title": "TATV",
     "url": "aHR0cHM6Ly92Mi5zaWFyLnVzL3RhdHYvbGl2ZS5zZHAvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -710,7 +710,7 @@
     "referrer": ""
   },
   {
-    "channel": "DhohoTV.id",
+    "channel": "DhohoTV.id.ID",
     "title": "DhohoTV",
     "url": "aHR0cHM6Ly9kaG9ob3R2LnNpYXIudXMvZGhvaG90di9saXZlL3BsYXlsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -720,7 +720,7 @@
     "referrer": ""
   },
   {
-    "channel": "NusantaraTV.id",
+    "channel": "NusantaraTV.id.ID",
     "title": "NusantaraTV",
     "url": "aHR0cHM6Ly9udXNhbnRhcmF0di5zaWFyLnVzL251c2FudGFyYXR2L2xpdmUvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -730,7 +730,7 @@
     "referrer": ""
   },
   {
-    "channel": "FicomChannel.id",
+    "channel": "FicomChannel.id.ID",
     "title": "FicomChannel",
     "url": "aHR0cHM6Ly92My5zaWFyLnVzL2ZpY29tY2hhbm5lbC9saXZlL3BsYXlsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -740,7 +740,7 @@
     "referrer": ""
   },
   {
-    "channel": "MaduTV.id",
+    "channel": "MaduTV.id.ID",
     "title": "MaduTV",
     "url": "aHR0cHM6Ly9yZTEuc2lhci51cy9tYWR1dHYvaGQ3MjAvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -750,7 +750,7 @@
     "referrer": ""
   },
   {
-    "channel": "MusicInformationChannel.id",
+    "channel": "MusicInformationChannel.id.ID",
     "title": "MusicInformationChannel",
     "url": "aHR0cHM6Ly9taWMuc2lhci51cy9taWMvbGl2ZS9taWMubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -760,7 +760,7 @@
     "referrer": "aHR0cHM6Ly9taWMtaW5kby5jb20vbGl2ZQ=="
   },
   {
-    "channel": "StaraTV.id",
+    "channel": "StaraTV.id.ID",
     "title": "StaraTV",
     "url": "aHR0cHM6Ly9jaWFuanVyLnN0YXJhdHYuaWQvaGxzLzAvc3RyZWFtLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -770,7 +770,7 @@
     "referrer": "aHR0cHM6Ly9jaWFuanVyLnN0YXJhdHYuaWQv"
   },
   {
-    "channel": "CNBCIndonesia.id",
+    "channel": "CNBCIndonesia.id.ID",
     "title": "CNBCIndonesia",
     "url": "aHR0cHM6Ly9saXZlLmNuYmNpbmRvbmVzaWEuY29tL2xpdmVjbmJjL3NtaWw6Y25iY3R2LnNtaWwvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -780,7 +780,7 @@
     "referrer": ""
   },
   {
-    "channel": "RCTV.id",
+    "channel": "RCTV.id.ID",
     "title": "RCTV",
     "url": "aHR0cHM6Ly92MTAuc2lhci51cy9yY3R2L2xpdmUvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -790,7 +790,7 @@
     "referrer": ""
   },
   {
-    "channel": "SaktiTV.id",
+    "channel": "SaktiTV.id.ID",
     "title": "SaktiTV",
     "url": "aHR0cHM6Ly9zYWt0aXR2LnNpYXIudXMvc2FrdGl0di9saXZlL3BsYXlsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -800,7 +800,7 @@
     "referrer": ""
   },
   {
-    "channel": "BNChannel.id",
+    "channel": "BNChannel.id.ID",
     "title": "BNChannel",
     "url": "aHR0cHM6Ly9mbHYuaW50ZWNobWVkaWEubmV0L2xpdmUvY2gxMTIubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -810,7 +810,7 @@
     "referrer": "aHR0cHM6Ly95b3V0di5saXZlLw=="
   },
   {
-    "channel": "JambiTV.id",
+    "channel": "JambiTV.id.ID",
     "title": "JambiTV",
     "url": "aHR0cHM6Ly9qYW1iaXR2Lmdsb2JhbGRpZ2l0YWxjb3JlLmNvbS9obHMvc2FoNXR1N0VpdmVlcG9oeWlleWllM09vdGVMMmFuZ2EubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -820,7 +820,7 @@
     "referrer": ""
   },
   {
-    "channel": "EfarinaTV.id",
+    "channel": "EfarinaTV.id.ID",
     "title": "EfarinaTV",
     "url": "aHR0cHM6Ly9saXZlLmVmYXJpbmF0di5jb20vaGxzL2JndGF1ZmlrZ2FudGVuZy5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -830,7 +830,7 @@
     "referrer": "aHR0cHM6Ly9saXZlLmVmYXJpbmF0di5uZXQv"
   },
   {
-    "channel": "AlImanTV.id",
+    "channel": "AlImanTV.id.ID",
     "title": "AlImanTV",
     "url": "aHR0cHM6Ly90di5hbGltYW4uaWQvYWxpbWFuL2xpdmUubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -840,7 +840,7 @@
     "referrer": ""
   },
   {
-    "channel": "CNBCIndonesia.id",
+    "channel": "CNBCIndonesia.id.ID",
     "title": "CNBCIndonesia",
     "url": "aHR0cHM6Ly9saXZlLmNuYmNpbmRvbmVzaWEuY29tL2xpdmVjbmJjL3NtaWw6Y25iY3R2LnNtaWwvbWFzdGVyLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -850,7 +850,7 @@
     "referrer": ""
   },
   {
-    "channel": "DutaTV.id",
+    "channel": "DutaTV.id.ID",
     "title": "DutaTV",
     "url": "aHR0cHM6Ly9kdXRhdHYuc2lhci51cy9kdXRhdHYvbGl2ZS9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -860,7 +860,7 @@
     "referrer": ""
   },
   {
-    "channel": "BanjarTV.id",
+    "channel": "BanjarTV.id.ID",
     "title": "BanjarTV",
     "url": "aHR0cHM6Ly9iYW5qYXJ0di5zaWFyLnVzL2JhbmphcnR2L2xpdmUvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -870,7 +870,7 @@
     "referrer": ""
   },
   {
-    "channel": "SalamTV.id",
+    "channel": "SalamTV.id.ID",
     "title": "SalamTV",
     "url": "aHR0cHM6Ly9zYWxhbXR2LnNpYXIudXMvbGl2ZS9zYWxhbXR2Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -880,7 +880,7 @@
     "referrer": ""
   },
   {
-    "channel": "SriwijayaTV.id",
+    "channel": "SriwijayaTV.id.ID",
     "title": "SriwijayaTV",
     "url": "aHR0cHM6Ly9zcml3aWpheWF0di5zaWFyLnVzL2xpdmUvc3Jpd2lqYXlhdHYubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -890,7 +890,7 @@
     "referrer": ""
   },
   {
-    "channel": "RRINet.id",
+    "channel": "RRINet.id.ID",
     "title": "RRINet",
     "url": "aHR0cHM6Ly9wcml2YXRlLXN0cmVhbWluZy5ycmkuZ28uaWQvbWVtZnMvNmY3N2M3YjUtZmViMi00OTM1LTlmODktZTdlOWZjYTBhNTRhX291dHB1dF8wLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -900,7 +900,7 @@
     "referrer": ""
   },
   {
-    "channel": "PKTV.id",
+    "channel": "PKTV.id.ID",
     "title": "PKTV",
     "url": "aHR0cHM6Ly9zdHJlYW1pbmcuaWQxOC50dW5uZWwubXkuaWQvaGxzL3N0cmVhbS5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -910,7 +910,7 @@
     "referrer": "aHR0cHM6Ly9wa3R2a2FsdGltLmNvbS9hY2FyYS9saXZlLWNvbnRlbnQvP25vYW1wPW1vYmlsZQ=="
   },
   {
-    "channel": "SurabayaTV.id",
+    "channel": "SurabayaTV.id.ID",
     "title": "SurabayaTV",
     "url": "aHR0cHM6Ly9lLnNpYXIudXMvbGl2ZS9zdXJhYmF5YXR2Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -920,7 +920,7 @@
     "referrer": ""
   },
   {
-    "channel": "CarubanTV.id",
+    "channel": "CarubanTV.id.ID",
     "title": "CarubanTV",
     "url": "aHR0cHM6Ly9zdHJlYW0uY2FydWJhbnR2LmlkL2hscy8wL3N0cmVhbS5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -930,7 +930,7 @@
     "referrer": "aHR0cHM6Ly9zdHJlYW0uY2FydWJhbnR2Lmlk"
   },
   {
-    "channel": "TVRI.id",
+    "channel": "TVRI.id.ID",
     "title": "TVRI",
     "url": "aHR0cHM6Ly9vdHQtYmFsYW5jZXIudHZyaS5nby5pZC9saXZlL2Vkcy9ES0kvaGxzL0RLSS5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -940,7 +940,7 @@
     "referrer": ""
   },
   {
-    "channel": "StaraTV.id",
+    "channel": "StaraTV.id.ID",
     "title": "StaraTV",
     "url": "aHR0cHM6Ly9tYWxhbmcuc3RhcmF0di5pZC9obHMvMC9zdHJlYW0ubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -950,7 +950,7 @@
     "referrer": "aHR0cHM6Ly9tYWxhbmcuc3RhcmF0di5pZC8="
   },
   {
-    "channel": "UGTV.id",
+    "channel": "UGTV.id.ID",
     "title": "UGTV",
     "url": "aHR0cHM6Ly9jZG4uZ3VuYWRhcm1hLmFjLmlkL3N0cmVhbXMvdWd0di9pbmdlc3R1Z3R2Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -960,7 +960,7 @@
     "referrer": ""
   },
   {
-    "channel": "StaraTV.id",
+    "channel": "StaraTV.id.ID",
     "title": "StaraTV",
     "url": "aHR0cHM6Ly9qYWthcnRhLnN0YXJhdHYuaWQvaGxzLzAvc3RyZWFtLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -970,7 +970,7 @@
     "referrer": "aHR0cHM6Ly9qYWthcnRhLnN0YXJhdHYuaWQv"
   },
   {
-    "channel": "StaraTV.id",
+    "channel": "StaraTV.id.ID",
     "title": "StaraTV",
     "url": "aHR0cHM6Ly9zdHJlYW0uc3RhcmF0di5pZC9obHMvMC9zdHJlYW0ubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -980,7 +980,7 @@
     "referrer": "aHR0cHM6Ly9zdHJlYW0uc3RhcmF0di5pZC8="
   },
   {
-    "channel": "SaliraTV.id",
+    "channel": "SaliraTV.id.ID",
     "title": "SaliraTV",
     "url": "aHR0cHM6Ly9saXZlLnNhbGlyYS50di9wLzM4NzAvaHlicmlkL3BsYXkubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -990,7 +990,7 @@
     "referrer": ""
   },
   {
-    "channel": "SaliraTV.id",
+    "channel": "SaliraTV.id.ID",
     "title": "SaliraTV",
     "url": "aHR0cHM6Ly9saXZlLnNhbGlyYS50djozODcwL3N0cmVhbS9wbGF5Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -1000,7 +1000,7 @@
     "referrer": ""
   },
   {
-    "channel": "StaraTV.id",
+    "channel": "StaraTV.id.ID",
     "title": "StaraTV",
     "url": "aHR0cHM6Ly9iYW5kdW5nLnN0YXJhdHYuaWQvaGxzLzAvc3RyZWFtLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -1010,7 +1010,7 @@
     "referrer": "aHR0cHM6Ly9iYW5kdW5nLnN0YXJhdHYuaWQv"
   },
   {
-    "channel": "TheIndonesiaChannel.id",
+    "channel": "TheIndonesiaChannel.id.ID",
     "title": "TheIndonesiaChannel",
     "url": "aHR0cHM6Ly9yZXN0cmVhbWVyLmluZG9udXNhLmlkOjg0NDMvZDVmNGFkNDMtMWI1YS00YjBmLThiZWYtNWIzNzIyNGVkMjIxLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -1020,7 +1020,7 @@
     "referrer": ""
   },
   {
-    "channel": "StaraTV.id",
+    "channel": "StaraTV.id.ID",
     "title": "StaraTV",
     "url": "aHR0cHM6Ly9ib2pvbmVnb3JvLnN0YXJhdHYuaWQvaGxzL3N0cmVhbS5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -1030,7 +1030,7 @@
     "referrer": "aHR0cHM6Ly9ib2pvbmVnb3JvLnN0YXJhdHYuaWQv"
   },
   {
-    "channel": "StaraTV.id",
+    "channel": "StaraTV.id.ID",
     "title": "StaraTV",
     "url": "aHR0cHM6Ly9wYXJhaHlhbmdhbi5zdGFyYXR2LmlkL2hscy8wL3N0cmVhbS5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -1040,7 +1040,7 @@
     "referrer": "aHR0cHM6Ly9wYXJhaHlhbmdhbi5zdGFyYXR2LmlkLw=="
   },
   {
-    "channel": "DhammaTV.id",
+    "channel": "DhammaTV.id.ID",
     "title": "DhammaTV",
     "url": "aHR0cHM6Ly9iLndlYmNhY2hlLm1heGluZG8ubmV0LmlkL2RoYW1tYS9kaGFtbWEubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -1050,7 +1050,7 @@
     "referrer": ""
   },
   {
-    "channel": "BiznetLifestyle.id",
+    "channel": "BiznetLifestyle.id.ID",
     "title": "BiznetLifestyle",
     "url": "aHR0cDovL2xpdmVzdHJlYW0uYml6bmV0dmlkZW8ubmV0L2Jpem5ldF9saWZlc3R5bGUvc21pbDpsaWZlc3R5bGUuc21pbC9pbmRleC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -1060,7 +1060,7 @@
     "referrer": ""
   },
   {
-    "channel": "BiznetAdventure.id",
+    "channel": "BiznetAdventure.id.ID",
     "title": "BiznetAdventure",
     "url": "aHR0cDovL2xpdmVzdHJlYW0uYml6bmV0dmlkZW8ubmV0L2Jpem5ldF9hZHZlbnR1cmUvc21pbDphZHZlbnR1cmUuc21pbC9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -1070,7 +1070,7 @@
     "referrer": ""
   },
   {
-    "channel": "BiznetKids.id",
+    "channel": "BiznetKids.id.ID",
     "title": "BiznetKids",
     "url": "aHR0cDovL2xpdmVzdHJlYW0uYml6bmV0dmlkZW8ubmV0L2Jpem5ldF9raWRzL3NtaWw6a2lkcy5zbWlsL2luZGV4Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -1080,7 +1080,7 @@
     "referrer": ""
   },
   {
-    "channel": "AhsanTV.id",
+    "channel": "AhsanTV.id.ID",
     "title": "AhsanTV",
     "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L2Foc2FudHYvYWhzYW50di9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -1090,7 +1090,7 @@
     "referrer": ""
   },
   {
-    "channel": "BantenTV.id",
+    "channel": "BantenTV.id.ID",
     "title": "BantenTV",
     "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L2JhbnRlbnR2L2JhbnRlbnR2L3BsYXlsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -1100,7 +1100,7 @@
     "referrer": ""
   },
   {
-    "channel": "BMSTV.id",
+    "channel": "BMSTV.id.ID",
     "title": "BMSTV",
     "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L2Jtc3R2L2Jtc3R2L3BsYXlsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -1110,7 +1110,7 @@
     "referrer": ""
   },
   {
-    "channel": "BungoTV.id",
+    "channel": "BungoTV.id.ID",
     "title": "BungoTV",
     "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L2J1bmdvdHYvYnVuZ290di9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -1120,7 +1120,7 @@
     "referrer": ""
   },
   {
-    "channel": "IAmChannel.id",
+    "channel": "IAmChannel.id.ID",
     "title": "IAmChannel",
     "url": "aHR0cHM6Ly82MTE0NmU3YWI3YTY2LnN0cmVhbWxvY2submV0OjgwODkvdGVzLzEvY2h1bmtsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -1130,7 +1130,7 @@
     "referrer": "aHR0cHM6Ly9pYW1jaGFubmVsLm9yZy8="
   },
   {
-    "channel": "AsthaTV.id",
+    "channel": "AsthaTV.id.ID",
     "title": "AsthaTV",
     "url": "aHR0cHM6Ly9oZ210di5jb206MTkzNjAvYXN0aGF0di9hc3RoYXR2Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -1140,7 +1140,7 @@
     "referrer": ""
   },
   {
-    "channel": "AstroBlitarTV.id",
+    "channel": "AstroBlitarTV.id.ID",
     "title": "AstroBlitarTV",
     "url": "aHR0cHM6Ly81YmY3YjcyNTEwN2U1LnN0cmVhbWxvY2submV0L2FidHYvYWJ0di9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -1150,7 +1150,7 @@
     "referrer": "aHR0cHM6Ly9hYnRlbGV2aXNpLmNvbS8="
   },
   {
-    "channel": "DMITV.id",
+    "channel": "DMITV.id.ID",
     "title": "DMITV",
     "url": "aHR0cHM6Ly90dnN0cmVhbWNhc3QuY29tL3Rhd2FmdHYubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -1160,7 +1160,7 @@
     "referrer": ""
   },
   {
-    "channel": "MBGTV.id",
+    "channel": "MBGTV.id.ID",
     "title": "MBGTV",
     "url": "aHR0cHM6Ly9zdHJlYW0uY29udmVyZ2VuLmNvL21iZ19zdHJlYW0vc21pbDptYlN0cmVhbS5zbWlsL3BsYXlsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -1170,7 +1170,7 @@
     "referrer": ""
   },
   {
-    "channel": "JogjaTV.id",
+    "channel": "JogjaTV.id.ID",
     "title": "JogjaTV",
     "url": "aHR0cHM6Ly9zdHJlYW0uam9namF0di5jby5pZC9qdHZsaXZlL3N0cmVhbS9pbmRleC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -1180,7 +1180,7 @@
     "referrer": ""
   },
   {
-    "channel": "MadaniTV.id",
+    "channel": "MadaniTV.id.ID",
     "title": "MadaniTV",
     "url": "aHR0cHM6Ly9zdHJlYW0uYXNpYW5hc3RyZWFtLmNvbS9tYWRhbmkvbWFkYW5pdHYuc21pbC9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
@@ -1190,7 +1190,7 @@
     "referrer": ""
   },
   {
-    "channel": "MetroTV.id",
+    "channel": "MetroTV.id.ID",
     "title": "MetroTV",
     "url": "aHR0cHM6Ly9lZGdlLm1lZGNvbS5pZC9saXZlLWVkZ2Uvc21pbDptZXRyby5zbWlsL3BsYXlsaXN0Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
