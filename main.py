@@ -160,8 +160,8 @@ async def main():
     async with aiohttp.ClientSession() as session:
         print("📡 正在全量并网官方真理 JSON 数据库...")
         try:
-            # 🚀 🟢 强制兼容你的 iptv-api 吐出来的 result.txt 格式
-            async with session.get("https://raw.githubusercontent.com/zhang3707/iptv-api/refs/heads/master/output/user_result.m3u", timeout=30) as resp:
+            # 🚀 🟢 【绝对路径校准】：强行咬死上游 main 分支最纯净的 user_result.txt 活水大厂源
+            async with session.get("https://raw.githubusercontent.com/zhang3707/iptv-api/main/user_result.txt", timeout=30) as resp:
                 if resp.status != 200:
                     print(f"❌ 抓取失败，状态码: {resp.status}")
                     return
@@ -188,47 +188,49 @@ async def main():
                         # 🛠️ 🚀 【21国铁律分流净化器】：彻底终结混线，各回各家！
                         suffix = "CN"  # 默认兜底
                         
+                        genre_lower = current_genre.lower()
+                        name_lower = ch_name.lower()
+                        
                         # 1. 强力剥离港澳台
-                        if "香港" in current_genre or "HK" in current_genre or "Jade" in ch_name or "TVB" in ch_name:
+                        if "香港" in current_genre or "hk" in genre_lower or "jade" in name_lower or "tvb" in name_lower:
                             suffix = "HK"
-                        elif "台湾" in current_genre or "TW" in current_genre or "Taiwan" in current_genre or "TVBS" in ch_name:
+                        elif "台湾" in current_genre or "tw" in genre_lower or "taiwan" in genre_lower or "tvbs" in name_lower:
                             suffix = "TW"
-                        elif "澳门" in current_genre or "MO" in current_genre or "Macau" in current_genre:
+                        elif "澳门" in current_genre or "mo" in genre_lower or "macau" in genre_lower:
                             suffix = "MO"
                             
                         # 2. 亚太华语及周边周边骨干网精准分流
-                        elif "新加坡" in current_genre or "SG" in current_genre or "Singapore" in current_genre: suffix = "SG"
-                        elif "马来西亚" in current_genre or "MY" in current_genre or "Malaysia" in current_genre: suffix = "MY"
-                        elif "泰国" in current_genre or "TH" in current_genre or "Thailand" in current_genre: suffix = "TH"
-                        elif "越南" in current_genre or "VN" in current_genre or "Vietnam" in current_genre: suffix = "VN"
-                        elif "印度尼西亚" in current_genre or "印尼" in current_genre or "ID" in current_genre or "Indonesia" in current_genre: suffix = "ID"
-                        elif "菲律宾" in current_genre or "PH" in current_genre or "Philippines" in current_genre: suffix = "PH"
-                        elif "缅甸" in current_genre or "MM" in current_genre or "Myanmar" in current_genre: suffix = "MM"
-                        elif "日本" in current_genre or "JP" in current_genre or "Japan" in current_genre or "NHK" in ch_name: suffix = "JP"
-                        elif "韩国" in current_genre or "KR" in current_genre or "Korea" in current_genre or "KBS" in ch_name: suffix = "KR"
-                        elif "印度" in current_genre or "IN" in current_genre or "India" in current_genre: suffix = "IN"
+                        elif "新加坡" in current_genre or "sg" in genre_lower or "singapore" in genre_lower: suffix = "SG"
+                        elif "马来西亚" in current_genre or "my" in genre_lower or "malaysia" in genre_lower: suffix = "MY"
+                        elif "泰国" in current_genre or "th" in genre_lower or "thailand" in genre_lower: suffix = "TH"
+                        elif "越南" in current_genre or "vn" in genre_lower or "vietnam" in genre_lower: suffix = "VN"
+                        elif "印度尼西亚" in current_genre or "印尼" in current_genre or "id" in genre_lower or "indonesia" in genre_lower: suffix = "ID"
+                        elif "菲律宾" in current_genre or "ph" in genre_lower or "philippines" in genre_lower: suffix = "PH"
+                        elif "缅甸" in current_genre or "myanmar" in genre_lower or "mm" in genre_lower: suffix = "MM"
+                        elif "日本" in current_genre or "jp" in genre_lower or "japan" in genre_lower or "nhk" in name_lower: suffix = "JP"
+                        elif "韩国" in current_genre or "kr" in genre_lower or "korea" in genre_lower or "kbs" in name_lower: suffix = "KR"
+                        elif "印度" in current_genre or "in" in genre_lower or "india" in genre_lower: suffix = "IN"
                         
                         # 3. 欧美及离岸大厂骨干网精准分流
-                        elif "美国" in current_genre or "US" in current_genre or "USA" in current_genre or "HBO" in ch_name or "CNN" in ch_name: suffix = "US"
-                        elif "加拿大" in current_genre or "CA" in current_genre or "Canada" in current_genre: suffix = "CA"
-                        elif "英国" in current_genre or "GB" in current_genre or "UK" in current_genre or "BBC" in ch_name: suffix = "GB"
-                        elif "法国" in current_genre or "FR" in current_genre or "France" in current_genre: suffix = "FR"
-                        elif "德国" in current_genre or "DE" in current_genre or "Germany" in current_genre: suffix = "DE"
-                        elif "西班牙" in current_genre or "ES" in current_genre or "Spain" in current_genre: suffix = "ES"
-                        elif "意大利" in current_genre or "IT" in current_genre or "Italy" in current_genre: suffix = "IT"
+                        elif "美国" in current_genre or "us" in genre_lower or "usa" in genre_lower or "hbo" in name_lower or "cnn" in name_lower: suffix = "US"
+                        elif "加拿大" in current_genre or "ca" in genre_lower or "canada" in genre_lower: suffix = "CA"
+                        elif "英国" in current_genre or "gb" in genre_lower or "uk" in genre_lower or "bbc" in name_lower: suffix = "GB"
+                        elif "法国" in current_genre or "fr" in genre_lower or "france" in genre_lower: suffix = "FR"
+                        elif "德国" in current_genre or "de" in genre_lower or "germany" in genre_lower: suffix = "DE"
+                        elif "西班牙" in current_genre or "es" in genre_lower or "spain" in genre_lower: suffix = "ES"
+                        elif "意大利" in current_genre or "it" in genre_lower or "italy" in genre_lower: suffix = "IT"
                         
-                        # 4. 反向清理：如果分类里包含明显的英文或者国家标识，但上面没命中的，根据频道名特征再洗一次
+                        # 4. 反向清理：排除一切中国字眼后，若还有残留的未知英文台，强行打散进入离岸大厅，绝不污染内地
                         else:
                             ch_name_upper = ch_name.upper()
                             if ".HK" in ch_name_upper: suffix = "HK"
                             elif ".TW" in ch_name_upper: suffix = "TW"
                             elif ".US" in ch_name_upper: suffix = "US"
                             elif ".SG" in ch_name_upper: suffix = "SG"
-                            # 如果还是没对上，且分类名完全不包含任何中国或CCTV字眼，当成美国台分流，绝不污染内地CN大厅
-                            elif not any(x in current_genre for x in ["中国", "内地", "CCTV", "卫视", "中央"]):
+                            elif not any(x in current_genre for x in ["中国", "内地", "CCTV", "卫视", "中央", "湖南", "浙江"]):
                                 suffix = "US"
                         
-                        # 完美伪装并混入候选池！
+                        # 🚀 🟢 【物理级合龙对齐】：缩进大修正！让 append 顶格跳出 else 绞肉机，确保所有人安全晋级！
                         all_raw.append({
                             "channel": f"{ch_name}.{suffix.lower()}.{suffix}",
                             "title": ch_name,
