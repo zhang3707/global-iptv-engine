@@ -161,7 +161,7 @@ async def main():
         print("📡 正在全量并网官方真理 JSON 数据库...")
         try:
             # 🚀 🟢 【绝对路径校准】：强行咬死上游 main 分支最纯净的 user_result.txt 活水大厂源
-            async with session.get("https://raw.githubusercontent.com/zhang3707/iptv-api/main/user_result.txt", timeout=30) as resp:
+            async with session.get("https://raw.githubusercontent.com/zhang3707/iptv-api/master/output/user_result.txt", timeout=30) as resp:
                 if resp.status != 200:
                     print(f"❌ 抓取失败，状态码: {resp.status}")
                     return
