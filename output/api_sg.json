@@ -1,15 +1,5 @@
 [
   {
-    "channel": "Channel 5.sg.SG",
-    "title": "Channel 5",
-    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvc2cubTN1",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 90,
-    "speed_kbs": 556100,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
     "channel": "Channel 8.sg.SG",
     "title": "Channel 8",
     "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvc2cubTN1",
@@ -25,7 +15,17 @@
     "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvc2cubTN1",
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 96,
-    "speed_kbs": 617889,
+    "speed_kbs": 595821,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "Channel 5.sg.SG",
+    "title": "Channel 5",
+    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvc2cubTN1",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 96,
+    "speed_kbs": 595821,
     "resolution": "1080p",
     "referrer": ""
   }
