@@ -1,11 +1,21 @@
 [
   {
+    "channel": "Channel 8.sg.SG",
+    "title": "Channel 8",
+    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvc2cubTN1",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 79,
+    "speed_kbs": 393116,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
     "channel": "Channel U.sg.SG",
     "title": "Channel U",
     "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvc2cubTN1",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 70,
-    "speed_kbs": 488416,
+    "delay": 79,
+    "speed_kbs": 393116,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -14,18 +24,8 @@
     "title": "Channel 5",
     "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvc2cubTN1",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 70,
-    "speed_kbs": 335786,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "Channel 8.sg.SG",
-    "title": "Channel 8",
-    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvc2cubTN1",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 71,
-    "speed_kbs": 575634,
+    "delay": 79,
+    "speed_kbs": 393116,
     "resolution": "1080p",
     "referrer": ""
   }
