@@ -6364,10 +6364,10 @@
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": "",
-      "delay": 661,
-      "speed_kbs": 205775,
+      "delay": 726,
+      "speed_kbs": 63632,
       "resolution": "1080p",
-      "last_test": 1783882594.4325747
+      "last_test": 1784142063.4034722
     },
     "https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8": {
       "channel": "America's Next Top Model.us.US",
@@ -9125,10 +9125,10 @@
       "url": "https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": "",
-      "delay": 381,
-      "speed_kbs": 19786,
+      "delay": 415,
+      "speed_kbs": 17562,
       "resolution": "1080p",
-      "last_test": 1783882594.1526203
+      "last_test": 1784142063.0933747
     },
     "https://v1.tustreaming.cl/aysentv/index.m3u8": {
       "channel": "Aysen TV (720p).us.US",
