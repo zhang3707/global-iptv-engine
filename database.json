@@ -79426,10 +79426,10 @@
       "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
       "user_agent": "Mozilla/5.0",
       "referrer": "",
-      "delay": 570,
-      "speed_kbs": 58551,
+      "delay": 692,
+      "speed_kbs": 64901,
       "resolution": "1080p",
-      "last_test": 1784208506.8048396
+      "last_test": 1784487450.271064
     },
     "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/manifest.m3u8": {
       "channel": "Urban Action TV (1080p).us.US",
