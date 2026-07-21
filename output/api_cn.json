@@ -1,21 +1,21 @@
 [
   {
-    "channel": "CCTV-1.cn.CN",
-    "title": "CCTV-1",
-    "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHYxaGQubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 91,
-    "speed_kbs": 2998,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
     "channel": "CCTV-16.cn.CN",
     "title": "CCTV-16",
     "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHYxNmhkLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 93,
-    "speed_kbs": 2180,
+    "delay": 74,
+    "speed_kbs": 3358,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "CCTV-1.cn.CN",
+    "title": "CCTV-1",
+    "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHYxaGQubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 76,
+    "speed_kbs": 6997,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -24,68 +24,8 @@
     "title": "CCTV-15",
     "url": "aHR0cHM6Ly94eWt0LWZpeC5naXRodWIuaW8vcGxheS9hMDJlL2luZGV4Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 122,
-    "speed_kbs": 168876,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "CCTV-14.cn.CN",
-    "title": "CCTV-14",
-    "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHYxNGhkLm0zdTg=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 129,
-    "speed_kbs": 22528,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "CCTV-13.cn.CN",
-    "title": "CCTV-13",
-    "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHYxM2hkLm0zdTg=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 132,
-    "speed_kbs": 23136,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "CCTV-10.cn.CN",
-    "title": "CCTV-10",
-    "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHYxMGhkLm0zdTg=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 133,
-    "speed_kbs": 24576,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "CCTV-17.cn.CN",
-    "title": "CCTV-17",
-    "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHYxN2hkLm0zdTg=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 133,
-    "speed_kbs": 19797,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "CCTV-12.cn.CN",
-    "title": "CCTV-12",
-    "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHYxMmhkLm0zdTg=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 135,
-    "speed_kbs": 23779,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "CCTV-1.cn.CN",
-    "title": "CCTV-1",
-    "url": "aHR0cDovLzE5OC4yMDQuMjQwLjI1MDo4Mi9saXZlL2NjdHYxLm0zdTg=",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 136,
-    "speed_kbs": 4198,
+    "delay": 85,
+    "speed_kbs": 139208,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -94,38 +34,8 @@
     "title": "CCTV-8",
     "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHY4aGQubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 136,
-    "speed_kbs": 24107,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "CCTV-3.cn.CN",
-    "title": "CCTV-3",
-    "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHYzaGQubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 138,
-    "speed_kbs": 22983,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "CCTV-7.cn.CN",
-    "title": "CCTV-7",
-    "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHY3aGQubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 138,
-    "speed_kbs": 22869,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "CCTV-4.cn.CN",
-    "title": "CCTV-4",
-    "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHY0aGQubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 140,
-    "speed_kbs": 14547,
+    "delay": 120,
+    "speed_kbs": 26557,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -134,18 +44,18 @@
     "title": "CCTV-11",
     "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHYxMWhkLm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 140,
-    "speed_kbs": 21950,
+    "delay": 121,
+    "speed_kbs": 32137,
     "resolution": "1080p",
     "referrer": ""
   },
   {
-    "channel": "CCTV-15.cn.CN",
-    "title": "CCTV-15",
-    "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHYxNWhkLm0zdTg=",
+    "channel": "CCTV-7.cn.CN",
+    "title": "CCTV-7",
+    "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHY3aGQubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 140,
-    "speed_kbs": 22096,
+    "delay": 122,
+    "speed_kbs": 35973,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -154,8 +64,98 @@
     "title": "CCTV-2",
     "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHYyaGQubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 143,
-    "speed_kbs": 24816,
+    "delay": 123,
+    "speed_kbs": 32452,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "CCTV-17.cn.CN",
+    "title": "CCTV-17",
+    "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHYxN2hkLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 125,
+    "speed_kbs": 30795,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "CCTV-1.cn.CN",
+    "title": "CCTV-1",
+    "url": "aHR0cDovLzE5OC4yMDQuMjQwLjI1MDo4Mi9saXZlL2NjdHYxLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 126,
+    "speed_kbs": 5597,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "CCTV-3.cn.CN",
+    "title": "CCTV-3",
+    "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHYzaGQubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 126,
+    "speed_kbs": 33751,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "CCTV-13.cn.CN",
+    "title": "CCTV-13",
+    "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHYxM2hkLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 126,
+    "speed_kbs": 35669,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "CCTV-14.cn.CN",
+    "title": "CCTV-14",
+    "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHYxNGhkLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 126,
+    "speed_kbs": 37220,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "CCTV-15.cn.CN",
+    "title": "CCTV-15",
+    "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHYxNWhkLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 126,
+    "speed_kbs": 32925,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "CCTV-4.cn.CN",
+    "title": "CCTV-4",
+    "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHY0aGQubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 128,
+    "speed_kbs": 35157,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "CCTV-12.cn.CN",
+    "title": "CCTV-12",
+    "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHYxMmhkLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 131,
+    "speed_kbs": 32925,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "CCTV-10.cn.CN",
+    "title": "CCTV-10",
+    "url": "aHR0cDovLzc0LjkxLjI2LjIxODo4Mi9saXZlL2NjdHYxMGhkLm0zdTg=",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 132,
+    "speed_kbs": 34242,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -164,8 +164,8 @@
     "title": "CCTV-6",
     "url": "aHR0cDovLzE5OC4yMDQuMjQwLjI1MDo4Mi9saXZlL2NjdHY2Lm0zdTg=",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 180,
-    "speed_kbs": 18750,
+    "delay": 171,
+    "speed_kbs": 18386,
     "resolution": "1080p",
     "referrer": ""
   }
