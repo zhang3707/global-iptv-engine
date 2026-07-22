@@ -29365,10 +29365,10 @@
       "url": "http://185.81.240.65:15000/udp/233.233.233.39:12000",
       "user_agent": "Mozilla/5.0",
       "referrer": "",
-      "delay": 203,
-      "speed_kbs": 3,
-      "resolution": "720p",
-      "last_test": 1784426610.7621768
+      "delay": 214,
+      "speed_kbs": 3981,
+      "resolution": "1080p",
+      "last_test": 1784726884.664772
     },
     "https://a-cdn.klowdtv.com/live2/h2o/playlist.m3u8": {
       "channel": "H20 TV (720p).us.US",
