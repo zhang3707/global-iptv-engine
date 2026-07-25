@@ -61584,10 +61584,10 @@
       "url": "https://stream.smotrim.ru/hls2/planeta_rtr_euro/playlist_4.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": "",
-      "delay": 341,
-      "speed_kbs": 51009,
+      "delay": 551,
+      "speed_kbs": 66864,
       "resolution": "1080p",
-      "last_test": 1784685676.6194284
+      "last_test": 1784966170.9318912
     },
     "https://livestream.telvue.com/roguevalleycmttv4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8": {
       "channel": "RVTV Grants Pass (720p).us.US",
