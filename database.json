@@ -29167,10 +29167,10 @@
       "url": "http://185.81.240.65:15000/udp/233.233.233.39:12000",
       "user_agent": "Mozilla/5.0",
       "referrer": "",
-      "delay": 214,
-      "speed_kbs": 3981,
-      "resolution": "1080p",
-      "last_test": 1784726884.664772
+      "delay": 334,
+      "speed_kbs": 1,
+      "resolution": "720p",
+      "last_test": 1785031699.2954435
     },
     "https://a-cdn.klowdtv.com/live2/h2o/playlist.m3u8": {
       "channel": "H20 TV (720p).us.US",
@@ -78117,10 +78117,10 @@
       "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
       "user_agent": "Mozilla/5.0",
       "referrer": "",
-      "delay": 738,
-      "speed_kbs": 63123,
+      "delay": 706,
+      "speed_kbs": 92452,
       "resolution": "1080p",
-      "last_test": 1784746990.2921655
+      "last_test": 1785031695.960598
     },
     "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/manifest.m3u8": {
       "channel": "Urban Action TV (1080p).us.US",
