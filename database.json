@@ -6122,10 +6122,10 @@
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": "",
-      "delay": 519,
-      "speed_kbs": 68103,
+      "delay": 589,
+      "speed_kbs": 87782,
       "resolution": "1080p",
-      "last_test": 1785246528.1311967
+      "last_test": 1785505747.4925
     },
     "https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8": {
       "channel": "America's Next Top Model.us.US",
@@ -8718,10 +8718,10 @@
       "url": "https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": "",
-      "delay": 182,
-      "speed_kbs": 21218,
+      "delay": 122,
+      "speed_kbs": 24498,
       "resolution": "1080p",
-      "last_test": 1785246527.794661
+      "last_test": 1785505747.0261126
     },
     "https://v1.tustreaming.cl/aysentv/index.m3u8": {
       "channel": "Aysen TV (720p).us.US",
@@ -63256,10 +63256,10 @@
       "url": "https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": "",
-      "delay": 206,
-      "speed_kbs": 49437,
+      "delay": 298,
+      "speed_kbs": 40109,
       "resolution": "1080p",
-      "last_test": 1785246527.8289332
+      "last_test": 1785505747.2082217
     },
     "https://jmp2.uk/plu-662bf39756fc840008f25cb9.m3u8": {
       "channel": "Sony One Competencias.us.US",
