@@ -5044,10 +5044,10 @@
       "url": "https://live.al-zahratv.com/live/playlist.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": "",
-      "delay": 444,
-      "speed_kbs": 28973,
+      "delay": 569,
+      "speed_kbs": 33162,
       "resolution": "1080p",
-      "last_test": 1785226938.355427
+      "last_test": 1785487182.1750612
     },
     "https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8": {
       "channel": "Al Maaref TV (1080p).us.US",
@@ -60242,10 +60242,10 @@
       "url": "https://stream.smotrim.ru/hls2/planeta_rtr_euro/playlist_4.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": "",
-      "delay": 288,
-      "speed_kbs": 66864,
+      "delay": 400,
+      "speed_kbs": 72764,
       "resolution": "1080p",
-      "last_test": 1785226938.2101858
+      "last_test": 1785487182.015834
     },
     "https://livestream.telvue.com/roguevalleycmttv4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8": {
       "channel": "RVTV Grants Pass (720p).us.US",
