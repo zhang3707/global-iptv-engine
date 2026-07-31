@@ -1,21 +1,11 @@
 [
   {
-    "channel": "Jade Fever.hk.HK",
-    "title": "Jade Fever",
-    "url": "aHR0cHM6Ly9qbXAyLnVrL3BsdS02NjBkNmIwMDYzNWM3NTAwMDgyOGFhMjcubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 75,
-    "speed_kbs": 466679,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
     "channel": "TVBS Asia (1080p).hk.HK",
     "title": "TVBS Asia (1080p)",
     "url": "aHR0cDovLzM4LjY0LjcyLjE0OC9obHMvbW9kbi9saXN0LzQwMDUvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 93,
-    "speed_kbs": 37021,
+    "delay": 71,
+    "speed_kbs": 24064,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -24,18 +14,8 @@
     "title": "TVB Jade",
     "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvaGsubTN1",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 97,
-    "speed_kbs": 389558,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "TVBS News.hk.HK",
-    "title": "TVBS News",
-    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvdHcubTN1",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 132,
-    "speed_kbs": 644638,
+    "delay": 88,
+    "speed_kbs": 119864,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -44,8 +24,8 @@
     "title": "La fiebre del Jade",
     "url": "aHR0cHM6Ly9qbXAyLnVrL3BsdS02NTI1NGU4ZDgxZjk0MjAwMDgzNDJjZWUubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 167,
-    "speed_kbs": 397184,
+    "delay": 120,
+    "speed_kbs": 253558,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -54,8 +34,18 @@
     "title": "Jade Fever",
     "url": "aHR0cHM6Ly9qbXAyLnVrL3BsdS02NjBkNmFkZTBjZDQ2MzAwMDhmNGExMjcubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 179,
-    "speed_kbs": 466679,
+    "delay": 140,
+    "speed_kbs": 249432,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "TVBS News.hk.HK",
+    "title": "TVBS News",
+    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvdHcubTN1",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 248,
+    "speed_kbs": 447299,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -64,8 +54,8 @@
     "title": "Al Jadeed (1080p)",
     "url": "aHR0cDovLzE4NS45LjIuMTgvY2hpZF8zOTEvbW9uby5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 246,
-    "speed_kbs": 44763,
+    "delay": 309,
+    "speed_kbs": 26667,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -74,8 +64,18 @@
     "title": "Jade Fever",
     "url": "aHR0cHM6Ly9qbXAyLnVrL3BsdS02NjBkNmIzY2FlYzk2ODAwMDhmOGRlYmUubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 620,
-    "speed_kbs": 438130,
+    "delay": 784,
+    "speed_kbs": 166795,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "Jade Fever.hk.HK",
+    "title": "Jade Fever",
+    "url": "aHR0cHM6Ly9qbXAyLnVrL3BsdS02NjBkNmIwMDYzNWM3NTAwMDgyOGFhMjcubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 2340,
+    "speed_kbs": 344454,
     "resolution": "1080p",
     "referrer": ""
   }
