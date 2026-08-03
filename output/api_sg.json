@@ -1,27 +1,27 @@
 [
   {
-    "channel": "Channel 5.sg.SG",
-    "title": "Channel 5",
-    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvc2cubTN1",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 108,
-    "speed_kbs": 385156,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
     "channel": "Channel 8.sg.SG",
     "title": "Channel 8",
     "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvc2cubTN1",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 113,
-    "speed_kbs": 298496,
+    "delay": 116,
+    "speed_kbs": 314206,
     "resolution": "1080p",
     "referrer": ""
   },
   {
     "channel": "Channel U.sg.SG",
     "title": "Channel U",
+    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvc2cubTN1",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 116,
+    "speed_kbs": 314206,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "Channel 5.sg.SG",
+    "title": "Channel 5",
     "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvc2cubTN1",
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 116,
