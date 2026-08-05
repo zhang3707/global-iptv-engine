@@ -28078,10 +28078,10 @@
       "url": "http://185.81.240.65:15000/udp/233.233.233.39:12000",
       "user_agent": "Mozilla/5.0",
       "referrer": "",
-      "delay": 202,
-      "speed_kbs": 7937,
-      "resolution": "1080p",
-      "last_test": 1785658274.9114468
+      "delay": 205,
+      "speed_kbs": 2,
+      "resolution": "720p",
+      "last_test": 1785918311.8076193
     },
     "https://a-cdn.klowdtv.com/live2/h2o/playlist.m3u8": {
       "channel": "H20 TV (720p).us.US",
