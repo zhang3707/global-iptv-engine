@@ -4,8 +4,8 @@
     "title": "Thairath TV",
     "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvdGgubTN1",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 114,
-    "speed_kbs": 622129,
+    "delay": 79,
+    "speed_kbs": 1055882,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -14,8 +14,8 @@
     "title": "Amarin TV",
     "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvdGgubTN1",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 114,
-    "speed_kbs": 622129,
+    "delay": 82,
+    "speed_kbs": 1001734,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -24,8 +24,8 @@
     "title": "MCOT HD",
     "url": "aHR0cHM6Ly9tY290aGQtc3RyZWFtaW5nLWVkZ2UtY2RuLm1jb3QubmV0L3RlbmNlbnRtY290L3NtaWw6dGVuY2VudG1jb3Quc21pbC9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 895,
-    "speed_kbs": 18492,
+    "delay": 617,
+    "speed_kbs": 25477,
     "resolution": "1080p",
     "referrer": ""
   }
