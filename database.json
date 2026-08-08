@@ -101404,6 +101404,14 @@
     "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8": {
       "fail_time": 1786024307.1847944,
       "reason": "Deep Test Timeout"
+    },
+    "http://mytv.dothome.co.kr/ch/catv/26.php": {
+      "fail_time": 1786151186.1724753,
+      "reason": "Dead Link or Timeout"
+    },
+    "http://mytv.dothome.co.kr/ch/catv/28.php": {
+      "fail_time": 1786151186.1725152,
+      "reason": "Dead Link or Timeout"
     }
   }
 }
