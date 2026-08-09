@@ -27781,10 +27781,10 @@
       "url": "http://185.81.240.65:15000/udp/233.233.233.39:12000",
       "user_agent": "Mozilla/5.0",
       "referrer": "",
-      "delay": 205,
-      "speed_kbs": 2,
+      "delay": 206,
+      "speed_kbs": 4,
       "resolution": "720p",
-      "last_test": 1785918311.8076193
+      "last_test": 1786237863.217907
     },
     "https://a-cdn.klowdtv.com/live2/h2o/playlist.m3u8": {
       "channel": "H20 TV (720p).us.US",
