@@ -1,17 +1,17 @@
 [
   {
-    "channel": "Amarin TV.th.TH",
-    "title": "Amarin TV",
+    "channel": "Thairath TV.th.TH",
+    "title": "Thairath TV",
     "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvdGgubTN1",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 101,
-    "speed_kbs": 852947,
+    "delay": 147,
+    "speed_kbs": 84377,
     "resolution": "1080p",
     "referrer": ""
   },
   {
-    "channel": "Thairath TV.th.TH",
-    "title": "Thairath TV",
+    "channel": "Amarin TV.th.TH",
+    "title": "Amarin TV",
     "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvdGgubTN1",
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 147,
