@@ -611,10 +611,10 @@
       "url": "https://live.wjyanghu.com/live/CH2.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": "",
-      "delay": 1481,
-      "speed_kbs": 32182,
+      "delay": 890,
+      "speed_kbs": 34816,
       "resolution": "1080p",
-      "last_test": 1787953183.4475784
+      "last_test": 1788231658.63213
     },
     "https://live.wjyanghu.com/live/CH1.m3u8": {
       "channel": "武进新闻 (576p) [Not 24/7].us.US",
@@ -622,10 +622,10 @@
       "url": "https://live.wjyanghu.com/live/CH1.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": "",
-      "delay": 1482,
-      "speed_kbs": 27473,
+      "delay": 883,
+      "speed_kbs": 19617,
       "resolution": "1080p",
-      "last_test": 1787953183.4474864
+      "last_test": 1788231658.625688
     },
     "http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8": {
       "channel": "浙江 Ⅰ 绍兴影视 (720p).us.US",
