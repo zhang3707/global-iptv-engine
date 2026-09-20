@@ -4912,10 +4912,10 @@
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": "",
-      "delay": 514,
-      "speed_kbs": 120077,
+      "delay": 651,
+      "speed_kbs": 98042,
       "resolution": "1080p",
-      "last_test": 1789660865.8548884
+      "last_test": 1789934865.8283923
     },
     "https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8": {
       "channel": "America's Next Top Model.us.US",
@@ -62618,10 +62618,10 @@
       "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
       "user_agent": "Mozilla/5.0",
       "referrer": "",
-      "delay": 502,
-      "speed_kbs": 59654,
+      "delay": 621,
+      "speed_kbs": 76800,
       "resolution": "1080p",
-      "last_test": 1789660865.8546612
+      "last_test": 1789934865.807579
     },
     "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/manifest.m3u8": {
       "channel": "Urban Action TV (1080p).us.US",
