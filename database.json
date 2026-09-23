@@ -4890,10 +4890,10 @@
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": "",
-      "delay": 651,
-      "speed_kbs": 98042,
+      "delay": 564,
+      "speed_kbs": 63956,
       "resolution": "1080p",
-      "last_test": 1789934865.8283923
+      "last_test": 1790197001.071954
     },
     "https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8": {
       "channel": "America's Next Top Model.us.US",
@@ -62282,17 +62282,6 @@
       "resolution": "1080p",
       "last_test": 1790159856.332463
     },
-    "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=": {
-      "channel": "UNISUL TV (720p).us.US",
-      "title": "UNISUL TV (720p)",
-      "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
-      "user_agent": "Mozilla/5.0",
-      "referrer": "",
-      "delay": 621,
-      "speed_kbs": 76800,
-      "resolution": "1080p",
-      "last_test": 1789934865.807579
-    },
     "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/manifest.m3u8": {
       "channel": "Urban Action TV (1080p).us.US",
       "title": "Urban Action TV (1080p)",
@@ -92494,6 +92483,10 @@
     "https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8": {
       "fail_time": 1790159813.722584,
       "reason": "Deep Test Timeout"
+    },
+    "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=": {
+      "fail_time": 1790197000.468357,
+      "reason": "Dead Link or Timeout"
     }
   }
 }
