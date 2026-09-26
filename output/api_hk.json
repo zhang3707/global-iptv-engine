@@ -1,15 +1,5 @@
 [
   {
-    "channel": "TVBS Asia (1080p).hk.HK",
-    "title": "TVBS Asia (1080p)",
-    "url": "aHR0cDovLzM4LjY0LjcyLjE0OC9obHMvbW9kbi9saXN0LzQwMDUvcGxheWxpc3QubTN1OA==",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 21,
-    "speed_kbs": 40106,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
     "channel": "Jade Fever.hk.HK",
     "title": "Jade Fever",
     "url": "aHR0cHM6Ly9qbXAyLnVrL3BsdS02NjBkNmIwMDYzNWM3NTAwMDgyOGFhMjcubTN1OA==",
@@ -66,6 +56,16 @@
     "user_agent": "TW96aWxsYS81LjA=",
     "delay": 95,
     "speed_kbs": 391136,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "TVBS Asia (1080p).hk.HK",
+    "title": "TVBS Asia (1080p)",
+    "url": "aHR0cDovLzM4LjY0LjcyLjE0OC9obHMvbW9kbi9saXN0LzQwMDUvcGxheWxpc3QubTN1OA==",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 108,
+    "speed_kbs": 18510,
     "resolution": "1080p",
     "referrer": ""
   },
