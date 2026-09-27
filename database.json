@@ -4890,10 +4890,10 @@
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
       "user_agent": "Mozilla/5.0",
       "referrer": "",
-      "delay": 564,
-      "speed_kbs": 63956,
+      "delay": 616,
+      "speed_kbs": 111291,
       "resolution": "1080p",
-      "last_test": 1790197001.071954
+      "last_test": 1790478159.6570182
     },
     "https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8": {
       "channel": "America's Next Top Model.us.US",
