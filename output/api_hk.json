@@ -1,21 +1,11 @@
 [
   {
-    "channel": "TVBS News.hk.HK",
-    "title": "TVBS News",
-    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvdHcubTN1",
+    "channel": "TVBS Asia (1080p).hk.HK",
+    "title": "TVBS Asia (1080p)",
+    "url": "aHR0cDovLzM4LjY0LjcyLjE0OC9obHMvbW9kbi9saXN0LzQwMDUvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 57,
-    "speed_kbs": 63086,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "Al Jadeed (1080p).hk.HK",
-    "title": "Al Jadeed (1080p)",
-    "url": "aHR0cDovLzE4NS45LjIuMTgvY2hpZF8zOTEvbW9uby5tM3U4",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 292,
-    "speed_kbs": 40431,
+    "delay": 26,
+    "speed_kbs": 24681,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -24,18 +14,28 @@
     "title": "TVB Jade",
     "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvaGsubTN1",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 294,
-    "speed_kbs": 341430,
+    "delay": 51,
+    "speed_kbs": 318668,
     "resolution": "1080p",
     "referrer": ""
   },
   {
-    "channel": "TVBS Asia (1080p).hk.HK",
-    "title": "TVBS Asia (1080p)",
-    "url": "aHR0cDovLzM4LjY0LjcyLjE0OC9obHMvbW9kbi9saXN0LzQwMDUvcGxheWxpc3QubTN1OA==",
+    "channel": "TVBS News.hk.HK",
+    "title": "TVBS News",
+    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvdHcubTN1",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 516,
-    "speed_kbs": 26015,
+    "delay": 142,
+    "speed_kbs": 410062,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "Al Jadeed (1080p).hk.HK",
+    "title": "Al Jadeed (1080p)",
+    "url": "aHR0cDovLzE4NS45LjIuMTgvY2hpZF8zOTEvbW9uby5tM3U4",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 321,
+    "speed_kbs": 33875,
     "resolution": "1080p",
     "referrer": ""
   }
