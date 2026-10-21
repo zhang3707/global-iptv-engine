@@ -4,8 +4,8 @@
     "title": "TVBS News",
     "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvdHcubTN1",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 48,
-    "speed_kbs": 439521,
+    "delay": 52,
+    "speed_kbs": 383985,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -14,8 +14,8 @@
     "title": "TVB Jade",
     "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvaGsubTN1",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 56,
-    "speed_kbs": 311387,
+    "delay": 54,
+    "speed_kbs": 318464,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -24,8 +24,8 @@
     "title": "TVBS Asia (1080p)",
     "url": "aHR0cDovLzM4LjY0LjcyLjE0OC9obHMvbW9kbi9saXN0LzQwMDUvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 66,
-    "speed_kbs": 25330,
+    "delay": 119,
+    "speed_kbs": 26015,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -34,8 +34,8 @@
     "title": "Al Jadeed (1080p)",
     "url": "aHR0cDovLzE4NS45LjIuMTgvY2hpZF8zOTEvbW9uby5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 311,
-    "speed_kbs": 20547,
+    "delay": 204,
+    "speed_kbs": 21609,
     "resolution": "1080p",
     "referrer": ""
   }
