@@ -1,21 +1,21 @@
 [
   {
-    "channel": "Thairath TV.th.TH",
-    "title": "Thairath TV",
-    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvdGgubTN1",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 42,
-    "speed_kbs": 1303188,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
     "channel": "Amarin TV.th.TH",
     "title": "Amarin TV",
     "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvdGgubTN1",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 42,
-    "speed_kbs": 1303188,
+    "delay": 58,
+    "speed_kbs": 819691,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "Thairath TV.th.TH",
+    "title": "Thairath TV",
+    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvdGgubTN1",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 63,
+    "speed_kbs": 853845,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -24,8 +24,8 @@
     "title": "MCOT HD",
     "url": "aHR0cHM6Ly9tY290aGQtc3RyZWFtaW5nLWVkZ2UtY2RuLm1jb3QubmV0L3RlbmNlbnRtY290L3NtaWw6dGVuY2VudG1jb3Quc21pbC9wbGF5bGlzdC5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 738,
-    "speed_kbs": 48994,
+    "delay": 540,
+    "speed_kbs": 24035,
     "resolution": "1080p",
     "referrer": ""
   }
