@@ -4,18 +4,8 @@
     "title": "TVBS Asia (1080p)",
     "url": "aHR0cDovLzM4LjY0LjcyLjE0OC9obHMvbW9kbi9saXN0LzQwMDUvcGxheWxpc3QubTN1OA==",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 31,
-    "speed_kbs": 19251,
-    "resolution": "1080p",
-    "referrer": ""
-  },
-  {
-    "channel": "TVB Jade.hk.HK",
-    "title": "TVB Jade",
-    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvaGsubTN1",
-    "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 42,
-    "speed_kbs": 369270,
+    "delay": 22,
+    "speed_kbs": 28310,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -24,8 +14,18 @@
     "title": "TVBS News",
     "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvdHcubTN1",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 106,
-    "speed_kbs": 447404,
+    "delay": 50,
+    "speed_kbs": 379050,
+    "resolution": "1080p",
+    "referrer": ""
+  },
+  {
+    "channel": "TVB Jade.hk.HK",
+    "title": "TVB Jade",
+    "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lwdHYtb3JnL2lwdHYvbWFzdGVyL3N0cmVhbXMvaGsubTN1",
+    "user_agent": "TW96aWxsYS81LjA=",
+    "delay": 142,
+    "speed_kbs": 257170,
     "resolution": "1080p",
     "referrer": ""
   },
@@ -34,8 +34,8 @@
     "title": "Al Jadeed (1080p)",
     "url": "aHR0cDovLzE4NS45LjIuMTgvY2hpZF8zOTEvbW9uby5tM3U4",
     "user_agent": "TW96aWxsYS81LjA=",
-    "delay": 317,
-    "speed_kbs": 28485,
+    "delay": 310,
+    "speed_kbs": 21243,
     "resolution": "1080p",
     "referrer": ""
   }
